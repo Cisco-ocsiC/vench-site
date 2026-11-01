@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-01T14:24:23.680Z",
+ "updated": "2026-11-01T15:22:27.692Z",
  "items": [
+  {
+   "topic": "5G",
+   "title": "AT&T and Ericsson “use 5G network for drone detection in Arlington”",
+   "source": "Unmanned airspace",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQnJ2a2Vsdm9vQUsyOGRUT0JIR192VVpQNnNwbzFYTElYbWFFMlhhRzdwVnNfN2c4LTFlNEFubEpyODlIeW4wNWJ5aHJWU0FqVjRhM1VON0dpalN4bEdsa3ZDbVBFbEh5aWs3cjhXX0VIdHVia08yZzA3N3FUYkwzNktnVzQ2OGpIcWpwWEdKLXlVZVd3S180TzA5b3RYb3RnSEFTZ3FZNGxtREE4cXhqano2V2dnR2xuc05LdVlHcFppMk1RLVdYejJRR20?oc=5",
+   "date": "2026-10-30T20:05:06.000Z"
+  },
+  {
+   "topic": "5G",
+   "title": "Using 5G networks for drone detection – two major steps forward in one day",
+   "source": "Unmanned airspace",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRUJkWmlNX1RId0ZYdnJHUmh1dDFJQWExZlE0c3YzR2dkWmh1TjY0UWFxZ2l0ME8zblBMeV9SSEdPYkVvMkIzYlZvMHBPVEtKaS1PTFZCN19mdDRKeFpLR0hOQ0ZjZnRUZjNfU0JNR05HZzM2OUwtenU0MkdUY1NRWE5aLW1sQjFfWGVaYVk3TUVsZnZoVXd4UmtYX3dQU1M3dW5tNURaVE02ZE5IYTNZeVE4RnVjMW9lUXc?oc=5",
+   "date": "2026-10-30T17:19:15.000Z"
+  },
   {
    "topic": "5G",
    "title": "Telia Expands 5G Connectivity Along Vasaloppet Route in Sweden",
@@ -30,27 +44,6 @@
    "date": "2026-10-29T06:21:14.000Z"
   },
   {
-   "topic": "5G",
-   "title": "Vodafone's 5G Upgrade",
-   "source": "95.3 Coast FM",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sZHA0OThCa2NHMlpHZ19rcnF6am1jNVB3cUllVWNqNVc3VVZGTXlOSnJWSnI3UGd3aDVfVXBSNU9XMXZXTVFRNnozRWJPNmkwT3JFQ1gySDUtSW9uR1dfUQ?oc=5",
-   "date": "2026-10-28T00:54:39.000Z"
-  },
-  {
-   "topic": "5G",
-   "title": "Australia summit to explore AI-native networks & 6G",
-   "source": "IT Brief Australia",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTktMM1BqYzM5a2dxM3dGeUtLZmN0OVRDNWtwUlprZmRwWGR4a0hTVzdCM0tVVVN6ckNJVTJBLWlDX0oxTmFvREs2MkQ0MldCTFlfbGg1bkpybnBtVFBvdkNMeFNIZkxFSmFXazRhZ19oeUVEWnBPVWtGZm1RamhDak9wX2c?oc=5",
-   "date": "2026-10-27T21:00:00.000Z"
-  },
-  {
-   "topic": "4G",
-   "title": "One Communications completes nationwide 2G shutdown, advances network modernisation in Guyana",
-   "source": "Demerara Waves Online News- Guyana",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTHVEbVJiSmdPTWMwb05iOGJ2M1pLN3AwaEVEZmZweFRSQk1wcldMMnB1ejRLemIxRWloT3doamVlazFESkJRRU1mSjdVUE9MV3pJT1hOaG96dmlfT2ktdkJiNjV6UWFQblBiNmw3LThrbkJDbk4xdGM2bVJRTm1USU9xVXNDa3VZSGxaUXdoODRvOURFMkRtdTNiV2x0VkdoMDlVQ1lsel8yN0dkN0QyblcyTDhId1lwMk9GY3ZfSUV5LTd3WDVJc1V3?oc=5",
-   "date": "2026-11-01T11:55:46.000Z"
-  },
-  {
    "topic": "4G",
    "title": "One Communications shuts down 2G network nationwide",
    "source": "Guyana Chronicle",
@@ -59,17 +52,17 @@
   },
   {
    "topic": "4G",
-   "title": "Vivo V60 Lite 5G Price in Pakistan, Specifications & Features",
-   "source": "24NewsHD",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9fVUg4ZUVHMy1jVGcyOXVlNnFLTllyVUJBUVd0bVdxdGp0UHpyVzhVZGdIdEttdmN5X3FabEFnNUpGaUpheV9UVzhJaVByamR5c2RhRWd5UTFBSkJKX1BvdnluWlRhVGUyU0w0NmtqZmtqNkRMRUhNQ0Nn?oc=5",
-   "date": "2026-10-31T08:19:00.000Z"
+   "title": "TRAI Proposes AI Guidelines for Telecom Operators: Jio, Airtel, Vodafone Idea and BSNL Face New Governance Requirements",
+   "source": "TelecomLead",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOdTlvb1FKZnVwQllRTTVuS0tYWXNKQWNvUXhaeU1FV2FSOTlrck85bFRUNEppOWJVWlBtWm4wdHR4TkdwN2Jjbkl2VkNMbkN0bDdlTjc4dVd6WmRxaXR4alczcHdlLWJiTWpOUnlGMEVaOGdnRVJGVVNMSTJia0JfRWZ3eno0UnVobVJzb0JaUHVZYXFXWTdZQ3cyd2Q0S29obEcxWHF2Qjh0RjVTY1hTOENwLW5iNTRWR3dyaklmVzV2Q2trWlUwVmhyNWwxUEtYSDMxSWk2RDFiTTNDbVhIT0NOejVzNVI3WjlfSktQVXNvd9IB8gFBVV95cUxOdTlvb1FKZnVwQllRTTVuS0tYWXNKQWNvUXhaeU1FV2FSOTlrck85bFRUNEppOWJVWlBtWm4wdHR4TkdwN2Jjbkl2VkNMbkN0bDdlTjc4dVd6WmRxaXR4alczcHdlLWJiTWpOUnlGMEVaOGdnRVJGVVNMSTJia0JfRWZ3eno0UnVobVJzb0JaUHVZYXFXWTdZQ3cyd2Q0S29obEcxWHF2Qjh0RjVTY1hTOENwLW5iNTRWR3dyaklmVzV2Q2trWlUwVmhyNWwxUEtYSDMxSWk2RDFiTTNDbVhIT0NOejVzNVI3WjlfSktQVXNvdw?oc=5",
+   "date": "2026-11-01T01:56:46.000Z"
   },
   {
    "topic": "4G",
-   "title": "Vivo V60 5G Price in Pakistan, Specifications & Features",
-   "source": "24NewsHD",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBXUjFXUFRIb0Q2cm52YV9xOUZ5QWMyZl9yRTlvWlFqQjhKOV92X1A2Q1lNYXRVOFVCT1E3RTF2akNkZ1oySnAzOV93bEF4aGtJdkpGcFFCSkF6ajJkLUVMaUdRaFZ5ZWl2Z2JoZmdXbzNydzg?oc=5",
-   "date": "2026-10-31T07:42:38.000Z"
+   "title": "Verizon, AT&T, and T-Mobile have three different names for the fast 5G we actually want",
+   "source": "MakeUseOf",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1HRF9DMXFXME1wNDMxUWp1Szh3Mm5Wb1ExMkUtelp5a3Zjbm10cm5mcUh2TmN1T19pcXZKa3RSdHd2aFU4cUdINml3THlsN2VFSENzVzBZclJ0aTB2a1YtOVVPSWl3d0QybDQ2amVBOTF4VElmaFFSVDBIQQ?oc=5",
+   "date": "2026-10-30T18:00:16.000Z"
   },
   {
    "topic": "4G",
@@ -86,18 +79,18 @@
    "date": "2026-10-30T09:30:00.000Z"
   },
   {
+   "topic": "4G",
+   "title": "IPLOOK NETWORKS CO., LTD. Highlights 4G and 5G Core Network",
+   "source": "openPR.com",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMWZHcmo5RFJ0TTU3a1FUd0NUU1FfN1pheU8zeW53andwZGdaRFRTNGh2R3YtdzNsTjU5ODUxMDdhcFBCaDJFemFPZDRQQ05xRWtMbTJQeExnSlV5alhZTFB5OVp0VjVqOWNudXBDYjZ2aDQ2T2JYZFptRUlBT0dvZ29Qek5GRGVnMVVQbHVLYTRwV1RWREpJ?oc=5",
+   "date": "2026-10-30T00:28:03.000Z"
+  },
+  {
    "topic": "Optical fibre",
    "title": "HFCL Spotlights the Ability to Pivot Between Telecom & Data Centre-Grade Fibre-Count Products",
    "source": "Wire & Cable India",
    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBWOTNYdVNmRHp6b3NKamhXeWMyam9zT3V5azc3dktCSzVUVEw2cFVIV1NNYlB2UTFKdWlQM3FrdzI4Qjli?oc=5",
    "date": "2026-11-01T05:31:47.000Z"
-  },
-  {
-   "topic": "Optical fibre",
-   "title": "Birla Furukawa Fibre Optics Sees Higher Capacity Networks as Essential to OFC Evolution",
-   "source": "Wire & Cable India",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE53MUQ1RjkzOXBXTEgwQS1yRzF0ZmFabVFBalVxZU5aU1ZKZjJqMllmRDZjWUF1ekt1YjZub3RWTDlyVTI0UFBic1ZIbGJZMVlSYVlRR3VqVWVuTE1lOFc2Wi02QQ?oc=5",
-   "date": "2026-10-31T11:13:06.000Z"
   },
   {
    "topic": "Optical fibre",
@@ -126,6 +119,13 @@
    "source": "Odisha Diary",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa3lIbXJ4RzFpcmlkWjJGRlVRTkVHUE93QmxReEV2YkM5NVZiN2pMQzQ0OHRhVHBtX3U1YWFzMmJ0d1dNZHlOblZ5cGFyZHUzZEd3b3FHTVZtbmVTTVNkMWZpQS1ILWU0eEZNaWpscS1sa0lIb2pVanZ0SFZiQjJ6SlNyRVlxdDJEMlZ3VU5SM0RsNlEwZEdYT29JNDlaZw?oc=5",
    "date": "2026-10-30T19:24:31.000Z"
+  },
+  {
+   "topic": "Optical fibre",
+   "title": "Govt sets timelines for telecom infrastructure clearances",
+   "source": "Rising Kashmir",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWU4yY29LN3R6RzRSU0Y2c2lpX2FvYnNNR2VSMGJuQXlXV0tVa25hRkwwRGF0ZzZZNFZCR2RqOFJydXJtaFRKd1Ezc2pScTVGZU9IWXk5TURucmVsaW82bGVGa2hibjBtbnh6SFQ1NGtyRmlHZWF2MUt2WHc4dzFGUDdnYU1CMFBMVDFJVWJiaTByLUJqRVVzVHF6R3VGWTduVlY2Z2c0VlE4RTZIWGZB?oc=5",
+   "date": "2026-10-29T19:44:37.000Z"
   },
   {
    "topic": "DWDM",
