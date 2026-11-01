@@ -90,6 +90,7 @@ async function refresh(file, source, minItems, fetcher) {
     console.log(`${file}: updated (${items.length} items)`);
   } catch (err) {
     console.error(`${file}: ${err.message} - keeping the previous data`);
+    process.exitCode = 1; // show the run as failed so a blocked or changed source is noticed
   }
 }
 

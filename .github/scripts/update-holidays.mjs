@@ -89,7 +89,9 @@ async function main() {
     }
   }
   if (!Object.keys(years).length) { console.error("No holiday data available."); process.exit(1); }
-  if (JSON.stringify(years) === JSON.stringify(previous.years)) { console.log("No changes."); return; }
+  const unchanged = JSON.stringify(years) === JSON.stringify(previous.years);
+  if (failures) process.exitCode = 1; // show the run as failed so a blocked or changed source is noticed
+  if (unchanged) { console.log("No changes."); return; }
   writeFileSync("holidays.json", JSON.stringify({ updated: new Date().toISOString(), source: "Fair Work Ombudsman", years }, null, 1) + "\n");
   console.log("holidays.json updated.");
 }

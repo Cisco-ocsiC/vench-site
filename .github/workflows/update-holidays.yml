@@ -20,6 +20,7 @@ jobs:
       - name: Read the latest Fair Work public holiday lists
         run: node .github/scripts/update-holidays.mjs
       - name: Commit changes
+        if: ${{ !cancelled() }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
