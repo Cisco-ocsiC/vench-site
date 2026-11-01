@@ -1,173 +1,222 @@
 {
-    "updated":  "2026-11-01T01:57:59.000Z",
-    "items":  [
-                  {
-                      "topic":  "5G",
-                      "title":  "Telia Expands 5G Connectivity Along Vasaloppet Route in Sweden",
-                      "source":  "The Fast Mode",
-                      "link":  "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNmtTRF9SaTlVMHJQQWZ3NUxXUHl6UV96b1hLUG5sWGNQX19DNWJqa25LZDZJUkk5ZnhYa0dObDk2SEtXU2hyc1Z3WkNRRVVpd2NNOWlFVWFHaWVKSmRuVnc4WndiWnQ1cWxaNEJSZEMtdlZ1dU5MSzZxUGZ6cXNmWXcyUkN0TjZRVi05azRGcGRxU0xQRV9rSHkzUHRhWjcySTd1bFhrd2w4RUN3OUkwU3JUYm1FRDg4?oc=5",
-                      "date":  "2026-10-30T01:36:18.000Z"
-                  },
-                  {
-                      "topic":  "4G",
-                      "title":  "Vivo V60 Lite 5G Price in Pakistan, Specifications \u0026 Features",
-                      "source":  "24NewsHD",
-                      "link":  "https://news.google.com/rss/articles/CBMiekFVX3lxTE9fVUg4ZUVHMy1jVGcyOXVlNnFLTllyVUJBUVd0bVdxdGp0UHpyVzhVZGdIdEttdmN5X3FabEFnNUpGaUpheV9UVzhJaVByamR5c2RhRWd5UTFBSkJKX1BvdnluWlRhVGUyU0w0NmtqZmtqNkRMRUhNQ0Nn?oc=5",
-                      "date":  "2026-10-31T08:19:00.000Z"
-                  },
-                  {
-                      "topic":  "4G",
-                      "title":  "Vivo V60 5G Price in Pakistan, Specifications \u0026 Features",
-                      "source":  "24NewsHD",
-                      "link":  "https://news.google.com/rss/articles/CBMic0FVX3lxTFBXUjFXUFRIb0Q2cm52YV9xOUZ5QWMyZl9yRTlvWlFqQjhKOV92X1A2Q1lNYXRVOFVCT1E3RTF2akNkZ1oySnAzOV93bEF4aGtJdkpGcFFCSkF6ajJkLUVMaUdRaFZ5ZWl2Z2JoZmdXbzNydzg?oc=5",
-                      "date":  "2026-10-31T07:42:38.000Z"
-                  },
-                  {
-                      "topic":  "4G",
-                      "title":  "Verizon, AT\u0026T, and T-Mobile have three different names for the fast 5G we actually want",
-                      "source":  "MakeUseOf",
-                      "link":  "https://news.google.com/rss/articles/CBMie0FVX3lxTE1HRF9DMXFXME1wNDMxUWp1Szh3Mm5Wb1ExMkUtelp5a3Zjbm10cm5mcUh2TmN1T19pcXZKa3RSdHd2aFU4cUdINml3THlsN2VFSENzVzBZclJ0aTB2a1YtOVVPSWl3d0QybDQ2amVBOTF4VElmaFFSVDBIQQ?oc=5",
-                      "date":  "2026-10-30T18:00:16.000Z"
-                  },
-                  {
-                      "topic":  "4G",
-                      "title":  "FRITZ!Box 6825 4G test Ã¢â‚¬â€œ do you have a weekend you\u0027d like to fill with the internet?",
-                      "source":  "RaÃ„ÂunalniÃ…Â¡ke novice",
-                      "link":  "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWGdZa1ZMUjBGNjNjdGxQMW9oSWVIYWlXS1l3bnNJd2J4SkdVZ09mUXhTanIwQ3NKLVNURVFRY1VEdm5zUENBX3ZRWjZCZXk4S2lhd1pfNVJJZzNtSjN1NVhmQVgteC03UXhHYmRCckRmZzNGMUFHMlZpOUZRM3k1TjZCMXRPaVcyaWN0bDhva01YWW5ZTWNoU0hKeWYzaFlCUGw3V1kxMFkzSmhrOVEtNk5mOHA5MkVzR2ZTeEwya0tESHc?oc=5",
-                      "date":  "2026-10-30T09:30:00.000Z"
-                  },
-                  {
-                      "topic":  "Optical fibre",
-                      "title":  "Birla Furukawa Fibre Optics Sees Higher Capacity Networks as Essential to OFC Evolution",
-                      "source":  "Wire \u0026 Cable India",
-                      "link":  "https://news.google.com/rss/articles/CBMiY0FVX3lxTE53MUQ1RjkzOXBXTEgwQS1yRzF0ZmFabVFBalVxZU5aU1ZKZjJqMllmRDZjWUF1ekt1YjZub3RWTDlyVTI0UFBic1ZIbGJZMVlSYVlRR3VqVWVuTE1lOFc2Wi02QQ?oc=5",
-                      "date":  "2026-10-31T11:13:06.000Z"
-                  },
-                  {
-                      "topic":  "Optical fibre",
-                      "title":  "Cyclone Arnab: DoT, telcos restore networks in Andhra, Odisha; power outages, fibre cuts hamper work",
-                      "source":  "Business Today",
-                      "link":  "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOaWR6OFdOU2o5eThpLVpSQUUtSXVaWVlYdl9ZbkZDQllVMEM0b0N6OV9tMGh2U1BXT1FJUjlDTmg2WUlUT1B2eTJKN1ktZUZDWnFHbXZZdG5iOVl2ZzZWQjExSllmQnBZQWlvMHRadjgwcDV1MU5lOFJOTGE3LXJ3SHVqOVJXM0xmUUNWUDBVRVlRa24tWFFUM3FxYXQ5VTlnNlYyaW45UnRjNFR0SVVWWklsc1NjMWVQS1lRRThPc2RDc3NXeFFZT0gyTjc4eVlYcDJFR0kyZW1PTFBiY24xRkhDazJfcnIxOGtNZDVKY9IB7wFBVV95cUxOaWR6OFdOU2o5eThpLVpSQUUtSXVaWVlYdl9ZbkZDQllVMEM0b0N6OV9tMGh2U1BXT1FJUjlDTmg2WUlUT1B2eTJKN1ktZUZDWnFHbXZZdG5iOVl2ZzZWQjExSllmQnBZQWlvMHRadjgwcDV1MU5lOFJOTGE3LXJ3SHVqOVJXM0xmUUNWUDBVRVlRa24tWFFUM3FxYXQ5VTlnNlYyaW45UnRjNFR0SVVWWklsc1NjMWVQS1lRRThPc2RDc3NXeFFZT0gyTjc4eVlYcDJFR0kyZW1PTFBiY24xRkhDazJfcnIxOGtNZDVKYw?oc=5",
-                      "date":  "2026-10-31T09:43:56.000Z"
-                  },
-                  {
-                      "topic":  "Optical fibre",
-                      "title":  "NavTech Unveils 10 Gbps QKD-Enabled Optical Wireless System at IMC 2026; Targets Secure Telecom and Defence Networks",
-                      "source":  "The Tribune",
-                      "link":  "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOeDlmTUJ3STQyZUZDNEVBS3g5YXliUl9VeGtxOUVXendGb1piMzdxNjhWbENLR0JrbGVxYzh1WWRXYkZwTWoxX3F5TDRSbWpyWW1wQkxfV2JId09waXJBVjVrQXRPSFB1OVhnVFZEYXdRZlVDMW5YcnAyS1ZybFNBajV5cnMwYnBsbm9keld4Zkl4QVlvckx1X09oeTRvVUI3QTQtOFBTQmdZYUM0ek1Ua0hIeHdCckkzZzBWR0laYmc4TW9hMEFxMk04QW5PX0R0RkllNnM5RTRXaWdZWTVWY0EzWHVSd01heF9wQTMyWlZRNlh3cnfSAfoBQVVfeXFMUDVUSjRoV243ZEM0Vkprck0wY1lxRWo3UnZiN0ZMR2ZRZ1JxLTFoZlhNOHFHbE5xSGJQWk1IVzVzYXVIUlBHcU1uZmZNekJZUDNKbERSQ1p0VkNKeGFJRUFDR3R5eTlISUZPUmVpaFpfQnBRN3U2RzVmWERUdVVvLUJ3cXhNUzZBTzRhbGdqcmVKdUVOM3EzVm5VcFdjc3pBZ05hNDNfRW5KcWtoMGNmVlprSVRrQmFjZjZ0akx0ZmVhLTNVdGFmN2s2SHFnX05oSGRqTEV6WjViQ1lnTUQ2RDNYNFJ1LUVSYXp6THlBc09BQ0JSTG9oaktuZw?oc=5",
-                      "date":  "2026-10-31T06:38:37.000Z"
-                  },
-                  {
-                      "topic":  "Optical fibre",
-                      "title":  "Telecom network restoration underway in cyclone-affected areas of Andhra Pradesh and Odisha",
-                      "source":  "News On AIR",
-                      "link":  "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMHhZWkx2YmdNdEZGTWNfV1Bydzg2c1Y1WWZwRzVtaktwa3RhZk9RTVUyVUJ0UDJxenJwYjBYMVoxdTlubTBhSlMzdG9LZHQwT2lfcVZEWjZXaVNWaElvSmZmb3RoRmNfNkxCNkE5MjJDTXlnYkI3eWVCUXNuMVlMRGhxUGEtR0N5Zm1ZSi1KajdHMkQ4MW1ydXNFS2xkWGtHcU8yYVc4NXh1UHZGYzVOYjQtb2dRQi1x?oc=5",
-                      "date":  "2026-10-31T05:12:41.000Z"
-                  },
-                  {
-                      "topic":  "Optical fibre",
-                      "title":  "HFCL Spotlights the Ability to Pivot Between Telecom \u0026 Data Centre-Grade Fibre-Count Products",
-                      "source":  "Wire \u0026 Cable India",
-                      "link":  "https://news.google.com/rss/articles/CBMiREFVX3lxTFBWOTNYdVNmRHp6b3NKamhXeWMyam9zT3V5azc3dktCSzVUVEw2cFVIV1NNYlB2UTFKdWlQM3FrdzI4Qjli?oc=5",
-                      "date":  "2026-10-31T05:08:15.000Z"
-                  },
-                  {
-                      "topic":  "Optical fibre",
-                      "title":  "Government Ensures Continuity of Telecom Connectivity amid Cyclone Arnab",
-                      "source":  "Odisha Diary",
-                      "link":  "https://news.google.com/rss/articles/CBMingFBVV95cUxOa3lIbXJ4RzFpcmlkWjJGRlVRTkVHUE93QmxReEV2YkM5NVZiN2pMQzQ0OHRhVHBtX3U1YWFzMmJ0d1dNZHlOblZ5cGFyZHUzZEd3b3FHTVZtbmVTTVNkMWZpQS1ILWU0eEZNaWpscS1sa0lIb2pVanZ0SFZiQjJ6SlNyRVlxdDJEMlZ3VU5SM0RsNlEwZEdYT29JNDlaZw?oc=5",
-                      "date":  "2026-10-30T19:24:31.000Z"
-                  },
-                  {
-                      "topic":  "DWDM",
-                      "title":  "TTK and T8 test Angara DWDM platform",
-                      "source":  "Telecompaper",
-                      "link":  "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdGpjUVAtRUJmUFJjQ2l5Q1ljQUJvLXFhei0tNFF5SWpuSHFuSlZfWXctNHhHWUhuRE41NDVDeFV3bllvTF9mVE9OVld0ZXlmbGgxdkhiRC1GbFVCakE1ZnZlSjVQZmNON2tSV1VHMmpRaGh5UjlWLWY0bXNrV3VMNzZCRVhMdw?oc=5",
-                      "date":  "2026-10-28T10:12:03.000Z"
-                  },
-                  {
-                      "topic":  "DWDM",
-                      "title":  "Why Is Telecom Network Modernization Creating New Opportunities in the Telco Cloud Infrastructure Market?",
-                      "source":  "openPR.com",
-                      "link":  "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN1Z6OWN2YkRJS1cyclBZN3F5TjhSUDkyMUh6Y3dYT1NhYkJKUVVkX05zMHJPd05QbHZRaU9mT3RSUlRRZTZWcHhXaFBhNnFpUGVVM3RfaTJYOEhhR09jYjJUeXFOMXR3WHZQX05KYllPNXYydmkxN2prcVVxZHVjQlgyeHZJQ09BSHpTRUF3?oc=5",
-                      "date":  "2026-10-26T09:18:51.000Z"
-                  },
-                  {
-                      "topic":  "DWDM",
-                      "title":  "Adtran Networks And 2 Other AI Infrastructure Stocks To Watch",
-                      "source":  "Yahoo Finance",
-                      "link":  "https://news.google.com/rss/articles/CBMilAFBVV95cUxNX2U2US1TSTJ0YjBSbks4clpFVk0wVkYwWkE1QUtRS2FWNkM5NXRYaTlmdnlXQlNtOTFuald0RzBLZGRJaGoyNjFSLUtOYVcxWWpwOHp3bVMxbVEtTkl5NjQtRWFDZ0JDQWZNZU9GallzUk5JZXZCN19CaVpyeml5LXRiNFRwTFdIQXYwZkY1SVp0UEFW?oc=5",
-                      "date":  "2026-10-21T07:00:00.000Z"
-                  },
-                  {
-                      "topic":  "Innovation",
-                      "title":  "India joins 24 countries in global initiative on 6G technology | Akashvani News",
-                      "source":  "News On AIR",
-                      "link":  "https://news.google.com/rss/articles/CBMikgFBVV95cUxObjY4NnRCMUVMSXlxeDVpbmdWTC1kZktvakxQSkNpUDBpVEFlOG1PdVAwcmhmMzR1MjEwcDRpYTluaDczV1VvYWpvNm9DUE5YSV9YaXUxSDR4Wmg0WDYyUkZSX2pHRGlpSTNIaVhaUGRqaE5lblhYTHJxOW1ySWpjQl9ncERtd29NQ2tzNWFPVGs0dw?oc=5",
-                      "date":  "2026-10-31T21:37:50.000Z"
-                  },
-                  {
-                      "topic":  "Innovation",
-                      "title":  "Tinubu Welcomes Airtel’s Open Network Launch",
-                      "source":  "New Telegraph",
-                      "link":  "https://news.google.com/rss/articles/CBMie0FVX3lxTE90dEQyLUs3MWhyYXp2ejZVX1hEdy12MHJ0UmoyV2ZKZjNVQWJBLWNqY2xMSFhqazhCemk2d3BHUUwyLV9pTG1UTW5pRDNSem9rSnlrLUY4b2tmUGt0TE5oZHBXdzdlU1lVLS15b0paWEZ5Sk4tRjk0enltWQ?oc=5",
-                      "date":  "2026-10-30T20:46:57.000Z"
-                  },
-                  {
-                      "topic":  "Innovation",
-                      "title":  "The Posts and Telecommunications Institute of Technology hosted the Vietnam-China Workshop on Artificial Intelligence Research and Application.",
-                      "source":  "Vietnam.vn",
-                      "link":  "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNkVVUkJWaFd1QnBTa2hPQkRjTTZsTl9mSUo4VDlWVzdxY25lWVhzQlhJajhMZUQ3OUFmbWVoTm5DaWYzYlJKbjNRQ2pySFNkQlVwM0FveVNjLU1ncFZvMTlsYXRuSVEwYVBvY2NYRlcyYjVEamMxbXFGcU1ybWRBYU9kNUNnbVhXU3REUEF2cWVVLTlXZVV6RTdrX1lwVTY5YWNlTnBhdmtaRnNlMDd1Tjh0cFNpSWtjVWd6b05KZm56aktPMHhpNEo5SFBZcVRPdDQ1VGpvOUJpRndaSWc?oc=5",
-                      "date":  "2026-10-30T08:46:08.000Z"
-                  },
-                  {
-                      "topic":  "Innovation",
-                      "title":  "Can AT\u0026T (NYSE:T) Keep Its Fiber Momentum After a Record Quarter?",
-                      "source":  "Kalkine Media",
-                      "link":  "https://news.google.com/rss/articles/CBMirgFBVV95cUxQU1VwTVRKdzhCSXVVajFSQ2NlSXdZZnBZaVVqSWFPZWZQc2VFSTFOeEdsSkl4QklULXo1QmQ5UDRtZ1VZOGZxSlNDb3REREZIQjlUWjV2aU9ESkNhM0lXX2xLbWc0QkI0WnhtNTJqVVFrN0J5bThTQ1NUc2s1a0dnbE9tdVo0bkZXVlIydmVoRTJvQlR5UFFRRTFOWktrQ0NhNk8yUTMwSnBzWXJRRlE?oc=5",
-                      "date":  "2026-10-29T23:44:00.000Z"
-                  },
-                  {
-                      "topic":  "Innovation",
-                      "title":  "MoS calls for Design-led Innovation To Shape 6G Future",
-                      "source":  "https://www.fintechbiznews.com/",
-                      "link":  "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWlE1SEFSTGktQk1tanprTWpudFJHWDF0TEJhX0lWVFNWUXZWZzBNMzFRVG0wdjFrODNyR2FaajVvaEg4aElMU2hHOTNnS3BONjFWWUVmd0JnZmd4MmlSLTZzcUMwSDdSRmhCWmZ1Q083Y3piWlhWdlBlcm5rRE12Q010VWRXS2phNWdKdFBINmRtVjBIOThkWkxVblhJTVZNNzJWU2dJQQ?oc=5",
-                      "date":  "2026-10-29T23:32:08.000Z"
-                  },
-                  {
-                      "topic":  "Innovation",
-                      "title":  "PM Modi reviews IITH-incubated WiSig’s indigenous 5G, emerging 6G technologies at ESTIC 2026",
-                      "source":  "Telangana Today",
-                      "link":  "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNW5HcFJKTm1DODNpYnA4YXlnRFkxNGNwbjVvT19wbnhXTkk4bnc3MUpMTlk1V3RNRGlxbHNnMVQ2WUdDU1cxSWtYVGNsUjZqUDFQa0tfSVdDLWNnekp6Sll1MnpsQWR2ZnJuNjR0R1FzTEhBMFZtT09zeGlVclFBaThwTlhvYVRIZU5mTjVyZ3NpR3ZzWUxnRmozVEdhNnRZcnUxMlhsU2JmSmltTHhXZlJuUHNCSmRo?oc=5",
-                      "date":  "2026-10-28T17:40:57.000Z"
-                  },
-                  {
-                      "topic":  "Innovation",
-                      "title":  "Etisalat and UAE universities make 6G research breakthrough",
-                      "source":  "SatellitePro ME",
-                      "link":  "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZVFpeU1JcTl3bmszLWZSSmpobnJOTmtVMDBtV3pXbjFvbTVwMU1ZbFZMemowbUJtTzZtOHhTNmdCWS1BZG9UT2YwbHBzT1FFOFQ5RnpWeEFQREVBaElvbVluaHd4aFIwMHRadExQT2JIUWI2emZDQzk4ZXBGdXZXYnRRWHBQempNalRjTjhjVzJiSnl3U3Rz?oc=5",
-                      "date":  "2026-10-28T15:23:11.000Z"
-                  },
-                  {
-                      "topic":  "Innovation",
-                      "title":  "New Vilnius University (VU) centre to advance 6G communication research",
-                      "source":  "Innovation News Network",
-                      "link":  "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSHNENWxwOWFXTVlLODVEeEJpMGljdmlBZjVfTkxNdlVVQVFlWHFPV3RpeUVZUldwQXJXandZRXZBMmxPQWFIMjVjV2J0LUhMZkNGRWlHdS1CR21Kc3VKQklLWVAxbE9JX1h3a21VTzZOUUlNQUZKWmZ4NUphQzJwVGZyOUd5Tk1oQlNYZzNhYUkyOHFGTTRqT2VfZkpsOWswMFk0bmxFRGtISE0xdFhhOQ?oc=5",
-                      "date":  "2026-10-28T11:14:12.000Z"
-                  },
-                  {
-                      "topic":  "Innovation",
-                      "title":  "Telecommunications investment is key to Canada’s economic ambitions",
-                      "source":  "The Hill Times",
-                      "link":  "https://news.google.com/rss/articles/CBMisAFBVV95cUxQamtMYy02VmhIdW9uQlR2UlJTMEVVWnpZb2x3ZXk2TnYyR3JMRGtkLTNWMnVIZVVYRTcwRUU4eHRxb2N6MExEN1RSU0ozRkE0NkF2dXMtMVNWaEh6TG85OUlLQW5ncEdpRy1La2NUMjkwZzhBSi1vQTA2NGNjU3RCOEtJWWhVTzRaNjJOYzhxeFdqN1RmV3NoSzNrblJJaE1aeHpqQ2czNlg2QjNBT0FVYQ?oc=5",
-                      "date":  "2026-10-28T05:07:34.000Z"
-                  },
-                  {
-                      "topic":  "Innovation",
-                      "title":  "Our digital sovereignty begins with the telecommunications networks",
-                      "source":  "The Hill Times",
-                      "link":  "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZEdRZVRkMzF1NVhNdl9EMzBDZGhwNlZOckVnU0tkTkRoV2NxNlotc1p5dW4yS0NRTURZeTN0dkQxYzNWSWpvWDktUFBGR3pXbGpYOVhPOFFocHFSVUYyT1pXRDM0NXZ6UTlsVXVMWEFBMGxlaU9xdGwzUnE5X0poemdtOVJiNkppLXU1MXRKd3JndEY1TWg1OFB1MVdkTG5vSE5vcjkyVjNVT3JwVHFyMGtWZFJNRjA?oc=5",
-                      "date":  "2026-10-28T05:01:51.000Z"
-                  }
-              ]
+ "updated": "2026-11-01T02:17:51.886Z",
+ "items": [
+  {
+   "topic": "5G",
+   "title": "Telia Expands 5G Connectivity Along Vasaloppet Route in Sweden",
+   "source": "The Fast Mode",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNmtTRF9SaTlVMHJQQWZ3NUxXUHl6UV96b1hLUG5sWGNQX19DNWJqa25LZDZJUkk5ZnhYa0dObDk2SEtXU2hyc1Z3WkNRRVVpd2NNOWlFVWFHaWVKSmRuVnc4WndiWnQ1cWxaNEJSZEMtdlZ1dU5MSzZxUGZ6cXNmWXcyUkN0TjZRVi05azRGcGRxU0xQRV9rSHkzUHRhWjcySTd1bFhrd2w4RUN3OUkwU3JUYm1FRDg4?oc=5",
+   "date": "2026-10-30T01:36:18.000Z"
+  },
+  {
+   "topic": "5G",
+   "title": "Skydance's UK network 5 was the home of Australian prison drama 'Wentworth' and will now house the show's next iteration. Read more below.",
+   "source": "Facebook",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZWlLM1Z2ZFluWVM4SktKcmtQOVA3ZF9jSFlnT2hTTk1lX2FscER6UHhXMVhFdmVWRkFNeDVOTl9PWmJPQk9nWHJncl96b0x6RXg2Wmt2YlV4TkJhaEVIYlJwS1BwaTBmWmdzYkFVUlBCZHFCeXh0OEZhSW5hSGRmVEVRQ2k0UnBGZTFseTVsOGtGTEVXWXlGcFVXVVR1Nm0zUk5NcFR3TG1XN2dhNTJ2VnhnWTJkTngzUUZ4VkFpSjJYbmFMWUVKaFFHaGR5d2Q3RXR6UA?oc=5",
+   "date": "2026-10-29T13:00:25.000Z"
+  },
+  {
+   "topic": "5G",
+   "title": "Calls for better network after village goes offline",
+   "source": "Yahoo News Australia",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qeDVnalk4ZGZsVjktMzVMejNyUmRWdDNOa2NCa1JGZG9UYk80RXJCQzRZM1Nra255Z1FlcUFuWUFDN0hqQmlsODBQeThwbWFSRWstXzhpNFFGdDhzUVNaZDZkSTVPMWx3OFhsaVJxczRGUW5pUkVLYk1qN0J5SnM?oc=5",
+   "date": "2026-10-29T11:18:17.000Z"
+  },
+  {
+   "topic": "5G",
+   "title": "Fiber and FWA Broadband Growth Sustain Fixed Internet Revenue",
+   "source": "Content + Technology",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU3VHZTI0WlFrT1Z5WV82T2NScmR6cnhlZk9QZG01MERnaGxYakNkNnBESXl1ZVdqbE90TkdSdXQ1NkQydTg1bFd6d0pmakd0M3gzaXRXZHYwN1JNaDBRRTdzQ1hpRzQtOHYzZ2xBN1hpZVV0NXk3WnUyT2FZTjU1ZUtHSmJJNmN5dlVXd0lmeFJqQWpZODd2MUFKRDVfd0dYc25CMVNNeDZFU3pV?oc=5",
+   "date": "2026-10-29T06:21:14.000Z"
+  },
+  {
+   "topic": "5G",
+   "title": "Australia summit to explore AI-native networks & 6G",
+   "source": "IT Brief Australia",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTktMM1BqYzM5a2dxM3dGeUtLZmN0OVRDNWtwUlprZmRwWGR4a0hTVzdCM0tVVVN6ckNJVTJBLWlDX0oxTmFvREs2MkQ0MldCTFlfbGg1bkpybnBtVFBvdkNMeFNIZkxFSmFXazRhZ19oeUVEWnBPVWtGZm1RamhDak9wX2c?oc=5",
+   "date": "2026-10-27T21:00:00.000Z"
+  },
+  {
+   "topic": "5G",
+   "title": "Which 5G modems and routers can you buy in Australia",
+   "source": "WhistleOut",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ONVdBLTNxZy0ydFYtR0FhVVg0anMzd0FyYmc1bGVzcUNuREpGTEhRdWpyM2twbE5PN0lCQUljZG1TMlNsME9xMFU1Tm4wLUF6N2J0SEVDR1d5OFVUaVBSdU55anU0ZEhlaHd3T1R4UnBEcWpZRTV2cUYxYw?oc=5",
+   "date": "2026-10-27T07:00:00.000Z"
+  },
+  {
+   "topic": "4G",
+   "title": "Vivo V60 Lite 5G Price in Pakistan, Specifications & Features",
+   "source": "24NewsHD",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9fVUg4ZUVHMy1jVGcyOXVlNnFLTllyVUJBUVd0bVdxdGp0UHpyVzhVZGdIdEttdmN5X3FabEFnNUpGaUpheV9UVzhJaVByamR5c2RhRWd5UTFBSkJKX1BvdnluWlRhVGUyU0w0NmtqZmtqNkRMRUhNQ0Nn?oc=5",
+   "date": "2026-10-31T08:19:00.000Z"
+  },
+  {
+   "topic": "4G",
+   "title": "Vivo V60 5G Price in Pakistan, Specifications & Features",
+   "source": "24NewsHD",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBXUjFXUFRIb0Q2cm52YV9xOUZ5QWMyZl9yRTlvWlFqQjhKOV92X1A2Q1lNYXRVOFVCT1E3RTF2akNkZ1oySnAzOV93bEF4aGtJdkpGcFFCSkF6ajJkLUVMaUdRaFZ5ZWl2Z2JoZmdXbzNydzg?oc=5",
+   "date": "2026-10-31T07:42:38.000Z"
+  },
+  {
+   "topic": "4G",
+   "title": "Verizon, AT&T, and T-Mobile have three different names for the fast 5G we actually want",
+   "source": "MakeUseOf",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1HRF9DMXFXME1wNDMxUWp1Szh3Mm5Wb1ExMkUtelp5a3Zjbm10cm5mcUh2TmN1T19pcXZKa3RSdHd2aFU4cUdINml3THlsN2VFSENzVzBZclJ0aTB2a1YtOVVPSWl3d0QybDQ2amVBOTF4VElmaFFSVDBIQQ?oc=5",
+   "date": "2026-10-30T18:00:16.000Z"
+  },
+  {
+   "topic": "4G",
+   "title": "FRITZ!Box 6825 4G test – do you have a weekend you'd like to fill with the internet?",
+   "source": "Računalniške novice",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWGdZa1ZMUjBGNjNjdGxQMW9oSWVIYWlXS1l3bnNJd2J4SkdVZ09mUXhTanIwQ3NKLVNURVFRY1VEdm5zUENBX3ZRWjZCZXk4S2lhd1pfNVJJZzNtSjN1NVhmQVgteC03UXhHYmRCckRmZzNGMUFHMlZpOUZRM3k1TjZCMXRPaVcyaWN0bDhva01YWW5ZTWNoU0hKeWYzaFlCUGw3V1kxMFkzSmhrOVEtNk5mOHA5MkVzR2ZTeEwya0tESHc?oc=5",
+   "date": "2026-10-30T09:30:00.000Z"
+  },
+  {
+   "topic": "4G",
+   "title": "Telecom news: Bharti Airtel, DoT, Maxis, U Mobile, COAI, TRAI, Indus Towers",
+   "source": "TelecomLead",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeFMxbUVQc3ByczZZNnlmNllqWXVpN3BQUF9iRmlCSXlwbHRpQ1QwQUlTVGpkdW51M3hjeXNLQmNESW1RR1B6ZnlfbjRrY3lxa1ZhSzJGOGFCWW9kbzFQT0lTclZ3MklaWFZ2ZzdxWGh0NGpPRFRJblR4aWVZMkpSQnZYWW5sRklVNFdHQ185QjJ1Z0hFdVRlMHEyOVUxbXpuZzRhaUJSTdIBrwFBVV95cUxOYy1IRnBEQUIweVp1YWpYcVZyaUprMG1jLU9oNEhYbjBHbWZWWmtKdS0xdE5QRE5lS2JiZmJLTUE1M3lhUmRvZVBTM3FHV2FGQVQtYVBvNUU2cXFFRmpUS2xSbFpZNUoxVUFsUTZyUDNsRmRPUld1V2oxMS10WTUyUEV6cW84X1FWREdBcTlpS01EUkxwSUNnR1FwLW8xUnFZRXdGeW85ZWpmS3VwT1hR?oc=5",
+   "date": "2026-10-29T21:31:07.000Z"
+  },
+  {
+   "topic": "4G",
+   "title": "VODAFONE CAMEROON SIGNS NETWORK SHARING AGREEMENT WITH CAMTEL TO EXPAND 4G FOOTPRINT",
+   "source": "Camer.be",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVzhvR2lNdll5SnNHM2VLZEpnV3lEMVd6bkoxZ1NIZ0JnNDVTYk9fU3hCUzF2aERLa3FCTXZKeHVWOEVvdWJzcG1QVDZ4a3NNblVUbUNLV2thRG5feG8xcTd4VW9HeURYazlFc004NTduTW42MWVJZFdCS1ZxOUJyQUVjWnpVS1dUeUlCOEdKdEdWQWUwaFNieG5sUEdqTG5OMUp2S3hVUURydld2ZjlZU1lxM0drV216c3hPeXl2ajZ4Zm0xMl9SZGpia1JlZjRveFhELTJkeWQ3WlBLbTFKbFJWdVrSAeQBQVVfeXFMTVc4b0dpTXZZeUpzRzNlS2RKZ1d5RDFXem5KMWdTSGdCZzQ1U2JPX1N4QlMxdmhES2txQk12Snh1VjhFb3Vic3BtUFQ2eGtzTW5VVG1DS1drYURuX3hvMXE3eFVvR3lEWGs5RXNNODU3bk1uNjFlSWRXQktWcTlCckFFY1p6VUtXVHlJQjhHSnRHVkFlMGhTYnhubFBHakxuTjFKdkt4VVFEcnZXdmY5WVNZcTNHa1dtenN4T3l5dmo2eGZtMTJfUmRqYmtSZWY0b3hYRC0yZHlkN1pQS20xSmxSVnVa?oc=5",
+   "date": "2026-10-29T20:28:23.000Z"
+  },
+  {
+   "topic": "Optical fibre",
+   "title": "Birla Furukawa Fibre Optics Sees Higher Capacity Networks as Essential to OFC Evolution",
+   "source": "Wire & Cable India",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE53MUQ1RjkzOXBXTEgwQS1yRzF0ZmFabVFBalVxZU5aU1ZKZjJqMllmRDZjWUF1ekt1YjZub3RWTDlyVTI0UFBic1ZIbGJZMVlSYVlRR3VqVWVuTE1lOFc2Wi02QQ?oc=5",
+   "date": "2026-10-31T11:13:06.000Z"
+  },
+  {
+   "topic": "Optical fibre",
+   "title": "Cyclone Arnab: DoT, telcos restore networks in Andhra, Odisha; power outages, fibre cuts hamper work",
+   "source": "Business Today",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxObm1rVUVXa3RHb0dUd0xvdnQxM0FrRVJuLTJfUExfUENRRzV4akI4d2xkbW8xcFAtS0JtSnVTbk0yMWNfSE9PVW4zNmR6OU5feVgwb3dFUWpLRTJ0R21zRUFPUWE1Zlg5aTBocnZBQU1kOVFXc1JJYVgxeFVxT2VqMFVJeVVuWHRhUFZLZFRCV0RrZHBGSld0TDRwaExmUERwX1RwN0ZDY3RzX0MwTk5ZZFNaSmY5dUZ5VGd6WTl5dVB0WFpXdi1KYUlOd0swU2VaZ2FBSHhWekptMV9YYmNBbllqV0tzdGFoVHfSAe8BQVVfeXFMTmlkejhXTlNqOXk4aS1aUkFFLUl1WllZWHZfWW5GQ0JZVTBDNG9DejlfbTBodlNQV09RSVI5Q05oNllJVE9QdnkySjdZLWVGQ1pxR212WXRuYjlZdmc2VkIxMUpZZkJwWUFpbzB0WnY4MHA1dTFOZThSTkxhNy1yd0h1ajlSVzNMZlFDVlAwVUVZUWtuLVhRVDNxcWF0OVU5ZzZWMmluOVJ0YzRUdElVVlpJbHNTYzFlUEtZUUU4T3NkQ3NzV3hRWU9IMk43OHlZWHAyRUdJMmVtT0xQYmNuMUZIQ2syX3JyMThrTWQ1SmM?oc=5",
+   "date": "2026-10-31T09:43:56.000Z"
+  },
+  {
+   "topic": "Optical fibre",
+   "title": "NavTech Unveils 10 Gbps QKD-Enabled Optical Wireless System at IMC 2026; Targets Secure Telecom and Defence Networks",
+   "source": "The Tribune",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOeDlmTUJ3STQyZUZDNEVBS3g5YXliUl9VeGtxOUVXendGb1piMzdxNjhWbENLR0JrbGVxYzh1WWRXYkZwTWoxX3F5TDRSbWpyWW1wQkxfV2JId09waXJBVjVrQXRPSFB1OVhnVFZEYXdRZlVDMW5YcnAyS1ZybFNBajV5cnMwYnBsbm9keld4Zkl4QVlvckx1X09oeTRvVUI3QTQtOFBTQmdZYUM0ek1Ua0hIeHdCckkzZzBWR0laYmc4TW9hMEFxMk04QW5PX0R0RkllNnM5RTRXaWdZWTVWY0EzWHVSd01heF9wQTMyWlZRNlh3cnfSAfoBQVVfeXFMUDVUSjRoV243ZEM0Vkprck0wY1lxRWo3UnZiN0ZMR2ZRZ1JxLTFoZlhNOHFHbE5xSGJQWk1IVzVzYXVIUlBHcU1uZmZNekJZUDNKbERSQ1p0VkNKeGFJRUFDR3R5eTlISUZPUmVpaFpfQnBRN3U2RzVmWERUdVVvLUJ3cXhNUzZBTzRhbGdqcmVKdUVOM3EzVm5VcFdjc3pBZ05hNDNfRW5KcWtoMGNmVlprSVRrQmFjZjZ0akx0ZmVhLTNVdGFmN2s2SHFnX05oSGRqTEV6WjViQ1lnTUQ2RDNYNFJ1LUVSYXp6THlBc09BQ0JSTG9oaktuZw?oc=5",
+   "date": "2026-10-31T06:38:37.000Z"
+  },
+  {
+   "topic": "Optical fibre",
+   "title": "Telecom network restoration underway in cyclone-affected areas of Andhra Pradesh and Odisha",
+   "source": "News On AIR",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMHhZWkx2YmdNdEZGTWNfV1Bydzg2c1Y1WWZwRzVtaktwa3RhZk9RTVUyVUJ0UDJxenJwYjBYMVoxdTlubTBhSlMzdG9LZHQwT2lfcVZEWjZXaVNWaElvSmZmb3RoRmNfNkxCNkE5MjJDTXlnYkI3eWVCUXNuMVlMRGhxUGEtR0N5Zm1ZSi1KajdHMkQ4MW1ydXNFS2xkWGtHcU8yYVc4NXh1UHZGYzVOYjQtb2dRQi1x?oc=5",
+   "date": "2026-10-31T05:12:41.000Z"
+  },
+  {
+   "topic": "Optical fibre",
+   "title": "HFCL Spotlights the Ability to Pivot Between Telecom & Data Centre-Grade Fibre-Count Products",
+   "source": "Wire & Cable India",
+   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBWOTNYdVNmRHp6b3NKamhXeWMyam9zT3V5azc3dktCSzVUVEw2cFVIV1NNYlB2UTFKdWlQM3FrdzI4Qjli?oc=5",
+   "date": "2026-10-31T05:08:15.000Z"
+  },
+  {
+   "topic": "Optical fibre",
+   "title": "Government Ensures Continuity of Telecom Connectivity amid Cyclone Arnab",
+   "source": "Odisha Diary",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa3lIbXJ4RzFpcmlkWjJGRlVRTkVHUE93QmxReEV2YkM5NVZiN2pMQzQ0OHRhVHBtX3U1YWFzMmJ0d1dNZHlOblZ5cGFyZHUzZEd3b3FHTVZtbmVTTVNkMWZpQS1ILWU0eEZNaWpscS1sa0lIb2pVanZ0SFZiQjJ6SlNyRVlxdDJEMlZ3VU5SM0RsNlEwZEdYT29JNDlaZw?oc=5",
+   "date": "2026-10-30T19:24:31.000Z"
+  },
+  {
+   "topic": "DWDM",
+   "title": "TTK and T8 test Angara DWDM platform",
+   "source": "Telecompaper",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdGpjUVAtRUJmUFJjQ2l5Q1ljQUJvLXFhei0tNFF5SWpuSHFuSlZfWXctNHhHWUhuRE41NDVDeFV3bllvTF9mVE9OVld0ZXlmbGgxdkhiRC1GbFVCakE1ZnZlSjVQZmNON2tSV1VHMmpRaGh5UjlWLWY0bXNrV3VMNzZCRVhMdw?oc=5",
+   "date": "2026-10-28T10:12:03.000Z"
+  },
+  {
+   "topic": "DWDM",
+   "title": "Why Is Telecom Network Modernization Creating New Opportunities in the Telco Cloud Infrastructure Market?",
+   "source": "openPR.com",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN1Z6OWN2YkRJS1cyclBZN3F5TjhSUDkyMUh6Y3dYT1NhYkJKUVVkX05zMHJPd05QbHZRaU9mT3RSUlRRZTZWcHhXaFBhNnFpUGVVM3RfaTJYOEhhR09jYjJUeXFOMXR3WHZQX05KYllPNXYydmkxN2prcVVxZHVjQlgyeHZJQ09BSHpTRUF3?oc=5",
+   "date": "2026-10-26T09:18:51.000Z"
+  },
+  {
+   "topic": "DWDM",
+   "title": "Adtran Networks And 2 Other AI Infrastructure Stocks To Watch",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNX2U2US1TSTJ0YjBSbks4clpFVk0wVkYwWkE1QUtRS2FWNkM5NXRYaTlmdnlXQlNtOTFuald0RzBLZGRJaGoyNjFSLUtOYVcxWWpwOHp3bVMxbVEtTkl5NjQtRWFDZ0JDQWZNZU9GallzUk5JZXZCN19CaVpyeml5LXRiNFRwTFdIQXYwZkY1SVp0UEFW?oc=5",
+   "date": "2026-10-21T07:00:00.000Z"
+  },
+  {
+   "topic": "Innovation",
+   "title": "India joins 24 countries in global initiative on 6G technology | Akashvani News",
+   "source": "News On AIR",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObjY4NnRCMUVMSXlxeDVpbmdWTC1kZktvakxQSkNpUDBpVEFlOG1PdVAwcmhmMzR1MjEwcDRpYTluaDczV1VvYWpvNm9DUE5YSV9YaXUxSDR4Wmg0WDYyUkZSX2pHRGlpSTNIaVhaUGRqaE5lblhYTHJxOW1ySWpjQl9ncERtd29NQ2tzNWFPVGs0dw?oc=5",
+   "date": "2026-10-31T21:37:50.000Z"
+  },
+  {
+   "topic": "Innovation",
+   "title": "Can AT&T (NYSE:T) Keep Its Fiber Momentum After a Record Quarter?",
+   "source": "Kalkine Media",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQU1VwTVRKdzhCSXVVajFSQ2NlSXdZZnBZaVVqSWFPZWZQc2VFSTFOeEdsSkl4QklULXo1QmQ5UDRtZ1VZOGZxSlNDb3REREZIQjlUWjV2aU9ESkNhM0lXX2xLbWc0QkI0WnhtNTJqVVFrN0J5bThTQ1NUc2s1a0dnbE9tdVo0bkZXVlIydmVoRTJvQlR5UFFRRTFOWktrQ0NhNk8yUTMwSnBzWXJRRlE?oc=5",
+   "date": "2026-10-29T23:44:00.000Z"
+  },
+  {
+   "topic": "Innovation",
+   "title": "MoS calls for Design-led Innovation To Shape 6G Future",
+   "source": "https://www.fintechbiznews.com/",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWlE1SEFSTGktQk1tanprTWpudFJHWDF0TEJhX0lWVFNWUXZWZzBNMzFRVG0wdjFrODNyR2FaajVvaEg4aElMU2hHOTNnS3BONjFWWUVmd0JnZmd4MmlSLTZzcUMwSDdSRmhCWmZ1Q083Y3piWlhWdlBlcm5rRE12Q010VWRXS2phNWdKdFBINmRtVjBIOThkWkxVblhJTVZNNzJWU2dJQQ?oc=5",
+   "date": "2026-10-29T23:32:08.000Z"
+  },
+  {
+   "topic": "Innovation",
+   "title": "6G to mark next leap in technology and human civilisation, says Scindia",
+   "source": "ET Government",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPb1huM0hTYVFzZ01CZ0wtTTRFbE53MlhweVNVQ05pTklNeTVKQjIwNERRRzVPNW9FQU5MczY3UkJZUnBuYTVJd3JHd2ZZMF9RazI2UnZyRG56TXdQZXBqRFBmSDBYRmw2OWlQTmRTcDMtRE9PVWtiZ0VDbG9wTlppVTl1RFF0cDBEX0RvcnIxMDZIa0Mwb092eXVFSUdVbWRjTllpdlMxdUxzbGRrUm9jb0Z3cDc0TnBxUThNdWQ3NEZUdEZTcGRoblZJM1N3REZCekRWOGtUTHF3QWowNGxGU0F5Z0JHd9IB4AFBVV95cUxQYnhfOFBtd1RpMXVGcDR0Ui0zbTVzRndWRzJ4RGVwLWZUWEc2MnNISllSeXRRanEwbGUwa2ZYM09UcVlNN0FKbnA4eHhtWGl6dmxVOEIxcUJGMzBOUFFpdXE3eW85cElqUHlMZEwxWVpVMlF0NlpMZzByLUk1Yl9ER2hhelZCaHhJczFhb3UzT3lrTVowUUx0UHBDYWZSa1B2ajlSSGZ5V00tTEo0MHRBZlJYcGRmNU54bXFKaWVsZVN6QjZrOU9Sc2licG5ZQXNjWUVBUUswYmlqZUlIcTQ1Vg?oc=5",
+   "date": "2026-10-29T22:24:25.000Z"
+  },
+  {
+   "topic": "Innovation",
+   "title": "Samsung on telling real 6G progress from the hype",
+   "source": "TelecomTV",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZTZLS2VvTm82dVRvV3R0d3NndzY0TWVDVFh2MkMzQzdEOEFXRWxTZ3B0VHE1Y0h5SXVUWVJBOTNGTFN0ekgyNDdwT1FQS2ZpX2VfNmxiR1cyRk1GUGlIV3Y5QVpzdHVtWEVfTmZDZGhaenduVjB6MDdZS3NhNU9vMTBnV3d4RmEzYjY5bFQzNjNrSGhoLUdpMERpRFZ0QdIBngFBVV95cUxNZTZLS2VvTm82dVRvV3R0d3NndzY0TWVDVFh2MkMzQzdEOEFXRWxTZ3B0VHE1Y0h5SXVUWVJBOTNGTFN0ekgyNDdwT1FQS2ZpX2VfNmxiR1cyRk1GUGlIV3Y5QVpzdHVtWEVfTmZDZGhaenduVjB6MDdZS3NhNU9vMTBnV3d4RmEzYjY5bFQzNjNrSGhoLUdpMERpRFZ0QQ?oc=5",
+   "date": "2026-10-29T15:24:21.000Z"
+  },
+  {
+   "topic": "Innovation",
+   "title": "PM Modi reviews IITH-incubated WiSig’s indigenous 5G, emerging 6G technologies at ESTIC 2026",
+   "source": "Telangana Today",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNW5HcFJKTm1DODNpYnA4YXlnRFkxNGNwbjVvT19wbnhXTkk4bnc3MUpMTlk1V3RNRGlxbHNnMVQ2WUdDU1cxSWtYVGNsUjZqUDFQa0tfSVdDLWNnekp6Sll1MnpsQWR2ZnJuNjR0R1FzTEhBMFZtT09zeGlVclFBaThwTlhvYVRIZU5mTjVyZ3NpR3ZzWUxnRmozVEdhNnRZcnUxMlhsU2JmSmltTHhXZlJuUHNCSmRo?oc=5",
+   "date": "2026-10-28T17:40:57.000Z"
+  },
+  {
+   "topic": "Innovation",
+   "title": "Etisalat and UAE universities make 6G research breakthrough",
+   "source": "SatellitePro ME",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZVFpeU1JcTl3bmszLWZSSmpobnJOTmtVMDBtV3pXbjFvbTVwMU1ZbFZMemowbUJtTzZtOHhTNmdCWS1BZG9UT2YwbHBzT1FFOFQ5RnpWeEFQREVBaElvbVluaHd4aFIwMHRadExQT2JIUWI2emZDQzk4ZXBGdXZXYnRRWHBQempNalRjTjhjVzJiSnl3U3Rz?oc=5",
+   "date": "2026-10-28T15:23:11.000Z"
+  },
+  {
+   "topic": "Innovation",
+   "title": "Principal Secretary for Broadcasting and Telecommunications Stephen Isaboke, who represented the Cabinet Secretary for Information, Communications and the Digital Economy William Kabogo (Centre in Blue Suit), in a photo session alongside other stakeh",
+   "source": "Facebook",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOW5Ld0VuR21yTFpZYUR4eVgzWU12ZmprNEc5ekhTREZ1Sk9YZlFraV9LLWFqTTVCelk0ZnlYQmpUVTJ3b1dtaUdVODNBN3g2QXd1RkJiNmhsUDhmMURfOU1LeHQ5bVo3YVZTMC1RaDBHcndEb3NCSzdiaFlUOXdBLXZUVW1lRG1hN3hnNV8tZkJvR3lhNUVDSXRfYzlTNjd5UW5ldDM5SFoyQUpzampxSTl5YVZrZUpxS0g4azI5b25RR1NvWVk3dzBtemlHNnBRdGdvaXFKR05TeUJVQkE?oc=5",
+   "date": "2026-10-28T14:39:22.000Z"
+  },
+  {
+   "topic": "Innovation",
+   "title": "DoT Leads Thematic Session on ‘Intelligent Networks and Quantum Communication’ at ESTIC 2026",
+   "source": "www.pib.gov.in",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5aa3IyUVhvY3VLUVROWjhNSm5ZT2c0T09hcEp4SWNValliNHlHX1k5UEdYTVIxR1ZqQWRiQWxwb1NSeTBmaXE4QW90Q2tYOE93Y1dxdzZYdHZ2WlZpRUxwa0pjeWxXX1hjeEd6aXZNeV8?oc=5",
+   "date": "2026-10-28T14:16:00.000Z"
+  },
+  {
+   "topic": "Innovation",
+   "title": "New Vilnius University (VU) centre to advance 6G communication research",
+   "source": "Innovation News Network",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSHNENWxwOWFXTVlLODVEeEJpMGljdmlBZjVfTkxNdlVVQVFlWHFPV3RpeUVZUldwQXJXandZRXZBMmxPQWFIMjVjV2J0LUhMZkNGRWlHdS1CR21Kc3VKQklLWVAxbE9JX1h3a21VTzZOUUlNQUZKWmZ4NUphQzJwVGZyOUd5Tk1oQlNYZzNhYUkyOHFGTTRqT2VfZkpsOWswMFk0bmxFRGtISE0xdFhhOQ?oc=5",
+   "date": "2026-10-28T11:14:12.000Z"
+  }
+ ]
 }
