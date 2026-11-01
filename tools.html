@@ -1,0 +1,572 @@
+<!doctype html>
+<html lang="en-AU">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Tools | Vench</title>
+<meta name="description" content="Free tools from Vench: fibre loss calculator, DWDM link budget calculator, Australian take-home pay calculator, Australian public holidays by state, and daily telecom news.">
+<link rel="icon" href="logo.jpg">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <div class="wrap nav">
+    <a href="index.html" class="brand"><img src="logo.jpg" alt="Vench"></a>
+    <nav>
+      <a href="index.html#services">Services</a>
+      <a href="tools.html" class="active">Tools</a>
+      <a href="index.html#about">About</a>
+      <a href="enquire.html">Enquire</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <section class="page-head">
+    <div class="wrap">
+      <div class="eyebrow">Tools</div>
+      <h1>Handy <span>calculators</span> and news</h1>
+      <p>Quick tools for fibre and DWDM design, pay, public holidays and the latest telecom news.</p>
+      <div class="toc">
+        <a href="#fibre-loss">Fibre loss</a>
+        <a href="#dwdm-budget">DWDM link budget</a>
+        <a href="#take-home">Take-home pay</a>
+        <a href="#holidays">Public holidays</a>
+        <a href="#visa">Visa fees &amp; times</a>
+        <a href="#occupation">Occupation checker</a>
+        <a href="#numbers">Useful numbers</a>
+        <a href="#news">News</a>
+      </div>
+    </div>
+  </section>
+
+  <section style="padding-top:56px">
+    <div class="wrap tools">
+      <div>
+
+        <!-- FIBRE LOSS -->
+        <div class="tool" id="fibre-loss">
+          <h2>Fibre loss calculator</h2>
+          <p class="d">Estimate the end-to-end loss of a single-mode fibre link, and the margin against your equipment.</p>
+          <div class="calc">
+            <div class="row3">
+              <div><label for="fl-len">Link length (km)</label><input id="fl-len" type="number" min="0" step="any" value="50"></div>
+              <div><label for="fl-wl">Wavelength</label>
+                <select id="fl-wl"><option value="0.35">1310 nm</option><option value="0.22" selected>1550 nm</option><option value="0.25">1625 nm</option></select></div>
+              <div><label for="fl-att">Fibre loss <small>(dB/km)</small></label><input id="fl-att" type="number" min="0" step="any" value="0.22"></div>
+            </div>
+            <div class="row3">
+              <div><label for="fl-spl">Number of splices</label><input id="fl-spl" type="number" min="0" step="1" value="25"></div>
+              <div><label for="fl-spll">Loss per splice <small>(dB)</small></label><input id="fl-spll" type="number" min="0" step="any" value="0.05"></div>
+              <div><label for="fl-con">Connector pairs</label><input id="fl-con" type="number" min="0" step="1" value="2"></div>
+            </div>
+            <div class="row3">
+              <div><label for="fl-conl">Loss per connector pair <small>(dB)</small></label><input id="fl-conl" type="number" min="0" step="any" value="0.3"></div>
+              <div><label for="fl-mar">Design margin <small>(dB)</small></label><input id="fl-mar" type="number" min="0" step="any" value="3"></div>
+              <div></div>
+            </div>
+            <div class="row">
+              <div><label for="fl-tx">Transmit power <small>(dBm, optional)</small></label><input id="fl-tx" type="number" step="any" value="0"></div>
+              <div><label for="fl-rx">Receiver sensitivity <small>(dBm, optional)</small></label><input id="fl-rx" type="number" step="any" value="-28"></div>
+            </div>
+            <div class="result" id="fl-out"></div>
+            <p class="fine">Typical values: 0.35 dB/km at 1310 nm and 0.22 dB/km at 1550 nm, 0.05 to 0.1 dB per fusion splice, 0.3 to 0.5 dB per connector pair. Use the figures from your cable and equipment datasheets for final design.</p>
+          </div>
+        </div>
+
+        <!-- DWDM BUDGET -->
+        <div class="tool" id="dwdm-budget">
+          <h2>DWDM link budget calculator</h2>
+          <p class="d">Check span loss and optical signal-to-noise ratio (OSNR) for a chain of amplified spans.</p>
+          <div class="calc">
+            <div class="row3">
+              <div><label for="dw-pch">Launch power per channel <small>(dBm)</small></label><input id="dw-pch" type="number" step="any" value="0"></div>
+              <div><label for="dw-ch">Number of channels</label><input id="dw-ch" type="number" min="1" step="1" value="40"></div>
+              <div><label for="dw-n">Number of spans</label><input id="dw-n" type="number" min="1" step="1" value="5"></div>
+            </div>
+            <div class="row3">
+              <div><label for="dw-len">Span length <small>(km)</small></label><input id="dw-len" type="number" min="0" step="any" value="80"></div>
+              <div><label for="dw-att">Fibre loss <small>(dB/km)</small></label><input id="dw-att" type="number" min="0" step="any" value="0.22"></div>
+              <div><label for="dw-al">Splices, connectors &amp; ODF per span <small>(dB)</small></label><input id="dw-al" type="number" min="0" step="any" value="1.5"></div>
+            </div>
+            <div class="row3">
+              <div><label for="dw-sm">Repair margin per span <small>(dB)</small></label><input id="dw-sm" type="number" min="0" step="any" value="1"></div>
+              <div><label for="dw-nf">Amplifier noise figure <small>(dB)</small></label><input id="dw-nf" type="number" min="0" step="any" value="5.5"></div>
+              <div><label for="dw-req">Required OSNR <small>(dB, 0.1 nm)</small></label><input id="dw-req" type="number" step="any" value="15"></div>
+            </div>
+            <div class="row3">
+              <div><label for="dw-dm">System design margin <small>(dB)</small></label><input id="dw-dm" type="number" min="0" step="any" value="3"></div>
+              <div></div><div></div>
+            </div>
+            <div class="result" id="dw-out"></div>
+            <p class="fine">OSNR (0.1 nm) = 58 + P<sub>ch</sub> &minus; span loss &minus; NF &minus; 10&middot;log<sub>10</sub>(N spans). This is the standard estimate for identical, fully loss-compensated spans at 1550 nm; it ignores fibre nonlinearity and ROADM or filter penalties. Take the required OSNR from the vendor's datasheet for your transponder and rate. Use it for early planning, not as a final design.</p>
+          </div>
+        </div>
+
+        <!-- TAKE HOME -->
+        <div class="tool" id="take-home">
+          <h2>Take-home pay calculator (Australia)</h2>
+          <p class="d">Work out pay before or after tax, shown weekly, fortnightly, monthly and yearly.</p>
+          <div class="calc">
+            <div class="row3">
+              <div><label for="th-amt">Amount ($)</label><input id="th-amt" type="number" min="0" step="any" value="100000"></div>
+              <div><label for="th-per">Per</label>
+                <select id="th-per"><option value="1">Year</option><option value="12">Month</option><option value="26">Fortnight</option><option value="52">Week</option></select></div>
+              <div><label for="th-mode">This amount is</label>
+                <select id="th-mode"><option value="gross">Before tax</option><option value="net">After tax</option></select></div>
+            </div>
+            <div class="row">
+              <div><label for="th-yr">Income year</label>
+                <select id="th-yr"><option value="2026-27">2026&ndash;27 (1 Jul 2026 &ndash; 30 Jun 2027)</option><option value="2025-26">2025&ndash;26</option></select></div>
+              <div style="padding-top:26px"><label class="check"><input id="th-med" type="checkbox" checked> Include 2% Medicare levy</label></div>
+            </div>
+            <div class="result tbl-wrap" id="th-out"></div>
+            <p class="fine">Estimate for Australian residents who claim the tax-free threshold. Uses the ATO resident tax rates. It does not include super, HELP or other debts, offsets, the low-income Medicare levy reduction or the Medicare levy surcharge. Check your own situation at <a href="https://www.ato.gov.au" rel="noopener" style="text-decoration:underline">ato.gov.au</a>.</p>
+          </div>
+        </div>
+
+        <!-- HOLIDAYS -->
+        <div class="tool" id="holidays">
+          <h2>Public holidays in Australia</h2>
+          <p class="d">Date, occasion, and whether it applies in each state or territory.</p>
+          <div class="row" style="max-width:420px">
+            <div><label for="ph-yr">Year</label><select id="ph-yr"></select></div>
+            <div><label for="ph-up">Show</label><select id="ph-up"><option value="all">All holidays</option><option value="up">Upcoming only</option></select></div>
+          </div>
+          <div class="tbl-wrap"><table id="ph-tbl"></table></div>
+          <p class="fine"><b>Yes</b> = applies. <b>Part</b> = part-day or only in certain areas (hover for details). <b>&ndash;</b> = does not apply. Checked every day against the <a href="https://www.fairwork.gov.au/employment-conditions/public-holidays" rel="noopener" style="text-decoration:underline">Fair Work Ombudsman</a> lists, so government changes are picked up automatically. <span id="ph-upd"></span> Regional holidays vary, so check your state or territory's official list.</p>
+        </div>
+
+        <!-- VISA -->
+        <div class="tool" id="visa">
+          <h2>Australian visa fees and processing times</h2>
+          <p class="d">Pick a visa or subclass to see the official application charge and how long recent applications took. Data comes from the Department of Home Affairs and is refreshed daily.</p>
+          <div class="calc">
+            <label for="vs-sel">Visa type and subclass</label>
+            <select id="vs-sel"><option>Loading&hellip;</option></select>
+            <div class="result" id="vs-out"></div>
+            <p class="fine" id="vs-src"></p>
+          </div>
+        </div>
+
+        <!-- OCCUPATION -->
+        <div class="tool" id="occupation">
+          <h2>Skilled occupation checker</h2>
+          <p class="d">Search an ANZSCO occupation to see which skilled visas it is listed for: 189, 190, 491, 482, 186, 494 and more. Based on the official Home Affairs skilled occupation list, refreshed daily.</p>
+          <div class="calc">
+            <label for="oc-q">Search by job name or ANZSCO code</label>
+            <input id="oc-q" type="search" placeholder="e.g. Telecommunications Engineer or 263311" autocomplete="off">
+            <select id="oc-sel" size="8" style="height:auto"></select>
+            <div class="result" id="oc-out"></div>
+            <p class="fine" id="oc-src"></p>
+          </div>
+        </div>
+
+        <!-- NUMBERS -->
+        <div class="tool" id="numbers">
+          <h2>Useful numbers in Australia</h2>
+          <p class="d">Emergency and government contact numbers. Tap a number on your phone to call. Always confirm on the official website before relying on a number.</p>
+          <div id="nm-out"></div>
+        </div>
+
+        <!-- NEWS -->
+        <div class="tool" id="news">
+          <h2>Latest telecom news</h2>
+          <p class="d">Headlines on 4G, 5G, optical fibre and DWDM. Refreshed automatically every hour. <span id="nw-upd"></span></p>
+          <div class="news-cols">
+            <div>
+              <h3>Latest news</h3>
+              <div class="filters" id="nw-filters"></div>
+              <ul class="news" id="nw-list"><li>Loading news&hellip;</li></ul>
+            </div>
+            <div>
+              <h3>Latest innovation</h3>
+              <p class="fine" style="margin:0 0 12px">New technology and breakthroughs in telecommunications and optical networking.</p>
+              <ul class="news" id="in-list"><li>Loading&hellip;</li></ul>
+            </div>
+          </div>
+          <p class="fine">Headlines link to the original publishers. Vench does not write or endorse these articles.</p>
+        </div>
+
+      </div>
+
+      <aside class="side-sticky">
+        <div class="stocks-box">
+          <h3>ASX telecom shares</h3>
+          <p class="fine">Ten ASX-listed telecom and network companies, in Australian dollars. Australia has only a few listed telcos, so this includes network infrastructure providers. Prices update live while this page is open and may be delayed by the exchange.</p>
+          <div class="tradingview-widget-container" id="tv-box"></div>
+        </div>
+      </aside>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap">
+    <span>&copy; <span id="yr"></span> Vench. Sydney, Australia.</span>
+    <span>Market data: <a href="https://www.tradingview.com/" rel="noopener">TradingView</a></span>
+  </div>
+</footer>
+
+<script>
+document.getElementById("yr").textContent = new Date().getFullYear();
+const $ = (id) => document.getElementById(id);
+const num = (id) => { const v = parseFloat($(id).value); return isNaN(v) ? 0 : v; };
+const f2 = (x) => x.toFixed(2);
+const money = (x) => "$" + Math.round(x).toLocaleString("en-AU");
+const row = (a, b, cls) => `<tr${cls ? ` class="${cls}"` : ""}><td>${a}</td><td class="n">${b}</td></tr>`;
+
+/* ---------- Fibre loss ---------- */
+function fibreLoss() {
+  const len = num("fl-len"), att = num("fl-att");
+  const fib = len * att, spl = num("fl-spl") * num("fl-spll"), con = num("fl-con") * num("fl-conl");
+  const sub = fib + spl + con, mar = num("fl-mar"), total = sub + mar;
+  const tx = num("fl-tx"), rxs = num("fl-rx");
+  const rx = tx - sub, marginLeft = rx - rxs - mar;
+  let h = `<div class="tbl-wrap"><table><tbody>` +
+    row("Fibre attenuation (" + f2(len) + " km &times; " + f2(att) + " dB/km)", f2(fib) + " dB") +
+    row("Splices", f2(spl) + " dB") + row("Connectors", f2(con) + " dB") +
+    row("Link loss (without margin)", f2(sub) + " dB", "total") +
+    row("Design margin", f2(mar) + " dB") +
+    row("Total design loss", f2(total) + " dB", "total") +
+    row("Received power (without margin)", f2(rx) + " dBm") +
+    `</tbody></table></div>` +
+    `<div class="verdict ${marginLeft >= 0 ? "ok" : "bad"}">Margin remaining after design margin: ${f2(marginLeft)} dB &mdash; ${marginLeft >= 0 ? "the link closes" : "the link does not close"}</div>`;
+  $("fl-out").innerHTML = h;
+}
+$("fl-wl").addEventListener("change", () => { $("fl-att").value = $("fl-wl").value; fibreLoss(); });
+["fl-len","fl-att","fl-spl","fl-spll","fl-con","fl-conl","fl-mar","fl-tx","fl-rx"].forEach(i => $(i).addEventListener("input", fibreLoss));
+
+/* ---------- DWDM budget ---------- */
+function dwdm() {
+  const pch = num("dw-pch"), ch = Math.max(1, num("dw-ch")), n = Math.max(1, num("dw-n"));
+  const len = num("dw-len"), att = num("dw-att"), al = num("dw-al"), sm = num("dw-sm");
+  const nf = num("dw-nf"), req = num("dw-req"), dm = num("dw-dm");
+  const fibre = len * att, span = fibre + al + sm;
+  const osnr = 58 + pch - span - nf - 10 * Math.log10(n);
+  const margin = osnr - req - dm;
+  const total = pch + 10 * Math.log10(ch);
+  $("dw-out").innerHTML = `<div class="tbl-wrap"><table><tbody>` +
+    row("Fibre loss per span", f2(fibre) + " dB") +
+    row("Span loss (with allowances and margin)", f2(span) + " dB", "total") +
+    row("Amplifier gain needed per span", f2(span) + " dB") +
+    row("Power into each amplifier (per channel)", f2(pch - span) + " dBm") +
+    row("Total launch power (" + ch + " channels)", f2(total) + " dBm") +
+    row("Total link length", f2(len * n) + " km") +
+    row("OSNR at receiver (0.1 nm)", f2(osnr) + " dB", "total") +
+    row("Required OSNR + system margin", f2(req + dm) + " dB") +
+    `</tbody></table></div>` +
+    `<div class="verdict ${margin >= 0 ? "ok" : "bad"}">OSNR margin: ${f2(margin)} dB &mdash; ${margin >= 0 ? "the link meets the requirement" : "the link falls short; shorten spans, add amplifier sites or use a lower rate"}</div>`;
+}
+["dw-pch","dw-ch","dw-n","dw-len","dw-att","dw-al","dw-sm","dw-nf","dw-req","dw-dm"].forEach(i => $(i).addEventListener("input", dwdm));
+
+/* ---------- Take-home (ATO resident rates) ---------- */
+const RATES = {
+  "2026-27": { r1: 0.15, b2: 4020, b3: 31020, b4: 51370 },
+  "2025-26": { r1: 0.16, b2: 4288, b3: 31288, b4: 51638 },
+};
+function incomeTax(year, inc) {
+  const r = RATES[year];
+  if (inc <= 18200) return 0;
+  if (inc <= 45000) return (inc - 18200) * r.r1;
+  if (inc <= 135000) return r.b2 + (inc - 45000) * 0.30;
+  if (inc <= 190000) return r.b3 + (inc - 135000) * 0.37;
+  return r.b4 + (inc - 190000) * 0.45;
+}
+function netOf(year, gross, med) { return gross - incomeTax(year, gross) - (med ? gross * 0.02 : 0); }
+function takeHome() {
+  const amt = num("th-amt") * parseFloat($("th-per").value);
+  const year = $("th-yr").value, med = $("th-med").checked;
+  let gross = amt;
+  if ($("th-mode").value === "net") {
+    let lo = amt, hi = 5e7;
+    for (let i = 0; i < 80; i++) { const mid = (lo + hi) / 2; netOf(year, mid, med) < amt ? lo = mid : hi = mid; }
+    gross = (lo + hi) / 2;
+  }
+  const tax = incomeTax(year, gross), ml = med ? gross * 0.02 : 0, net = gross - tax - ml;
+  const cols = [["Weekly", 52], ["Fortnightly", 26], ["Monthly", 12], ["Yearly", 1]];
+  const line = (label, v, cls) => `<tr${cls ? ` class="${cls}"` : ""}><td>${label}</td>${cols.map(c => `<td class="n">${v < 0 ? "" : ""}${money(v / c[1])}</td>`).join("")}</tr>`;
+  $("th-out").innerHTML = `<table><thead><tr><th></th>${cols.map(c => `<th class="n">${c[0]}</th>`).join("")}</tr></thead><tbody>` +
+    line("Pay before tax", gross) + line("Income tax", tax) + line("Medicare levy", ml) + line("Take-home pay", net, "total") +
+    `</tbody></table>`;
+  $("th-out").insertAdjacentHTML("beforeend", `<p class="fine" style="padding:0 16px 14px">Average tax rate: ${gross ? ((tax + ml) / gross * 100).toFixed(1) : "0.0"}% of pay before tax.</p>`);
+}
+["th-amt","th-per","th-mode","th-yr","th-med"].forEach(i => { $(i).addEventListener("input", takeHome); $(i).addEventListener("change", takeHome); });
+
+/* ---------- Public holidays (Fair Work Ombudsman lists) ---------- */
+const ST = ["NSW", "VIC", "QLD", "WA", "SA", "TAS", "ACT", "NT"];
+const ALL = "NSW VIC QLD WA SA TAS ACT NT";
+const HOL = {
+ 2026: [
+  ["2026-01-01", "New Year's Day", ALL],
+  ["2026-01-26", "Australia Day", ALL],
+  ["2026-02-09", "Royal Hobart Regatta", "TAS~", "Only observed in certain areas of Tasmania, including Hobart"],
+  ["2026-03-02", "Labour Day (WA)", "WA"],
+  ["2026-03-09", "Canberra Day (ACT) · Adelaide Cup Day (SA) · Eight Hours Day (TAS) · Labour Day (VIC)", "ACT SA TAS VIC"],
+  ["2026-04-03", "Good Friday", ALL],
+  ["2026-04-04", "Easter Saturday (day after Good Friday)", "NSW VIC QLD SA ACT NT"],
+  ["2026-04-05", "Easter Sunday", "NSW VIC QLD WA SA ACT NT"],
+  ["2026-04-06", "Easter Monday", ALL],
+  ["2026-04-07", "Easter Tuesday", "TAS~", "Generally Tasmanian Public Service only"],
+  ["2026-04-25", "Anzac Day", ALL],
+  ["2026-04-27", "Additional public holiday for Anzac Day (Anzac Day fell on a Saturday)", "NSW WA ACT"],
+  ["2026-05-04", "Labour Day (QLD) · May Day (NT)", "QLD NT"],
+  ["2026-06-01", "Reconciliation Day (ACT) · Western Australia Day (WA)", "WA ACT"],
+  ["2026-06-08", "King's Birthday", "NSW VIC SA TAS ACT NT"],
+  ["2026-08-03", "Picnic Day (NT)", "NT"],
+  ["2026-08-12", "Royal Queensland Show (Ekka)", "QLD~", "Brisbane area only"],
+  ["2026-09-25", "Friday before the AFL Grand Final", "VIC"],
+  ["2026-09-28", "King's Birthday (WA)", "WA", "Some regional areas of WA hold it on a different date"],
+  ["2026-10-05", "Labour Day (NSW, SA, ACT) · King's Birthday (QLD)", "NSW QLD SA ACT"],
+  ["2026-10-22", "Royal Hobart Show", "TAS~", "Only observed in certain areas of Tasmania, including Hobart"],
+  ["2026-11-02", "Recreation Day (TAS)", "TAS~", "Areas that do not observe the Royal Hobart Regatta"],
+  ["2026-11-03", "Melbourne Cup", "VIC", "Some regional areas hold it on a different date"],
+  ["2026-12-24", "Christmas Eve", "QLD~ SA~ NT~", "Part day: QLD from 6 pm, SA and NT from 7 pm"],
+  ["2026-12-25", "Christmas Day", ALL],
+  ["2026-12-26", "Boxing Day (SA: Proclamation Day)", "NSW VIC QLD WA SA ACT NT"],
+  ["2026-12-28", "Boxing Day / additional public holiday (SA: Proclamation Day holiday)", ALL],
+  ["2026-12-31", "New Year's Eve", "SA~ NT~", "Part day, from 7 pm"],
+ ],
+ 2027: [
+  ["2027-01-01", "New Year's Day", ALL],
+  ["2027-01-26", "Australia Day", ALL],
+  ["2027-02-08", "Royal Hobart Regatta", "TAS~", "Only observed in certain areas of Tasmania"],
+  ["2027-03-01", "Labour Day (WA)", "WA"],
+  ["2027-03-08", "Canberra Day (ACT) · Adelaide Cup Day (SA) · Eight Hours Day (TAS) · Labour Day (VIC)", "ACT SA TAS VIC"],
+  ["2027-03-26", "Good Friday", ALL],
+  ["2027-03-27", "Easter Saturday (day after Good Friday)", "NSW VIC QLD SA ACT NT"],
+  ["2027-03-28", "Easter Sunday", "NSW VIC QLD WA SA ACT NT"],
+  ["2027-03-29", "Easter Monday", ALL],
+  ["2027-03-30", "Easter Tuesday", "TAS~", "Generally Tasmanian Public Service only"],
+  ["2027-04-25", "Anzac Day (Sunday; ACT: additional public holiday)", "NSW VIC WA SA TAS ACT"],
+  ["2027-04-26", "Anzac Day holiday (Monday)", "NSW QLD WA ACT NT"],
+  ["2027-05-03", "Labour Day (QLD) · May Day (NT)", "QLD NT"],
+  ["2027-05-31", "Reconciliation Day (ACT)", "ACT"],
+  ["2027-06-07", "Western Australia Day", "WA"],
+  ["2027-06-14", "King's Birthday", "NSW VIC SA TAS ACT NT"],
+  ["2027-08-02", "Picnic Day (NT)", "NT"],
+  ["2027-08-11", "Royal Queensland Show (Ekka)", "QLD~", "Brisbane area only"],
+  ["2027-09-24", "Friday before the AFL Grand Final (date to be confirmed)", "VIC", "Date depends on the AFL schedule", true],
+  ["2027-09-27", "King's Birthday (WA)", "WA", "Some regional areas of WA hold it on a different date"],
+  ["2027-10-04", "Labour Day (NSW, SA, ACT) · King's Birthday (QLD)", "NSW QLD SA ACT"],
+  ["2027-10-21", "Royal Hobart Show", "TAS~", "Only observed in certain areas of Tasmania, including Hobart"],
+  ["2027-11-01", "Recreation Day (TAS)", "TAS~", "Areas that do not observe the Royal Hobart Regatta"],
+  ["2027-11-02", "Melbourne Cup", "VIC", "Some regional areas hold it on a different date"],
+  ["2027-12-24", "Christmas Eve", "QLD~ SA~ NT~", "Part day: QLD from 6 pm, SA and NT from 7 pm"],
+  ["2027-12-25", "Christmas Day", ALL],
+  ["2027-12-26", "Boxing Day (SA: Proclamation Day)", "NSW VIC QLD WA SA ACT NT"],
+  ["2027-12-27", "Additional public holiday for Christmas Day", ALL],
+  ["2027-12-28", "Boxing Day / additional public holiday (SA: Proclamation Day holiday)", ALL],
+  ["2027-12-31", "New Year's Eve", "SA~ NT~", "Part day, from 7 pm"],
+ ],
+};
+let HDATA = HOL; // the table above is the fallback; holidays.json (updated daily) replaces it when it loads
+const DAYS = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
+const MONS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+function holidays() {
+  const yr = $("ph-yr").value, upOnly = $("ph-up").value === "up";
+  const now = new Date(), today = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+  let nextMarked = false;
+  let html = `<thead><tr><th>Date</th><th>Occasion</th>${ST.map(s => `<th class="c">${s}</th>`).join("")}</tr></thead><tbody>`;
+  for (const [d, name, codes, note, tbc] of HDATA[yr] || []) {
+    const [y, m, dd] = d.split("-").map(Number), dt = new Date(y, m - 1, dd);
+    const past = dt < today;
+    if (upOnly && past) continue;
+    const set = {}; codes.split(" ").forEach(c => { set[c.replace("~", "")] = c.endsWith("~") ? "part" : "yes"; });
+    let cls = past ? "past" : "";
+    if (!past && !nextMarked) { cls = "next"; nextMarked = true; }
+    const dateTxt = tbc ? `${MONS[m - 1]} (TBC)` : `${DAYS[dt.getDay()]} ${dd} ${MONS[m - 1]}`;
+    html += `<tr class="${cls}"><td style="white-space:nowrap"><b>${dateTxt}</b></td><td>${name}</td>` +
+      ST.map(s => set[s] === "yes" ? `<td class="c tick">Yes</td>` :
+                  set[s] === "part" ? `<td class="c part" title="${note || ""}">Part</td>` :
+                  `<td class="c dash">&ndash;</td>`).join("") + `</tr>`;
+  }
+  $("ph-tbl").innerHTML = html + "</tbody>";
+}
+["ph-yr","ph-up"].forEach(i => $(i).addEventListener("change", holidays));
+function holidayYears() {
+  const sel = $("ph-yr"), keep = sel.value, thisYear = String(new Date().getFullYear());
+  sel.innerHTML = Object.keys(HDATA).sort().map(y => `<option>${y}</option>`).join("");
+  sel.value = HDATA[keep] ? keep : (HDATA[thisYear] ? thisYear : Object.keys(HDATA).sort()[0]);
+}
+fetch("holidays.json?t=" + Date.now(), { cache: "no-store" }).then(r => r.json()).then(d => {
+  const data = {};
+  for (const [y, rows] of Object.entries(d.years || {})) data[y] = rows.map(r => [r.d, r.n, r.s, r.note, r.tbc]);
+  if (Object.keys(data).length) {
+    HDATA = data; holidayYears(); holidays();
+    if (d.updated) $("ph-upd").textContent = "Last changed " + new Date(d.updated).toLocaleDateString("en-AU", { day: "numeric", month: "short", year: "numeric", timeZone: "Australia/Sydney" }) + ".";
+  }
+}).catch(() => {});
+holidayYears();
+
+/* ---------- Home Affairs data: visas and occupations ---------- */
+const esc = (s) => String(s == null ? "" : s).replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+const HA = "https://immi.homeaffairs.gov.au";
+let FEES = [], PROC = [], OCC = [];
+const getJson = (f) => fetch("data/" + f + "?t=" + Date.now(), { cache: "no-store" }).then(r => { if (!r.ok) throw new Error(f); return r.json(); });
+
+function visaView() {
+  const f = FEES[$("vs-sel").value]; if (!f) return;
+  const link = f.page ? HA + f.page : HA + "/visas/getting-a-visa/visa-listing";
+  const skilled = ["186", "189", "190", "407", "482", "485", "491", "494"].includes(f.code);
+  const proc = PROC.filter(p => p.code === f.code || p.code.startsWith(f.code + "-"));
+  let h = `<div class="tbl-wrap"><table><tbody>` +
+    row("Application charge (main applicant)", esc(f.base)) +
+    row("Additional applicant 18 or over", esc(f.a18)) + row("Additional applicant under 18", esc(f.u18)) +
+    row("Can be lodged from inside Australia", esc(f.onshore)) +
+    (f.nonInt && f.nonInt !== "N/A" ? row("Non-internet application charge", esc(f.nonInt)) : "") +
+    `</tbody></table></div>`;
+  if (proc.length) {
+    h += `<h3 style="margin:20px 0 8px;font-size:1rem">Processing times (recently decided applications)</h3><div class="tbl-wrap"><table><thead><tr><th>Stream</th><th class="n">25%</th><th class="n">50%</th><th class="n">75%</th><th class="n">90%</th><th>Updated</th></tr></thead><tbody>` +
+      proc.map(p => `<tr><td>${esc(p.streamName || "All applications")}</td><td class="n">${esc(p.p25)}</td><td class="n">${esc(p.p50)}</td><td class="n">${esc(p.p75)}</td><td class="n">${esc(p.p90)}</td><td>${esc(p.updated)}</td></tr>`).join("") + `</tbody></table></div>` +
+      `<p class="fine">For example, 75% means 75 out of 100 applications were decided within that time. Times are a guide only and depend on your application.</p>`;
+  } else h += `<p class="fine" style="margin-top:14px">Home Affairs does not publish a processing time for this visa.</p>`;
+  h += `<div class="verdict ok" style="background:var(--bg-soft);color:var(--ink)">Age, English language, skills assessment and sponsor or job offer requirements for this visa are on the official page: <a href="${esc(link)}" rel="noopener" style="text-decoration:underline;font-weight:700">view the Home Affairs page</a>.${skilled ? ' To see whether your occupation qualifies, use the Skilled occupation checker below.' : ''}</div>`;
+  $("vs-out").innerHTML = h;
+}
+Promise.all([getJson("fees.json"), getJson("processing.json")]).then(([fe, pr]) => {
+  FEES = fe.items.slice().sort((a, b) => a.name.localeCompare(b.name)); PROC = pr.items;
+  $("vs-sel").innerHTML = FEES.map((x, i) => `<option value="${i}">${esc(x.name.length > 115 ? x.name.slice(0, 112) + "…" : x.name)}</option>`).join("");
+  $("vs-src").innerHTML = `Source: <a href="${HA}/visas/getting-a-visa/fees-and-charges/current-visa-pricing" rel="noopener" style="text-decoration:underline">Home Affairs visa pricing</a> and <a href="${HA}/visas/getting-a-visa/visa-processing-times/global-visa-processing-times" rel="noopener" style="text-decoration:underline">processing times</a>. Fees last read ${esc(fe.retrieved)}; processing times last read ${esc(pr.retrieved)}. Check the official page before you apply, as fees and rules change.`;
+  visaView();
+}).catch(() => { $("vs-out").innerHTML = "<p class='fine'>Visa data could not be loaded right now. Please try again later.</p>"; });
+$("vs-sel").addEventListener("change", visaView);
+
+const VROWS = [
+  ["189", "Skilled Independent (subclass 189), Points-tested", "Also needs a suitable skills assessment, an invitation and enough points. No sponsor needed."],
+  ["190", "Skilled Nominated (subclass 190)", "Also needs nomination by a state or territory. Each state and territory sets its own list and criteria, so check its migration website."],
+  ["491", "Skilled Work Regional (provisional) (subclass 491)", "Nominated by a state or territory (each sets its own list) or sponsored by an eligible relative."],
+  ["482", "Skills in Demand (subclass 482), Core Skills stream", "Needs an employer sponsor and nomination. Uses the ANZSCO 2022 code."],
+  ["186", "Employer Nomination Scheme (subclass 186), Direct Entry", "Needs an employer nomination. Uses the ANZSCO 2022 code."],
+  ["494", "Skilled Employer Sponsored Regional (provisional) (subclass 494)", "Needs an employer to sponsor you."],
+  ["485", "Temporary Graduate (subclass 485)", "Streams have different rules. See the official page."],
+  ["407", "Training visa (subclass 407)", "Needs an approved sponsor and training plan."],
+];
+function occFilter() {
+  const q = $("oc-q").value.trim().toLowerCase();
+  const list = OCC.map((o, i) => [o, i]).filter(([o]) => !q || o.n.toLowerCase().includes(q) || o.c.includes(q) || (o.c22 || "").includes(q)).slice(0, 250);
+  $("oc-sel").innerHTML = list.map(([o, i]) => `<option value="${i}">${esc(o.n)} (${esc(o.c)})</option>`).join("") || "<option disabled>No matching occupation on the lists</option>";
+  if (list.length && q) { $("oc-sel").selectedIndex = 0; occView(); } else if (!q) $("oc-out").innerHTML = "";
+}
+function occView() {
+  const o = OCC[$("oc-sel").value]; if (!o) return;
+  const tag = (ok) => ok ? '<td class="c tick">Yes</td>' : '<td class="c dash">No</td>';
+  let h = `<p style="margin:16px 0 10px"><b>${esc(o.n)}</b><br><span class="fine">ANZSCO ${esc(o.c)}${o.c22 ? " (2022 version: " + esc(o.c22) + ")" : ""} &middot; Lists: ${esc(o.l.join(", ") || "none")}${o.a ? " &middot; Assessing authority: " + esc(o.a.join(", ")) : ""}</span></p>` +
+    `<div class="tbl-wrap"><table><thead><tr><th>Visa</th><th class="c">Listed</th><th>Notes</th></tr></thead><tbody>` +
+    VROWS.map(([c, name, note]) => {
+      let ok = o.v.includes(c), n = note;
+      if (c === "491" && ok && !o.s491) n = "Listed for the family sponsored stream only. " + n;
+      if ((c === "482" || c === "186") && !ok && o.l.includes("CSOL")) n = "Home Affairs shows this occupation on the Core Skills Occupation List but does not list this visa against it in its table. Check the official list. " + n;
+      return `<tr><td>${esc(name)}</td>${tag(ok)}<td>${esc(n)}</td></tr>`;
+    }).join("") + `</tbody></table></div>`;
+  if (o.cv) h += `<p class="fine" style="margin-top:12px"><b>Caveats (Home Affairs):</b><br>` + o.cv.map(([v, t]) => `Visa ${esc(v.replace(/,/g, ", "))}: ${esc(t)}`).join("<br>") + `</p>`;
+  h += `<p class="fine">"Listed" means the occupation is on the official list for that visa. It does not mean you qualify: you must also meet the visa's age, English, skills assessment, points, sponsorship and other requirements.</p>`;
+  $("oc-out").innerHTML = h;
+}
+getJson("occupations.json").then(d => {
+  OCC = d.items.slice().sort((a, b) => a.n.localeCompare(b.n));
+  $("oc-src").innerHTML = `Source: <a href="${HA}/visas/working-in-australia/skill-occupation-list" rel="noopener" style="text-decoration:underline">Home Affairs skilled occupation list</a> (${OCC.length} occupations), last read ${esc(d.retrieved)}. Only occupations on a skilled list appear here.`;
+  occFilter();
+}).catch(() => { $("oc-src").textContent = "Occupation data could not be loaded right now."; });
+$("oc-q").addEventListener("input", occFilter);
+$("oc-sel").addEventListener("change", occView);
+
+/* ---------- Useful numbers ---------- */
+const NUMS = [
+  ["Emergency", [
+    ["000", "Triple Zero: police, fire and rescue, ambulance", "Life-threatening emergencies"],
+    ["112", "Emergency from a mobile phone", "Connects to 000, including when your network has no coverage"],
+    ["106", "Text emergency service", "For people who are deaf or have a hearing or speech impairment"],
+    ["132 500", "State Emergency Service (SES)", "Flood, storm and tsunami help"],
+  ]],
+  ["Police and safety", [
+    ["131 444", "Police Assistance Line", "Non-urgent police matters in most states and territories"],
+    ["1800 333 000", "Crime Stoppers", "Report crime anonymously"],
+    ["1800 737 732", "1800RESPECT", "Family, domestic and sexual violence support"],
+  ]],
+  ["Health and support", [
+    ["13 11 26", "Poisons Information Centre", "Poisoning and overdose advice"],
+    ["1800 022 222", "healthdirect", "24-hour health advice from a nurse"],
+    ["13 11 14", "Lifeline", "24-hour crisis support"],
+    ["1300 224 636", "Beyond Blue", "Mental health support"],
+    ["1800 55 1800", "Kids Helpline", "Support for young people"],
+  ]],
+  ["Government services", [
+    ["13 28 61", "Australian Taxation Office (ATO)", "Individuals", "https://www.ato.gov.au/contact-us"],
+    ["13 28 66", "Australian Taxation Office (ATO)", "Businesses", "https://www.ato.gov.au/contact-us"],
+    ["132 011", "Medicare", "Services Australia", "https://www.servicesaustralia.gov.au/contact-us"],
+    ["132 850", "Centrelink", "Employment services payments", "https://www.servicesaustralia.gov.au/contact-us"],
+    ["131 881", "Department of Home Affairs (immigration)", "Visa and citizenship enquiries", "https://immi.homeaffairs.gov.au/help-support/contact-us"],
+    ["131 450", "Translating and Interpreting Service (TIS National)", "Interpreter by phone", "https://www.tisnational.gov.au"],
+    ["13 13 94", "Fair Work Infoline", "Pay and workplace rights", "https://www.fairwork.gov.au/about-us/contact-us"],
+    ["131 232", "Australian Passport Information Service", "Passports", "https://www.passports.gov.au"],
+    ["133 677", "National Relay Service", "For people who are deaf or have a hearing or speech impairment", "https://www.accesshub.gov.au"],
+  ]],
+  ["Telecommunications and utilities", [
+    ["1100", "Before You Dig Australia", "Check underground cables and pipes before digging", "https://www.byda.com.au"],
+    ["1800 062 058", "Telecommunications Industry Ombudsman (TIO)", "Complaints about phone and internet providers", "https://www.tio.com.au"],
+    ["1300 850 115", "Australian Communications and Media Authority (ACMA)", "Telecommunications and spam rules", "https://www.acma.gov.au"],
+    ["1300 302 502", "ACCC", "Consumer and competition enquiries", "https://www.accc.gov.au"],
+    ["1300 300 630", "ASIC", "Companies and financial services", "https://asic.gov.au"],
+    ["1800 595 160", "IDCARE", "Identity theft and scam support", "https://www.idcare.org"],
+  ]],
+];
+$("nm-out").innerHTML = NUMS.map(([g, rows]) => `<h3 style="margin:22px 0 8px;font-size:1rem">${esc(g)}</h3><div class="tbl-wrap"><table><tbody>` +
+  rows.map(r => `<tr><td style="white-space:nowrap;font-weight:700;font-size:1.05rem"><a href="tel:${esc(r[0].replace(/\s/g, ""))}" style="color:var(--blue)">${esc(r[0])}</a></td><td><b>${esc(r[1])}</b><br><span class="fine" style="margin:0">${esc(r[2])}${r[3] ? ` &middot; <a href="${esc(r[3])}" rel="noopener" style="text-decoration:underline">website</a>` : ""}</span></td></tr>`).join("") +
+  `</tbody></table></div>`).join("") +
+  `<p class="fine">In an emergency call 000 first. For fire and rescue, ambulance or police, 000 connects you to the right service. Numbers may change, so confirm with the organisation's website. Last reviewed November 2026.</p>`;
+
+/* ---------- News ---------- */
+let NEWS = [], topic = "All";
+function renderNews() {
+  fillList($("nw-list"), NEWS.filter(i => i.topic !== "Innovation" && (topic === "All" || i.topic === topic)), 16, false);
+  fillList($("in-list"), NEWS.filter(i => i.topic === "Innovation"), 10, true);
+}
+function fillList(list, all, limit, innovation) {
+  list.innerHTML = "";
+  const items = all.sort((a, b) => b.date.localeCompare(a.date)).slice(0, limit);
+  if (!items.length) { list.innerHTML = "<li>Nothing to show yet. Check back soon.</li>"; return; }
+  for (const i of items) {
+    if (!/^https:\/\//.test(i.link)) continue;
+    const li = document.createElement("li"), a = document.createElement("a"), meta = document.createElement("div"), tag = document.createElement("span");
+    a.href = i.link; a.target = "_blank"; a.rel = "noopener noreferrer"; a.textContent = i.title;
+    tag.className = "tag"; tag.textContent = i.topic;
+    meta.className = "meta"; if (!innovation) meta.append(tag);
+    meta.append((i.source ? i.source + " · " : "") + new Date(i.date).toLocaleDateString("en-AU", { day: "numeric", month: "short", year: "numeric", timeZone: "Australia/Sydney" }));
+    li.append(a, meta); list.append(li);
+  }
+}
+function newsFilters() {
+  const f = $("nw-filters"); f.innerHTML = "";
+  ["All", ...new Set(NEWS.map(i => i.topic).filter(t => t !== "Innovation"))].forEach(t => {
+    const b = document.createElement("button"); b.textContent = t; b.className = t === topic ? "on" : "";
+    b.onclick = () => { topic = t; newsFilters(); renderNews(); }; f.append(b);
+  });
+}
+function loadNews() {
+  fetch("news.json?t=" + Date.now(), { cache: "no-store" }).then(r => r.json()).then(d => {
+    NEWS = d.items || [];
+    if (d.updated) $("nw-upd").textContent = "Last updated " + new Date(d.updated).toLocaleString("en-AU", { day: "numeric", month: "short", hour: "numeric", minute: "2-digit", timeZone: "Australia/Sydney" }) + " (Sydney time).";
+    newsFilters(); renderNews();
+  }).catch(() => { if (!NEWS.length) { $("nw-list").innerHTML = $("in-list").innerHTML = "<li>News could not be loaded right now. Please try again later.</li>"; } });
+}
+loadNews();
+setInterval(loadNews, 10 * 60 * 1000); // pick up new headlines while the page stays open
+
+/* ---------- Stock quotes (TradingView widget) ---------- */
+(function () {
+  const names = [["ASX:TLS", "Telstra"], ["ASX:TPG", "TPG Telecom"], ["ASX:ABB", "Aussie Broadband"], ["ASX:SLC", "Superloop"],
+    ["ASX:MAQ", "Macquarie Technology"], ["ASX:MP1", "Megaport"], ["ASX:NXT", "NEXTDC"], ["ASX:CNU", "Chorus"],
+    ["ASX:SPK", "Spark New Zealand"], ["ASX:TUA", "Tuas"]];
+  const s = document.createElement("script");
+  s.src = "https://s3.tradingview.com/external-embedding/embed-widget-market-quotes.js"; s.async = true;
+  s.text = JSON.stringify({ width: "100%", height: 560, symbolsGroups: [{ name: "Telecoms", symbols: names.map(n => ({ name: n[0], displayName: n[1] })) }],
+    showSymbolLogo: true, colorTheme: "light", isTransparent: true, locale: "en" });
+  $("tv-box").append(s);
+})();
+
+fibreLoss(); dwdm(); takeHome(); holidays();
+</script>
+</body>
+</html>

@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>DWDM Network Planning &amp; Design | Vench</title>
-<meta name="description" content="Vench plans and designs DWDM networks. Experience with Nokia PSS, OSN 1800, Cisco and Ribbon DWDM platforms, and DWDM infrastructure delivered across more than 15,000 km.">
+<meta name="description" content="Vench plans and designs DWDM networks using any vendor's equipment, with experience on Nokia PSS, OSN 1800, Cisco and Ribbon platforms and DWDM infrastructure delivered across more than 15,000 km.">
 <link rel="icon" href="logo.jpg">
 <link rel="stylesheet" href="style.css">
 </head>
@@ -15,6 +15,7 @@
     <a href="index.html" class="brand"><img src="logo.jpg" alt="Vench"></a>
     <nav>
       <a href="index.html#services" class="active">Services</a>
+      <a href="tools.html">Tools</a>
       <a href="index.html#about">About</a>
       <a href="enquire.html">Enquire</a>
     </nav>
@@ -31,34 +32,63 @@
   </section>
 
   <section>
-    <div class="wrap detail">
-      <div>
-        <h2>Proven across major DWDM platforms</h2>
-        <p>We plan and design DWDM networks, and we have hands-on experience with the platforms used in carrier networks.</p>
-        <p>Our team has delivered DWDM infrastructure for more than 15,000 km.</p>
-        <a class="btn" href="enquire.html">Enquire about DWDM design</a>
-      </div>
-      <div class="panel">
-        <div class="stat">15,000+ km</div>
-        <div class="stat-label">of DWDM infrastructure delivered</div>
+    <div class="wrap">
+      <img class="banner" src="images/fibre-cables.jpg" alt="Blue labelled cables connected to network equipment">
+      <div class="detail">
+        <div>
+          <h2>Proven across major DWDM platforms</h2>
+          <p>We plan and design DWDM networks, and we have hands-on experience with the platforms used in carrier networks.</p>
+          <p>Our team has delivered DWDM infrastructure for more than 15,000 km.</p>
+          <a class="btn" href="enquire.html">Enquire about DWDM design</a>
+        </div>
+        <div class="panel">
+          <div class="stat">15,000+ km</div>
+          <div class="stat-label">of DWDM infrastructure delivered</div>
+        </div>
       </div>
     </div>
   </section>
 
   <section class="soft">
     <div class="wrap">
-      <h2>Platforms we have experience with</h2>
-      <p class="lead">We design across multiple vendors, so the design fits your network rather than the other way round.</p>
+      <h2>Any vendor, any equipment</h2>
+      <p class="lead">We design networks with any vendor's devices, so the design fits your network rather than the other way round. We have hands-on experience with:</p>
       <div class="chips">
         <span class="chip">Nokia PSS</span>
         <span class="chip">OSN 1800</span>
         <span class="chip">Cisco DWDM</span>
         <span class="chip">Ribbon DWDM</span>
+        <span class="chip">And other vendors</span>
       </div>
     </div>
   </section>
 
-  <section class="cta">
+  <section>
+    <div class="wrap detail">
+      <div>
+        <h2>Technical approach</h2>
+        <p><b>Channel plan.</b> DWDM carries many wavelengths on one fibre pair. We plan on the ITU-T G.694.1 grid: 100 GHz or 50 GHz fixed spacing, or flexible-grid for higher-rate coherent channels. In the C-band (about 1530 to 1565 nm), 50 GHz spacing gives up to 96 channels.</p>
+        <p><b>Line system.</b> Amplification with EDFAs, with Raman amplification added on long or high-loss spans, and ROADMs where wavelengths need to be added, dropped or re-routed remotely.</p>
+        <p><b>Coherent transmission.</b> Modern 100G, 200G, 400G and 800G coherent transponders trade reach against capacity. We match the modulation and rate to the span length and the required margin.</p>
+        <p><b>Link budget and OSNR.</b> For each design we check per-span loss and the optical signal-to-noise ratio (OSNR) at the receiver, with margin for ageing, repairs and tolerances. Try it in our <a href="tools.html#dwdm-budget" style="color:var(--blue);font-weight:600">DWDM link budget calculator</a>.</p>
+        <p><b>Protection and resilience.</b> Optical line protection, 1+1 client protection, and mesh restoration, designed together with the diverse fibre routes underneath.</p>
+        <p><b>Transport layer.</b> Client signals mapped to OTN (ITU-T G.709) for monitoring and forward error correction, with latency and timing considered for each service.</p>
+      </div>
+      <div class="panel">
+        <h3>What you receive</h3>
+        <ul>
+          <li>Network topology and channel plan</li>
+          <li>Span loss and OSNR budgets</li>
+          <li>Equipment configuration and bill of materials</li>
+          <li>Rack and power layouts</li>
+          <li>Protection scheme design</li>
+          <li>Commissioning and acceptance test plan</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section class="cta soft">
     <div class="wrap">
       <h2>Planning a DWDM network?</h2>
       <p>Tell us about your project and we will get back to you.</p>
@@ -70,7 +100,7 @@
 <footer>
   <div class="wrap">
     <span>&copy; <span id="yr"></span> Vench. Sydney, Australia.</span>
-    <span>Fibre &middot; Structured cabling &middot; DWDM</span>
+    <span>Photos: <a href="https://unsplash.com" rel="noopener">Unsplash</a></span>
   </div>
 </footer>
 <script>document.getElementById("yr").textContent = new Date().getFullYear();</script>

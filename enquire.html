@@ -15,6 +15,7 @@
     <a href="index.html" class="brand"><img src="logo.jpg" alt="Vench"></a>
     <nav>
       <a href="index.html#services">Services</a>
+      <a href="tools.html">Tools</a>
       <a href="index.html#about">About</a>
       <a href="enquire.html" class="active">Enquire</a>
     </nav>
@@ -50,7 +51,15 @@
           <option>Fibre infrastructure planning &amp; design</option>
           <option>Structured cabling design</option>
           <option>DWDM network planning &amp; design</option>
+          <option>Site survey &amp; as-built package</option>
           <option>Other</option>
+        </select>
+        <label for="engage">How would you like to work with us?</label>
+        <select id="engage" name="engage">
+          <option>Not sure yet</option>
+          <option>Hourly rate</option>
+          <option>Daily rate</option>
+          <option>End-to-end project</option>
         </select>
         <label for="message">Project details</label>
         <textarea id="message" name="message" required></textarea>
@@ -64,6 +73,13 @@
           <li>Fibre infrastructure: new build, expansion and route diversity</li>
           <li>Structured tie cabling for exchanges and data centres</li>
           <li>DWDM network planning and design</li>
+          <li>Site surveys and as-built packages</li>
+        </ul>
+        <h3 style="margin-top:28px">How you can engage us</h3>
+        <ul>
+          <li>Hourly rate</li>
+          <li>Daily rate</li>
+          <li>End-to-end project</li>
         </ul>
         <h3 style="margin-top:28px">Where we work</h3>
         <ul>
@@ -77,7 +93,7 @@
 <footer>
   <div class="wrap">
     <span>&copy; <span id="yr"></span> Vench. Sydney, Australia.</span>
-    <span>Fibre &middot; Structured cabling &middot; DWDM</span>
+    <span>Fibre &middot; Cabling &middot; DWDM &middot; Survey</span>
   </div>
 </footer>
 
@@ -103,6 +119,7 @@
     }
     var body = "Name: " + f.name.value + "\nOrganisation: " + f.org.value +
                "\nEmail: " + f.email.value + "\nService: " + f.service.value +
+               "\nEngagement: " + f.engage.value +
                "\n\n" + f.message.value;
     window.location.href = "mailto:" + ENQUIRY_EMAIL +
       "?subject=" + encodeURIComponent("Vench enquiry: " + f.service.value) +
