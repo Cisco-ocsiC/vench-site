@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T04:44:50.396Z",
+ "updated": "2026-11-02T05:46:32.217Z",
  "items": [
   {
    "topic": "5G",
@@ -17,13 +17,6 @@
   },
   {
    "topic": "5G",
-   "title": "Module 2: Cut your mobile phone bill in half",
-   "source": "Finder.com.au",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB3RUFGNkM2d2ZpakppVm8za0hzYmViVjVEMXRBVE5saWhnOUNSRFhPdnlsOWdQMV9wU1JzTW5hVFhlZEZYZmVGNktJNmV6TlF3dEZYUENlc2NqRUNDZThxWGZUb3VGZVdSNDFqNkln?oc=5",
-   "date": "2026-10-28T07:00:00.000Z"
-  },
-  {
-   "topic": "5G",
    "title": "Australia summit to explore AI-native networks & 6G",
    "source": "IT Brief Australia",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTktMM1BqYzM5a2dxM3dGeUtLZmN0OVRDNWtwUlprZmRwWGR4a0hTVzdCM0tVVVN6ckNJVTJBLWlDX0oxTmFvREs2MkQ0MldCTFlfbGg1bkpybnBtVFBvdkNMeFNIZkxFSmFXazRhZ19oeUVEWnBPVWtGZm1RamhDak9wX2c?oc=5",
@@ -38,10 +31,17 @@
   },
   {
    "topic": "5G",
-   "title": "Woolworths and ALDI now have 5G mobile plans",
+   "title": "Telstra enables satellite text messaging for select customers",
    "source": "WhistleOut",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWkw1bi1aUXZHam5IcWxZa3B0WW1xM2YxZEcwLVlMdGZ3b05qT1hVaFFCd1NwaWlpaTVfZ3NsY2hMdEg0RzZuYWRTQWRPZF9YbFdaRjRDY2luYWZHSWVkS29iWnBnd0RNOFdEQ0F2c2kzN3JTMjk1Um05TUtoNWxId0d3NGZPd3A5T1pCSklMVEZjVy1JRHlhbw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZGpNMHVzTkwxRFpLajJFMDBUX2N6ZHQ5eXdIbmhqV29mOE5WZW9uLVowcnRzYlhWcGcwUVI0X1ZUeWFFRk1tTFFhd2tqeWRDRVhTNzNfWVVTX3NkczNnaG1WeHNTWk5MQWtuNWZrSG9IejR4WDc1ZGZmT2VQajVhRkxPVEg5dVl5UXc?oc=5",
    "date": "2026-10-27T07:00:00.000Z"
+  },
+  {
+   "topic": "5G",
+   "title": "Cheap mobile plans from Vodafone network providers",
+   "source": "WhistleOut",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcTFGS2prazBUa2E1STdXakloSzNQbC0zcWUzd1J2WWVFNGlWdkNXd0RWV1lUcWV2aFRLVXJUVXdsM3pvYTkyc0N1U2tWUzhKNDVsUzlkNVBVUkZ1V1hySGdpOXNwaEVDYWxvU01qcFBkOTF6cFgxNWxGZkdWN1hwRWRWbW4xeWZEcm9j?oc=5",
+   "date": "2026-10-26T07:00:00.000Z"
   },
   {
    "topic": "4G",
@@ -164,20 +164,6 @@
   },
   {
    "topic": "Innovation",
-   "title": "Tinubu Welcomes Airtel Open Network Initiative, Urges Operators To Improve Service Quality",
-   "source": "TVC News",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdzJ2Rm1SU2I4WjA1UXhkVEJWOUxla19uXzFJeHVUT3M3aE9Yc1RxNWZKYXBkRWx5VVdIWXRhY1U1dWpYUktJc21CQ1MxcjRDU3FsbUVDdGlIcVFaVmYtMk5sVWpsbFMzVC15LTVXbGxSUHFEOE1Fc0ViWUtIRmZEMUtoNkhFeHRuOHNzcHNoaXRjVmZaQXRkal9Zc3owbEl6YTY5STYwQ2VLY0ZXanlQcy1HQQ?oc=5",
-   "date": "2026-10-31T07:20:00.000Z"
-  },
-  {
-   "topic": "Innovation",
-   "title": "The Posts and Telecommunications Institute of Technology hosted the Vietnam-China Workshop on Artificial Intelligence Research and Application.",
-   "source": "Vietnam.vn",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNkVVUkJWaFd1QnBTa2hPQkRjTTZsTl9mSUo4VDlWVzdxY25lWVhzQlhJajhMZUQ3OUFmbWVoTm5DaWYzYlJKbjNRQ2pySFNkQlVwM0FveVNjLU1ncFZvMTlsYXRuSVEwYVBvY2NYRlcyYjVEamMxbXFGcU1ybWRBYU9kNUNnbVhXU3REUEF2cWVVLTlXZVV6RTdrX1lwVTY5YWNlTnBhdmtaRnNlMDd1Tjh0cFNpSWtjVWd6b05KZm56aktPMHhpNEo5SFBZcVRPdDQ1VGpvOUJpRndaSWc?oc=5",
-   "date": "2026-10-30T08:46:08.000Z"
-  },
-  {
-   "topic": "Innovation",
    "title": "Can AT&T (NYSE:T) Keep Its Fiber Momentum After a Record Quarter?",
    "source": "Kalkine Media",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQU1VwTVRKdzhCSXVVajFSQ2NlSXdZZnBZaVVqSWFPZWZQc2VFSTFOeEdsSkl4QklULXo1QmQ5UDRtZ1VZOGZxSlNDb3REREZIQjlUWjV2aU9ESkNhM0lXX2xLbWc0QkI0WnhtNTJqVVFrN0J5bThTQ1NUc2s1a0dnbE9tdVo0bkZXVlIydmVoRTJvQlR5UFFRRTFOWktrQ0NhNk8yUTMwSnBzWXJRRlE?oc=5",
@@ -189,6 +175,20 @@
    "source": "https://www.fintechbiznews.com/",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWlE1SEFSTGktQk1tanprTWpudFJHWDF0TEJhX0lWVFNWUXZWZzBNMzFRVG0wdjFrODNyR2FaajVvaEg4aElMU2hHOTNnS3BONjFWWUVmd0JnZmd4MmlSLTZzcUMwSDdSRmhCWmZ1Q083Y3piWlhWdlBlcm5rRE12Q010VWRXS2phNWdKdFBINmRtVjBIOThkWkxVblhJTVZNNzJWU2dJQQ?oc=5",
    "date": "2026-10-29T23:32:08.000Z"
+  },
+  {
+   "topic": "Innovation",
+   "title": "6G to mark next leap in technology and human civilisation, says Scindia",
+   "source": "ET Government",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPb1huM0hTYVFzZ01CZ0wtTTRFbE53MlhweVNVQ05pTklNeTVKQjIwNERRRzVPNW9FQU5MczY3UkJZUnBuYTVJd3JHd2ZZMF9RazI2UnZyRG56TXdQZXBqRFBmSDBYRmw2OWlQTmRTcDMtRE9PVWtiZ0VDbG9wTlppVTl1RFF0cDBEX0RvcnIxMDZIa0Mwb092eXVFSUdVbWRjTllpdlMxdUxzbGRrUm9jb0Z3cDc0TnBxUThNdWQ3NEZUdEZTcGRoblZJM1N3REZCekRWOGtUTHF3QWowNGxGU0F5Z0JHd9IB4AFBVV95cUxQYnhfOFBtd1RpMXVGcDR0Ui0zbTVzRndWRzJ4RGVwLWZUWEc2MnNISllSeXRRanEwbGUwa2ZYM09UcVlNN0FKbnA4eHhtWGl6dmxVOEIxcUJGMzBOUFFpdXE3eW85cElqUHlMZEwxWVpVMlF0NlpMZzByLUk1Yl9ER2hhelZCaHhJczFhb3UzT3lrTVowUUx0UHBDYWZSa1B2ajlSSGZ5V00tTEo0MHRBZlJYcGRmNU54bXFKaWVsZVN6QjZrOU9Sc2licG5ZQXNjWUVBUUswYmlqZUlIcTQ1Vg?oc=5",
+   "date": "2026-10-29T22:24:25.000Z"
+  },
+  {
+   "topic": "Innovation",
+   "title": "Gov't Unveils Plan to Leverage Safaricom Network for Weather Monitoring",
+   "source": "Nairobi Leo",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRDNPZk04WlE4VUZ1ZE5vZXoyVm5DRkVpVFg1WFFrYndvYmtpaGp3d0xoREI1bmVxSzBUMGEwVWp1dVpLcURxdldDV1dzLU4xQ19URkEyUjUxTWVMdkcteU44Z2NRS3o0TGV1d1RWaFl6ZkJBTjREYlQtdWtoZkVuMlV6aG55TkdEek5tejEwaDkxVVR2SmVZMHJNbVQtWG5Xb2pkeE9kcHlrLWpCb3dxeXJrUWc?oc=5",
+   "date": "2026-10-29T04:00:00.000Z"
   },
   {
    "topic": "Innovation",
@@ -206,24 +206,24 @@
   },
   {
    "topic": "Innovation",
+   "title": "Principal Secretary for Broadcasting and Telecommunications Stephen Isaboke, who represented the Cabinet Secretary for Information, Communications and the Digital Economy William Kabogo (Centre in Blue Suit), in a photo session alongside other stakeh",
+   "source": "Facebook",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOW5Ld0VuR21yTFpZYUR4eVgzWU12ZmprNEc5ekhTREZ1Sk9YZlFraV9LLWFqTTVCelk0ZnlYQmpUVTJ3b1dtaUdVODNBN3g2QXd1RkJiNmhsUDhmMURfOU1LeHQ5bVo3YVZTMC1RaDBHcndEb3NCSzdiaFlUOXdBLXZUVW1lRG1hN3hnNV8tZkJvR3lhNUVDSXRfYzlTNjd5UW5ldDM5SFoyQUpzampxSTl5YVZrZUpxS0g4azI5b25RR1NvWVk3dzBtemlHNnBRdGdvaXFKR05TeUJVQkE?oc=5",
+   "date": "2026-10-28T14:39:22.000Z"
+  },
+  {
+   "topic": "Innovation",
+   "title": "DoT Leads Thematic Session on ‘Intelligent Networks and Quantum Communication’ at ESTIC 2026",
+   "source": "www.pib.gov.in",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5aa3IyUVhvY3VLUVROWjhNSm5ZT2c0T09hcEp4SWNValliNHlHX1k5UEdYTVIxR1ZqQWRiQWxwb1NSeTBmaXE4QW90Q2tYOE93Y1dxdzZYdHZ2WlZpRUxwa0pjeWxXX1hjeEd6aXZNeV8?oc=5",
+   "date": "2026-10-28T14:16:00.000Z"
+  },
+  {
+   "topic": "Innovation",
    "title": "New Vilnius University (VU) centre to advance 6G communication research",
    "source": "Innovation News Network",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSHNENWxwOWFXTVlLODVEeEJpMGljdmlBZjVfTkxNdlVVQVFlWHFPV3RpeUVZUldwQXJXandZRXZBMmxPQWFIMjVjV2J0LUhMZkNGRWlHdS1CR21Kc3VKQklLWVAxbE9JX1h3a21VTzZOUUlNQUZKWmZ4NUphQzJwVGZyOUd5Tk1oQlNYZzNhYUkyOHFGTTRqT2VfZkpsOWswMFk0bmxFRGtISE0xdFhhOQ?oc=5",
    "date": "2026-10-28T11:14:12.000Z"
-  },
-  {
-   "topic": "Innovation",
-   "title": "Chile unveils 10-year digital plan to accelerate 6G, phase out 3G and unlock billions in investment",
-   "source": "Intelligent CIO",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxObFppUmNLdWhJbENwcEtzdjFRQjVEdW82ZlBDZTBTTERnTkdHRnRsb1F3YU03NTNDLVZ0a1kyX1pVaWdvTUlBSllXWDdoUzV3Qkd5ZWxDdzNMY0Z0ZEpPLXpEZ1VIY0RHZFVZcVI1dDBNemtDSUtzbzVYUndvaUlrc2dJUFhtNzhEZ0pnTEI2M2wwdU5oa3VxZE5abURtODMtYkxMbHl0UklwUU56R2N4SlJrMUxZZXhTYmdBVmotMWlva3N4ZjZ2S1Z4VUlrRl9GX0ZUTXZXNnN3a1huN09uMA?oc=5",
-   "date": "2026-10-27T15:02:53.000Z"
-  },
-  {
-   "topic": "Innovation",
-   "title": "Meet Ghanaian American engineer recognised for telecommunications innovation",
-   "source": "GhanaWeb",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUTRTWTBYRlQxS183b2RpN1BYQ0huT1ZIOGlBRlN2ZFk2SFZTTmp1WkZIbjQ2Yy12ZkJWVnp3MnBLVllCbDMxeHF0Y29GRmUxdEZoQWIzRUU5OUlPTmJVWHdRSXpzVUpLb014ekhUV05WZy02Tkw3c0FLSUdlaFRmUVMwSFlzWjBGd2hkbUF1S1pyYU1SeEZscHNUNXFYV1FQSHBOZlYwdHhOQkQyVXJOQ2MybDZDRUluYkZ1UGt4RVRwMjZCQV9aS0dtejQ?oc=5",
-   "date": "2026-10-26T11:40:17.000Z"
   }
  ]
 }
