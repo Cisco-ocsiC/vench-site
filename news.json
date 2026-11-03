@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-03T20:32:03.574Z",
+ "updated": "2026-11-03T21:29:05.748Z",
  "items": [
+  {
+   "topic": "5G",
+   "title": "Musk Targets Boost Mobile In Satellite Carrier Grab",
+   "source": "ChannelNews.com.au",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNclBQanR0dnpEb05zcGhkVjlLVElDUkF2eS1qXzZiZW5hdGNDellfLXF4VGFPZng2ZmVzQnpmNVAzdE1NOUtzZDJ3ZGFRZHJhbnZEQ2trR1RpRWVVbXVzbzJBanJsakpTT3dKaEk0c2JQWkJrRkFMVnUwLWVGWU8zOUJSdkI4VkhCQ3Vr?oc=5",
+   "date": "2026-11-03T21:25:22.000Z"
+  },
+  {
+   "topic": "5G",
+   "title": "New plan needed to deliver 6G technological and revenue benefits",
+   "source": "Independent Australia",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONEc0M0hkajBaWFBXUUNWcWkyNEQ4U2lESDd3WmtMbFY2WWM5RjRoUDJ6UDhPOGFaWVNUdlhiOVdGM3JkZm9GLUdSTVBLWlI1endKUXpIUTQ5ZUVoVUNfNGxYa2VrMll3ZzFYZlhnd0t4Tmd2UUlVbTRxc0lOWGpjOVZKODFSV0xNUi1fY2lnTDUzYmttS1Q4MkZZUGpobXhobUg3QVQyUktoVTk4OXg3TjZ6eENWRFpaT2J1MnppSnM3VDNHd2pHWg?oc=5",
+   "date": "2026-11-03T21:00:40.000Z"
+  },
   {
    "topic": "5G",
    "title": "Telstra thinks Australia could become AI’s trusted Asia-Pacific hub",
@@ -30,20 +44,6 @@
    "date": "2026-10-30T20:05:06.000Z"
   },
   {
-   "topic": "5G",
-   "title": "Using 5G networks for drone detection – two major steps forward in one day",
-   "source": "Unmanned airspace",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRUJkWmlNX1RId0ZYdnJHUmh1dDFJQWExZlE0c3YzR2dkWmh1TjY0UWFxZ2l0ME8zblBMeV9SSEdPYkVvMkIzYlZvMHBPVEtKaS1PTFZCN19mdDRKeFpLR0hOQ0ZjZnRUZjNfU0JNR05HZzM2OUwtenU0MkdUY1NRWE5aLW1sQjFfWGVaYVk3TUVsZnZoVXd4UmtYX3dQU1M3dW5tNURaVE02ZE5IYTNZeVE4RnVjMW9lUXc?oc=5",
-   "date": "2026-10-30T17:19:15.000Z"
-  },
-  {
-   "topic": "5G",
-   "title": "14 Most Affordable SIM-Only Plans In Singapore That Will Make Your Monthly Telco Bill Less Painful",
-   "source": "TheSmartLocal",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xNi1rVUR6cDNKS2pnc2dBTC1Jb1AyNnJfZ0tCUndmRzJxSlpxUGc5a2dzdm9pakJVOU43emhISUxtdWI3LTRRbDQzdWhYMUVxOGdDYm5oQjRUcURQZTBrQWg3RENuVjDSAWxBVV95cUxPNFlHZjdDTkgzNmNnaDJ4Zkc0YXNGZ2RoaVVRM2haWDE0SDMxNURvOXdicVNUV1E2NnNLa08xeW1yUU5teTBCZWNBRUY1T3hfdjVGSVFnaFh2ZmR6cXp3UWJqaXZqN0laSlBhRU4?oc=5",
-   "date": "2026-10-30T07:00:00.000Z"
-  },
-  {
    "topic": "4G",
    "title": "Mexico’s telecom operators trim coverage spending as market consolidates",
    "source": "BNamericas",
@@ -59,31 +59,31 @@
   },
   {
    "topic": "4G",
-   "title": "Korea Telecom to halt sale of new 3G plans",
-   "source": "Data Center Dynamics",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTW9BWmZHREdxWFhhOVNkREhIc3RGSWxXYk5URm03WTBUeWxXMWtNdEZUMExBOGdoY01qQ1JoaXk1Sk5QQU9hdGF5dFZ6MXEwTHJkcHlvbzgxamZRMUhYT1JRR3lTOVJwQ1RLeGx2ZC1xZUVMQm44dzZRSG9RQmwtVWR4anlyUHUzRnQwYXpoQQ?oc=5",
-   "date": "2026-11-03T09:07:28.000Z"
-  },
-  {
-   "topic": "4G",
-   "title": "Samsung and KT test autonomous network technology at baseball stadium",
-   "source": "Telecompaper",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX2dTS3BBNjN1VkZMbmhtZEZrRVRpMXR6SEZPY3VKbF9vVkV2Z20zQVZFZ3ZkczBYdkNoSlhJdTZ2ZkRKZER0WlZ6YzFaOGhYSW1lSFJ6czZKelZuRWRXYlRsZGNUbGlUZGJ5OHU5aE9QN1hGMHBZcHpybUZVUlZva3BKUmh5bk1heUxPckw1X1FrSWdpd2NXbEZfUUVyUkxKU3dQT3ZBbXJsanFjWUVRUS1R?oc=5",
-   "date": "2026-11-03T04:57:11.000Z"
-  },
-  {
-   "topic": "4G",
-   "title": "New Satellite Connectivity Redefines 4G GPS Pet Trackers for Owners and Buyers in 2026",
-   "source": "WBOC TV",
-   "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPVVgySGo4TGZkUENoM0FBcWNtbFJHdlRBdG1xN09TWmhiNkg3U3RLaTN2U2hBdFR0SW51eklubXhiVEEwcXRibFRBVDNkNWJuMzAzUUMtNGFrMWtYejFSMTh0MWZLWDBYUEQwNy1NVFdTQTFURjlIbXEtRWNURXBlWFB6UE5XbWZwTVlNaVBhdVFXYVEwR1Z1WGJUY2tMUWJHc0JMLXg2YmxTaDB3VGd3Z2VLMjFuUHM1eWt5NWlzYXVyU2ZXSEJ5NE1EdWhfQUhoVHVXVk5HOXU4bEJld1lsR1E0RU1DdlVWSkVqNm04cXVSdGJpM0wyT0dwS0tUTEhHeFQyMEVrVDVTcGJtVW42OEhDdTBHMms?oc=5",
-   "date": "2026-11-03T03:30:02.000Z"
-  },
-  {
-   "topic": "4G",
    "title": "Dutch mobile antenna sites increase in September",
    "source": "Telecompaper",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRFpIRnEzRVRXV2N0RE1qWmJPQW9CSXBYdV9sN084YmhnRXk0aHJyTkpsanJVRjB3YUhOcHVLdXBNNFdMMjJtNTlRR0drSFA5SV85OUZ5Zl83cnFSQUY1eTlhODFZbnUzcGVUMFdJRHVRZjAweW1tVHhKSVlEekF3Rmw5alNmVDZQLXROcmJaZmlVRXRPUnc?oc=5",
    "date": "2026-11-02T15:35:41.000Z"
+  },
+  {
+   "topic": "4G",
+   "title": "Africa Telecom Market: Spectrum Reforms Could Expand 5G Coverage by 170 Million and Boost GDP by $120 Billion",
+   "source": "TelecomLead",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNHZsMzF3U3R0ZjEwa3FaclUxR283cWI4N19VbW5ueW1RU3V0VWVVLUQwZlpWQ01sWmxWcG85cGp4SFdlaFdVOW4wTjZUUkdVWTdEa3RXZ0pqRktYZEVnLXZMVDJOTV9YNG9WNjVtenRvc3JaS2R2SFRmUm9Bd3hMOHI4T0l6bF9UZG1BdnJIYW5CSzdCV0w1TXpuX2JBR2F4cmxpWkNwUjJ1aHdfNWJUWkw4aTRUWi1velVKa0cwSm1RZVdyeXJBSXlkLXhMcG82bVdITHgycWhnNWgxU01RSHc0UlFPZ9IB5gFBVV95cUxNNHZsMzF3U3R0ZjEwa3FaclUxR283cWI4N19VbW5ueW1RU3V0VWVVLUQwZlpWQ01sWmxWcG85cGp4SFdlaFdVOW4wTjZUUkdVWTdEa3RXZ0pqRktYZEVnLXZMVDJOTV9YNG9WNjVtenRvc3JaS2R2SFRmUm9Bd3hMOHI4T0l6bF9UZG1BdnJIYW5CSzdCV0w1TXpuX2JBR2F4cmxpWkNwUjJ1aHdfNWJUWkw4aTRUWi1velVKa0cwSm1RZVdyeXJBSXlkLXhMcG82bVdITHgycWhnNWgxU01RSHc0UlFPZw?oc=5",
+   "date": "2026-11-02T05:42:46.000Z"
+  },
+  {
+   "topic": "4G",
+   "title": "4G LTE Market Size, Share & Forecast 2036",
+   "source": "Fact.MR",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xM0ZneUg2QTJObjVQUENWLVhpa0pxRzN5VU01OGRycmRUVzBrbkl4NElWSjJEZnRnLWx4M2FrZjFKbTNCSmloaEVTTEU3cm5IeGtuRHB3?oc=5",
+   "date": "2026-11-01T18:30:00.000Z"
+  },
+  {
+   "topic": "4G",
+   "title": "One Communications completes nationwide 2G shutdown, advances network modernisation",
+   "source": "Demerara Waves Online News- Guyana",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTHVEbVJiSmdPTWMwb05iOGJ2M1pLN3AwaEVEZmZweFRSQk1wcldMMnB1ejRLemIxRWloT3doamVlazFESkJRRU1mSjdVUE9MV3pJT1hOaG96dmlfT2ktdkJiNjV6UWFQblBiNmw3LThrbkJDbk4xdGM2bVJRTm1USU9xVXNDa3VZSGxaUXdoODRvOURFMkRtdTNiV2x0VkdoMDlVQ1lsel8yN0dkN0QyblcyTDhId1lwMk9GY3ZfSUV5LTd3WDVJc1V3?oc=5",
+   "date": "2026-11-01T11:55:46.000Z"
   },
   {
    "topic": "Optical fibre",
@@ -104,7 +104,7 @@
    "title": "Speer IT gains new investor to expand network software business",
    "source": "Telecompaper",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQenVTb0ZwRHhxbmd4MWY3VDdmNmd3UEJzOTNDTDZ6UURheVU0S1RGcWk5YllUeGprTk4yd2pyMldreTJPcThuUW84bnRSU2kyN2J6UUo3eF9HZHgxenBsdk1SbkNvaDU1cWcwbDlYYXM4N2J6LWNZZXVHc3lKZTdGaTlJei0wOEhPSlJ3anV4cnV5MURJZWF4SnpCQUkzallDYTY1TWMtVXowdw?oc=5",
-   "date": "2026-11-03T12:56:15.000Z"
+   "date": "2026-11-03T12:57:12.000Z"
   },
   {
    "topic": "Optical fibre",
@@ -174,7 +174,14 @@
    "title": "MediaTek and Ericsson Achieve World’s First Successful Multi-vendor Pre-6G Joint Field Trial with T-Mobile US",
    "source": "MediaTek",
    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxONnlWV3hpX3dxUFpkbXp1eGxVQ1paVkdCaUFmWkZWWHMzZFhfbDY2bGQ3alZwcF82V3V2aVA5bUdXdng4TC1fa0c1M2xFTGJDMkxLU1hPMFVmbDRpM0laNzluall6NVZHZm9ud0RjMWJJeFlqZkhJbDdldGxNRTdBVUppQ0ZVamd6YXB4UG5VTTVUSmF0NUxhLTlYanRsdWJHOC1aRlk1bHdfd3NQaWxJMW04dEUxLXhVbmxET3Z0UUVXdXBYaEhtUXpzMGs2a241M2I2TGppbHkyM3BE0gHsAUFVX3lxTE5wZmRpNTVBeXVIVGdqNUZBZWVHV0l0MjZlQWV5c1ROVlhPUzJWYlJuRm1CeGhjeVFSVjd1OGVsM2p0ejNxQkM2OWliYWJYRHlSR3pBVnlKQjVRS1kzaUhFRUttVzBkMkhEVGVTY0RUYXQxWmFrYmlyODRxWlU0ampURmtHTGxlbEpHb1hyVGc5MWs2N01aekp6VGllazltWGh0MFktVXZxbGZlX1hOY2tMTndRZnpvemtLamlKbUQ3dEJGU2EyOU5pYTVzeGNjUDNZNzFLc0REcWxFS0NwNGcwbl9YRmRELUpIRjE3?oc=5",
-   "date": "2026-11-03T14:03:24.000Z"
+   "date": "2026-11-03T14:18:48.000Z"
+  },
+  {
+   "topic": "Innovation",
+   "title": "Telecom news: Telia, Ericsson, ZTE, du, Maxis, U Mobile",
+   "source": "TelecomLead",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWG03LTNVYlFHcmpwX1Z0cy1sQkNYdmpIU3VlUzc4bkhpbWMxOUItM2tvZzRPTDNBU2tzSVBEWVloWWt3RXFYekxrb2toazhwTzhiU3ZrRHdSZGpoUXZVNnYxVkRsWEFPWjhEU3BYWjVvMklCRFFoOV9ib09ndXBxTU81N28tdnY2UzZEN2tR0gGWAUFVX3lxTFBZMFRnS1ZQV3d6MkZUbHFtem9IY3JjYkVPSjZNcVl6c0ZGb3FodUVMT2diWVN4SzdNOEpCdTVma3FlNnVveU5GZklXZUNBTFc4Q0dXaXp0UmtZeUtZdGR2UnZxSHVlTV9Pa2J5ekNWSWlGeGktWGstei1BZW1KNG56bzRkMkZlc0ZXN2laNDRrMDY1T0JpUQ?oc=5",
+   "date": "2026-11-03T14:15:00.000Z"
   },
   {
    "topic": "Innovation",
@@ -185,17 +192,17 @@
   },
   {
    "topic": "Innovation",
+   "title": "6G-Versus Finnish pilot begins year-long testing of mobile base station",
+   "source": "Computer Weekly",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdUJkRmNVMF9fMndkdDllQlBYTTBWTzJFci1uOEpKOFRTS0c4WEI3N1pfUl9udk84c25RSXFFRHFrQjNOdko2LUdsRHgzTUVtZEVEWF9yREFxX2gyam9iTHdwSk45ckJwSEZKZXQxWWoyWXNob0lnSUVtWm1Hc0pnNk1hdi0xWnVWM2lIX01BellHMUJucmVjRHFELVd3TXBsSzFWa1B2cElLU29CNDZQcDhKZTcwUnY2?oc=5",
+   "date": "2026-11-02T17:53:53.000Z"
+  },
+  {
+   "topic": "Innovation",
    "title": "India joins 24 countries in global initiative on 6G technology | Akashvani News",
    "source": "News On AIR",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObjY4NnRCMUVMSXlxeDVpbmdWTC1kZktvakxQSkNpUDBpVEFlOG1PdVAwcmhmMzR1MjEwcDRpYTluaDczV1VvYWpvNm9DUE5YSV9YaXUxSDR4Wmg0WDYyUkZSX2pHRGlpSTNIaVhaUGRqaE5lblhYTHJxOW1ySWpjQl9ncERtd29NQ2tzNWFPVGs0dw?oc=5",
    "date": "2026-11-02T17:36:14.000Z"
-  },
-  {
-   "topic": "Innovation",
-   "title": "Telia trials 6G with Ericsson",
-   "source": "TelecomTV",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORXJyNEQwWEtQX2xXdHI0YzBkMmprTWVsN1ZVWExTaUVFdXZtUkcwNEl4RF96bGhCaEk2N3F3UWR3WERWR2lYZWdnSkR3MkVqazlWMGlDVWlNdUU3dVktOU0yVmNzOGVnTkhmVElqa21vNVBVUG1qZ1F5QzBROXFJZkxUTdIBgwFBVV95cUxORXJyNEQwWEtQX2xXdHI0YzBkMmprTWVsN1ZVWExTaUVFdXZtUkcwNEl4RF96bGhCaEk2N3F3UWR3WERWR2lYZWdnSkR3MkVqazlWMGlDVWlNdUU3dVktOU0yVmNzOGVnTkhmVElqa21vNVBVUG1qZ1F5QzBROXFJZkxUTQ?oc=5",
-   "date": "2026-11-02T15:41:05.000Z"
   },
   {
    "topic": "Innovation",
@@ -206,31 +213,24 @@
   },
   {
    "topic": "Innovation",
-   "title": "Telia and Ericsson sign Swedish 6G development MoU as outdoor trial begins",
-   "source": "Telecompaper",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNX3VjSGRKTDgxMVFSRHlWYVhaX1p5QnBsRHY3MGU3ZlhxNjdiMXY1d25Gd04yRTEtS3ZwY2lQQnZVNWVxT3JvZVgxOXJIZ2I1SGdzWnVSSlljZk1NQmJTMENkeVVfQkdycW1qRE02RldENU5NNXJOOUVLSlpDR05aQnlDY2ZtQ1JsamNKckE3d3VDS2ZEYUdGaFpzRG1zejNQM2hSVTR3TWczUC1YMHZjamM1MmtuOTVU?oc=5",
-   "date": "2026-11-02T11:56:06.000Z"
+   "title": "PsiQuantum unveils silicon photonics optical circuit switch for AI data centres",
+   "source": "Fibre Systems",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdy1QY2Z5R2ZMcUxKRXNOTXRRSmJrYlpLbG9tcjVDNUFUZVRyMHNoWWkyTWNZdmV4RTNObTNQTjlvaVRwcV9tckE0dXpveE9oQTFCWkZEYlhTLVBuVV8tY3VoYUg2cVVnUlJMZ194dlpFSzBPdU92dHlkZklYZ01iYldILWx1VHBfN1l4c3REZk1kbDN3dnFnRDM5RExOUFRBNktwc1pOeks2QzJBR2JPZFNoQQ?oc=5",
+   "date": "2026-11-02T12:22:12.000Z"
   },
   {
    "topic": "Innovation",
-   "title": "Samsung on telling real 6G progress from the hype",
-   "source": "TelecomTV",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNa2FCQnBqUVJfTzI2RlNYcU11TVBNek9xNllkTnY4anVSTzNVVTZYalpibS1SN1NCZ1VjVzlBTHJMLVQ2UHdjWEg5YVptVFlCS0d3OWZ1Zjh1Vng5cWlZWlF2NDFuTUFlQTBwRDktMl9YWXVqVU9ycVk3Y0F6YmZNb0pIcTN2bGtTWkhhVklUUkxGU2xIU0d4MdIBngFBVV95cUxNZTZLS2VvTm82dVRvV3R0d3NndzY0TWVDVFh2MkMzQzdEOEFXRWxTZ3B0VHE1Y0h5SXVUWVJBOTNGTFN0ekgyNDdwT1FQS2ZpX2VfNmxiR1cyRk1GUGlIV3Y5QVpzdHVtWEVfTmZDZGhaenduVjB6MDdZS3NhNU9vMTBnV3d4RmEzYjY5bFQzNjNrSGhoLUdpMERpRFZ0QQ?oc=5",
-   "date": "2026-10-29T15:22:35.000Z"
+   "title": "Etisalat and UAE universities make 6G research breakthrough",
+   "source": "SatellitePro ME",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZVFpeU1JcTl3bmszLWZSSmpobnJOTmtVMDBtV3pXbjFvbTVwMU1ZbFZMemowbUJtTzZtOHhTNmdCWS1BZG9UT2YwbHBzT1FFOFQ5RnpWeEFQREVBaElvbVluaHd4aFIwMHRadExQT2JIUWI2emZDQzk4ZXBGdXZXYnRRWHBQempNalRjTjhjVzJiSnl3U3Rz?oc=5",
+   "date": "2026-10-28T15:23:11.000Z"
   },
   {
    "topic": "Innovation",
-   "title": "Huawei Wireless Unveils Innovation Breakthroughs to Pioneer New Communications Networks",
-   "source": "mykxlg.com",
-   "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPTG91M3VVZUx2alVWVVBjQjVVQkI3a3RRS0lZOGtqQmEydXJFQjRmQnBOeVBacThPUDNXbVVXWnBtTE9KQ1d4Y1BUQjR3dlA4b1NxZmw0YVlXVTVaenhnYzBWWnNWRWpKSExRR0VoUDE1aEpVR1ZFakNXYl9IZjRsMk9YSENFQUpWRUZsQ3E1cmFyWHV3TXB3WmExcHZROVNKcTdUVkhTTWl1RldIY1FIa2tVQ18wbzlPUmxXbDc4S3ZJYlNPT2wtVHlBd3VxNFdPM0E0cVR1V0pYTWV3eTJJSC0tckhWRVJuR1FsdHBtWmNZa0YwS2hPWE9rX2pxdHlWdFkyUUNpUFlpdnZCMHdsWUZSWlFuT3p1MUZV?oc=5",
-   "date": "2026-10-29T07:15:00.000Z"
-  },
-  {
-   "topic": "Innovation",
-   "title": "Gov't Unveils Plan to Leverage Safaricom Network for Weather Monitoring",
-   "source": "Nairobi Leo",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRDNPZk04WlE4VUZ1ZE5vZXoyVm5DRkVpVFg1WFFrYndvYmtpaGp3d0xoREI1bmVxSzBUMGEwVWp1dVpLcURxdldDV1dzLU4xQ19URkEyUjUxTWVMdkcteU44Z2NRS3o0TGV1d1RWaFl6ZkJBTjREYlQtdWtoZkVuMlV6aG55TkdEek5tejEwaDkxVVR2SmVZMHJNbVQtWG5Xb2pkeE9kcHlrLWpCb3dxeXJrUWc?oc=5",
-   "date": "2026-10-29T04:00:00.000Z"
+   "title": "New Vilnius University (VU) centre to advance 6G communication research",
+   "source": "Innovation News Network",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSHNENWxwOWFXTVlLODVEeEJpMGljdmlBZjVfTkxNdlVVQVFlWHFPV3RpeUVZUldwQXJXandZRXZBMmxPQWFIMjVjV2J0LUhMZkNGRWlHdS1CR21Kc3VKQklLWVAxbE9JX1h3a21VTzZOUUlNQUZKWmZ4NUphQzJwVGZyOUd5Tk1oQlNYZzNhYUkyOHFGTTRqT2VfZkpsOWswMFk0bmxFRGtISE0xdFhhOQ?oc=5",
+   "date": "2026-10-28T11:14:12.000Z"
   }
  ]
 }
