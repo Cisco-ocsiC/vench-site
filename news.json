@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T22:34:39.338Z",
+ "updated": "2026-11-04T23:29:56.185Z",
  "items": [
   {
    "topic": "5G",
@@ -59,13 +59,6 @@
   },
   {
    "topic": "4G",
-   "title": "Meo announces network upgrade plan in Madeira",
-   "source": "Telecompaper",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWGVjamFYdlVQRDNzQ3pnTTVYazJjeXdCdFhwRUJaSlM0Nmc0dzFvVC10cTNNSVk0SFhTS0l3QVAxQjkxVVpsWnh5ZlJMd2xfYzdaWU1rNkpjNV9mMGFLOEtnczd5MlBUOVNEOG15dVFMbXlFai1HSUw0NzQwSXlPY29JRUVlR2tDVFZXQkc1bTZzUQ?oc=5",
-   "date": "2026-11-03T14:31:42.000Z"
-  },
-  {
-   "topic": "4G",
    "title": "Chile targets 5G from all carriers on Santiago metro by 2030",
    "source": "BNamericas",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNW9PX2IyTlljb25EX0w2WUpnRUFiY05Fc1U2emxXaHVuSEJ0QldfbTJJTUhoTXp3WTVLY1BBUG5zQmZuRWlHTFZ5MTFKcEFkU05DOUpPR25zZlJoNTZyMkdNN2hIYm9IT0x5OGVIeHFLR2NPWnRjaEVZT1JLOHpXdE1Zc1FsZTVBU1dPc2ZvODBTU1NkMFFtcGtBaktoNmpX?oc=5",
@@ -86,6 +79,13 @@
    "date": "2026-11-01T11:55:46.000Z"
   },
   {
+   "topic": "4G",
+   "title": "Verizon, AT&T, and T-Mobile have three different names for the fast 5G we actually want",
+   "source": "MakeUseOf",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1HRF9DMXFXME1wNDMxUWp1Szh3Mm5Wb1ExMkUtelp5a3Zjbm10cm5mcUh2TmN1T19pcXZKa3RSdHd2aFU4cUdINml3THlsN2VFSENzVzBZclJ0aTB2a1YtOVVPSWl3d0QybDQ2amVBOTF4VElmaFFSVDBIQQ?oc=5",
+   "date": "2026-10-30T18:00:16.000Z"
+  },
+  {
    "topic": "Optical fibre",
    "title": "Ranchi Optical Fibre Cable Drive Targets Unsafe Clutter on 580 Poles",
    "source": "Urban Acres",
@@ -94,10 +94,10 @@
   },
   {
    "topic": "Optical fibre",
-   "title": "One of the biggest telecom companies in UK is cutting thousands of jobs, changes fibre network expansion",
-   "source": "The Times of India",
-   "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPdDQ2ZFA0SEo0cmZjV1dyVWFDS015R1gxV1lJbjRLMWs2WkxpaFJkWDM1WVRBWHZEamFtZHhhSVpwQXRpcmlRM3dUUXR5RFRVQnc3b191LUpLQ2lyNlI2ZHg2Qm55T0NQaC1UQnFEY0pHMjlZQV9aazl1OEdvZjVvY3ZnOVhJVERWdGJka25xRGpPOTg0Z2FZY2NxT2N1NHE0ME9STHFiNkp1U0VZWFdMbWVwNEw3aFFhc1Nib0VBb1g2elNWb0hhdGZKaEk2SFRINDlHNll2WE9VMndLR1BqZnR3Z3YwN1NGR2JOdU43QWt4Mk9pTk5wVkdkNUVBdVZ0YnVaZEh4NWZXY25aTGxiT2xoN3QyY3lTdlR30gGgAkFVX3lxTFBOSkk0VUJQVkZNenRKTndzeG1IOEJHa0RUcjdfTE1mV3BVVERxUFEyLVJ5YzZLSU1oN25UNllQMjYyUTA2SDVtNHUyZzlVbE1WYW5rTWMzNXoxR0c1cjMwbjN1eE10bllEZ1RzU0tCVkhWNTg4M1ZoLUp0U3kxTndickI2MVdkakFNQXd6WUE0bnQtOXRQZmExLTJmeGxDOXFoUTh5cVk0dEh6Q3BUVjJ2ZlBUYXVkbFM5RWpHbmphSW1GdlhBRWpPMnRiZ2JWUUk4MkItelZONHpVQnVJV19uQ0haZ0I1dzNlcG5PSG56b1dXYk1kUEQ1cnFEZFJOb0NkM3pMZFRtSWM0aHZad1Bmelk2eE1XbHNFNWlYR3JUWQ?oc=5",
-   "date": "2026-11-03T13:56:00.000Z"
+   "title": "German housing industry sees risks in draft telecom law for network investments",
+   "source": "Telecompaper",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPLXBCcHluVDNJVzNxbXEzV3lWejU0ZV9UREdWeW1FSXRvSEE0NTc5ZmczSmJjTHEtSEw0LUZnRFVBYUZIQlRrbEJHeGZ3YWpBTVJGc0RnRmZEUFF6bXVtVXR4VWlaS0cxV1NDQURMN3NMa0Uyb0djMUhKaFVxQWU2OTV0OHZweWNCLW9tN04tNTVFekVfMkxla0VCNlJ3cklnQzJ5clFNbWVSclhpU3FBZlFoVHlzTUVYbXVsQ3owaw?oc=5",
+   "date": "2026-11-03T08:10:13.000Z"
   },
   {
    "topic": "Optical fibre",
@@ -105,13 +105,6 @@
    "source": "Techeconomy",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONGd6NWM4LVJwVkcyUVBaVGthUlpvanhobVJUWmFCVXVBVEtSazBxYWJVWGVub1IzSTJJN1o2ZTB6LUpEVjFnLVpVUURkcExFaTVaQlFialBLSWRzbHN1UkRSRzVPUXh5VHNfaGxzXzNDRndlVjVxWUpwVHV0d3RMVm1GQzYzSG5odzVIUE5EaFZYSE1wN1o5bg?oc=5",
    "date": "2026-11-03T07:12:13.000Z"
-  },
-  {
-   "topic": "Optical fibre",
-   "title": "Telecom Companies Urge Reps To Address Infrastructural, Policy Challenges",
-   "source": "ABN TV",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTjJjamU2RHJpNldtTWhfOC1yaW0wbmVTVnBBa3F5X0xPUEJOa0I5cDItTTFuS0txTWN3UHZMczg1MlVBNGhPZm1JekpKWVlwbWF3blNvV01NcTdBQkdhZFRnWUVQZklkRW9hTnViblFoVVZTeVpRd19RMVpFN0VQZlZKWlIwN3lFcHJzZVBkWnJ3WktKVVNycXJlS0VyYXRB?oc=5",
-   "date": "2026-11-03T06:10:38.000Z"
   },
   {
    "topic": "Optical fibre",
@@ -126,6 +119,13 @@
    "source": "Telecompaper",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUUd6WlRVdklfbjRMNEN3Sk5kLUVscUhPMU1rMDF1SHZZeDkwRUpaTzcyTml1RzluNkR1NFRKR1NtdjVKWUFRODdqdWVTbHQtRGdhNnREeWw3RG1SQ0dxTVJSVldXa1cxZ2Y3RGN5OGhRYTlJRWYwalhuYjlSNzVIbXk5MkpsR1NXLWxudTM5eGFPcUhrMGZGZkF0blYwM05BMW44bTAwTHhiMGdQa0dLbE91TFRvcFBWekE?oc=5",
    "date": "2026-11-03T05:08:06.000Z"
+  },
+  {
+   "topic": "Optical fibre",
+   "title": "Corning Pune Expansion to Boost India’s AI Fibre Network",
+   "source": "Urban Acres",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaGl5VkhFMzFKTV9aT3lJaGh0a09NX2xfQ1ZCRExUSy1qajE5UHo5QThPMnFobVAza2hBd2hQVElBbUZBX0lqYVJoTlBfYm11MXpYQkZJRUREU3pHYVF1TFJ2ZWpmdDY1Q0o4MEhyQ3BGbjd6ZkY3QlFYSFltdm9DSmxHZVNCSVVaMkplbXdjaEVOV25PbEF2UEJSeFpJdw?oc=5",
+   "date": "2026-11-02T16:34:13.000Z"
   },
   {
    "topic": "DWDM",
