@@ -1,13 +1,6 @@
 {
- "updated": "2026-11-04T08:05:31.054Z",
+ "updated": "2026-11-04T09:45:50.896Z",
  "items": [
-  {
-   "topic": "5G",
-   "title": "New plan needed to deliver 6G technological and revenue benefits",
-   "source": "Independent Australia",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONEc0M0hkajBaWFBXUUNWcWkyNEQ4U2lESDd3WmtMbFY2WWM5RjRoUDJ6UDhPOGFaWVNUdlhiOVdGM3JkZm9GLUdSTVBLWlI1endKUXpIUTQ5ZUVoVUNfNGxYa2VrMll3ZzFYZlhnd0t4Tmd2UUlVbTRxc0lOWGpjOVZKODFSV0xNUi1fY2lnTDUzYmttS1Q4MkZZUGpobXhobUg3QVQyUktoVTk4OXg3TjZ6eENWRFpaT2J1MnppSnM3VDNHd2pHWg?oc=5",
-   "date": "2026-11-04T02:31:50.000Z"
-  },
   {
    "topic": "5G",
    "title": "EXCLUSIVE: Chinese Government Entity Set To Gain Control Of Telstra And Optus Smartphone Supplier In $5.6 Billion Shake-Up – channelnews",
@@ -21,6 +14,13 @@
    "source": "ChannelNews.com.au",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNclBQanR0dnpEb05zcGhkVjlLVElDUkF2eS1qXzZiZW5hdGNDellfLXF4VGFPZng2ZmVzQnpmNVAzdE1NOUtzZDJ3ZGFRZHJhbnZEQ2trR1RpRWVVbXVzbzJBanJsakpTT3dKaEk0c2JQWkJrRkFMVnUwLWVGWU8zOUJSdkI4VkhCQ3Vr?oc=5",
    "date": "2026-11-03T21:25:22.000Z"
+  },
+  {
+   "topic": "5G",
+   "title": "New plan needed to deliver 6G technological and revenue benefits",
+   "source": "Independent Australia",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTkNxRS1tdkVKaTVhLWNKeTBENWtzWTk2WFM0V2l1REN3Um5ScUo3UDhueklYeFVxVjltcm5ac2RIakd1V29LajcybC01ZFRkVEtKaTdKSkZJaGZzQTJoZXFCb1l5dkJ4SXhLQl9ydUVHY2tGb1d5cUV4UzJTdFJnLXVtaXZ6ajJpQ2N3SHpsS0d0ai1yNFdtMXVtVFFiMlBvSUpFWXAyM2JVZDBOaTM1cERDMjJiTDJNWjNN?oc=5",
+   "date": "2026-11-03T21:00:19.000Z"
   },
   {
    "topic": "5G",
@@ -87,10 +87,24 @@
   },
   {
    "topic": "Optical fibre",
+   "title": "Telecom Infrastructure Vandalism: How Network Disruptions Endanger Lives and Livelihoods",
+   "source": "SundiataPost",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPb01pVjNZUEFsNVB1SEtHVWxkTjFpNDdPX0I1aW9EaFZTZVJKYTNPQ3FkZWlraTNzRnJvanNkNnQ0WmgzRzV0RWF3bW9pVWJWVnFmQWRIOU1kVUl5blBmNm14S0M2QUpHUU56S2FZeGFNSlRNWGk5c1VoZnRKR0xTN0hETW53eVBSQ2lMN2dZRTdGTV9JSHRLSEpCQUpHekZ3QTZPeEpDUGhnM0UyQUtNZmN0bw?oc=5",
+   "date": "2026-11-04T08:12:00.000Z"
+  },
+  {
+   "topic": "Optical fibre",
    "title": "Telecom news: Bluebird Fiber, KT Stops New 3G Connections, Airtel Africa Doubles Network Capex",
    "source": "TelecomLead",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUjBueWgya01neXhib2xRMmhWOU4xOEU4Z0NCMzRMNTJlbDJZdEJlMXpfRHpOdHFpNFRqVndSTkNHRzdGMUF6STB5MjFvUVBGaE93SUI5Q0RGMGxVSHNYS29SMi04UWRUVkJfaHRIMWhjMmNNRmg4aTRYNldpa21JQlBHWU5yeU9ITEhpUDlhZDFOb2ZTY2pHWDFtRUN0b2FaeGRhZzN6a0lDTmZYUmVWUnNQRjAwdEZBRmNhWnE4cjQ0NUJaSXfSAc4BQVVfeXFMT1RLV1JZUjBYWlJWQmhGeVdsbk1LZW1jQ3dsdGNneE5DR2dyWXd5OEloRVdaek1wNVdPQXZXaEJ2M2xnT1lnbnNTczZLV1hVUU1CSzJ2bHZZdVMxT2FqcllkRmZqTGJkd1lDYVhNVGdMZUxaZXcwaUN2MHBNS1NNNkFfMmpiYVZ5TE4xT2prd09ocl9YX2ZOWF9DTElYMHFlX2c5TmNmamVLc3kyTEFaWnFuXzNBUjFQYV9SZG5XektRaFhRU25odnMwMDlFT2c?oc=5",
    "date": "2026-11-03T14:16:31.000Z"
+  },
+  {
+   "topic": "Optical fibre",
+   "title": "German housing industry sees risks in draft telecom law for network investments",
+   "source": "Telecompaper",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPLXBCcHluVDNJVzNxbXEzV3lWejU0ZV9UREdWeW1FSXRvSEE0NTc5ZmczSmJjTHEtSEw0LUZnRFVBYUZIQlRrbEJHeGZ3YWpBTVJGc0RnRmZEUFF6bXVtVXR4VWlaS0cxV1NDQURMN3NMa0Uyb0djMUhKaFVxQWU2OTV0OHZweWNCLW9tN04tNTVFekVfMkxla0VCNlJ3cklnQzJ5clFNbWVSclhpU3FBZlFoVHlzTUVYbXVsQ3owaw?oc=5",
+   "date": "2026-11-03T08:10:13.000Z"
   },
   {
    "topic": "Optical fibre",
@@ -101,31 +115,17 @@
   },
   {
    "topic": "Optical fibre",
+   "title": "Telecom Namibia counts vandalism costs",
+   "source": "ITWeb Africa",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONlZ5cm5WdmwxSG9zMFYxSWUzSXpEYWpuV2NOUlhGN3R1Z3NCbWRmZEZDQmhJN2hpbHlPdHFTZV9LMUhyN1B5eXd2OGFJUEdjZUE5TTBabmxJdWltRGRrSXlibWlWdmVURGhxLUxUTG9RWEQyaDY5MkR0ZkFkVGdwMENfTkowZW43ZUo2bg?oc=5",
+   "date": "2026-11-03T06:05:36.000Z"
+  },
+  {
+   "topic": "Optical fibre",
    "title": "Optage expands dark fibre network to connect data centre hubs across Kansai",
    "source": "Telecompaper",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUUd6WlRVdklfbjRMNEN3Sk5kLUVscUhPMU1rMDF1SHZZeDkwRUpaTzcyTml1RzluNkR1NFRKR1NtdjVKWUFRODdqdWVTbHQtRGdhNnREeWw3RG1SQ0dxTVJSVldXa1cxZ2Y3RGN5OGhRYTlJRWYwalhuYjlSNzVIbXk5MkpsR1NXLWxudTM5eGFPcUhrMGZGZkF0blYwM05BMW44bTAwTHhiMGdQa0dLbE91TFRvcFBWekE?oc=5",
    "date": "2026-11-03T05:08:06.000Z"
-  },
-  {
-   "topic": "Optical fibre",
-   "title": "Corning Pune Expansion to Boost India’s AI Fibre Network",
-   "source": "Urban Acres",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaGl5VkhFMzFKTV9aT3lJaGh0a09NX2xfQ1ZCRExUSy1qajE5UHo5QThPMnFobVAza2hBd2hQVElBbUZBX0lqYVJoTlBfYm11MXpYQkZJRUREU3pHYVF1TFJ2ZWpmdDY1Q0o4MEhyQ3BGbjd6ZkY3QlFYSFltdm9DSmxHZVNCSVVaMkplbXdjaEVOV25PbEF2UEJSeFpJdw?oc=5",
-   "date": "2026-11-02T16:34:13.000Z"
-  },
-  {
-   "topic": "Optical fibre",
-   "title": "Corning to expand optical connectivity manufacturing in India amid AI rush",
-   "source": "Business Standard",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQTBlNGZZWDZPQnlLN2xmellvanJYc21xUDRGQ19TRXNkdG1PSEpHNjA2akZFbW5OcXZkaGF0Z014ZEM3WmhFMDRHV0VNa19qZmI5LW9KNkFVaEFrV3BvbUhzc3ZWZkNNbWVPR0trUU8xVTVCRDdhSWpWUXhLQkdoQUhOdjVWQ2NOLWJEU2hFOC1ucFJ1UFdfMHRBQkNxbG5UbjQwWjFEdERaMUdKQ0VrV08wT1lXVTdQT3otLXc4OGlSM1dnR1k1N3pCRkxocTFUVHNXU9IB2gFBVV95cUxOTnlTSFJwYkxhaUxEYUR4WlZFWVA5QmtMZkxaWnc0cFVqRG9HbnFubnJKZEoxUVlCSklfaW0xWVRyNTFMLUFPNFh2MVhBQkR1d2VHVXZzc19nUDdZbFdpMG5qWUt4OTJxUGZJank2T0txVmVIZ2dSUFdrUFRfY2RtSGMxbVlJRVp0a3RIanYxZldNOVh6dVd0QTlBMjZjTTdnbWppeE81QjlWYnpjVGZLWmVIMW53cXJ1cGNVUEZHV2RhR0FKbzdBcC1DS29HV2djZjc5QTBRaUV0QQ?oc=5",
-   "date": "2026-11-02T15:35:49.000Z"
-  },
-  {
-   "topic": "Optical fibre",
-   "title": "Telecoms Services: 5 Issues Reps should address beyond CEO summonses",
-   "source": "Vanguard News",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcGxFU2o0ck1DU0JCejFseFNCVkxRVlRnUFN3Z1JrTGtjTldRTy1kTF9nR1lzMmhKMEVFMjcyQ1pDeFN6aXdxQXpKZTQ0cUMxUUZKQ2hmRjdBa3Y2VDd6dEdlQkt1aVdHQlZpUk50X08zMktsRFl1d2pRejgwQlZTVDBQTWlGeGx3UC1QajJwWDNGTE9oOFp0T2JwM0hUYTZhckNIZjJONzJjd9IBrwFBVV95cUxPQ3JqWnotWVB3LUs5eUVTbFExSkdDeVh2ejcwQ3JkQ2FhanQ1VFRrVkhDaVRPcU9nTVhreFVnUGNSbjdIRGZ1bXVaTFhidmtYNFc3cVYxTUpobWo0WFBrZXI2ZWRQMXdyTzhhYWdqNHNtTEo1LVNVQkdWMEIyQ2RHX2p6akxFQU92c0VYT3BWU3dTY1oyd1NvY3hmVVNsQlNHNllmNEpVMkZpa0NCYmk4?oc=5",
-   "date": "2026-10-31T23:58:51.000Z"
   },
   {
    "topic": "DWDM",
@@ -185,17 +185,17 @@
   },
   {
    "topic": "Innovation",
-   "title": "Telecom news: Telia, Ericsson, ZTE, du, Maxis, U Mobile",
-   "source": "TelecomLead",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWG03LTNVYlFHcmpwX1Z0cy1sQkNYdmpIU3VlUzc4bkhpbWMxOUItM2tvZzRPTDNBU2tzSVBEWVloWWt3RXFYekxrb2toazhwTzhiU3ZrRHdSZGpoUXZVNnYxVkRsWEFPWjhEU3BYWjVvMklCRFFoOV9ib09ndXBxTU81N28tdnY2UzZEN2tR0gGWAUFVX3lxTFBZMFRnS1ZQV3d6MkZUbHFtem9IY3JjYkVPSjZNcVl6c0ZGb3FodUVMT2diWVN4SzdNOEpCdTVma3FlNnVveU5GZklXZUNBTFc4Q0dXaXp0UmtZeUtZdGR2UnZxSHVlTV9Pa2J5ekNWSWlGeGktWGstei1BZW1KNG56bzRkMkZlc0ZXN2laNDRrMDY1T0JpUQ?oc=5",
-   "date": "2026-11-03T14:15:00.000Z"
-  },
-  {
-   "topic": "Innovation",
    "title": "Telia Sweden, Ericsson advance 6G collaboration",
    "source": "Computer Weekly",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZEJHZi1vMFpFWWlRTzZmQWpWZUFKMnptQmZzeklZMmtsMFBSNTNIcDZKcGxibWppUjVtSlY4UnJ4QlVuUVg3Snh3bzJDempiRVV6YkxLNzJRdGIwR1pFYWFZVzl1cTlfSVFhVVE0WDRQM0UyY0Y4UEhna1lva1p5NlducFZwZkNZOG9rMW43bk9IYmozU2dJ?oc=5",
    "date": "2026-11-03T13:30:30.000Z"
+  },
+  {
+   "topic": "Innovation",
+   "title": "6G-Versus Finnish pilot begins year-long testing of mobile base station",
+   "source": "Computer Weekly",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdUJkRmNVMF9fMndkdDllQlBYTTBWTzJFci1uOEpKOFRTS0c4WEI3N1pfUl9udk84c25RSXFFRHFrQjNOdko2LUdsRHgzTUVtZEVEWF9yREFxX2gyam9iTHdwSk45ckJwSEZKZXQxWWoyWXNob0lnSUVtWm1Hc0pnNk1hdi0xWnVWM2lIX01BellHMUJucmVjRHFELVd3TXBsSzFWa1B2cElLU29CNDZQcDhKZTcwUnY2?oc=5",
+   "date": "2026-11-02T17:53:53.000Z"
   },
   {
    "topic": "Innovation",
@@ -206,17 +206,10 @@
   },
   {
    "topic": "Innovation",
-   "title": "Telia trials 6G with Ericsson",
-   "source": "TelecomTV",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORXJyNEQwWEtQX2xXdHI0YzBkMmprTWVsN1ZVWExTaUVFdXZtUkcwNEl4RF96bGhCaEk2N3F3UWR3WERWR2lYZWdnSkR3MkVqazlWMGlDVWlNdUU3dVktOU0yVmNzOGVnTkhmVElqa21vNVBVUG1qZ1F5QzBROXFJZkxUTdIBgwFBVV95cUxORXJyNEQwWEtQX2xXdHI0YzBkMmprTWVsN1ZVWExTaUVFdXZtUkcwNEl4RF96bGhCaEk2N3F3UWR3WERWR2lYZWdnSkR3MkVqazlWMGlDVWlNdUU3dVktOU0yVmNzOGVnTkhmVElqa21vNVBVUG1qZ1F5QzBROXFJZkxUTQ?oc=5",
-   "date": "2026-11-02T15:41:05.000Z"
-  },
-  {
-   "topic": "Innovation",
    "title": "ZTE and du Achieve the World’s First Commercial End-to-End Upper 6 GHz Connectivity on UAE Live Network",
    "source": "WebWire",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1KdmlLMjMyY3lKR1RVNmI5M0pDVmlVSVhsS1cwLXdCTGZWbHh6Q0VkMDhhS1Z2M3ViMFR3emUzRVFMQ2d6a3EwRUxXeHBFQnZkU2FFa25VOUo1djRDeVhiZ1VORlpRbTliLXVYd2NWSQ?oc=5",
-   "date": "2026-11-02T14:59:18.000Z"
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52MnRLVnZGVFh5RWJ3UTI3VVQ2a2FlLUliVDJQZU44eW9heXlvclgyenNuVHU0YmtCUW15WERLaEN4SDZCdE1jUlg0aXhMeTFrdDRrZ0kzS0xmaDlTME1MbA?oc=5",
+   "date": "2026-11-02T15:05:31.000Z"
   },
   {
    "topic": "Innovation",
@@ -227,10 +220,17 @@
   },
   {
    "topic": "Innovation",
-   "title": "Telia and Ericsson sign Swedish 6G development MoU as outdoor trial begins",
-   "source": "Telecompaper",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNX3VjSGRKTDgxMVFSRHlWYVhaX1p5QnBsRHY3MGU3ZlhxNjdiMXY1d25Gd04yRTEtS3ZwY2lQQnZVNWVxT3JvZVgxOXJIZ2I1SGdzWnVSSlljZk1NQmJTMENkeVVfQkdycW1qRE02RldENU5NNXJOOUVLSlpDR05aQnlDY2ZtQ1JsamNKckE3d3VDS2ZEYUdGaFpzRG1zejNQM2hSVTR3TWczUC1YMHZjamM1MmtuOTVU?oc=5",
-   "date": "2026-11-02T11:56:06.000Z"
+   "title": "New Vilnius University (VU) centre to advance 6G communication research",
+   "source": "Innovation News Network",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSHNENWxwOWFXTVlLODVEeEJpMGljdmlBZjVfTkxNdlVVQVFlWHFPV3RpeUVZUldwQXJXandZRXZBMmxPQWFIMjVjV2J0LUhMZkNGRWlHdS1CR21Kc3VKQklLWVAxbE9JX1h3a21VTzZOUUlNQUZKWmZ4NUphQzJwVGZyOUd5Tk1oQlNYZzNhYUkyOHFGTTRqT2VfZkpsOWswMFk0bmxFRGtISE0xdFhhOQ?oc=5",
+   "date": "2026-10-28T11:14:12.000Z"
+  },
+  {
+   "topic": "Innovation",
+   "title": "Meet Ghanaian American engineer recognised for telecommunications innovation",
+   "source": "GhanaWeb",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUTRTWTBYRlQxS183b2RpN1BYQ0huT1ZIOGlBRlN2ZFk2SFZTTmp1WkZIbjQ2Yy12ZkJWVnp3MnBLVllCbDMxeHF0Y29GRmUxdEZoQWIzRUU5OUlPTmJVWHdRSXpzVUpLb014ekhUV05WZy02Tkw3c0FLSUdlaFRmUVMwSFlzWjBGd2hkbUF1S1pyYU1SeEZscHNUNXFYV1FQSHBOZlYwdHhOQkQyVXJOQ2MybDZDRUluYkZ1UGt4RVRwMjZCQV9aS0dtejQ?oc=5",
+   "date": "2026-10-26T11:40:17.000Z"
   }
  ]
 }
