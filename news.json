@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T19:46:02.093Z",
+ "updated": "2026-11-04T20:38:51.357Z",
  "items": [
   {
    "topic": "5G",
@@ -11,7 +11,7 @@
   {
    "topic": "5G",
    "title": "Starlink 5G Rollout Math: 64T64R, 2027 Start [2026]",
-   "source": "tech-insider.org",
+   "source": "https://tech-insider.org/",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTHdNbGNXSlpaY3lxeXJ2NTJRRUF1anRHYW9Scl9qUGNpTXRFcGhpTVlHelZ1UElXYUV6c3lScjNLR3NaMFdERjBNMHBOMWJYUm9sc0FJOVMwek5iSkd3bE9rc0tkY181MGpjVkhJdkh1XzFNZDhuYnVwX0Z0WU5DZktCZms4TUdxYWhEcm5R?oc=5",
    "date": "2026-11-04T14:20:15.000Z"
   },
@@ -87,13 +87,6 @@
   },
   {
    "topic": "Optical fibre",
-   "title": "Telecom Infrastructure Vandalism: How Network Disruptions Endanger Lives and Livelihoods",
-   "source": "SundiataPost",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPb01pVjNZUEFsNVB1SEtHVWxkTjFpNDdPX0I1aW9EaFZTZVJKYTNPQ3FkZWlraTNzRnJvanNkNnQ0WmgzRzV0RWF3bW9pVWJWVnFmQWRIOU1kVUl5blBmNm14S0M2QUpHUU56S2FZeGFNSlRNWGk5c1VoZnRKR0xTN0hETW53eVBSQ2lMN2dZRTdGTV9JSHRLSEpCQUpHekZ3QTZPeEpDUGhnM0UyQUtNZmN0bw?oc=5",
-   "date": "2026-11-04T08:12:00.000Z"
-  },
-  {
-   "topic": "Optical fibre",
    "title": "Ranchi Optical Fibre Cable Drive Targets Unsafe Clutter on 580 Poles",
    "source": "Urban Acres",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTDdudlQ5dnE5eGFMSDJVSXZFenY5RU5jeThDek1ycTlBcUpIdG5JMHkzVUU1SkQ0NVJERERQVERXaUxNWnNhMTBLNjJnbFdwZjNhRXBZaEp4eW5wbWNkY0JJV3BaNW50dzZtRlAwcUlKVElzajZhM0JTZUdZd21UYWd0Ukc4eUNoUlZpc0R0MG8wNjBXZUE?oc=5",
@@ -126,6 +119,13 @@
    "source": "Telecompaper",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUUd6WlRVdklfbjRMNEN3Sk5kLUVscUhPMU1rMDF1SHZZeDkwRUpaTzcyTml1RzluNkR1NFRKR1NtdjVKWUFRODdqdWVTbHQtRGdhNnREeWw3RG1SQ0dxTVJSVldXa1cxZ2Y3RGN5OGhRYTlJRWYwalhuYjlSNzVIbXk5MkpsR1NXLWxudTM5eGFPcUhrMGZGZkF0blYwM05BMW44bTAwTHhiMGdQa0dLbE91TFRvcFBWekE?oc=5",
    "date": "2026-11-03T05:08:06.000Z"
+  },
+  {
+   "topic": "Optical fibre",
+   "title": "Corning Pune Expansion to Boost India’s AI Fibre Network",
+   "source": "Urban Acres",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaGl5VkhFMzFKTV9aT3lJaGh0a09NX2xfQ1ZCRExUSy1qajE5UHo5QThPMnFobVAza2hBd2hQVElBbUZBX0lqYVJoTlBfYm11MXpYQkZJRUREU3pHYVF1TFJ2ZWpmdDY1Q0o4MEhyQ3BGbjd6ZkY3QlFYSFltdm9DSmxHZVNCSVVaMkplbXdjaEVOV25PbEF2UEJSeFpJdw?oc=5",
+   "date": "2026-11-02T16:34:13.000Z"
   },
   {
    "topic": "DWDM",
@@ -174,7 +174,7 @@
    "title": "T-Mobile US hosts pre-6G OTA trial supplied by Ericsson, MediaTek",
    "source": "Telecompaper",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVS1vOWNyYUh4bFo4R1Vpd0NkWmt2SkpVaWpwS0FRMXppQ3dLc3pxU2FsMWZHbjE2anJYVi1iNmNPSl92bUNZckVTTUtMSEZteFJncnV4YjlXNDRlbFNwV3BaYmNvUG55bDFTUkJobXRHdnhndUtsRXpqRlEwSDVDR0lwVFlCV0MwcU5iQTFQQVB6OEhIZTNaUEI0c1BZdk5GNGdHUXJyTjRFcFE?oc=5",
-   "date": "2026-11-04T12:03:14.000Z"
+   "date": "2026-11-04T12:06:13.000Z"
   },
   {
    "topic": "Innovation",
