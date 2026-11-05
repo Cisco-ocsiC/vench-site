@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T17:45:42.005Z",
+ "updated": "2026-11-05T18:36:48.037Z",
  "items": [
   {
    "topic": "5G",
@@ -14,6 +14,13 @@
    "source": "Telecompaper",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGxvUU9TYmtIMmRVU1NhMU04Ykc0aUJWZE9KSjg4ODNWcEZBVjZ5S2kzX1MzV2JLOTNPVlptQi1vdVdheUk1WGNzUlU4bHZ0S1Z1OXhndk5OMGRRaGRaMjd1dWFiU0xMUk9IUU1rZG1CcEpENWx3MXRSX05oVFJTakJFZ2ZWa2VYczJocllmN19DdUxXSVI0ZTlfUmJZYTRaQmw0Y2Q5MHBINTJJSmhwVw?oc=5",
    "date": "2026-11-05T05:07:56.000Z"
+  },
+  {
+   "topic": "5G",
+   "title": "EonFibre adds 400G capacity to New Zealand-Australia network",
+   "source": "Telecompaper",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUEt5OTluWW5xMmNNNnExRnhiOXBZWXV3YTU4NkFxeW1PRmxYMWJoWmRKNERxTG1Wb0FISG1QREU3VFJKOHBQb2xXMGhOREttOHlMQVNFekdDSHhDRjlKdWdRSWItNDNiSm9wOU1zNFFZclJJYTlkdGpRcGR5TkJNeDRnQkc0WU4zaW5rNW42ZkljNExOQU5MNXdUb1ZaOEpld0dZWnd3?oc=5",
+   "date": "2026-11-05T04:50:28.000Z"
   },
   {
    "topic": "5G",
@@ -35,13 +42,6 @@
    "source": "iPhone in Canada",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbllWMXh5MEtHZjdQRS02cTRPdkg3WFJlRFJ3RnZ0TERJakpXNDNEcElTVktzSlFhRGVaYUFFUVV3Q3o2SGFPSU9nWXlfU2dJNnphbkswejQyQk9BejdfcnhCQ0FtT05pcjZHcmdDUFdzQUp6TUg3U19pOXBUa0haRGoxYVhrNzA1dVNOOA?oc=5",
    "date": "2026-11-04T18:42:57.000Z"
-  },
-  {
-   "topic": "5G",
-   "title": "SpaceX to Use Qualcomm Dragonwing Cellular Infrastructure for Starlink 5G Network",
-   "source": "Moomoo",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMVBWTVhmV3ozVkRUc1g2SGhVWW5GaUZMTlZlbGF5WVltWUVicE04anl0cml3Y015SnBYOHJhLW8zaTk2Y0xRa0R1X0s2VWFiV0xXbXpMTzRweVRJVkdZVXVoY3Frc3Qta2NBN0YtcUdDdlNibS15ME1kVlpMTkxuMzRCa3FjNi1Nd0lNV215b0VjUU00TEZrOWp6dHpzVFl5RlZVV2UyaGFKN0Y0SkNNRExHN1BqejBM?oc=5",
-   "date": "2026-11-04T17:10:45.000Z"
   },
   {
    "topic": "4G",
@@ -87,17 +87,17 @@
   },
   {
    "topic": "Optical fibre",
+   "title": "C3ntro Telecom opens edge data center in Sonora for Tikva network",
+   "source": "BNamericas",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbUpGVmpvdzZJWjNydG41ZzVrdkx3RnpoYjR5VVlyQUUtYWU3Z3NqMTBjTXNoUVY2VnNsRzY2OGNjZW9yS21hVFhqQk1PTGxxQ0JHam5lVkRjdHVfaXN4WU5UWEJVcXhSSDRxYkJmNEoyTzB3WmswV0hwUmFneUhySFJ3eUc0S251bl9NUHNoSjU0ODFvSlhvbWVQVllZOUtEa2c?oc=5",
+   "date": "2026-11-05T17:26:46.000Z"
+  },
+  {
+   "topic": "Optical fibre",
    "title": "Bharti Airtel Adds 9,803 Route Km of Optical Fibre in Three Months",
    "source": "TelecomTalk",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMVg3LVd0ZW95M1RicTJQalNVM0FmdnpwNnlWRFkyYV80UjJLYXJ4U3duQ1VJTTM0eUxlcHEtdmJ5T21IUmE1MDE1ZnZJS1ZROVh0Qy1NajMtUld3TWN3akc1RUtLdE9Ua3VqRktPZXBiaTBPb1FWXzlwZkVxMXJLbzBjaERpS2NJeFFDU0xn?oc=5",
    "date": "2026-11-05T17:18:37.000Z"
-  },
-  {
-   "topic": "Optical fibre",
-   "title": "C3ntro Telecom opens edge data center in Sonora for Tikva network",
-   "source": "BNamericas",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbUpGVmpvdzZJWjNydG41ZzVrdkx3RnpoYjR5VVlyQUUtYWU3Z3NqMTBjTXNoUVY2VnNsRzY2OGNjZW9yS21hVFhqQk1PTGxxQ0JHam5lVkRjdHVfaXN4WU5UWEJVcXhSSDRxYkJmNEoyTzB3WmswV0hwUmFneUhySFJ3eUc0S251bl9NUHNoSjU0ODFvSlhvbWVQVllZOUtEa2c?oc=5",
-   "date": "2026-11-05T16:41:54.000Z"
   },
   {
    "topic": "Optical fibre",
@@ -111,7 +111,7 @@
    "title": "Fitch Ratings revises Sri Lanka Telecom to ‘AA+(lka)’",
    "source": "EconomyNext",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeHBwalk0X0h2Z2QxNEJSdjNUajM0aXVWSVhvQzlCdVZyNWsza3VETk80SEtseDlEOFA1dUpiMUJqbmZKSjF6ei1KREFVZ2pLcjNiREVlUDRIX01PVzU3WVdfZ3dJaUYtLW5fcHNicVhfbkJhLVYwNlJRek9NbXlLN2tiRS1QenM?oc=5",
-   "date": "2026-11-05T12:11:15.000Z"
+   "date": "2026-11-05T13:30:07.000Z"
   },
   {
    "topic": "Optical fibre",
@@ -143,10 +143,10 @@
   },
   {
    "topic": "DWDM",
-   "title": "TTK and T8 test Angara DWDM platform",
-   "source": "Telecompaper",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdGpjUVAtRUJmUFJjQ2l5Q1ljQUJvLXFhei0tNFF5SWpuSHFuSlZfWXctNHhHWUhuRE41NDVDeFV3bllvTF9mVE9OVld0ZXlmbGgxdkhiRC1GbFVCakE1ZnZlSjVQZmNON2tSV1VHMmpRaGh5UjlWLWY0bXNrV3VMNzZCRVhMdw?oc=5",
-   "date": "2026-10-28T10:12:03.000Z"
+   "title": "Why Is Telecom Network Modernization Creating New Opportunities in the Telco Cloud Infrastructure Market?",
+   "source": "openPR.com",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN1Z6OWN2YkRJS1cyclBZN3F5TjhSUDkyMUh6Y3dYT1NhYkJKUVVkX05zMHJPd05QbHZRaU9mT3RSUlRRZTZWcHhXaFBhNnFpUGVVM3RfaTJYOEhhR09jYjJUeXFOMXR3WHZQX05KYllPNXYydmkxN2prcVVxZHVjQlgyeHZJQ09BSHpTRUF3?oc=5",
+   "date": "2026-10-26T09:18:51.000Z"
   },
   {
    "topic": "DWDM",
