@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T08:07:17.373Z",
+ "updated": "2026-11-05T09:45:24.365Z",
  "items": [
   {
    "topic": "5G",
@@ -17,13 +17,6 @@
   },
   {
    "topic": "5G",
-   "title": "EonFibre adds 400G capacity to New Zealand-Australia network",
-   "source": "Telecompaper",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUEt5OTluWW5xMmNNNnExRnhiOXBZWXV3YTU4NkFxeW1PRmxYMWJoWmRKNERxTG1Wb0FISG1QREU3VFJKOHBQb2xXMGhOREttOHlMQVNFekdDSHhDRjlKdWdRSWItNDNiSm9wOU1zNFFZclJJYTlkdGpRcGR5TkJNeDRnQkc0WU4zaW5rNW42ZkljNExOQU5MNXdUb1ZaOEpld0dZWnd3?oc=5",
-   "date": "2026-11-05T04:48:54.000Z"
-  },
-  {
-   "topic": "5G",
    "title": "Major mobile network upgrade",
    "source": "Snowy River Mail",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBFM1A5Y3hhUjh4b0ZfWlZPSGlBSUNQWmM4WHdqSHBnd3d5Z0owdmsyQnVPREFmMUZrSkhhdWJ1dmtBMjFTS3RtSHYyNXl0UkVpM3NpWUlhRE1sVjk0dGdCXy0xTmtkRlZlaDFEdENOWHdmUmc?oc=5",
@@ -31,17 +24,31 @@
   },
   {
    "topic": "5G",
-   "title": "MTN Ghana secures 15-year spectrum licences for 5G rollout",
-   "source": "Asaase Radio",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNckpoXzVyX29KdlhFX1QyV1JaYUJFeUxSbzFiS3NjV1RuUVFDLVFvcDRNMk1nbXZ3bGRRUzA3eF82U1JyNTZvZ19FVXlRN3ZqcG5OQXIwcHVTdHE4M3ZNR1RDd050RWtkbk0xRVlLVmQyUzl4MWFVMjd1Wno0YUJLUWN0czJURUkwbkVj?oc=5",
-   "date": "2026-11-04T23:29:12.000Z"
-  },
-  {
-   "topic": "5G",
    "title": "8 Networks signs two-year deal with Perth Scorchers",
    "source": "TelcoNews Australia",
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWm8yc1oxRzVBbjQya1JuUmRSbk1GVDduNmhWZzdfUWxTS3UydlpuT0daR2NWeXJvTHdwUUI2ZzlUNzRfeGZCT2lCRlZCdVMxNWlQM3dKWjh6dkY4dWZWZVM2LS1uV2t5N3U1TTd4U2ZBNHZHNDdMS21wc09xSWdmZUdlcHlkalFNMGc?oc=5",
    "date": "2026-11-04T21:15:00.000Z"
+  },
+  {
+   "topic": "5G",
+   "title": "SpaceX Taps Qualcomm for Starlink Mobile 5G Network",
+   "source": "iPhone in Canada",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbllWMXh5MEtHZjdQRS02cTRPdkg3WFJlRFJ3RnZ0TERJakpXNDNEcElTVktzSlFhRGVaYUFFUVV3Q3o2SGFPSU9nWXlfU2dJNnphbkswejQyQk9BejdfcnhCQ0FtT05pcjZHcmdDUFdzQUp6TUg3U19pOXBUa0haRGoxYVhrNzA1dVNOOA?oc=5",
+   "date": "2026-11-04T18:42:57.000Z"
+  },
+  {
+   "topic": "5G",
+   "title": "SpaceX Selects Qualcomm to Accelerate Starlink Mobile's Nationwide 5G Network",
+   "source": "Moomoo",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUWtXUy1iS2pUZzRBMF9ENkJYMHA4QnR4ZHkwbVFjMjVZeTNrMTI4V1lMMHVyVDhCeUptbEZ3OXNxb0x4cDl4d05Xcnc1QXJPc1RuX0cyY2ZVM213MGNQOTMwMG85MEVNeWJveFlQdnZQVW5YR2NCVnBjNHBCYWZPOEJFQTRSWWRtYWdaYzdvb25mNTRmS2ZxLUFtV0xxOWo2czZPY0hLUF9kdzJvOVRpOHpteW8?oc=5",
+   "date": "2026-11-04T13:54:31.000Z"
+  },
+  {
+   "topic": "4G",
+   "title": "Ethio Telecom and ZTE deploy AI-powered network technology to boost 4G capacity by 11%",
+   "source": "Telecompaper",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQS0VFekwwRzdBLXVwNWlfT3l3a3cwdFlPMm1RbnF3S2RDUU0zelRQUXNZZ3lHY2Y4UUU4cEo4OXdiQTY0RTNrYVJId2VyQlczYzZKcVM3c3JraWY1SXlpNUpaS1ItUGFaZlVFUlFyaURmYXlvejRpRmRBMHF1MktBUlQ0UFhneVpEMEFOUEJSX3Rick1IaXJ4eS1Rd1hsX0JlYV9IeXZ1SmlfRlA1a1J2ZXR2QkNpT25SemJOU2l1YmIzOENxWUZJ?oc=5",
+   "date": "2026-11-05T09:30:32.000Z"
   },
   {
    "topic": "4G",
@@ -59,10 +66,10 @@
   },
   {
    "topic": "4G",
-   "title": "Samsung and KT test autonomous network technology at baseball stadium",
+   "title": "Meo announces network upgrade plan in Madeira",
    "source": "Telecompaper",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX2dTS3BBNjN1VkZMbmhtZEZrRVRpMXR6SEZPY3VKbF9vVkV2Z20zQVZFZ3ZkczBYdkNoSlhJdTZ2ZkRKZER0WlZ6YzFaOGhYSW1lSFJ6czZKelZuRWRXYlRsZGNUbGlUZGJ5OHU5aE9QN1hGMHBZcHpybUZVUlZva3BKUmh5bk1heUxPckw1X1FrSWdpd2NXbEZfUUVyUkxKU3dQT3ZBbXJsanFjWUVRUS1R?oc=5",
-   "date": "2026-11-03T04:57:11.000Z"
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWGVjamFYdlVQRDNzQ3pnTTVYazJjeXdCdFhwRUJaSlM0Nmc0dzFvVC10cTNNSVk0SFhTS0l3QVAxQjkxVVpsWnh5ZlJMd2xfYzdaWU1rNkpjNV9mMGFLOEtnczd5MlBUOVNEOG15dVFMbXlFai1HSUw0NzQwSXlPY29JRUVlR2tDVFZXQkc1bTZzUQ?oc=5",
+   "date": "2026-11-03T14:31:42.000Z"
   },
   {
    "topic": "4G",
@@ -79,11 +86,11 @@
    "date": "2026-11-02T05:42:46.000Z"
   },
   {
-   "topic": "4G",
-   "title": "One Communications completes nationwide 2G shutdown, advances network modernisation",
-   "source": "Demerara Waves Online News- Guyana",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTHVEbVJiSmdPTWMwb05iOGJ2M1pLN3AwaEVEZmZweFRSQk1wcldMMnB1ejRLemIxRWloT3doamVlazFESkJRRU1mSjdVUE9MV3pJT1hOaG96dmlfT2ktdkJiNjV6UWFQblBiNmw3LThrbkJDbk4xdGM2bVJRTm1USU9xVXNDa3VZSGxaUXdoODRvOURFMkRtdTNiV2x0VkdoMDlVQ1lsel8yN0dkN0QyblcyTDhId1lwMk9GY3ZfSUV5LTd3WDVJc1V3?oc=5",
-   "date": "2026-11-01T11:55:46.000Z"
+   "topic": "Optical fibre",
+   "title": "NavTech unveils 10 Gbps QKD-enabled optical wireless system at IMC 2026, targets secure telecom and defence networks",
+   "source": "Zee Business",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPcWJUVEpuRXl1eWhKMDQtMTNWa1RLd1hpNlVJYjBBRnV6WV9UV3FWSVNoMExDc0JkTE1NVVZhMEhQVVdZN2hacTlEV1g0bWN5YjRQVGFwZmh6Y24tak0yWmRJUEk5VHBRWW5zSDVxVmVNamxyaGlWRC10SjlNRVRESkJfRElla2Q2bzdxTHZXRW5oYzFHNmRsY1FYMFg0cmdXeU1GdlcwZnYwTkFKVmhnUUZjeFB5bTRndE8wWWlHOVg3UU1uZXVwVXB4eTNJaWFUZlkxLWFhX2tqUS1SenZGMy1QTWtxaUFxWUtUSmtPVWdSUQ?oc=5",
+   "date": "2026-11-05T08:04:31.000Z"
   },
   {
    "topic": "Optical fibre",
@@ -121,13 +128,6 @@
    "date": "2026-11-03T19:13:55.000Z"
   },
   {
-   "topic": "Optical fibre",
-   "title": "German housing industry sees risks in draft telecom law for network investments",
-   "source": "Telecompaper",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPLXBCcHluVDNJVzNxbXEzV3lWejU0ZV9UREdWeW1FSXRvSEE0NTc5ZmczSmJjTHEtSEw0LUZnRFVBYUZIQlRrbEJHeGZ3YWpBTVJGc0RnRmZEUFF6bXVtVXR4VWlaS0cxV1NDQURMN3NMa0Uyb0djMUhKaFVxQWU2OTV0OHZweWNCLW9tN04tNTVFekVfMkxla0VCNlJ3cklnQzJ5clFNbWVSclhpU3FBZlFoVHlzTUVYbXVsQ3owaw?oc=5",
-   "date": "2026-11-03T08:10:13.000Z"
-  },
-  {
    "topic": "DWDM",
    "title": "Bluebird Fiber Intros Tera-Core to Expand High-Capacity Network Infrastructure",
    "source": "The Fast Mode",
@@ -161,6 +161,13 @@
    "source": "openPR.com",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPd1d5ZFlBV0tFRUVwdGQ2VFpIQURkbExscG1mUHlCeGdaZ2dXRm5fYmkyaW1qZ1NJX0duMGh6VmQtNTFZNTJqX2pOZi1veV9zc2tVZXF2dmNtb3pRUmhDWWlKMzB1QlpQcTNvWFdwTWEtb0F5dzFRZ2psS05VbzdqMlF1dFJ4eXItdUhRalZkSndYNUU?oc=5",
    "date": "2026-10-24T07:00:00.000Z"
+  },
+  {
+   "topic": "Innovation",
+   "title": "Far EasTone Telecommunications : Record Q3 revenue and EBITDA, with broad-based growth and FY guidance on track",
+   "source": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPQzFyQ01Vajl2eDhOZ2lCYm5pNzZkekd4RE9ubDdQTHlzQmRTbGNqM0d3OG5meXgxNFBvTzBLUEdITEJPbGxNbElGbnZoM3pSR1h3RFFBTUUtc0VXRGptaWxZTF9kWGtfcUk0X21pSTlmUjVBanMxZ203OWI3OHQzeGFoak1YNFlrQTcyekNNTDktMHg1MTg1eGh4NDlZeUFHVnZMQXVHdmxJNDVrSGVrOHRTbnBQX0VZZncwM2wwODVGdjhTOXN6V2l6QjlZVkgtZFoxWmF0dHRDdmJ0bnRZLVNFRU5Tai0yTjBPeF9YYk1iVlVpYUY1NWZaTDlhd0U0WDBIT0hYcFM5T3RPRzR6djhENjFvdVBNc3Q0WS1BM1c?oc=5",
+   "date": "2026-11-05T09:03:59.000Z"
   },
   {
    "topic": "Innovation",
@@ -224,13 +231,6 @@
    "source": "News On AIR",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObjY4NnRCMUVMSXlxeDVpbmdWTC1kZktvakxQSkNpUDBpVEFlOG1PdVAwcmhmMzR1MjEwcDRpYTluaDczV1VvYWpvNm9DUE5YSV9YaXUxSDR4Wmg0WDYyUkZSX2pHRGlpSTNIaVhaUGRqaE5lblhYTHJxOW1ySWpjQl9ncERtd29NQ2tzNWFPVGs0dw?oc=5",
    "date": "2026-11-02T17:36:14.000Z"
-  },
-  {
-   "topic": "Innovation",
-   "title": "Telia and Ericsson sign Swedish 6G development MoU as outdoor trial begins",
-   "source": "Telecompaper",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNX3VjSGRKTDgxMVFSRHlWYVhaX1p5QnBsRHY3MGU3ZlhxNjdiMXY1d25Gd04yRTEtS3ZwY2lQQnZVNWVxT3JvZVgxOXJIZ2I1SGdzWnVSSlljZk1NQmJTMENkeVVfQkdycW1qRE02RldENU5NNXJOOUVLSlpDR05aQnlDY2ZtQ1JsamNKckE3d3VDS2ZEYUdGaFpzRG1zejNQM2hSVTR3TWczUC1YMHZjamM1MmtuOTVU?oc=5",
-   "date": "2026-11-02T11:56:06.000Z"
   }
  ]
 }
