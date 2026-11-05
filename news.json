@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T06:51:59.581Z",
+ "updated": "2026-11-05T08:07:17.373Z",
  "items": [
   {
    "topic": "5G",
@@ -17,6 +17,13 @@
   },
   {
    "topic": "5G",
+   "title": "EonFibre adds 400G capacity to New Zealand-Australia network",
+   "source": "Telecompaper",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUEt5OTluWW5xMmNNNnExRnhiOXBZWXV3YTU4NkFxeW1PRmxYMWJoWmRKNERxTG1Wb0FISG1QREU3VFJKOHBQb2xXMGhOREttOHlMQVNFekdDSHhDRjlKdWdRSWItNDNiSm9wOU1zNFFZclJJYTlkdGpRcGR5TkJNeDRnQkc0WU4zaW5rNW42ZkljNExOQU5MNXdUb1ZaOEpld0dZWnd3?oc=5",
+   "date": "2026-11-05T04:48:54.000Z"
+  },
+  {
+   "topic": "5G",
    "title": "Major mobile network upgrade",
    "source": "Snowy River Mail",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBFM1A5Y3hhUjh4b0ZfWlZPSGlBSUNQWmM4WHdqSHBnd3d5Z0owdmsyQnVPREFmMUZrSkhhdWJ1dmtBMjFTS3RtSHYyNXl0UkVpM3NpWUlhRE1sVjk0dGdCXy0xTmtkRlZlaDFEdENOWHdmUmc?oc=5",
@@ -24,24 +31,17 @@
   },
   {
    "topic": "5G",
+   "title": "MTN Ghana secures 15-year spectrum licences for 5G rollout",
+   "source": "Asaase Radio",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNckpoXzVyX29KdlhFX1QyV1JaYUJFeUxSbzFiS3NjV1RuUVFDLVFvcDRNMk1nbXZ3bGRRUzA3eF82U1JyNTZvZ19FVXlRN3ZqcG5OQXIwcHVTdHE4M3ZNR1RDd050RWtkbk0xRVlLVmQyUzl4MWFVMjd1Wno0YUJLUWN0czJURUkwbkVj?oc=5",
+   "date": "2026-11-04T23:29:12.000Z"
+  },
+  {
+   "topic": "5G",
    "title": "8 Networks signs two-year deal with Perth Scorchers",
    "source": "TelcoNews Australia",
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWm8yc1oxRzVBbjQya1JuUmRSbk1GVDduNmhWZzdfUWxTS3UydlpuT0daR2NWeXJvTHdwUUI2ZzlUNzRfeGZCT2lCRlZCdVMxNWlQM3dKWjh6dkY4dWZWZVM2LS1uV2t5N3U1TTd4U2ZBNHZHNDdMS21wc09xSWdmZUdlcHlkalFNMGc?oc=5",
    "date": "2026-11-04T21:15:00.000Z"
-  },
-  {
-   "topic": "5G",
-   "title": "SpaceX Taps Qualcomm for Starlink Mobile 5G Network",
-   "source": "iPhone in Canada",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbllWMXh5MEtHZjdQRS02cTRPdkg3WFJlRFJ3RnZ0TERJakpXNDNEcElTVktzSlFhRGVaYUFFUVV3Q3o2SGFPSU9nWXlfU2dJNnphbkswejQyQk9BejdfcnhCQ0FtT05pcjZHcmdDUFdzQUp6TUg3U19pOXBUa0haRGoxYVhrNzA1dVNOOA?oc=5",
-   "date": "2026-11-04T18:42:57.000Z"
-  },
-  {
-   "topic": "5G",
-   "title": "SpaceX Selects Qualcomm to Accelerate Starlink Mobile's Nationwide 5G Network",
-   "source": "Moomoo",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUWtXUy1iS2pUZzRBMF9ENkJYMHA4QnR4ZHkwbVFjMjVZeTNrMTI4V1lMMHVyVDhCeUptbEZ3OXNxb0x4cDl4d05Xcnc1QXJPc1RuX0cyY2ZVM213MGNQOTMwMG85MEVNeWJveFlQdnZQVW5YR2NCVnBjNHBCYWZPOEJFQTRSWWRtYWdaYzdvb25mNTRmS2ZxLUFtV0xxOWo2czZPY0hLUF9kdzJvOVRpOHpteW8?oc=5",
-   "date": "2026-11-04T13:54:31.000Z"
   },
   {
    "topic": "4G",
@@ -56,6 +56,13 @@
    "source": "Telecompaper",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPb2hibEl5dE1JclpWemg4UnBYUjdreW0yd0xCdk5xTUlsaEZFQ2s0SFprQzdsZkJaMnNiampRNnZRWU00MWZSTnFFNEJYTF9Cd0xXZDM2cFhFWmo0aVhFaERpbXlqYXZkRTR2cUQ0emthU0duS0JZc0JsU1l4bVhGRzZfY0dfMHRXOEZVVjJ5R1VwbU1sVU5xZWZBNU4zdGQtRFZxbkk4X1FmRVE2UHpFSnV5YkMyd2UxbDY4?oc=5",
    "date": "2026-11-04T09:56:06.000Z"
+  },
+  {
+   "topic": "4G",
+   "title": "Samsung and KT test autonomous network technology at baseball stadium",
+   "source": "Telecompaper",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX2dTS3BBNjN1VkZMbmhtZEZrRVRpMXR6SEZPY3VKbF9vVkV2Z20zQVZFZ3ZkczBYdkNoSlhJdTZ2ZkRKZER0WlZ6YzFaOGhYSW1lSFJ6czZKelZuRWRXYlRsZGNUbGlUZGJ5OHU5aE9QN1hGMHBZcHpybUZVUlZva3BKUmh5bk1heUxPckw1X1FrSWdpd2NXbEZfUUVyUkxKU3dQT3ZBbXJsanFjWUVRUS1R?oc=5",
+   "date": "2026-11-03T04:57:11.000Z"
   },
   {
    "topic": "4G",
@@ -79,18 +86,18 @@
    "date": "2026-11-01T11:55:46.000Z"
   },
   {
-   "topic": "4G",
-   "title": "One Communications shuts down 2G network nationwide",
-   "source": "Guyana Chronicle",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNckJPQWgzM0ZLQ0dYeVlhY2p5c3lDZ3RZUnMxaU1HX214TW8tMDRaeTlXUzBRR3ZvZTdyWDhabmhTanlSNl9KY25sZTlrSmpXSFk0aV9CSXhtN2p1dHZsdVByeWh4R244NU91UWRZWHlseHJTLWVIdlhnQkEyQ0xVY1o0dWxYM1RjcTZRQkh2WF9qUVRGdEE?oc=5",
-   "date": "2026-11-01T08:45:04.000Z"
-  },
-  {
    "topic": "Optical fibre",
    "title": "Fitch Ratings revises Sri Lanka Telecom to ‘AA+(lka)’",
    "source": "EconomyNext",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeHBwalk0X0h2Z2QxNEJSdjNUajM0aXVWSVhvQzlCdVZyNWsza3VETk80SEtseDlEOFA1dUpiMUJqbmZKSjF6ei1KREFVZ2pLcjNiREVlUDRIX01PVzU3WVdfZ3dJaUYtLW5fcHNicVhfbkJhLVYwNlJRek9NbXlLN2tiRS1QenM?oc=5",
-   "date": "2026-11-05T06:16:33.000Z"
+   "date": "2026-11-05T07:01:33.000Z"
+  },
+  {
+   "topic": "Optical fibre",
+   "title": "From Power Networks to Digital Infrastructure: Unlocking More Value from Utility Corridors",
+   "source": "Energetica India Magazine",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUFRNZWxKcUtSSUtUcGlfZGM2MHg5aU5nNXZUVkJfc2tHUWUxWFRQbm16MzRSdVNDeExVanlXLU5DNlJNNmIzUUFxQjNmVTZYYW12VDRKbV9WUjFtTXBHalZEZkdhbVlVVjNCLTZYZ05PanVPcXg2NXcxdzZud2E3aGpSbjFhZHpfcFZfV0o3azhoUGdaR1J1a1RpekI1cHF1UUNJZnhTeFJqdmxKcy1nSWJLTGVuQzV6VmhLdjhOWnNtbHNvd1QzZFFVNA?oc=5",
+   "date": "2026-11-05T05:08:43.000Z"
   },
   {
    "topic": "Optical fibre",
@@ -119,13 +126,6 @@
    "source": "Telecompaper",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPLXBCcHluVDNJVzNxbXEzV3lWejU0ZV9UREdWeW1FSXRvSEE0NTc5ZmczSmJjTHEtSEw0LUZnRFVBYUZIQlRrbEJHeGZ3YWpBTVJGc0RnRmZEUFF6bXVtVXR4VWlaS0cxV1NDQURMN3NMa0Uyb0djMUhKaFVxQWU2OTV0OHZweWNCLW9tN04tNTVFekVfMkxla0VCNlJ3cklnQzJ5clFNbWVSclhpU3FBZlFoVHlzTUVYbXVsQ3owaw?oc=5",
    "date": "2026-11-03T08:10:13.000Z"
-  },
-  {
-   "topic": "Optical fibre",
-   "title": "ALTON Urges Reps to Address Telecom Infrastructure Challenges",
-   "source": "Techeconomy",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONGd6NWM4LVJwVkcyUVBaVGthUlpvanhobVJUWmFCVXVBVEtSazBxYWJVWGVub1IzSTJJN1o2ZTB6LUpEVjFnLVpVUURkcExFaTVaQlFialBLSWRzbHN1UkRSRzVPUXh5VHNfaGxzXzNDRndlVjVxWUpwVHV0d3RMVm1GQzYzSG5odzVIUE5EaFZYSE1wN1o5bg?oc=5",
-   "date": "2026-11-03T07:12:13.000Z"
   },
   {
    "topic": "DWDM",
@@ -168,13 +168,6 @@
    "source": "Observer Voice",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOX3B3VkpORXhyQmF3RjNZV0NJTU5GVFl5NVR3Nlpjd3NGeVozR0h0STBuTExDN2pEWjgtaWZ1V1Z1Nm9Ca3VOMVdKSnZETHE4RGV6MFRIRDhYWHlUNHRJaTd3aTA0d2pNcVBxLURmaktWNkpRMEN1S09DaWl5eTh0SVh4X3Yyc3VRbWdmeUo0WDhEVVlmNnB1eThtWjJrcHRO?oc=5",
    "date": "2026-11-05T05:17:15.000Z"
-  },
-  {
-   "topic": "Innovation",
-   "title": "India: Silicon Chip Breakthrough Advances Terahertz Technology for 6G Communications",
-   "source": "OpenGov Asia",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZlQ3alZTbUt4empGSWRQQ3lkUzF6UlN3RXQ0Z3g5bFBIUkZDbHNLeUVzRlcwVzB3V3I0TGpISEhQMjNBVzFJckdGUU1BU2QyelNmb2NhN254Mnl5a05qYlNySzQ1dWp4VVJyWEIyVXFabHE0N1FLeUVjUnJyeTRoNko4bTQ5U1B1aHRqRWxta1VhY1RuUWtkSGlvM2J6Q21zeWZwUmt0WUUyVDJI?oc=5",
-   "date": "2026-11-05T01:38:56.000Z"
   },
   {
    "topic": "Innovation",
@@ -231,6 +224,13 @@
    "source": "News On AIR",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObjY4NnRCMUVMSXlxeDVpbmdWTC1kZktvakxQSkNpUDBpVEFlOG1PdVAwcmhmMzR1MjEwcDRpYTluaDczV1VvYWpvNm9DUE5YSV9YaXUxSDR4Wmg0WDYyUkZSX2pHRGlpSTNIaVhaUGRqaE5lblhYTHJxOW1ySWpjQl9ncERtd29NQ2tzNWFPVGs0dw?oc=5",
    "date": "2026-11-02T17:36:14.000Z"
+  },
+  {
+   "topic": "Innovation",
+   "title": "Telia and Ericsson sign Swedish 6G development MoU as outdoor trial begins",
+   "source": "Telecompaper",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNX3VjSGRKTDgxMVFSRHlWYVhaX1p5QnBsRHY3MGU3ZlhxNjdiMXY1d25Gd04yRTEtS3ZwY2lQQnZVNWVxT3JvZVgxOXJIZ2I1SGdzWnVSSlljZk1NQmJTMENkeVVfQkdycW1qRE02RldENU5NNXJOOUVLSlpDR05aQnlDY2ZtQ1JsamNKckE3d3VDS2ZEYUdGaFpzRG1zejNQM2hSVTR3TWczUC1YMHZjamM1MmtuOTVU?oc=5",
+   "date": "2026-11-02T11:56:06.000Z"
   }
  ]
 }
