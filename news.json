@@ -1,13 +1,6 @@
 {
- "updated": "2026-11-05T22:34:17.272Z",
+ "updated": "2026-11-05T23:30:44.342Z",
  "items": [
-  {
-   "topic": "5G",
-   "title": "PTA Chairman Inspects Mobile Network in Islamabad and Rawalpindi",
-   "source": "NewzTodays",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUkZZblJua3Jhb3RCMUFwd2VzcV9HWmtvNmR5TnpackxjNEE3ZkFZNFpZNlBZSDF1ejZYcFBlU3d6TGFYNEdzcEp0dDQ1YmppUURxOHNIbjhFbHpSNzFINXQ0MHZXOENkZV96MDZla3QxUjhwVnlpWUNlODRzbU9jYXU1bzQwYUtpRHRmMGdmTklEUQ?oc=5",
-   "date": "2026-11-05T08:38:22.000Z"
-  },
   {
    "topic": "5G",
    "title": "Starlink wants to build a 5G network, and Nintendo Switch game prices to increase",
@@ -42,6 +35,13 @@
    "source": "iPhone in Canada",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbllWMXh5MEtHZjdQRS02cTRPdkg3WFJlRFJ3RnZ0TERJakpXNDNEcElTVktzSlFhRGVaYUFFUVV3Q3o2SGFPSU9nWXlfU2dJNnphbkswejQyQk9BejdfcnhCQ0FtT05pcjZHcmdDUFdzQUp6TUg3U19pOXBUa0haRGoxYVhrNzA1dVNOOA?oc=5",
    "date": "2026-11-04T18:42:57.000Z"
+  },
+  {
+   "topic": "5G",
+   "title": "SpaceX to Use Qualcomm Dragonwing Cellular Infrastructure for Starlink 5G Network",
+   "source": "Moomoo",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMVBWTVhmV3ozVkRUc1g2SGhVWW5GaUZMTlZlbGF5WVltWUVicE04anl0cml3Y015SnBYOHJhLW8zaTk2Y0xRa0R1X0s2VWFiV0xXbXpMTzRweVRJVkdZVXVoY3Frc3Qta2NBN0YtcUdDdlNibS15ME1kVlpMTkxuMzRCa3FjNi1Nd0lNV215b0VjUU00TEZrOWp6dHpzVFl5RlZVV2UyaGFKN0Y0SkNNRExHN1BqejBM?oc=5",
+   "date": "2026-11-04T17:10:45.000Z"
   },
   {
    "topic": "4G",
@@ -108,13 +108,6 @@
   },
   {
    "topic": "Optical fibre",
-   "title": "Clagett earns Broadband Fiber Installer Certification",
-   "source": "thecabin.net",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVWo5Q1ByTFBNZGpaY2p1blFGLTVDMklCenV4WDg4Wjlfd3R4SjVoanpwUzNPSm5nZFVrZnJiM0UxZ3hOcWdGZ0pMSzd4SHhVR3lGMGlfY1N4bExQT0xTd3hUQVpObU9jNWZNa3B1RHZ0OVhWaGNYWUR0TkZwWk43VndwWDV4d2xLWE5ja0dMR0xXMndsTUxObmkxem5nX05KdU5FamFrQ0R4RDkzOXBVQVBWMjY1dFdKbm5WSlZnYm11SjhEZHV5anRGZlZZUQ?oc=5",
-   "date": "2026-11-05T16:00:00.000Z"
-  },
-  {
-   "topic": "Optical fibre",
    "title": "Fitch Ratings revises Sri Lanka Telecom to ‘AA+(lka)’",
    "source": "EconomyNext",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeHBwalk0X0h2Z2QxNEJSdjNUajM0aXVWSVhvQzlCdVZyNWsza3VETk80SEtseDlEOFA1dUpiMUJqbmZKSjF6ei1KREFVZ2pLcjNiREVlUDRIX01PVzU3WVdfZ3dJaUYtLW5fcHNicVhfbkJhLVYwNlJRek9NbXlLN2tiRS1QenM?oc=5",
@@ -126,6 +119,13 @@
    "source": "TelecomLead",
    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPY3ZJSUxxWk9KZFhlTXpSQ3RiRmdKQTJmTjdiWmNzcHNJNURQTzFKdHhqd0JFUUlQd0dUcEZJclJQRVF0eW55T2dlWWVXZTliTzhuRjRzeFk5MGU0UUtHd0FNSWdqeWIwZ25ySnV2MmhWaWJ4MjVaSG1VeklPak4ySXZFWXR3UWRUSzRFYl9yX1BrR09pXzBNZ3NlVzlpQnFKaC14Rk1QalI1blRvbjFVU0tNSTN6T0gyb0lYWXJaWUFqR0RMb2hPRVVldzYzTWJabTJ5Y3VCRERtd1NaN3F2U21tUThHUFljZ1hJZWRXZllKMURLYUHSAf4BQVVfeXFMTmNCclpZQTI5Tm91OW02Qk1kLVd0dzhhZ0RhbFRvWVFwRGFGWDlzUERhcWZZZlJ4UVd6OFkxSFJoVE9ZejVDeG1KSXFjTHNtc1F1WXJHdzJHZ1QyOUlMbFd5NnBSLXZRUnVNVFE2Nk5EZ0c1RkpoVmluTzJqdC1WMzZvUWZDR1FlbFh0aTBfQzFPX1Bhc3ZZU1ExS1NrR0Z4YXZTY0VxajNjMkV5RW9xVmlXRmx3RWNpVThMdFVVNklrWWZ6THlEb0NfQ1ZieDRmZVktQ0FsN3dwdFE2RnlBcEtwcG9udVBIS3VzTnl6Q3RXTlFXdmZlVmRSLXpmb1E?oc=5",
    "date": "2026-11-05T11:58:22.000Z"
+  },
+  {
+   "topic": "Optical fibre",
+   "title": "NavTech unveils 10 Gbps QKD-enabled optical wireless system at IMC 2026, targets secure telecom and defence networks",
+   "source": "Zee Business",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPcWJUVEpuRXl1eWhKMDQtMTNWa1RLd1hpNlVJYjBBRnV6WV9UV3FWSVNoMExDc0JkTE1NVVZhMEhQVVdZN2hacTlEV1g0bWN5YjRQVGFwZmh6Y24tak0yWmRJUEk5VHBRWW5zSDVxVmVNamxyaGlWRC10SjlNRVRESkJfRElla2Q2bzdxTHZXRW5oYzFHNmRsY1FYMFg0cmdXeU1GdlcwZnYwTkFKVmhnUUZjeFB5bTRndE8wWWlHOVg3UU1uZXVwVXB4eTNJaWFUZlkxLWFhX2tqUS1SenZGMy1QTWtxaUFxWUtUSmtPVWdSUQ?oc=5",
+   "date": "2026-11-05T08:04:31.000Z"
   },
   {
    "topic": "DWDM",
@@ -143,10 +143,10 @@
   },
   {
    "topic": "DWDM",
-   "title": "TTK and T8 test Angara DWDM platform",
-   "source": "Telecompaper",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdGpjUVAtRUJmUFJjQ2l5Q1ljQUJvLXFhei0tNFF5SWpuSHFuSlZfWXctNHhHWUhuRE41NDVDeFV3bllvTF9mVE9OVld0ZXlmbGgxdkhiRC1GbFVCakE1ZnZlSjVQZmNON2tSV1VHMmpRaGh5UjlWLWY0bXNrV3VMNzZCRVhMdw?oc=5",
-   "date": "2026-10-28T10:12:03.000Z"
+   "title": "Why Is Telecom Network Modernization Creating New Opportunities in the Telco Cloud Infrastructure Market?",
+   "source": "openPR.com",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN1Z6OWN2YkRJS1cyclBZN3F5TjhSUDkyMUh6Y3dYT1NhYkJKUVVkX05zMHJPd05QbHZRaU9mT3RSUlRRZTZWcHhXaFBhNnFpUGVVM3RfaTJYOEhhR09jYjJUeXFOMXR3WHZQX05KYllPNXYydmkxN2prcVVxZHVjQlgyeHZJQ09BSHpTRUF3?oc=5",
+   "date": "2026-10-26T09:18:51.000Z"
   },
   {
    "topic": "DWDM",
@@ -154,6 +154,13 @@
    "source": "openPR.com",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPd1d5ZFlBV0tFRUVwdGQ2VFpIQURkbExscG1mUHlCeGdaZ2dXRm5fYmkyaW1qZ1NJX0duMGh6VmQtNTFZNTJqX2pOZi1veV9zc2tVZXF2dmNtb3pRUmhDWWlKMzB1QlpQcTNvWFdwTWEtb0F5dzFRZ2psS05VbzdqMlF1dFJ4eXItdUhRalZkSndYNUU?oc=5",
    "date": "2026-10-24T07:00:00.000Z"
+  },
+  {
+   "topic": "Innovation",
+   "title": "GSMA Report Forecasts $1.24 Trillion Economic Opportunity from 6G by 2040",
+   "source": "The Fast Mode",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNmF6dXJDaFNUUjZnQkRkeWlrTzFjUkdEMnlRSXZMM2xpVk1ENGQ3ZUt4ejMwWk9wNGpCbmZXUjkxYTRZbEhGYlUtYTRELXJXSnlBWW5qMkwtaU1hWG5VUDRzY3lTdDJoOWJ3eUFKUjRUYTJqeklxRDdMbXVlSGV3QVFRUnNweUh4d3RQNkZYZGtsVXhMTENVZmpBU0dwN3ZOXzZoNnVnTklTUVNpbEZwMDQxUW83bWFZSGw5MFVMY0ZiN0NqSVExSklxamlNWlNKcEhn?oc=5",
+   "date": "2026-11-05T23:11:44.000Z"
   },
   {
    "topic": "Innovation",
@@ -217,13 +224,6 @@
    "source": "DD News",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVVc1ZTlwQURSTEdmVWpTNmIyRzR5MGczaUNRQmRrdjB4QmVTdVh6MGlBX2hQc21oc0N2Y1F3cTd0XzhJd2hOLXUzcEZEUVVDUGpHbW1MQ1VIM0c1WlVQVFQ1N3VhcVItSEJfczhKOXRSV2o1U20yOVNobUF3QjRVM3FmUGRnbzhmUllnQjZleGpydjZ0UzZ3aA?oc=5",
    "date": "2026-11-03T16:06:56.000Z"
-  },
-  {
-   "topic": "Innovation",
-   "title": "MediaTek and Ericsson Achieve World’s First Successful Multi-vendor Pre-6G Joint Field Trial with T-Mobile US",
-   "source": "MediaTek",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxONnlWV3hpX3dxUFpkbXp1eGxVQ1paVkdCaUFmWkZWWHMzZFhfbDY2bGQ3alZwcF82V3V2aVA5bUdXdng4TC1fa0c1M2xFTGJDMkxLU1hPMFVmbDRpM0laNzluall6NVZHZm9ud0RjMWJJeFlqZkhJbDdldGxNRTdBVUppQ0ZVamd6YXB4UG5VTTVUSmF0NUxhLTlYanRsdWJHOC1aRlk1bHdfd3NQaWxJMW04dEUxLXhVbmxET3Z0UUVXdXBYaEhtUXpzMGs2a241M2I2TGppbHkyM3BE0gHsAUFVX3lxTE5wZmRpNTVBeXVIVGdqNUZBZWVHV0l0MjZlQWV5c1ROVlhPUzJWYlJuRm1CeGhjeVFSVjd1OGVsM2p0ejNxQkM2OWliYWJYRHlSR3pBVnlKQjVRS1kzaUhFRUttVzBkMkhEVGVTY0RUYXQxWmFrYmlyODRxWlU0ampURmtHTGxlbEpHb1hyVGc5MWs2N01aekp6VGllazltWGh0MFktVXZxbGZlX1hOY2tMTndRZnpvemtLamlKbUQ3dEJGU2EyOU5pYTVzeGNjUDNZNzFLc0REcWxFS0NwNGcwbl9YRmRELUpIRjE3?oc=5",
-   "date": "2026-11-03T14:18:48.000Z"
   }
  ]
 }
