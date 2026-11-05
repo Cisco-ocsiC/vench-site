@@ -1,12 +1,26 @@
 {
- "updated": "2026-11-04T23:29:56.185Z",
+ "updated": "2026-11-05T00:34:29.825Z",
  "items": [
+  {
+   "topic": "5G",
+   "title": "8 Networks signs two-year deal with Perth Scorchers",
+   "source": "TelcoNews Australia",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWm8yc1oxRzVBbjQya1JuUmRSbk1GVDduNmhWZzdfUWxTS3UydlpuT0daR2NWeXJvTHdwUUI2ZzlUNzRfeGZCT2lCRlZCdVMxNWlQM3dKWjh6dkY4dWZWZVM2LS1uV2t5N3U1TTd4U2ZBNHZHNDdMS21wc09xSWdmZUdlcHlkalFNMGc?oc=5",
+   "date": "2026-11-04T21:15:00.000Z"
+  },
   {
    "topic": "5G",
    "title": "SpaceX Taps Qualcomm for Starlink Mobile 5G Network",
    "source": "iPhone in Canada",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbllWMXh5MEtHZjdQRS02cTRPdkg3WFJlRFJ3RnZ0TERJakpXNDNEcElTVktzSlFhRGVaYUFFUVV3Q3o2SGFPSU9nWXlfU2dJNnphbkswejQyQk9BejdfcnhCQ0FtT05pcjZHcmdDUFdzQUp6TUg3U19pOXBUa0haRGoxYVhrNzA1dVNOOA?oc=5",
    "date": "2026-11-04T18:48:42.000Z"
+  },
+  {
+   "topic": "5G",
+   "title": "SpaceX to Use Qualcomm Dragonwing Cellular Infrastructure for Starlink 5G Network",
+   "source": "Moomoo",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMVBWTVhmV3ozVkRUc1g2SGhVWW5GaUZMTlZlbGF5WVltWUVicE04anl0cml3Y015SnBYOHJhLW8zaTk2Y0xRa0R1X0s2VWFiV0xXbXpMTzRweVRJVkdZVXVoY3Frc3Qta2NBN0YtcUdDdlNibS15ME1kVlpMTkxuMzRCa3FjNi1Nd0lNV215b0VjUU00TEZrOWp6dHpzVFl5RlZVV2UyaGFKN0Y0SkNNRExHN1BqejBM?oc=5",
+   "date": "2026-11-04T17:10:45.000Z"
   },
   {
    "topic": "5G",
@@ -28,20 +42,6 @@
    "source": "ChannelNews.com.au",
    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNM3JpM1NORVJ4dmxxZmR6Rmd0RDgxejhfSnQ5cUZsUi03UGl3T2JTYVNnc0V2ck4zdm9BNWRLZk8tRkJLTm1oSVMxekdhcV9mQ1BXTS1FM1NxMk5kc0c4eVcySlBkMng4UUwtSzZXLUxXZE9OLWVnOXJCN3prclFVeWZIY0JhRjZLblFFVldxUHRwYnByeUhkbHNBa1VyVk5uQkMySUVPeXZBdzN3QVlJbTl4SllyRVZnaG9Gb1dqV2VtZnF5SGJkaDBwTkNQQjZRYjNmVC1MdHd5cjN1a1pEdVlHNWU1MUk?oc=5",
    "date": "2026-11-04T01:03:45.000Z"
-  },
-  {
-   "topic": "5G",
-   "title": "Musk Targets Boost Mobile In Satellite Carrier Grab",
-   "source": "ChannelNews.com.au",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNclBQanR0dnpEb05zcGhkVjlLVElDUkF2eS1qXzZiZW5hdGNDellfLXF4VGFPZng2ZmVzQnpmNVAzdE1NOUtzZDJ3ZGFRZHJhbnZEQ2trR1RpRWVVbXVzbzJBanJsakpTT3dKaEk0c2JQWkJrRkFMVnUwLWVGWU8zOUJSdkI4VkhCQ3Vr?oc=5",
-   "date": "2026-11-03T21:25:22.000Z"
-  },
-  {
-   "topic": "5G",
-   "title": "New plan needed to deliver 6G technological and revenue benefits",
-   "source": "Independent Australia",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTkNxRS1tdkVKaTVhLWNKeTBENWtzWTk2WFM0V2l1REN3Um5ScUo3UDhueklYeFVxVjltcm5ac2RIakd1V29LajcybC01ZFRkVEtKaTdKSkZJaGZzQTJoZXFCb1l5dkJ4SXhLQl9ydUVHY2tGb1d5cUV4UzJTdFJnLXVtaXZ6ajJpQ2N3SHpsS0d0ai1yNFdtMXVtVFFiMlBvSUpFWXAyM2JVZDBOaTM1cERDMjJiTDJNWjNN?oc=5",
-   "date": "2026-11-03T21:00:19.000Z"
   },
   {
    "topic": "4G",
@@ -94,6 +94,13 @@
   },
   {
    "topic": "Optical fibre",
+   "title": "One of the biggest telecom companies in UK is cutting thousands of jobs, changes fibre network expansion",
+   "source": "The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPdDQ2ZFA0SEo0cmZjV1dyVWFDS015R1gxV1lJbjRLMWs2WkxpaFJkWDM1WVRBWHZEamFtZHhhSVpwQXRpcmlRM3dUUXR5RFRVQnc3b191LUpLQ2lyNlI2ZHg2Qm55T0NQaC1UQnFEY0pHMjlZQV9aazl1OEdvZjVvY3ZnOVhJVERWdGJka25xRGpPOTg0Z2FZY2NxT2N1NHE0ME9STHFiNkp1U0VZWFdMbWVwNEw3aFFhc1Nib0VBb1g2elNWb0hhdGZKaEk2SFRINDlHNll2WE9VMndLR1BqZnR3Z3YwN1NGR2JOdU43QWt4Mk9pTk5wVkdkNUVBdVZ0YnVaZEh4NWZXY25aTGxiT2xoN3QyY3lTdlR30gGgAkFVX3lxTFBOSkk0VUJQVkZNenRKTndzeG1IOEJHa0RUcjdfTE1mV3BVVERxUFEyLVJ5YzZLSU1oN25UNllQMjYyUTA2SDVtNHUyZzlVbE1WYW5rTWMzNXoxR0c1cjMwbjN1eE10bllEZ1RzU0tCVkhWNTg4M1ZoLUp0U3kxTndickI2MVdkakFNQXd6WUE0bnQtOXRQZmExLTJmeGxDOXFoUTh5cVk0dEh6Q3BUVjJ2ZlBUYXVkbFM5RWpHbmphSW1GdlhBRWpPMnRiZ2JWUUk4MkItelZONHpVQnVJV19uQ0haZ0I1dzNlcG5PSG56b1dXYk1kUEQ1cnFEZFJOb0NkM3pMZFRtSWM0aHZad1Bmelk2eE1XbHNFNWlYR3JUWQ?oc=5",
+   "date": "2026-11-03T13:56:00.000Z"
+  },
+  {
+   "topic": "Optical fibre",
    "title": "German housing industry sees risks in draft telecom law for network investments",
    "source": "Telecompaper",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPLXBCcHluVDNJVzNxbXEzV3lWejU0ZV9UREdWeW1FSXRvSEE0NTc5ZmczSmJjTHEtSEw0LUZnRFVBYUZIQlRrbEJHeGZ3YWpBTVJGc0RnRmZEUFF6bXVtVXR4VWlaS0cxV1NDQURMN3NMa0Uyb0djMUhKaFVxQWU2OTV0OHZweWNCLW9tN04tNTVFekVfMkxla0VCNlJ3cklnQzJ5clFNbWVSclhpU3FBZlFoVHlzTUVYbXVsQ3owaw?oc=5",
@@ -108,24 +115,17 @@
   },
   {
    "topic": "Optical fibre",
+   "title": "Telecom Companies Urge Reps To Address Infrastructural, Policy Challenges",
+   "source": "ABN TV",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTjJjamU2RHJpNldtTWhfOC1yaW0wbmVTVnBBa3F5X0xPUEJOa0I5cDItTTFuS0txTWN3UHZMczg1MlVBNGhPZm1JekpKWVlwbWF3blNvV01NcTdBQkdhZFRnWUVQZklkRW9hTnViblFoVVZTeVpRd19RMVpFN0VQZlZKWlIwN3lFcHJzZVBkWnJ3WktKVVNycXJlS0VyYXRB?oc=5",
+   "date": "2026-11-03T06:10:38.000Z"
+  },
+  {
+   "topic": "Optical fibre",
    "title": "Telecom Namibia counts vandalism costs",
    "source": "ITWeb Africa",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONlZ5cm5WdmwxSG9zMFYxSWUzSXpEYWpuV2NOUlhGN3R1Z3NCbWRmZEZDQmhJN2hpbHlPdHFTZV9LMUhyN1B5eXd2OGFJUEdjZUE5TTBabmxJdWltRGRrSXlibWlWdmVURGhxLUxUTG9RWEQyaDY5MkR0ZkFkVGdwMENfTkowZW43ZUo2bg?oc=5",
    "date": "2026-11-03T06:05:36.000Z"
-  },
-  {
-   "topic": "Optical fibre",
-   "title": "Optage expands dark fibre network to connect data centre hubs across Kansai",
-   "source": "Telecompaper",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUUd6WlRVdklfbjRMNEN3Sk5kLUVscUhPMU1rMDF1SHZZeDkwRUpaTzcyTml1RzluNkR1NFRKR1NtdjVKWUFRODdqdWVTbHQtRGdhNnREeWw3RG1SQ0dxTVJSVldXa1cxZ2Y3RGN5OGhRYTlJRWYwalhuYjlSNzVIbXk5MkpsR1NXLWxudTM5eGFPcUhrMGZGZkF0blYwM05BMW44bTAwTHhiMGdQa0dLbE91TFRvcFBWekE?oc=5",
-   "date": "2026-11-03T05:08:06.000Z"
-  },
-  {
-   "topic": "Optical fibre",
-   "title": "Corning Pune Expansion to Boost India’s AI Fibre Network",
-   "source": "Urban Acres",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaGl5VkhFMzFKTV9aT3lJaGh0a09NX2xfQ1ZCRExUSy1qajE5UHo5QThPMnFobVAza2hBd2hQVElBbUZBX0lqYVJoTlBfYm11MXpYQkZJRUREU3pHYVF1TFJ2ZWpmdDY1Q0o4MEhyQ3BGbjd6ZkY3QlFYSFltdm9DSmxHZVNCSVVaMkplbXdjaEVOV25PbEF2UEJSeFpJdw?oc=5",
-   "date": "2026-11-02T16:34:13.000Z"
   },
   {
    "topic": "DWDM",
@@ -144,9 +144,9 @@
   {
    "topic": "DWDM",
    "title": "Bluebird Fiber Announces Tera-Core™ as Customer Demand Accelerates Beyond Single 400G Connections",
-   "source": "The Manila Times",
-   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQNm5xVV9VZEdUZk80bnA4SFktdlVaaDlOejNRQ2hka054V0ttQzJybm5xeUdhUHlFY0RPUXlYY1h6ZjZySnZWVGVuZjAta2VGZ0REVFlnR3c5VDBPSG5fVThmTWtiN0R3UlZTTnc0YmF4cmhqdWNVQXZBdHlCcXZrWG1hcHRvNmVEeXFEOEltU1ByS0NkMFg3WDdXNl9JY0g2cjhtOGRXSThvVU9hUS1zMFhwZVRzVVVwWkdjOXlFTWl6SElXQ0tCZHl0TGYxRUpMZ2tfWDgyN2Z3bmlhODAzQkRpbmRiWlpTWHR4V2U4c0huUGRsU3hpdWZwRS0tYkxrVExLNNIBhAJBVV95cUxQNm5xVV9VZEdUZk80bnA4SFktdlVaaDlOejNRQ2hka054V0ttQzJybm5xeUdhUHlFY0RPUXlYY1h6ZjZySnZWVGVuZjAta2VGZ0REVFlnR3c5VDBPSG5fVThmTWtiN0R3UlZTTnc0YmF4cmhqdWNVQXZBdHlCcXZrWG1hcHRvNmVEeXFEOEltU1ByS0NkMFg3WDdXNl9JY0g2cjhtOGRXSThvVU9hUS1zMFhwZVRzVVVwWkdjOXlFTWl6SElXQ0tCZHl0TGYxRUpMZ2tfWDgyN2Z3bmlhODAzQkRpbmRiWlpTWHR4V2U4c0huUGRsU3hpdWZwRS0tYkxrVExLNA?oc=5",
-   "date": "2026-11-02T13:53:31.000Z"
+   "source": "GlobeNewswire",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPdEJtODdzQktHZWdsMUgxb0Y4eDBFX0tRZXROMndna19fUlRpekFSWGRtTXRmMk9uNFllUEZOX1UyaFd1ckVaYUc1T0tHeEx3Mklwd2dmNGxNRXhrem01WTl2V0g2aWJRNDUxYWk1eGhUV1hBZjNpYlJjSWQ5NEhKNU4yOHFXMjZrZ3gyMEFSZkVTZ19LelMySGRscHJ5RVZPRXlzS2g5RW5OTzdSb1pxOU9jRGdNcWxiR3FlTHRZZFN6UTlDSWhTS2VDU2VQaDRVak4yS2Jxc21BSFM1UzJHUkxmWk1TZnB0ZUhFRmxFQXpTRjVaMHJSR1B3aDk?oc=5",
+   "date": "2026-11-02T13:34:00.000Z"
   },
   {
    "topic": "DWDM",
@@ -154,6 +154,13 @@
    "source": "Telecompaper",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdGpjUVAtRUJmUFJjQ2l5Q1ljQUJvLXFhei0tNFF5SWpuSHFuSlZfWXctNHhHWUhuRE41NDVDeFV3bllvTF9mVE9OVld0ZXlmbGgxdkhiRC1GbFVCakE1ZnZlSjVQZmNON2tSV1VHMmpRaGh5UjlWLWY0bXNrV3VMNzZCRVhMdw?oc=5",
    "date": "2026-10-28T10:12:03.000Z"
+  },
+  {
+   "topic": "DWDM",
+   "title": "Global Optical Network Physical-Layer Security Market",
+   "source": "openPR.com",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPd1d5ZFlBV0tFRUVwdGQ2VFpIQURkbExscG1mUHlCeGdaZ2dXRm5fYmkyaW1qZ1NJX0duMGh6VmQtNTFZNTJqX2pOZi1veV9zc2tVZXF2dmNtb3pRUmhDWWlKMzB1QlpQcTNvWFdwTWEtb0F5dzFRZ2psS05VbzdqMlF1dFJ4eXItdUhRalZkSndYNUU?oc=5",
+   "date": "2026-10-24T07:00:00.000Z"
   },
   {
    "topic": "Innovation",
