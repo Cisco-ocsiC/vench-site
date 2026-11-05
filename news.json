@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T01:55:31.052Z",
+ "updated": "2026-11-05T02:44:11.370Z",
  "items": [
   {
    "topic": "5G",
@@ -80,10 +80,10 @@
   },
   {
    "topic": "4G",
-   "title": "Verizon, AT&T, and T-Mobile have three different names for the fast 5G we actually want",
-   "source": "MakeUseOf",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1HRF9DMXFXME1wNDMxUWp1Szh3Mm5Wb1ExMkUtelp5a3Zjbm10cm5mcUh2TmN1T19pcXZKa3RSdHd2aFU4cUdINml3THlsN2VFSENzVzBZclJ0aTB2a1YtOVVPSWl3d0QybDQ2amVBOTF4VElmaFFSVDBIQQ?oc=5",
-   "date": "2026-10-30T18:00:16.000Z"
+   "title": "One Communications shuts down 2G network nationwide",
+   "source": "Guyana Chronicle",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNckJPQWgzM0ZLQ0dYeVlhY2p5c3lDZ3RZUnMxaU1HX214TW8tMDRaeTlXUzBRR3ZvZTdyWDhabmhTanlSNl9KY25sZTlrSmpXSFk0aV9CSXhtN2p1dHZsdVByeWh4R244NU91UWRZWHlseHJTLWVIdlhnQkEyQ0xVY1o0dWxYM1RjcTZRQkh2WF9qUVRGdEE?oc=5",
+   "date": "2026-11-01T08:45:04.000Z"
   },
   {
    "topic": "Optical fibre",
@@ -115,17 +115,17 @@
   },
   {
    "topic": "Optical fibre",
+   "title": "Telecom Companies Urge Reps To Address Infrastructural, Policy Challenges",
+   "source": "ABN TV",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTjJjamU2RHJpNldtTWhfOC1yaW0wbmVTVnBBa3F5X0xPUEJOa0I5cDItTTFuS0txTWN3UHZMczg1MlVBNGhPZm1JekpKWVlwbWF3blNvV01NcTdBQkdhZFRnWUVQZklkRW9hTnViblFoVVZTeVpRd19RMVpFN0VQZlZKWlIwN3lFcHJzZVBkWnJ3WktKVVNycXJlS0VyYXRB?oc=5",
+   "date": "2026-11-03T06:10:38.000Z"
+  },
+  {
+   "topic": "Optical fibre",
    "title": "Telecom Namibia counts vandalism costs",
    "source": "ITWeb Africa",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONlZ5cm5WdmwxSG9zMFYxSWUzSXpEYWpuV2NOUlhGN3R1Z3NCbWRmZEZDQmhJN2hpbHlPdHFTZV9LMUhyN1B5eXd2OGFJUEdjZUE5TTBabmxJdWltRGRrSXlibWlWdmVURGhxLUxUTG9RWEQyaDY5MkR0ZkFkVGdwMENfTkowZW43ZUo2bg?oc=5",
    "date": "2026-11-03T06:05:36.000Z"
-  },
-  {
-   "topic": "Optical fibre",
-   "title": "Optage expands dark fibre network to connect data centre hubs across Kansai",
-   "source": "Telecompaper",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUUd6WlRVdklfbjRMNEN3Sk5kLUVscUhPMU1rMDF1SHZZeDkwRUpaTzcyTml1RzluNkR1NFRKR1NtdjVKWUFRODdqdWVTbHQtRGdhNnREeWw3RG1SQ0dxTVJSVldXa1cxZ2Y3RGN5OGhRYTlJRWYwalhuYjlSNzVIbXk5MkpsR1NXLWxudTM5eGFPcUhrMGZGZkF0blYwM05BMW44bTAwTHhiMGdQa0dLbE91TFRvcFBWekE?oc=5",
-   "date": "2026-11-03T05:08:06.000Z"
   },
   {
    "topic": "DWDM",
@@ -161,13 +161,6 @@
    "source": "openPR.com",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPd1d5ZFlBV0tFRUVwdGQ2VFpIQURkbExscG1mUHlCeGdaZ2dXRm5fYmkyaW1qZ1NJX0duMGh6VmQtNTFZNTJqX2pOZi1veV9zc2tVZXF2dmNtb3pRUmhDWWlKMzB1QlpQcTNvWFdwTWEtb0F5dzFRZ2psS05VbzdqMlF1dFJ4eXItdUhRalZkSndYNUU?oc=5",
    "date": "2026-10-24T07:00:00.000Z"
-  },
-  {
-   "topic": "Innovation",
-   "title": "Telefónica, University of Málaga Advance Hybrid Satellite & Terrestrial for 5G and 6G NTN",
-   "source": "The Fast Mode",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNV2k1Y2NiNllQVFZMQjR5cFlnRi1IY19FeHBGMjRVbjFlUXNsU3ZZM2lfcWJOd3pOMGFTRlhqaUI0QTUzcTF3cEJNUlppODZ6Y1RmVm11WnBUNy1wWF9xS3M5ck5kaFFmamF6UVI3cFJYTGJVd0JuNlNGTlA3VkdEdm05TG1ISTFWdWlhWDVWdWQ3czlPZEx4eHhyTGQ1T1dHckNWRnFZMVlucS01Q3BWS0hIVG5Od2pTVHhEd2Z3bk5xUE9fNVFDdW1oVWRmQzJwWEFZVWJPeFI?oc=5",
-   "date": "2026-11-05T00:00:03.000Z"
   },
   {
    "topic": "Innovation",
@@ -231,6 +224,13 @@
    "source": "Innovation News Network",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSHNENWxwOWFXTVlLODVEeEJpMGljdmlBZjVfTkxNdlVVQVFlWHFPV3RpeUVZUldwQXJXandZRXZBMmxPQWFIMjVjV2J0LUhMZkNGRWlHdS1CR21Kc3VKQklLWVAxbE9JX1h3a21VTzZOUUlNQUZKWmZ4NUphQzJwVGZyOUd5Tk1oQlNYZzNhYUkyOHFGTTRqT2VfZkpsOWswMFk0bmxFRGtISE0xdFhhOQ?oc=5",
    "date": "2026-10-28T11:14:12.000Z"
+  },
+  {
+   "topic": "Innovation",
+   "title": "Meet Ghanaian American engineer recognised for telecommunications innovation",
+   "source": "GhanaWeb",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUTRTWTBYRlQxS183b2RpN1BYQ0huT1ZIOGlBRlN2ZFk2SFZTTmp1WkZIbjQ2Yy12ZkJWVnp3MnBLVllCbDMxeHF0Y29GRmUxdEZoQWIzRUU5OUlPTmJVWHdRSXpzVUpLb014ekhUV05WZy02Tkw3c0FLSUdlaFRmUVMwSFlzWjBGd2hkbUF1S1pyYU1SeEZscHNUNXFYV1FQSHBOZlYwdHhOQkQyVXJOQ2MybDZDRUluYkZ1UGt4RVRwMjZCQV9aS0dtejQ?oc=5",
+   "date": "2026-10-26T11:40:17.000Z"
   }
  ]
 }
