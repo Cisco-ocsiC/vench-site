@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T09:49:19.154Z",
+ "updated": "2026-11-06T10:49:53.832Z",
  "items": [
   {
    "topic": "5G",
@@ -14,13 +14,6 @@
    "source": "Telecompaper",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGxvUU9TYmtIMmRVU1NhMU04Ykc0aUJWZE9KSjg4ODNWcEZBVjZ5S2kzX1MzV2JLOTNPVlptQi1vdVdheUk1WGNzUlU4bHZ0S1Z1OXhndk5OMGRRaGRaMjd1dWFiU0xMUk9IUU1rZG1CcEpENWx3MXRSX05oVFJTakJFZ2ZWa2VYczJocllmN19DdUxXSVI0ZTlfUmJZYTRaQmw0Y2Q5MHBINTJJSmhwVw?oc=5",
    "date": "2026-11-05T05:08:03.000Z"
-  },
-  {
-   "topic": "5G",
-   "title": "EonFibre adds 400G capacity to New Zealand-Australia network",
-   "source": "Telecompaper",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUEt5OTluWW5xMmNNNnExRnhiOXBZWXV3YTU4NkFxeW1PRmxYMWJoWmRKNERxTG1Wb0FISG1QREU3VFJKOHBQb2xXMGhOREttOHlMQVNFekdDSHhDRjlKdWdRSWItNDNiSm9wOU1zNFFZclJJYTlkdGpRcGR5TkJNeDRnQkc0WU4zaW5rNW42ZkljNExOQU5MNXdUb1ZaOEpld0dZWnd3?oc=5",
-   "date": "2026-11-05T04:50:28.000Z"
   },
   {
    "topic": "5G",
@@ -42,6 +35,13 @@
    "source": "iPhone in Canada",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbllWMXh5MEtHZjdQRS02cTRPdkg3WFJlRFJ3RnZ0TERJakpXNDNEcElTVktzSlFhRGVaYUFFUVV3Q3o2SGFPSU9nWXlfU2dJNnphbkswejQyQk9BejdfcnhCQ0FtT05pcjZHcmdDUFdzQUp6TUg3U19pOXBUa0haRGoxYVhrNzA1dVNOOA?oc=5",
    "date": "2026-11-04T18:42:57.000Z"
+  },
+  {
+   "topic": "5G",
+   "title": "SpaceX to Use Qualcomm Dragonwing Cellular Infrastructure for Starlink 5G Network",
+   "source": "Moomoo",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMVBWTVhmV3ozVkRUc1g2SGhVWW5GaUZMTlZlbGF5WVltWUVicE04anl0cml3Y015SnBYOHJhLW8zaTk2Y0xRa0R1X0s2VWFiV0xXbXpMTzRweVRJVkdZVXVoY3Frc3Qta2NBN0YtcUdDdlNibS15ME1kVlpMTkxuMzRCa3FjNi1Nd0lNV215b0VjUU00TEZrOWp6dHpzVFl5RlZVV2UyaGFKN0Y0SkNNRExHN1BqejBM?oc=5",
+   "date": "2026-11-04T17:10:45.000Z"
   },
   {
    "topic": "4G",
@@ -87,6 +87,13 @@
   },
   {
    "topic": "Optical fibre",
+   "title": "Oman Fiber Optic Company",
+   "source": "Business Focus Magazine",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbVVNRGFsSXR2YWx0dlFfdHJBTUM0MFZNQkltOU9nUFk1cmRBck10bUZlaGMxeF9UdjV0b2RTZlYwSlAxV1JFOExPcTJ0QklOSmhlQmFtUEJNMnZ4aXJmUXUyQUd2ZTlhclBfOTVTTWlhTGxFQm1iYzVkQVhTX3hwa0ZwUWVRaVhkMlZuRTlZRmFpMUNXNWhuNQ?oc=5",
+   "date": "2026-11-06T09:52:35.000Z"
+  },
+  {
+   "topic": "Optical fibre",
    "title": "Fitch upgrades Sri Lanka Telecom’s national rating to AA+(lka)",
    "source": "Hiru News",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQR0RYcWFQNjllSGJKVjRvTlFlMi1KQ2tHU2dYME1ka1V4SG1EdVN1blRoUW5yVl9senQ4ZERDQTBkYWdQNnBFT3p6UDFkUEhPSUNOeHNibFBVcjlDdzJQVnBoRE1pWnpOcE1mYzlNaXN6S3ozMjNTc0szUmp6Wm9nd0l4NjJuUmtLZDN5ckNLNGJxdWhxUnU4bTBJNVhJa2JFbGV0RXlB?oc=5",
@@ -119,13 +126,6 @@
    "source": "TelecomTalk",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMVg3LVd0ZW95M1RicTJQalNVM0FmdnpwNnlWRFkyYV80UjJLYXJ4U3duQ1VJTTM0eUxlcHEtdmJ5T21IUmE1MDE1ZnZJS1ZROVh0Qy1NajMtUld3TWN3akc1RUtLdE9Ua3VqRktPZXBiaTBPb1FWXzlwZkVxMXJLbzBjaERpS2NJeFFDU0xn?oc=5",
    "date": "2026-11-05T17:18:37.000Z"
-  },
-  {
-   "topic": "Optical fibre",
-   "title": "Bharti Airtel Invests ₹12,467 Crore in Q2 FY2027 as Subscriber Base Reaches 692.6 Million and Network Coverage Expands",
-   "source": "TelecomLead",
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPY3ZJSUxxWk9KZFhlTXpSQ3RiRmdKQTJmTjdiWmNzcHNJNURQTzFKdHhqd0JFUUlQd0dUcEZJclJQRVF0eW55T2dlWWVXZTliTzhuRjRzeFk5MGU0UUtHd0FNSWdqeWIwZ25ySnV2MmhWaWJ4MjVaSG1VeklPak4ySXZFWXR3UWRUSzRFYl9yX1BrR09pXzBNZ3NlVzlpQnFKaC14Rk1QalI1blRvbjFVU0tNSTN6T0gyb0lYWXJaWUFqR0RMb2hPRVVldzYzTWJabTJ5Y3VCRERtd1NaN3F2U21tUThHUFljZ1hJZWRXZllKMURLYUHSAf4BQVVfeXFMTmNCclpZQTI5Tm91OW02Qk1kLVd0dzhhZ0RhbFRvWVFwRGFGWDlzUERhcWZZZlJ4UVd6OFkxSFJoVE9ZejVDeG1KSXFjTHNtc1F1WXJHdzJHZ1QyOUlMbFd5NnBSLXZRUnVNVFE2Nk5EZ0c1RkpoVmluTzJqdC1WMzZvUWZDR1FlbFh0aTBfQzFPX1Bhc3ZZU1ExS1NrR0Z4YXZTY0VxajNjMkV5RW9xVmlXRmx3RWNpVThMdFVVNklrWWZ6THlEb0NfQ1ZieDRmZVktQ0FsN3dwdFE2RnlBcEtwcG9udVBIS3VzTnl6Q3RXTlFXdmZlVmRSLXpmb1E?oc=5",
-   "date": "2026-11-05T11:58:22.000Z"
   },
   {
    "topic": "DWDM",
@@ -164,6 +164,20 @@
   },
   {
    "topic": "Innovation",
+   "title": "Forecast: 6G could add $1.2tn to global economy by 2040",
+   "source": "Advanced Television",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdjVfN3AwTlNpMVJaRkc1RGpObHZNZnRzOXZEY1ltZjZjY01ZX1Q4UmZYY1FhcWZDWkpzbnowN2wzQmJDS3h0UXRhREZVTGFZcUd3MHVfNjVvNG5YTjJNMzJYMFpXUkI0Z05IOUJZbTFEMU0zamZ3NVRXTEF6TVoxOUlNS1p6Y0RfbF9BYUowN1NSX0tCX0EzNmM2Z2F3Qkk0cHNR?oc=5",
+   "date": "2026-11-06T10:08:43.000Z"
+  },
+  {
+   "topic": "Innovation",
+   "title": "MediaTek, Ericsson complete multi-vendor pre-6G trial with T-Mobile",
+   "source": "Evertiq",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMGpLWGZBQ1pKdmJKVzVVMHN2RzhVY2E0a1htQzN4azJfbmdvMVVTekRQRlZteDJubkIxbkRJU28zYTJKWmp4Sy1odjFIdHJUYXhqbUpFblNvczJQNkU2LW84dVhheV9jYWt4NFd4Ymd0VE9LSHk1Y0RkWTlIUEdhUmlxbERCVzMza3ZQRTFwN05PeUhsSlFETUdHb3hRa1cyWlA2LUZhNA?oc=5",
+   "date": "2026-11-06T09:00:00.000Z"
+  },
+  {
+   "topic": "Innovation",
    "title": "JNCASR silicon chip enables 100 Gbps transmission for 6G over terahertz frequencies",
    "source": "electronics.economictimes.indiatimes.com",
    "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOUGduenZIWjVYX3hZX1hmMHdxVEdjdlltU0hNejJxcGxfeTdWcnAxLXhCMEtVVHNQb0phUU9vNmJaamprRDdOMF9wRWV0eU9PYzRvTDlMRHN3TVYwM0dLNEZPcTFqT0RLWUtVaVVhQlllMHdWb0IwMHFLRl9tS1BCQmNhRXRQZ3hkaUp4V0NXU3k1ZDhwUTU5b085N09SYjRkaENWdUxZcHBkN2FiSXc3VGJES0ZpcXpvRW5JTGRodXFNQlNFOEhvZ0Q2UXVoREgzSjJhanB1elVkNEJvQ1ZTS0o3bHV0a25tUjdKUXVwZ2JCSjZxYUJENXZsNGRwQlRJU2tfYUhEN1hqN2xlSGhuZVc3a2JnNF9hQlRTM1dmc3huYXJPU2FqNXFjT3IySk9R0gH_AUFVX3lxTFBUSzdHWXFRcDc1bmwtX1hLQmJDSG5FVVQ2SGpuRjhrbG9sd19vVnRxT19LaW95MHdJbGhYNFpzVjNLWXlaQWlEcjF0dG52NWNlc2d4X1RKT0o5eENTd0tIaDBLb0JoekdHa3JhQUlhNjk0VGtZMUc3Y3k2ZGU5eWVHTzljV0ltQ0tPMzVsbko2UTNVYmUzVUMtUnZweWktVXd5dlowZjlENlQzeXVCblJLOFZKZUljb25oSXdLd09KUFNkM0M5X0NxT3ZLTHU2T3B5U2dEdFZKSDBLREZIV2hIR3hTdUNXYWU2RnFmMW0wanlUTV9pblVpc3NWZUZrNA?oc=5",
@@ -199,13 +213,6 @@
   },
   {
    "topic": "Innovation",
-   "title": "GSMA Warns Spectrum Shortages Could Put $520 Billion in 6G Economic Benefits at Risk",
-   "source": "TechAfrica News",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZXhWZGhlM09kMzBDYXlwQlo3cGV4UnhiWEgyQWU1akxXa1VrN0I3V0ttS3llbVptdlRBT0JjMHpsZE1aVkM1SmVrcGtaMkFsQ21iRkR1eklmdzhBUl91OXdMX3Z0aW5FN0Ntb2xTbFY4TzhnZW1PUUpnOFZXdFNrWC1tUzBzaE12Umt1QXhud3N2VlRHUG80WWN6TkJ0YWV1cFpuZ1oxcTRVeU5SczZKV2tfLWx6b3d1bWdsYmFNZw?oc=5",
-   "date": "2026-11-05T12:27:40.000Z"
-  },
-  {
-   "topic": "Innovation",
    "title": "Far EasTone Telecommunications : Record Q3 revenue and EBITDA, with broad-based growth and FY guidance on track",
    "source": "TradingView",
    "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPQzFyQ01Vajl2eDhOZ2lCYm5pNzZkekd4RE9ubDdQTHlzQmRTbGNqM0d3OG5meXgxNFBvTzBLUEdITEJPbGxNbElGbnZoM3pSR1h3RFFBTUUtc0VXRGptaWxZTF9kWGtfcUk0X21pSTlmUjVBanMxZ203OWI3OHQzeGFoak1YNFlrQTcyekNNTDktMHg1MTg1eGh4NDlZeUFHVnZMQXVHdmxJNDVrSGVrOHRTbnBQX0VZZncwM2wwODVGdjhTOXN6V2l6QjlZVkgtZFoxWmF0dHRDdmJ0bnRZLVNFRU5Tai0yTjBPeF9YYk1iVlVpYUY1NWZaTDlhd0U0WDBIT0hYcFM5T3RPRzR6djhENjFvdVBNc3Q0WS1BM1c?oc=5",
@@ -224,13 +231,6 @@
    "source": "OpenGov Asia",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZlQ3alZTbUt4empGSWRQQ3lkUzF6UlN3RXQ0Z3g5bFBIUkZDbHNLeUVzRlcwVzB3V3I0TGpISEhQMjNBVzFJckdGUU1BU2QyelNmb2NhN254Mnl5a05qYlNySzQ1dWp4VVJyWEIyVXFabHE0N1FLeUVjUnJyeTRoNko4bTQ5U1B1aHRqRWxta1VhY1RuUWtkSGlvM2J6Q21zeWZwUmt0WUUyVDJI?oc=5",
    "date": "2026-11-05T01:38:56.000Z"
-  },
-  {
-   "topic": "Innovation",
-   "title": "Telefónica, University of Málaga Advance Hybrid Satellite & Terrestrial for 5G and 6G NTN",
-   "source": "The Fast Mode",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNV2k1Y2NiNllQVFZMQjR5cFlnRi1IY19FeHBGMjRVbjFlUXNsU3ZZM2lfcWJOd3pOMGFTRlhqaUI0QTUzcTF3cEJNUlppODZ6Y1RmVm11WnBUNy1wWF9xS3M5ck5kaFFmamF6UVI3cFJYTGJVd0JuNlNGTlA3VkdEdm05TG1ISTFWdWlhWDVWdWQ3czlPZEx4eHhyTGQ1T1dHckNWRnFZMVlucS01Q3BWS0hIVG5Od2pTVHhEd2Z3bk5xUE9fNVFDdW1oVWRmQzJwWEFZVWJPeFI?oc=5",
-   "date": "2026-11-05T00:29:47.000Z"
   }
  ]
 }
