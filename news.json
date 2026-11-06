@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T05:44:50.931Z",
+ "updated": "2026-11-06T06:51:17.683Z",
  "items": [
   {
    "topic": "5G",
@@ -14,6 +14,13 @@
    "source": "Telecompaper",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGxvUU9TYmtIMmRVU1NhMU04Ykc0aUJWZE9KSjg4ODNWcEZBVjZ5S2kzX1MzV2JLOTNPVlptQi1vdVdheUk1WGNzUlU4bHZ0S1Z1OXhndk5OMGRRaGRaMjd1dWFiU0xMUk9IUU1rZG1CcEpENWx3MXRSX05oVFJTakJFZ2ZWa2VYczJocllmN19DdUxXSVI0ZTlfUmJZYTRaQmw0Y2Q5MHBINTJJSmhwVw?oc=5",
    "date": "2026-11-05T05:07:56.000Z"
+  },
+  {
+   "topic": "5G",
+   "title": "EonFibre adds 400G capacity to New Zealand-Australia network",
+   "source": "Telecompaper",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUEt5OTluWW5xMmNNNnExRnhiOXBZWXV3YTU4NkFxeW1PRmxYMWJoWmRKNERxTG1Wb0FISG1QREU3VFJKOHBQb2xXMGhOREttOHlMQVNFekdDSHhDRjlKdWdRSWItNDNiSm9wOU1zNFFZclJJYTlkdGpRcGR5TkJNeDRnQkc0WU4zaW5rNW42ZkljNExOQU5MNXdUb1ZaOEpld0dZWnd3?oc=5",
+   "date": "2026-11-05T04:50:28.000Z"
   },
   {
    "topic": "5G",
@@ -35,13 +42,6 @@
    "source": "iPhone in Canada",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbllWMXh5MEtHZjdQRS02cTRPdkg3WFJlRFJ3RnZ0TERJakpXNDNEcElTVktzSlFhRGVaYUFFUVV3Q3o2SGFPSU9nWXlfU2dJNnphbkswejQyQk9BejdfcnhCQ0FtT05pcjZHcmdDUFdzQUp6TUg3U19pOXBUa0haRGoxYVhrNzA1dVNOOA?oc=5",
    "date": "2026-11-04T18:42:57.000Z"
-  },
-  {
-   "topic": "5G",
-   "title": "SpaceX to Use Qualcomm Dragonwing Cellular Infrastructure for Starlink 5G Network",
-   "source": "Moomoo",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMVBWTVhmV3ozVkRUc1g2SGhVWW5GaUZMTlZlbGF5WVltWUVicE04anl0cml3Y015SnBYOHJhLW8zaTk2Y0xRa0R1X0s2VWFiV0xXbXpMTzRweVRJVkdZVXVoY3Frc3Qta2NBN0YtcUdDdlNibS15ME1kVlpMTkxuMzRCa3FjNi1Nd0lNV215b0VjUU00TEZrOWp6dHpzVFl5RlZVV2UyaGFKN0Y0SkNNRExHN1BqejBM?oc=5",
-   "date": "2026-11-04T17:10:45.000Z"
   },
   {
    "topic": "4G",
@@ -157,6 +157,13 @@
   },
   {
    "topic": "Innovation",
+   "title": "Google UK appoints Annika Bizon as Managing Director of Technology, Media and Telecommunications",
+   "source": "EdTech Innovation Hub",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONEhJUldkMmNESXFMbnVZaWxrbzdRclY1RVF6VXZUZjJELW1iRVMxMGRaLUV2RUUwV2V5ZmJkZHkxNXpXdXk0YzByNWZQR0k1MnZwVjljS284TWdFUkh2eDJIVUtUUElWa3VxTndnWWhtN0hlYk00d0ZsbWhLaWVqcTBYV0RtYnpnUE5CYmY2RFZKOG5EMnJMMDB6MkVlem1Jd2ZUSWYxZm5LWWtRVkhSQTMzZGh6U2pZVzRNeFFzenFIbVBrSGVETjFSVWxnLWZHUGc?oc=5",
+   "date": "2026-11-06T06:28:45.000Z"
+  },
+  {
+   "topic": "Innovation",
    "title": "Qualcomm Unveils First 6G Terminal Prototype Publicly; China Securities Says Large-Scale Buildout Could Begin as Early as 2029",
    "source": "BigGo Finance",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VaXZENXd3ZVQ5SzAwYzk4MEFhc1dyN0lwVEVLU1J2Yllpa1ZrWktYMU5Jcy1QelZuei1BeVFwNnV5MEwtRmdJVGNkcnlBdFhBNmo2ZzZMMm15U0RSaFkzWHFuZlNIMEtkS0IweS1pSE1KUTVMNkE?oc=5",
@@ -217,13 +224,6 @@
    "source": "Telecompaper",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVS1vOWNyYUh4bFo4R1Vpd0NkWmt2SkpVaWpwS0FRMXppQ3dLc3pxU2FsMWZHbjE2anJYVi1iNmNPSl92bUNZckVTTUtMSEZteFJncnV4YjlXNDRlbFNwV3BaYmNvUG55bDFTUkJobXRHdnhndUtsRXpqRlEwSDVDR0lwVFlCV0MwcU5iQTFQQVB6OEhIZTNaUEI0c1BZdk5GNGdHUXJyTjRFcFE?oc=5",
    "date": "2026-11-04T12:03:14.000Z"
-  },
-  {
-   "topic": "Innovation",
-   "title": "Comment: How AI-native networks will shape future UK connectivity",
-   "source": "The Engineer",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaS1Jd21JUWJhOE1BRWszMHR2R2pZeTRtdDQ3S2lsQV9zTFZzUG9RUG9JRXM1blVGWnBYQWNpZzRuQVo0Nm5FM3BQMllhLWNBN0NlWEtiQ19XTUlEM3FMaWYyc29obkl4dWxzYmhNaHVvWGNPQXRMVUNxR0dZWWVDWm5laVV4U0JENDR2MEFodXRBS19YdHByODdGdnRMUnZDdkpoQ251QmVoOHZGamtV?oc=5",
-   "date": "2026-11-04T10:02:53.000Z"
   }
  ]
 }
