@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T04:43:41.384Z",
+ "updated": "2026-11-06T05:44:50.931Z",
  "items": [
   {
    "topic": "5G",
@@ -14,13 +14,6 @@
    "source": "Telecompaper",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGxvUU9TYmtIMmRVU1NhMU04Ykc0aUJWZE9KSjg4ODNWcEZBVjZ5S2kzX1MzV2JLOTNPVlptQi1vdVdheUk1WGNzUlU4bHZ0S1Z1OXhndk5OMGRRaGRaMjd1dWFiU0xMUk9IUU1rZG1CcEpENWx3MXRSX05oVFJTakJFZ2ZWa2VYczJocllmN19DdUxXSVI0ZTlfUmJZYTRaQmw0Y2Q5MHBINTJJSmhwVw?oc=5",
    "date": "2026-11-05T05:07:56.000Z"
-  },
-  {
-   "topic": "5G",
-   "title": "EonFibre adds 400G capacity to New Zealand-Australia network",
-   "source": "Telecompaper",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUEt5OTluWW5xMmNNNnExRnhiOXBZWXV3YTU4NkFxeW1PRmxYMWJoWmRKNERxTG1Wb0FISG1QREU3VFJKOHBQb2xXMGhOREttOHlMQVNFekdDSHhDRjlKdWdRSWItNDNiSm9wOU1zNFFZclJJYTlkdGpRcGR5TkJNeDRnQkc0WU4zaW5rNW42ZkljNExOQU5MNXdUb1ZaOEpld0dZWnd3?oc=5",
-   "date": "2026-11-05T04:50:28.000Z"
   },
   {
    "topic": "5G",
@@ -42,6 +35,13 @@
    "source": "iPhone in Canada",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbllWMXh5MEtHZjdQRS02cTRPdkg3WFJlRFJ3RnZ0TERJakpXNDNEcElTVktzSlFhRGVaYUFFUVV3Q3o2SGFPSU9nWXlfU2dJNnphbkswejQyQk9BejdfcnhCQ0FtT05pcjZHcmdDUFdzQUp6TUg3U19pOXBUa0haRGoxYVhrNzA1dVNOOA?oc=5",
    "date": "2026-11-04T18:42:57.000Z"
+  },
+  {
+   "topic": "5G",
+   "title": "SpaceX to Use Qualcomm Dragonwing Cellular Infrastructure for Starlink 5G Network",
+   "source": "Moomoo",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMVBWTVhmV3ozVkRUc1g2SGhVWW5GaUZMTlZlbGF5WVltWUVicE04anl0cml3Y015SnBYOHJhLW8zaTk2Y0xRa0R1X0s2VWFiV0xXbXpMTzRweVRJVkdZVXVoY3Frc3Qta2NBN0YtcUdDdlNibS15ME1kVlpMTkxuMzRCa3FjNi1Nd0lNV215b0VjUU00TEZrOWp6dHpzVFl5RlZVV2UyaGFKN0Y0SkNNRExHN1BqejBM?oc=5",
+   "date": "2026-11-04T17:10:45.000Z"
   },
   {
    "topic": "4G",
@@ -87,6 +87,20 @@
   },
   {
    "topic": "Optical fibre",
+   "title": "Fitch upgrades Sri Lanka Telecom’s national rating to AA+(lka)",
+   "source": "Hiru News",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQR0RYcWFQNjllSGJKVjRvTlFlMi1KQ2tHU2dYME1ka1V4SG1EdVN1blRoUW5yVl9senQ4ZERDQTBkYWdQNnBFT3p6UDFkUEhPSUNOeHNibFBVcjlDdzJQVnBoRE1pWnpOcE1mYzlNaXN6S3ozMjNTc0szUmp6Wm9nd0l4NjJuUmtLZDN5ckNLNGJxdWhxUnU4bTBJNVhJa2JFbGV0RXlB?oc=5",
+   "date": "2026-11-06T05:10:29.000Z"
+  },
+  {
+   "topic": "Optical fibre",
+   "title": "Cambodia’s Smart Axiata unveils carrier-neutral fibre business",
+   "source": "Developing Telecoms",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTndDeFY4QV82eVF1ellJdHV0TnNncWlaNEx2WmY0c2JTYjJPRkhJM09HOUEzcmU1alpWMGxXcXVwSlBGd0pYeFoxREptRWhxcERmUnFLVE5IOEVvSjdtRjB5ZFA1ZXZtclJpT0lWWW5ZMm12LUhQdkFvZHlKd0dfdlVOR210Tmg1dWU2dW1QeUFWZU94Sm1yUHdiSk9YMk0tT0pIWlllVTJTWW0zM2ZlVjYwN254NV96SUx4d3VhMTd4bm5WVTdtVXpkamlOczJxM3dEVE9aZFp4NngzcEE?oc=5",
+   "date": "2026-11-06T04:13:37.000Z"
+  },
+  {
+   "topic": "Optical fibre",
    "title": "C3ntro Telecom Opens Hermosillo Edge Facility for TIKVA Project",
    "source": "Mexico Business News",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaW5XOTV1UTlOUk8ySFU2ZXVRU2pPUlZPX1Z5LUpiRUpweXd1NUZvWllQX0ZmZlhpeEFDc1JjWDBMZUJkOGc1bWlJa3g2X0lEcjFHNWV2VXI2ZWhMck95dDZCNFhEX0IyQTNveHBzT0s1TnB6d2I0SnpxeTd4dU55NWFOdjVLa0FYcGNpOV9qRG02V0ZNYkNCUjJHNERXanQ2VHZDU0dmb0o?oc=5",
@@ -108,24 +122,10 @@
   },
   {
    "topic": "Optical fibre",
-   "title": "Fitch Ratings revises Sri Lanka Telecom to ‘AA+(lka)’",
-   "source": "EconomyNext",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeHBwalk0X0h2Z2QxNEJSdjNUajM0aXVWSVhvQzlCdVZyNWsza3VETk80SEtseDlEOFA1dUpiMUJqbmZKSjF6ei1KREFVZ2pLcjNiREVlUDRIX01PVzU3WVdfZ3dJaUYtLW5fcHNicVhfbkJhLVYwNlJRek9NbXlLN2tiRS1QenM?oc=5",
-   "date": "2026-11-05T13:30:07.000Z"
-  },
-  {
-   "topic": "Optical fibre",
    "title": "Bharti Airtel Invests ₹12,467 Crore in Q2 FY2027 as Subscriber Base Reaches 692.6 Million and Network Coverage Expands",
    "source": "TelecomLead",
    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPY3ZJSUxxWk9KZFhlTXpSQ3RiRmdKQTJmTjdiWmNzcHNJNURQTzFKdHhqd0JFUUlQd0dUcEZJclJQRVF0eW55T2dlWWVXZTliTzhuRjRzeFk5MGU0UUtHd0FNSWdqeWIwZ25ySnV2MmhWaWJ4MjVaSG1VeklPak4ySXZFWXR3UWRUSzRFYl9yX1BrR09pXzBNZ3NlVzlpQnFKaC14Rk1QalI1blRvbjFVU0tNSTN6T0gyb0lYWXJaWUFqR0RMb2hPRVVldzYzTWJabTJ5Y3VCRERtd1NaN3F2U21tUThHUFljZ1hJZWRXZllKMURLYUHSAf4BQVVfeXFMTmNCclpZQTI5Tm91OW02Qk1kLVd0dzhhZ0RhbFRvWVFwRGFGWDlzUERhcWZZZlJ4UVd6OFkxSFJoVE9ZejVDeG1KSXFjTHNtc1F1WXJHdzJHZ1QyOUlMbFd5NnBSLXZRUnVNVFE2Nk5EZ0c1RkpoVmluTzJqdC1WMzZvUWZDR1FlbFh0aTBfQzFPX1Bhc3ZZU1ExS1NrR0Z4YXZTY0VxajNjMkV5RW9xVmlXRmx3RWNpVThMdFVVNklrWWZ6THlEb0NfQ1ZieDRmZVktQ0FsN3dwdFE2RnlBcEtwcG9udVBIS3VzTnl6Q3RXTlFXdmZlVmRSLXpmb1E?oc=5",
    "date": "2026-11-05T11:58:22.000Z"
-  },
-  {
-   "topic": "Optical fibre",
-   "title": "NavTech unveils 10 Gbps QKD-enabled optical wireless system at IMC 2026, targets secure telecom and defence networks",
-   "source": "Zee Business",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPcWJUVEpuRXl1eWhKMDQtMTNWa1RLd1hpNlVJYjBBRnV6WV9UV3FWSVNoMExDc0JkTE1NVVZhMEhQVVdZN2hacTlEV1g0bWN5YjRQVGFwZmh6Y24tak0yWmRJUEk5VHBRWW5zSDVxVmVNamxyaGlWRC10SjlNRVRESkJfRElla2Q2bzdxTHZXRW5oYzFHNmRsY1FYMFg0cmdXeU1GdlcwZnYwTkFKVmhnUUZjeFB5bTRndE8wWWlHOVg3UU1uZXVwVXB4eTNJaWFUZlkxLWFhX2tqUS1SenZGMy1QTWtxaUFxWUtUSmtPVWdSUQ?oc=5",
-   "date": "2026-11-05T08:04:31.000Z"
   },
   {
    "topic": "DWDM",
@@ -143,10 +143,10 @@
   },
   {
    "topic": "DWDM",
-   "title": "Why Is Telecom Network Modernization Creating New Opportunities in the Telco Cloud Infrastructure Market?",
-   "source": "openPR.com",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN1Z6OWN2YkRJS1cyclBZN3F5TjhSUDkyMUh6Y3dYT1NhYkJKUVVkX05zMHJPd05QbHZRaU9mT3RSUlRRZTZWcHhXaFBhNnFpUGVVM3RfaTJYOEhhR09jYjJUeXFOMXR3WHZQX05KYllPNXYydmkxN2prcVVxZHVjQlgyeHZJQ09BSHpTRUF3?oc=5",
-   "date": "2026-10-26T09:18:51.000Z"
+   "title": "TTK and T8 test Angara DWDM platform",
+   "source": "Telecompaper",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdGpjUVAtRUJmUFJjQ2l5Q1ljQUJvLXFhei0tNFF5SWpuSHFuSlZfWXctNHhHWUhuRE41NDVDeFV3bllvTF9mVE9OVld0ZXlmbGgxdkhiRC1GbFVCakE1ZnZlSjVQZmNON2tSV1VHMmpRaGh5UjlWLWY0bXNrV3VMNzZCRVhMdw?oc=5",
+   "date": "2026-10-28T10:12:03.000Z"
   },
   {
    "topic": "DWDM",
@@ -164,13 +164,6 @@
   },
   {
    "topic": "Innovation",
-   "title": "GSMA Report Forecasts $1.24 Trillion Economic Opportunity from 6G by 2040",
-   "source": "The Fast Mode",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNmF6dXJDaFNUUjZnQkRkeWlrTzFjUkdEMnlRSXZMM2xpVk1ENGQ3ZUt4ejMwWk9wNGpCbmZXUjkxYTRZbEhGYlUtYTRELXJXSnlBWW5qMkwtaU1hWG5VUDRzY3lTdDJoOWJ3eUFKUjRUYTJqeklxRDdMbXVlSGV3QVFRUnNweUh4d3RQNkZYZGtsVXhMTENVZmpBU0dwN3ZOXzZoNnVnTklTUVNpbEZwMDQxUW83bWFZSGw5MFVMY0ZiN0NqSVExSklxamlNWlNKcEhn?oc=5",
-   "date": "2026-11-05T23:11:44.000Z"
-  },
-  {
-   "topic": "Innovation",
    "title": "India joins 24 countries in global initiative on 6G technology",
    "source": "News On AIR",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObjY4NnRCMUVMSXlxeDVpbmdWTC1kZktvakxQSkNpUDBpVEFlOG1PdVAwcmhmMzR1MjEwcDRpYTluaDczV1VvYWpvNm9DUE5YSV9YaXUxSDR4Wmg0WDYyUkZSX2pHRGlpSTNIaVhaUGRqaE5lblhYTHJxOW1ySWpjQl9ncERtd29NQ2tzNWFPVGs0dw?oc=5",
@@ -182,6 +175,13 @@
    "source": "Telecompaper",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObVpYZVk2QU9VbllfU3JKX2tyQmhwSWZFZzFZalAzM1JoRlhhcE5xeXV3YXh4Zkk3YmJJVHNXbm11UVc4RUgxandzR3prbmR5WWhxQ09MaE8wTTA3Yi14bVZmdk5zSUpyc3ZBSE9DdVZsUUMxRG8wNkw1ZzlNcDF3bHl2ZkFGYm5WR3NMVFNZbTFGMnVP?oc=5",
    "date": "2026-11-05T14:29:38.000Z"
+  },
+  {
+   "topic": "Innovation",
+   "title": "GSMA Warns Spectrum Shortages Could Put $520 Billion in 6G Economic Benefits at Risk",
+   "source": "TechAfrica News",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZXhWZGhlM09kMzBDYXlwQlo3cGV4UnhiWEgyQWU1akxXa1VrN0I3V0ttS3llbVptdlRBT0JjMHpsZE1aVkM1SmVrcGtaMkFsQ21iRkR1eklmdzhBUl91OXdMX3Z0aW5FN0Ntb2xTbFY4TzhnZW1PUUpnOFZXdFNrWC1tUzBzaE12Umt1QXhud3N2VlRHUG80WWN6TkJ0YWV1cFpuZ1oxcTRVeU5SczZKV2tfLWx6b3d1bWdsYmFNZw?oc=5",
+   "date": "2026-11-05T12:27:40.000Z"
   },
   {
    "topic": "Innovation",
@@ -206,6 +206,13 @@
   },
   {
    "topic": "Innovation",
+   "title": "Telefónica, University of Málaga Advance Hybrid Satellite & Terrestrial for 5G and 6G NTN",
+   "source": "The Fast Mode",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNV2k1Y2NiNllQVFZMQjR5cFlnRi1IY19FeHBGMjRVbjFlUXNsU3ZZM2lfcWJOd3pOMGFTRlhqaUI0QTUzcTF3cEJNUlppODZ6Y1RmVm11WnBUNy1wWF9xS3M5ck5kaFFmamF6UVI3cFJYTGJVd0JuNlNGTlA3VkdEdm05TG1ISTFWdWlhWDVWdWQ3czlPZEx4eHhyTGQ1T1dHckNWRnFZMVlucS01Q3BWS0hIVG5Od2pTVHhEd2Z3bk5xUE9fNVFDdW1oVWRmQzJwWEFZVWJPeFI?oc=5",
+   "date": "2026-11-05T00:29:47.000Z"
+  },
+  {
+   "topic": "Innovation",
    "title": "T-Mobile US hosts pre-6G OTA trial supplied by Ericsson, MediaTek",
    "source": "Telecompaper",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVS1vOWNyYUh4bFo4R1Vpd0NkWmt2SkpVaWpwS0FRMXppQ3dLc3pxU2FsMWZHbjE2anJYVi1iNmNPSl92bUNZckVTTUtMSEZteFJncnV4YjlXNDRlbFNwV3BaYmNvUG55bDFTUkJobXRHdnhndUtsRXpqRlEwSDVDR0lwVFlCV0MwcU5iQTFQQVB6OEhIZTNaUEI0c1BZdk5GNGdHUXJyTjRFcFE?oc=5",
@@ -217,13 +224,6 @@
    "source": "The Engineer",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaS1Jd21JUWJhOE1BRWszMHR2R2pZeTRtdDQ3S2lsQV9zTFZzUG9RUG9JRXM1blVGWnBYQWNpZzRuQVo0Nm5FM3BQMllhLWNBN0NlWEtiQ19XTUlEM3FMaWYyc29obkl4dWxzYmhNaHVvWGNPQXRMVUNxR0dZWWVDWm5laVV4U0JENDR2MEFodXRBS19YdHByODdGdnRMUnZDdkpoQ251QmVoOHZGamtV?oc=5",
    "date": "2026-11-04T10:02:53.000Z"
-  },
-  {
-   "topic": "Innovation",
-   "title": "Singtel and Ericsson join NUHS to establish healthcare-focused 6G research centre",
-   "source": "Telecompaper",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaGR4anVzbEVaQ05fbGtvTGU0MzlqSTFCbUNPZkppRTJURUpGNjhpbm9ZT0FMZ1EwWXVOWkR0RWRfSnIwVHV0Rk1QUlMwVEN3ZGNST3otWUhIRXE1WmZMTkVWN2g1UFhXMjh6VUFuVnlxMGpfWWhwemdzekx4Yld0TEp5MDlncTd5M0tzekJYblNON3JyYjBTSjBYbU05SzNBbk5JZGRha0gtbE5IbkpkVHhmRFRXckx2SUx1NXZGdW9OQQ?oc=5",
-   "date": "2026-11-04T06:30:30.000Z"
   }
  ]
 }
