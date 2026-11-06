@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T15:34:01.495Z",
+ "updated": "2026-11-06T16:37:36.793Z",
  "items": [
   {
    "topic": "5G",
@@ -14,13 +14,6 @@
    "source": "Telecompaper",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGxvUU9TYmtIMmRVU1NhMU04Ykc0aUJWZE9KSjg4ODNWcEZBVjZ5S2kzX1MzV2JLOTNPVlptQi1vdVdheUk1WGNzUlU4bHZ0S1Z1OXhndk5OMGRRaGRaMjd1dWFiU0xMUk9IUU1rZG1CcEpENWx3MXRSX05oVFJTakJFZ2ZWa2VYczJocllmN19DdUxXSVI0ZTlfUmJZYTRaQmw0Y2Q5MHBINTJJSmhwVw?oc=5",
    "date": "2026-11-05T05:08:03.000Z"
-  },
-  {
-   "topic": "5G",
-   "title": "EonFibre adds 400G capacity to New Zealand-Australia network",
-   "source": "Telecompaper",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUEt5OTluWW5xMmNNNnExRnhiOXBZWXV3YTU4NkFxeW1PRmxYMWJoWmRKNERxTG1Wb0FISG1QREU3VFJKOHBQb2xXMGhOREttOHlMQVNFekdDSHhDRjlKdWdRSWItNDNiSm9wOU1zNFFZclJJYTlkdGpRcGR5TkJNeDRnQkc0WU4zaW5rNW42ZkljNExOQU5MNXdUb1ZaOEpld0dZWnd3?oc=5",
-   "date": "2026-11-05T04:50:28.000Z"
   },
   {
    "topic": "5G",
@@ -42,6 +35,13 @@
    "source": "iPhone in Canada",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbllWMXh5MEtHZjdQRS02cTRPdkg3WFJlRFJ3RnZ0TERJakpXNDNEcElTVktzSlFhRGVaYUFFUVV3Q3o2SGFPSU9nWXlfU2dJNnphbkswejQyQk9BejdfcnhCQ0FtT05pcjZHcmdDUFdzQUp6TUg3U19pOXBUa0haRGoxYVhrNzA1dVNOOA?oc=5",
    "date": "2026-11-04T18:42:57.000Z"
+  },
+  {
+   "topic": "5G",
+   "title": "SpaceX to Use Qualcomm Dragonwing Cellular Infrastructure for Starlink 5G Network",
+   "source": "Moomoo",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMVBWTVhmV3ozVkRUc1g2SGhVWW5GaUZMTlZlbGF5WVltWUVicE04anl0cml3Y015SnBYOHJhLW8zaTk2Y0xRa0R1X0s2VWFiV0xXbXpMTzRweVRJVkdZVXVoY3Frc3Qta2NBN0YtcUdDdlNibS15ME1kVlpMTkxuMzRCa3FjNi1Nd0lNV215b0VjUU00TEZrOWp6dHpzVFl5RlZVV2UyaGFKN0Y0SkNNRExHN1BqejBM?oc=5",
+   "date": "2026-11-04T17:10:45.000Z"
   },
   {
    "topic": "4G",
@@ -104,7 +104,7 @@
    "title": "Oman Fiber Optic Company",
    "source": "Business Focus Magazine",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbVVNRGFsSXR2YWx0dlFfdHJBTUM0MFZNQkltOU9nUFk1cmRBck10bUZlaGMxeF9UdjV0b2RTZlYwSlAxV1JFOExPcTJ0QklOSmhlQmFtUEJNMnZ4aXJmUXUyQUd2ZTlhclBfOTVTTWlhTGxFQm1iYzVkQVhTX3hwa0ZwUWVRaVhkMlZuRTlZRmFpMUNXNWhuNQ?oc=5",
-   "date": "2026-11-06T09:52:35.000Z"
+   "date": "2026-11-06T10:41:51.000Z"
   },
   {
    "topic": "Optical fibre",
@@ -126,13 +126,6 @@
    "source": "Mexico Business News",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaW5XOTV1UTlOUk8ySFU2ZXVRU2pPUlZPX1Z5LUpiRUpweXd1NUZvWllQX0ZmZlhpeEFDc1JjWDBMZUJkOGc1bWlJa3g2X0lEcjFHNWV2VXI2ZWhMck95dDZCNFhEX0IyQTNveHBzT0s1TnB6d2I0SnpxeTd4dU55NWFOdjVLa0FYcGNpOV9qRG02V0ZNYkNCUjJHNERXanQ2VHZDU0dmb0o?oc=5",
    "date": "2026-11-05T21:15:53.000Z"
-  },
-  {
-   "topic": "DWDM",
-   "title": "Tejas Networks Q2FY27 Results: Loss narrows 32% YoY to ₹208 crore",
-   "source": "scanx.trade",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOGVMSG8zcXBZdXB6MjRkYnBSSVBDZEZsWHJFOVpleFQ0VmZrMFJVRngteFhzblhBVDV5dlZHSGM0VXhaY09SOVRiQlNGQXVUcmd4Nzk4WmVyR2ZaQWFwc2Z3dk1IWVQ2eXl2QUZjaEktbHVfSDhvQ0FCLUtVZ3dGOHp1ZFV1bHRUeXBkTllwRXZudUNLNHV4Sm85N0FyT0hqaG5SWWJfLXVZcFU0WXQ4WE9uZE8?oc=5",
-   "date": "2026-11-05T01:41:30.000Z"
   },
   {
    "topic": "DWDM",
