@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T14:47:29.979Z",
+ "updated": "2026-11-06T15:34:01.495Z",
  "items": [
   {
    "topic": "5G",
@@ -14,6 +14,13 @@
    "source": "Telecompaper",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGxvUU9TYmtIMmRVU1NhMU04Ykc0aUJWZE9KSjg4ODNWcEZBVjZ5S2kzX1MzV2JLOTNPVlptQi1vdVdheUk1WGNzUlU4bHZ0S1Z1OXhndk5OMGRRaGRaMjd1dWFiU0xMUk9IUU1rZG1CcEpENWx3MXRSX05oVFJTakJFZ2ZWa2VYczJocllmN19DdUxXSVI0ZTlfUmJZYTRaQmw0Y2Q5MHBINTJJSmhwVw?oc=5",
    "date": "2026-11-05T05:08:03.000Z"
+  },
+  {
+   "topic": "5G",
+   "title": "EonFibre adds 400G capacity to New Zealand-Australia network",
+   "source": "Telecompaper",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUEt5OTluWW5xMmNNNnExRnhiOXBZWXV3YTU4NkFxeW1PRmxYMWJoWmRKNERxTG1Wb0FISG1QREU3VFJKOHBQb2xXMGhOREttOHlMQVNFekdDSHhDRjlKdWdRSWItNDNiSm9wOU1zNFFZclJJYTlkdGpRcGR5TkJNeDRnQkc0WU4zaW5rNW42ZkljNExOQU5MNXdUb1ZaOEpld0dZWnd3?oc=5",
+   "date": "2026-11-05T04:50:28.000Z"
   },
   {
    "topic": "5G",
@@ -35,13 +42,6 @@
    "source": "iPhone in Canada",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbllWMXh5MEtHZjdQRS02cTRPdkg3WFJlRFJ3RnZ0TERJakpXNDNEcElTVktzSlFhRGVaYUFFUVV3Q3o2SGFPSU9nWXlfU2dJNnphbkswejQyQk9BejdfcnhCQ0FtT05pcjZHcmdDUFdzQUp6TUg3U19pOXBUa0haRGoxYVhrNzA1dVNOOA?oc=5",
    "date": "2026-11-04T18:42:57.000Z"
-  },
-  {
-   "topic": "5G",
-   "title": "SpaceX to Use Qualcomm Dragonwing Cellular Infrastructure for Starlink 5G Network",
-   "source": "Moomoo",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMVBWTVhmV3ozVkRUc1g2SGhVWW5GaUZMTlZlbGF5WVltWUVicE04anl0cml3Y015SnBYOHJhLW8zaTk2Y0xRa0R1X0s2VWFiV0xXbXpMTzRweVRJVkdZVXVoY3Frc3Qta2NBN0YtcUdDdlNibS15ME1kVlpMTkxuMzRCa3FjNi1Nd0lNV215b0VjUU00TEZrOWp6dHpzVFl5RlZVV2UyaGFKN0Y0SkNNRExHN1BqejBM?oc=5",
-   "date": "2026-11-04T17:10:45.000Z"
   },
   {
    "topic": "4G",
@@ -171,6 +171,13 @@
   },
   {
    "topic": "Innovation",
+   "title": "Forecast: 6G could add $1.2tn to global economy by 2040",
+   "source": "Advanced Television",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdjVfN3AwTlNpMVJaRkc1RGpObHZNZnRzOXZEY1ltZjZjY01ZX1Q4UmZYY1FhcWZDWkpzbnowN2wzQmJDS3h0UXRhREZVTGFZcUd3MHVfNjVvNG5YTjJNMzJYMFpXUkI0Z05IOUJZbTFEMU0zamZ3NVRXTEF6TVoxOUlNS1p6Y0RfbF9BYUowN1NSX0tCX0EzNmM2Z2F3Qkk0cHNR?oc=5",
+   "date": "2026-11-06T10:08:43.000Z"
+  },
+  {
+   "topic": "Innovation",
    "title": "MediaTek, Ericsson complete multi-vendor pre-6G trial with T-Mobile",
    "source": "Evertiq",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMGpLWGZBQ1pKdmJKVzVVMHN2RzhVY2E0a1htQzN4azJfbmdvMVVTekRQRlZteDJubkIxbkRJU28zYTJKWmp4Sy1odjFIdHJUYXhqbUpFblNvczJQNkU2LW84dVhheV9jYWt4NFd4Ymd0VE9LSHk1Y0RkWTlIUEdhUmlxbERCVzMza3ZQRTFwN05PeUhsSlFETUdHb3hRa1cyWlA2LUZhNA?oc=5",
@@ -210,13 +217,6 @@
    "source": "Telecompaper",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObVpYZVk2QU9VbllfU3JKX2tyQmhwSWZFZzFZalAzM1JoRlhhcE5xeXV3YXh4Zkk3YmJJVHNXbm11UVc4RUgxandzR3prbmR5WWhxQ09MaE8wTTA3Yi14bVZmdk5zSUpyc3ZBSE9DdVZsUUMxRG8wNkw1ZzlNcDF3bHl2ZkFGYm5WR3NMVFNZbTFGMnVP?oc=5",
    "date": "2026-11-05T14:29:38.000Z"
-  },
-  {
-   "topic": "Innovation",
-   "title": "GSMA Warns Spectrum Shortages Could Put $520 Billion in 6G Economic Benefits at Risk",
-   "source": "TechAfrica News",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZXhWZGhlM09kMzBDYXlwQlo3cGV4UnhiWEgyQWU1akxXa1VrN0I3V0ttS3llbVptdlRBT0JjMHpsZE1aVkM1SmVrcGtaMkFsQ21iRkR1eklmdzhBUl91OXdMX3Z0aW5FN0Ntb2xTbFY4TzhnZW1PUUpnOFZXdFNrWC1tUzBzaE12Umt1QXhud3N2VlRHUG80WWN6TkJ0YWV1cFpuZ1oxcTRVeU5SczZKV2tfLWx6b3d1bWdsYmFNZw?oc=5",
-   "date": "2026-11-05T12:27:40.000Z"
   },
   {
    "topic": "Innovation",
