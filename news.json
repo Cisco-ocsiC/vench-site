@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T10:49:53.832Z",
+ "updated": "2026-11-06T11:40:33.239Z",
  "items": [
   {
    "topic": "5G",
@@ -14,6 +14,13 @@
    "source": "Telecompaper",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGxvUU9TYmtIMmRVU1NhMU04Ykc0aUJWZE9KSjg4ODNWcEZBVjZ5S2kzX1MzV2JLOTNPVlptQi1vdVdheUk1WGNzUlU4bHZ0S1Z1OXhndk5OMGRRaGRaMjd1dWFiU0xMUk9IUU1rZG1CcEpENWx3MXRSX05oVFJTakJFZ2ZWa2VYczJocllmN19DdUxXSVI0ZTlfUmJZYTRaQmw0Y2Q5MHBINTJJSmhwVw?oc=5",
    "date": "2026-11-05T05:08:03.000Z"
+  },
+  {
+   "topic": "5G",
+   "title": "EonFibre adds 400G capacity to New Zealand-Australia network",
+   "source": "Telecompaper",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUEt5OTluWW5xMmNNNnExRnhiOXBZWXV3YTU4NkFxeW1PRmxYMWJoWmRKNERxTG1Wb0FISG1QREU3VFJKOHBQb2xXMGhOREttOHlMQVNFekdDSHhDRjlKdWdRSWItNDNiSm9wOU1zNFFZclJJYTlkdGpRcGR5TkJNeDRnQkc0WU4zaW5rNW42ZkljNExOQU5MNXdUb1ZaOEpld0dZWnd3?oc=5",
+   "date": "2026-11-05T04:50:28.000Z"
   },
   {
    "topic": "5G",
@@ -37,11 +44,11 @@
    "date": "2026-11-04T18:42:57.000Z"
   },
   {
-   "topic": "5G",
-   "title": "SpaceX to Use Qualcomm Dragonwing Cellular Infrastructure for Starlink 5G Network",
-   "source": "Moomoo",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMVBWTVhmV3ozVkRUc1g2SGhVWW5GaUZMTlZlbGF5WVltWUVicE04anl0cml3Y015SnBYOHJhLW8zaTk2Y0xRa0R1X0s2VWFiV0xXbXpMTzRweVRJVkdZVXVoY3Frc3Qta2NBN0YtcUdDdlNibS15ME1kVlpMTkxuMzRCa3FjNi1Nd0lNV215b0VjUU00TEZrOWp6dHpzVFl5RlZVV2UyaGFKN0Y0SkNNRExHN1BqejBM?oc=5",
-   "date": "2026-11-04T17:10:45.000Z"
+   "topic": "4G",
+   "title": "Bouygues switches off thousands more 4G cell sites on 2.1 GHz band in 5G boost",
+   "source": "Telecompaper",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNENkYTFjSzhYWWhvLWxlRGhNZ3M5WTEyeVJGdExqbU5mWVp2UUhuSkpFNE5WNFdib2w4aGNSaEhaQmZBVlUyeGFURG5UTUMyQ3BxdFFsenBHbFc5c0NfOTRFSzR4OXpLVDF5ZFM5ZTlMbXZ3RlFnOUVCekV4bXJrdWdpNDhXbVlwNldUR2o0WW5BNk9LNmFNbmNKeTZ5VDYtcjNOcVh1Smlwc0hINTRfaWxva2Y2U2VVWUFWdA?oc=5",
+   "date": "2026-11-06T11:24:50.000Z"
   },
   {
    "topic": "4G",
@@ -77,13 +84,6 @@
    "source": "TelecomLead",
    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQQ29FX1BUQnVSbkJGY19YaUloV0NzY2prZ1VsR0gwZFpPZjRRNDZuY0NSc3RlY1JqSlI3MlJxejQwSEdvZHQtd05vczl4QlBSRThKTzY1RDVLT2llRm5fN2hJNTltRHFGa2dlWG1PY3hZSllwVkFhU3loQ1VYMkRVWHNzdVRHTjhoWWtsR1pSWW1CSDRpRU9lcm9uTjE5SE9GUzRfMnlKQkVVQXV4QlZZWURubTBEVGNiVVBaZTdQYVhGLTV2SHBsU2RhdHM3X2QweEFucElRSl9Xb0VqTjZpWUpUYm5jeHVxX3l3am1waVN2Umt5UEpUQnNMZ9IB-wFBVV95cUxQQ29FX1BUQnVSbkJGY19YaUloV0NzY2prZ1VsR0gwZFpPZjRRNDZuY0NSc3RlY1JqSlI3MlJxejQwSEdvZHQtd05vczl4QlBSRThKTzY1RDVLT2llRm5fN2hJNTltRHFGa2dlWG1PY3hZSllwVkFhU3loQ1VYMkRVWHNzdVRHTjhoWWtsR1pSWW1CSDRpRU9lcm9uTjE5SE9GUzRfMnlKQkVVQXV4QlZZWURubTBEVGNiVVBaZTdQYVhGLTV2SHBsU2RhdHM3X2QweEFucElRSl9Xb0VqTjZpWUpUYm5jeHVxX3l3am1waVN2Umt5UEpUQnNMZw?oc=5",
    "date": "2026-11-05T09:31:45.000Z"
-  },
-  {
-   "topic": "4G",
-   "title": "Ethio Telecom and ZTE deploy AI-powered network technology to boost 4G capacity by 11%",
-   "source": "Telecompaper",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQS0VFekwwRzdBLXVwNWlfT3l3a3cwdFlPMm1RbnF3S2RDUU0zelRQUXNZZ3lHY2Y4UUU4cEo4OXdiQTY0RTNrYVJId2VyQlczYzZKcVM3c3JraWY1SXlpNUpaS1ItUGFaZlVFUlFyaURmYXlvejRpRmRBMHF1MktBUlQ0UFhneVpEMEFOUEJSX3Rick1IaXJ4eS1Rd1hsX0JlYV9IeXZ1SmlfRlA1a1J2ZXR2QkNpT25SemJOU2l1YmIzOENxWUZJ?oc=5",
-   "date": "2026-11-05T09:31:05.000Z"
   },
   {
    "topic": "Optical fibre",
@@ -164,6 +164,13 @@
   },
   {
    "topic": "Innovation",
+   "title": "Qualcomm CEO: 6G to Be AI-Native from Design, Targeting 2029 Commercialization",
+   "source": "KuCoin",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcTRCVktiT016Z3Y3c2lOT2R1NVVlenowVkhIckpmb25VdkJLZXA0bTE2RWpsWHZnd3g2ODI5MUEwbjF3SnBKOW5WcGg3Yl83QXVHamVHOGs3dW5mYVBhMWFjQ2xnV3RGdW95VGQ5c0dMTnFnVHgxaE1Gelo0OVZTdlRQSnA4dDhJc3ZsYlFWWE56bU9XeFFCUl90V2Y3aW1kRVZuazFSX0o1YUtkUWUzeQ?oc=5",
+   "date": "2026-11-06T10:47:18.000Z"
+  },
+  {
+   "topic": "Innovation",
    "title": "Forecast: 6G could add $1.2tn to global economy by 2040",
    "source": "Advanced Television",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdjVfN3AwTlNpMVJaRkc1RGpObHZNZnRzOXZEY1ltZjZjY01ZX1Q4UmZYY1FhcWZDWkpzbnowN2wzQmJDS3h0UXRhREZVTGFZcUd3MHVfNjVvNG5YTjJNMzJYMFpXUkI0Z05IOUJZbTFEMU0zamZ3NVRXTEF6TVoxOUlNS1p6Y0RfbF9BYUowN1NSX0tCX0EzNmM2Z2F3Qkk0cHNR?oc=5",
@@ -224,13 +231,6 @@
    "source": "Observer Voice",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOX3B3VkpORXhyQmF3RjNZV0NJTU5GVFl5NVR3Nlpjd3NGeVozR0h0STBuTExDN2pEWjgtaWZ1V1Z1Nm9Ca3VOMVdKSnZETHE4RGV6MFRIRDhYWHlUNHRJaTd3aTA0d2pNcVBxLURmaktWNkpRMEN1S09DaWl5eTh0SVh4X3Yyc3VRbWdmeUo0WDhEVVlmNnB1eThtWjJrcHRO?oc=5",
    "date": "2026-11-05T05:17:15.000Z"
-  },
-  {
-   "topic": "Innovation",
-   "title": "India: Silicon Chip Breakthrough Advances Terahertz Technology for 6G Communications",
-   "source": "OpenGov Asia",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZlQ3alZTbUt4empGSWRQQ3lkUzF6UlN3RXQ0Z3g5bFBIUkZDbHNLeUVzRlcwVzB3V3I0TGpISEhQMjNBVzFJckdGUU1BU2QyelNmb2NhN254Mnl5a05qYlNySzQ1dWp4VVJyWEIyVXFabHE0N1FLeUVjUnJyeTRoNko4bTQ5U1B1aHRqRWxta1VhY1RuUWtkSGlvM2J6Q21zeWZwUmt0WUUyVDJI?oc=5",
-   "date": "2026-11-05T01:38:56.000Z"
   }
  ]
 }
