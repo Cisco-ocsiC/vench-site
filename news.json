@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T15:24:58.665Z",
+ "updated": "2026-11-07T16:24:36.137Z",
  "items": [
   {
    "topic": "5G",
@@ -7,13 +7,6 @@
    "source": "MyBroadband",
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQb1hyemt3TnNhWWhHMUp2QVBEZGZSbUxPamtlazA0V1lUY3AyZWk5aDFhLUdyeG0tY1laVnhyVkdULU9HV18wMVN2MHMtVURhQ3dOUmxDOVdVa3FmZnk0dC0xZ2RxZmQ4MEh6NGZ2eGR1M3FSXzRHTG12MXRDeDNQWXFhOXhaam4tQ3JfcHI1LTZhVDFLQUw3N25RdW44RzJEbWxLSzgzb1oyN09sSktIdGJvclRLWGZuQ0RhTC1DcDkxajJiX080cV9walk?oc=5",
    "date": "2026-11-05T06:06:21.000Z"
-  },
-  {
-   "topic": "5G",
-   "title": "Telstra MessageBank fault triggers wave of missed call notifications",
-   "source": "Telecompaper",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGxvUU9TYmtIMmRVU1NhMU04Ykc0aUJWZE9KSjg4ODNWcEZBVjZ5S2kzX1MzV2JLOTNPVlptQi1vdVdheUk1WGNzUlU4bHZ0S1Z1OXhndk5OMGRRaGRaMjd1dWFiU0xMUk9IUU1rZG1CcEpENWx3MXRSX05oVFJTakJFZ2ZWa2VYczJocllmN19DdUxXSVI0ZTlfUmJZYTRaQmw0Y2Q5MHBINTJJSmhwVw?oc=5",
-   "date": "2026-11-05T05:08:03.000Z"
   },
   {
    "topic": "5G",
@@ -42,6 +35,13 @@
    "source": "Invezz",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNalk5TVBBTGU0NWVjOXlKSGRZV2R2WS1nN1gzM3lUTGtyM3ppTW16WERreGlfenpfb2lQYlhFQVFteXE1TkpQNjAwajk1ZnV0V2dNWkdXRmc4UWl5b1ZBZERMTVZLdEM2UllwZVNuRW8wYlNJVU96dHFQeXE4Sm9JY1lGMHRzdTlXZlUyalRfbXJrODc0a1NHSkVtWDNjTUYtOE5ET2tTdXFNSUNjelMw?oc=5",
    "date": "2026-11-04T15:36:03.000Z"
+  },
+  {
+   "topic": "5G",
+   "title": "4G and 5G home internet plans are surprisingly good value (in case you're sick of the NBN)",
+   "source": "WhistleOut",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbXpiUTQ4U240SXQtY3JaV0NUbXBfMkNBa3d4cEFXZnVzQUp3eGFabDc3VS03bXZ3Y21SYUFfUHBGUlV3c0syc09fbU1RSTFJWFdlLXdUMGhLZVBzQjJkNkJ1T0Rwcm1Gb05VODU2Ni0xQWlGMlJIMjZKVTZTYi1zYkZ5VllMUnQx?oc=5",
+   "date": "2026-11-04T08:00:00.000Z"
   },
   {
    "topic": "4G",
@@ -122,10 +122,10 @@
   },
   {
    "topic": "Optical fibre",
-   "title": "Swisscom Q3 2026: Revenue Drops 2.1% to CHF 10.94 Billion, Capex Falls 5.9% as 5G Coverage Reaches 90% in Switzerland",
-   "source": "TelecomLead",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcVBJM0x1cXc0bDlMTkU4YXhudzNlNGhBS0RmZlFXSnZNVjB2U2dxampzQVZtNVdUOTJOUGh2dnkxaEdZa2lDMWw3aE9Kc2N0aTRYN1VGemdqNDJfME5nT3BuM0RTeVRHMzMzNGh4cHkyUmloSWpQbnVQWjhPcHl2M2N1bUVLZTN3a0t4TkdYbC1peE1BMGhUSG9XNVBaQzFUMnlUMkhLZWlCMUtPYkNFSkJuYnd2OXNpREkweEZqazVIR0h0RnV4SlE2TF9UdW9HTlF4VHA3aFg3V2RyUktB0gHnAUFVX3lxTE1IRl9aVVFKRXhFdDNkMjdwampYSEdKLUpGV3pkajdTUlk3Z3diN2VURGsxbXFpWDVnT0JvQnZCNUZIUlJERkZFTWk5RVg5SEF3TG4yZjBOdFZxVFRKRUgxU0J2X0luRDlob2hDMF9jaWdCaXRja1p6dEtOMGZqZlFVcExwaWt4OFc3WEt3SU1Za25lRVJUMl9wOXBKeURpZXpPMmNRck5aRDBiTFlOSFNmQmRhbUdKZnVGblJhOGc2c3FocHdLUlhpNnpoblVZNEI2Ym81RUxFNDZzMFVfbnVrQ281T3dLdw?oc=5",
-   "date": "2026-11-05T06:39:40.000Z"
+   "title": "Huawei's Chen Unveils Vision for AI-Era Network",
+   "source": "Telecoms",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdDQyNGUwOGs5WkJmNjVNc2JROW5QM2xVdE5IZEZrNURqTWQzY0JEeHB0MDJ5VTl3V0hEaW4tVnRhV1ByV1lNNTdSN0l0ZjJoUkV3WDdOLUJXMEhzWlgyaTJhSXdUZnhBOFB3cHdxUHJSbWJTZGV2bXlRS1BpQ19oc1k3V0g5cFRvbER0NjFqSFFINXRobmNkSmxaUXZVOThZQWJIdzVFbmhqc1Ntell1OFdKbmpSdw?oc=5",
+   "date": "2026-11-05T07:39:13.000Z"
   },
   {
    "topic": "DWDM",
