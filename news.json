@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T13:39:38.782Z",
+ "updated": "2026-11-07T14:29:47.125Z",
  "items": [
   {
    "topic": "5G",
@@ -101,13 +101,6 @@
   },
   {
    "topic": "Optical fibre",
-   "title": "Telkom South Africa offers Fibre to the Room to eliminate home Wi-Fi dead zones",
-   "source": "Telecompaper",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOX1o2TDVwT3pJM3poMjhMZXk3a21YMnlnSnZMVjg3Z1dlS0NMMXVHTUNyRkN0OTROdzVOYXdSSVpHaGVFMjFUSHdWWjVaN0U3VWx0ODRjaHJvakFUUHo5cVVYZjFVTDl4MEtyaDZta1hoUzA1LUZDUjRNV1RwUnV6c3p6VVBpOGtVYzI1WTVOQWs2cXcxWXNoTXJZWEtOaTFaTnU2bUs1d0VHelNtQmMwMUtNa0NZTmNnX2tEZFRDcw?oc=5",
-   "date": "2026-11-06T10:30:02.000Z"
-  },
-  {
-   "topic": "Optical fibre",
    "title": "C3ntro Telecom opens edge data center in Sonora for Tikva network",
    "source": "BNamericas",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbUpGVmpvdzZJWjNydG41ZzVrdkx3RnpoYjR5VVlyQUUtYWU3Z3NqMTBjTXNoUVY2VnNsRzY2OGNjZW9yS21hVFhqQk1PTGxxQ0JHam5lVkRjdHVfaXN4WU5UWEJVcXhSSDRxYkJmNEoyTzB3WmswV0hwUmFneUhySFJ3eUc0S251bl9NUHNoSjU0ODFvSlhvbWVQVllZOUtEa2c?oc=5",
@@ -126,6 +119,13 @@
    "source": "TelecomLead",
    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPY3ZJSUxxWk9KZFhlTXpSQ3RiRmdKQTJmTjdiWmNzcHNJNURQTzFKdHhqd0JFUUlQd0dUcEZJclJQRVF0eW55T2dlWWVXZTliTzhuRjRzeFk5MGU0UUtHd0FNSWdqeWIwZ25ySnV2MmhWaWJ4MjVaSG1VeklPak4ySXZFWXR3UWRUSzRFYl9yX1BrR09pXzBNZ3NlVzlpQnFKaC14Rk1QalI1blRvbjFVU0tNSTN6T0gyb0lYWXJaWUFqR0RMb2hPRVVldzYzTWJabTJ5Y3VCRERtd1NaN3F2U21tUThHUFljZ1hJZWRXZllKMURLYUHSAf4BQVVfeXFMTmNCclpZQTI5Tm91OW02Qk1kLVd0dzhhZ0RhbFRvWVFwRGFGWDlzUERhcWZZZlJ4UVd6OFkxSFJoVE9ZejVDeG1KSXFjTHNtc1F1WXJHdzJHZ1QyOUlMbFd5NnBSLXZRUnVNVFE2Nk5EZ0c1RkpoVmluTzJqdC1WMzZvUWZDR1FlbFh0aTBfQzFPX1Bhc3ZZU1ExS1NrR0Z4YXZTY0VxajNjMkV5RW9xVmlXRmx3RWNpVThMdFVVNklrWWZ6THlEb0NfQ1ZieDRmZVktQ0FsN3dwdFE2RnlBcEtwcG9udVBIS3VzTnl6Q3RXTlFXdmZlVmRSLXpmb1E?oc=5",
    "date": "2026-11-05T11:58:22.000Z"
+  },
+  {
+   "topic": "Optical fibre",
+   "title": "Swisscom Q3 2026: Revenue Drops 2.1% to CHF 10.94 Billion, Capex Falls 5.9% as 5G Coverage Reaches 90% in Switzerland",
+   "source": "TelecomLead",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcVBJM0x1cXc0bDlMTkU4YXhudzNlNGhBS0RmZlFXSnZNVjB2U2dxampzQVZtNVdUOTJOUGh2dnkxaEdZa2lDMWw3aE9Kc2N0aTRYN1VGemdqNDJfME5nT3BuM0RTeVRHMzMzNGh4cHkyUmloSWpQbnVQWjhPcHl2M2N1bUVLZTN3a0t4TkdYbC1peE1BMGhUSG9XNVBaQzFUMnlUMkhLZWlCMUtPYkNFSkJuYnd2OXNpREkweEZqazVIR0h0RnV4SlE2TF9UdW9HTlF4VHA3aFg3V2RyUktB0gHnAUFVX3lxTE1IRl9aVVFKRXhFdDNkMjdwampYSEdKLUpGV3pkajdTUlk3Z3diN2VURGsxbXFpWDVnT0JvQnZCNUZIUlJERkZFTWk5RVg5SEF3TG4yZjBOdFZxVFRKRUgxU0J2X0luRDlob2hDMF9jaWdCaXRja1p6dEtOMGZqZlFVcExwaWt4OFc3WEt3SU1Za25lRVJUMl9wOXBKeURpZXpPMmNRck5aRDBiTFlOSFNmQmRhbUdKZnVGblJhOGc2c3FocHdLUlhpNnpoblVZNEI2Ym81RUxFNDZzMFVfbnVrQ281T3dLdw?oc=5",
+   "date": "2026-11-05T06:39:40.000Z"
   },
   {
    "topic": "DWDM",
@@ -171,13 +171,6 @@
   },
   {
    "topic": "Innovation",
-   "title": "MediaTek, Ericsson complete multi-vendor pre-6G trial with T-Mobile",
-   "source": "Evertiq",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMGpLWGZBQ1pKdmJKVzVVMHN2RzhVY2E0a1htQzN4azJfbmdvMVVTekRQRlZteDJubkIxbkRJU28zYTJKWmp4Sy1odjFIdHJUYXhqbUpFblNvczJQNkU2LW84dVhheV9jYWt4NFd4Ymd0VE9LSHk1Y0RkWTlIUEdhUmlxbERCVzMza3ZQRTFwN05PeUhsSlFETUdHb3hRa1cyWlA2LUZhNA?oc=5",
-   "date": "2026-11-06T09:00:00.000Z"
-  },
-  {
-   "topic": "Innovation",
    "title": "JNCASR silicon chip enables 100 Gbps transmission for 6G over terahertz frequencies",
    "source": "electronics.economictimes.indiatimes.com",
    "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOUGduenZIWjVYX3hZX1hmMHdxVEdjdlltU0hNejJxcGxfeTdWcnAxLXhCMEtVVHNQb0phUU9vNmJaamprRDdOMF9wRWV0eU9PYzRvTDlMRHN3TVYwM0dLNEZPcTFqT0RLWUtVaVVhQlllMHdWb0IwMHFLRl9tS1BCQmNhRXRQZ3hkaUp4V0NXU3k1ZDhwUTU5b085N09SYjRkaENWdUxZcHBkN2FiSXc3VGJES0ZpcXpvRW5JTGRodXFNQlNFOEhvZ0Q2UXVoREgzSjJhanB1elVkNEJvQ1ZTS0o3bHV0a25tUjdKUXVwZ2JCSjZxYUJENXZsNGRwQlRJU2tfYUhEN1hqN2xlSGhuZVc3a2JnNF9hQlRTM1dmc3huYXJPU2FqNXFjT3IySk9R0gH_AUFVX3lxTFBUSzdHWXFRcDc1bmwtX1hLQmJDSG5FVVQ2SGpuRjhrbG9sd19vVnRxT19LaW95MHdJbGhYNFpzVjNLWXlaQWlEcjF0dG52NWNlc2d4X1RKT0o5eENTd0tIaDBLb0JoekdHa3JhQUlhNjk0VGtZMUc3Y3k2ZGU5eWVHTzljV0ltQ0tPMzVsbko2UTNVYmUzVUMtUnZweWktVXd5dlowZjlENlQzeXVCblJLOFZKZUljb25oSXdLd09KUFNkM0M5X0NxT3ZLTHU2T3B5U2dEdFZKSDBLREZIV2hIR3hTdUNXYWU2RnFmMW0wanlUTV9pblVpc3NWZUZrNA?oc=5",
@@ -217,6 +210,13 @@
    "source": "TradingView",
    "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPQzFyQ01Vajl2eDhOZ2lCYm5pNzZkekd4RE9ubDdQTHlzQmRTbGNqM0d3OG5meXgxNFBvTzBLUEdITEJPbGxNbElGbnZoM3pSR1h3RFFBTUUtc0VXRGptaWxZTF9kWGtfcUk0X21pSTlmUjVBanMxZ203OWI3OHQzeGFoak1YNFlrQTcyekNNTDktMHg1MTg1eGh4NDlZeUFHVnZMQXVHdmxJNDVrSGVrOHRTbnBQX0VZZncwM2wwODVGdjhTOXN6V2l6QjlZVkgtZFoxWmF0dHRDdmJ0bnRZLVNFRU5Tai0yTjBPeF9YYk1iVlVpYUY1NWZaTDlhd0U0WDBIT0hYcFM5T3RPRzR6djhENjFvdVBNc3Q0WS1BM1c?oc=5",
    "date": "2026-11-05T09:03:59.000Z"
+  },
+  {
+   "topic": "Innovation",
+   "title": "India: Silicon Chip Breakthrough Advances Terahertz Technology for 6G Communications",
+   "source": "OpenGov Asia",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZlQ3alZTbUt4empGSWRQQ3lkUzF6UlN3RXQ0Z3g5bFBIUkZDbHNLeUVzRlcwVzB3V3I0TGpISEhQMjNBVzFJckdGUU1BU2QyelNmb2NhN254Mnl5a05qYlNySzQ1dWp4VVJyWEIyVXFabHE0N1FLeUVjUnJyeTRoNko4bTQ5U1B1aHRqRWxta1VhY1RuUWtkSGlvM2J6Q21zeWZwUmt0WUUyVDJI?oc=5",
+   "date": "2026-11-05T01:38:56.000Z"
   }
  ]
 }
