@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T14:29:47.125Z",
+ "updated": "2026-11-07T15:24:58.665Z",
  "items": [
   {
    "topic": "5G",
@@ -14,13 +14,6 @@
    "source": "Telecompaper",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGxvUU9TYmtIMmRVU1NhMU04Ykc0aUJWZE9KSjg4ODNWcEZBVjZ5S2kzX1MzV2JLOTNPVlptQi1vdVdheUk1WGNzUlU4bHZ0S1Z1OXhndk5OMGRRaGRaMjd1dWFiU0xMUk9IUU1rZG1CcEpENWx3MXRSX05oVFJTakJFZ2ZWa2VYczJocllmN19DdUxXSVI0ZTlfUmJZYTRaQmw0Y2Q5MHBINTJJSmhwVw?oc=5",
    "date": "2026-11-05T05:08:03.000Z"
-  },
-  {
-   "topic": "5G",
-   "title": "Major mobile network upgrade",
-   "source": "Snowy River Mail",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBFM1A5Y3hhUjh4b0ZfWlZPSGlBSUNQWmM4WHdqSHBnd3d5Z0owdmsyQnVPREFmMUZrSkhhdWJ1dmtBMjFTS3RtSHYyNXl0UkVpM3NpWUlhRE1sVjk0dGdCXy0xTmtkRlZlaDFEdENOWHdmUmc?oc=5",
-   "date": "2026-11-05T03:06:19.000Z"
   },
   {
    "topic": "5G",
@@ -42,6 +35,13 @@
    "source": "Moomoo",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMVBWTVhmV3ozVkRUc1g2SGhVWW5GaUZMTlZlbGF5WVltWUVicE04anl0cml3Y015SnBYOHJhLW8zaTk2Y0xRa0R1X0s2VWFiV0xXbXpMTzRweVRJVkdZVXVoY3Frc3Qta2NBN0YtcUdDdlNibS15ME1kVlpMTkxuMzRCa3FjNi1Nd0lNV215b0VjUU00TEZrOWp6dHpzVFl5RlZVV2UyaGFKN0Y0SkNNRExHN1BqejBM?oc=5",
    "date": "2026-11-04T17:10:45.000Z"
+  },
+  {
+   "topic": "5G",
+   "title": "SpaceX taps Qualcomm for Starlink Mobile: should investors pay attention?",
+   "source": "Invezz",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNalk5TVBBTGU0NWVjOXlKSGRZV2R2WS1nN1gzM3lUTGtyM3ppTW16WERreGlfenpfb2lQYlhFQVFteXE1TkpQNjAwajk1ZnV0V2dNWkdXRmc4UWl5b1ZBZERMTVZLdEM2UllwZVNuRW8wYlNJVU96dHFQeXE4Sm9JY1lGMHRzdTlXZlUyalRfbXJrODc0a1NHSkVtWDNjTUYtOE5ET2tTdXFNSUNjelMw?oc=5",
+   "date": "2026-11-04T15:36:03.000Z"
   },
   {
    "topic": "4G",
@@ -164,6 +164,13 @@
   },
   {
    "topic": "Innovation",
+   "title": "Middle East Telecom Giants Lead U6GHz Rollout for the 5G-Advanced and 6G Era",
+   "source": "Bangkok Post",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONXpFMXJZalpPX1F6aWZLM254cGdXN0lzdjZjYkhzYWZTX0Jpbm4zT0Q0WXdZTHhpUnFteVBkYndoTkZHSldrQzkwN2ZDZ1BYcmFzSWpnQThGWUg0M0FRV2NXSHRDUGVOV2VSWFAxYU5raWRYR2RHQUZiakZWVnZJNTBscW1RS2xHOWo1VFBnLVRxUmx6RmcyYnhKUEtvVVZhalBnekJCc3ZZaTRLRVhBME13Q0dfWEZjemVkTUItM04?oc=5",
+   "date": "2026-11-06T12:08:00.000Z"
+  },
+  {
+   "topic": "Innovation",
    "title": "Qualcomm CEO: 6G to Be AI-Native from Design, Targeting 2029 Commercialization",
    "source": "KuCoin",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcTRCVktiT016Z3Y3c2lOT2R1NVVlenowVkhIckpmb25VdkJLZXA0bTE2RWpsWHZnd3g2ODI5MUEwbjF3SnBKOW5WcGg3Yl83QXVHamVHOGs3dW5mYVBhMWFjQ2xnV3RGdW95VGQ5c0dMTnFnVHgxaE1Gelo0OVZTdlRQSnA4dDhJc3ZsYlFWWE56bU9XeFFCUl90V2Y3aW1kRVZuazFSX0o1YUtkUWUzeQ?oc=5",
@@ -210,13 +217,6 @@
    "source": "TradingView",
    "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPQzFyQ01Vajl2eDhOZ2lCYm5pNzZkekd4RE9ubDdQTHlzQmRTbGNqM0d3OG5meXgxNFBvTzBLUEdITEJPbGxNbElGbnZoM3pSR1h3RFFBTUUtc0VXRGptaWxZTF9kWGtfcUk0X21pSTlmUjVBanMxZ203OWI3OHQzeGFoak1YNFlrQTcyekNNTDktMHg1MTg1eGh4NDlZeUFHVnZMQXVHdmxJNDVrSGVrOHRTbnBQX0VZZncwM2wwODVGdjhTOXN6V2l6QjlZVkgtZFoxWmF0dHRDdmJ0bnRZLVNFRU5Tai0yTjBPeF9YYk1iVlVpYUY1NWZaTDlhd0U0WDBIT0hYcFM5T3RPRzR6djhENjFvdVBNc3Q0WS1BM1c?oc=5",
    "date": "2026-11-05T09:03:59.000Z"
-  },
-  {
-   "topic": "Innovation",
-   "title": "India: Silicon Chip Breakthrough Advances Terahertz Technology for 6G Communications",
-   "source": "OpenGov Asia",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZlQ3alZTbUt4empGSWRQQ3lkUzF6UlN3RXQ0Z3g5bFBIUkZDbHNLeUVzRlcwVzB3V3I0TGpISEhQMjNBVzFJckdGUU1BU2QyelNmb2NhN254Mnl5a05qYlNySzQ1dWp4VVJyWEIyVXFabHE0N1FLeUVjUnJyeTRoNko4bTQ5U1B1aHRqRWxta1VhY1RuUWtkSGlvM2J6Q21zeWZwUmt0WUUyVDJI?oc=5",
-   "date": "2026-11-05T01:38:56.000Z"
   }
  ]
 }
