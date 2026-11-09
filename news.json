@@ -1,19 +1,19 @@
 {
- "updated": "2026-11-09T05:50:54.316Z",
+ "updated": "2026-11-09T06:58:26.594Z",
  "items": [
+  {
+   "topic": "5G",
+   "title": "Ericsson Drone Detection: 2027 Pilots on 5G Towers [2026]",
+   "source": "https://tech-insider.org/",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYklpZzd5Y1dSSjl6Zk9uNzVEOWhlT2pUeTk4Y1BhQ0NZR1FYQUZaVndPTTBVSWxlZlE5ZnhjNV9mcXJwNkJtVE5Lc0lXaUNvVDFJRXFfS3J4cFgxZF95OVdmamFGZzNyb1V1VmR0Q3lja3JHNDdYd3gzMFBTVU92dk5tbkJHNHc3a1lFcWtRekc?oc=5",
+   "date": "2026-11-08T02:06:57.000Z"
+  },
   {
    "topic": "5G",
    "title": "6G phones arrive in 2030. The fight over the airwaves has already begun",
    "source": "SMH.com.au",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVzZDQS14WXNKdmU3Ykc3akNKOTdpYnpLV1B3YjYweXJEdERsT0E3eHA2YXRsSVhPRHJpZVJodF93aWsta2RUNkdFVWhmNUNpNFdfYXc4VzYzdnR0WnZHM1IxSUNzRkRCY3d1c1dsZnpZemRPbE9vTmM0T0YxNVkzZGoyWG1GbkhhSk42WlhWaEgydWZ4VHNpM0VOY2NKRWVPdFZsaU1WZXpOTms0TFhfQmozbklIVG4xMEtWVk96TnNjWG8?oc=5",
    "date": "2026-11-07T23:06:08.000Z"
-  },
-  {
-   "topic": "5G",
-   "title": "Telstra users face 60-hour outage during Yornup upgrade",
-   "source": "Manjimup Bridgetown Times",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTUtSWHRwdmVkc2hwc0dBNXNlbFNneXVCN2ZGTHVubEN4TV9TM2VQV0JXNGI4RktlMmtjTE9hSjdiSEE1LUVIV1lWZ3RLUndHVE5QVHUyY0k3THpkcUd3OUZsWjFlTkt6MHNiTlZvVVAwSEhiOFNOazlDVUZMSTZsb1RyWl8tR1prN0VmMElQam9ST3I3Y18ySTEyOXFCYl80VXZhRk5HUWV6OWs?oc=5",
-   "date": "2026-11-07T08:00:00.000Z"
   },
   {
    "topic": "5G",
@@ -94,6 +94,13 @@
   },
   {
    "topic": "Optical fibre",
+   "title": "N4 Trillion Telecom Spend Needs Power, Fibre [2026]",
+   "source": "shattered.io",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVFpabDVRWTBrQjNkcnF2VDBuV2VJTERRTW15YkRxaVhLUno3TE1VaE9SU2k5Tm01bUNFM0xMT3YxNzRIcFUtYm92cGxNMFloRVZRRGw5SEpseWl4a0ZnbHpzZnpjd0ZfRmpodUNGTTJyVWhUZVR3c3Y4TV82Y0JQanNseEFxdnBoa1NCTmtDa0dTT0x2YTZkVkx3?oc=5",
+   "date": "2026-11-08T06:43:57.000Z"
+  },
+  {
+   "topic": "Optical fibre",
    "title": "West Coast Paper Mills Q2: Net Profit Jumps Multi-Fold YoY To ₹111.93 Cr On 22.4% Revenue Growth; Approves ₹290 Cr Fibre Expansion",
    "source": "Trade Brains",
    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQSGRpQ2JFN05vM0hHV00zQnNIRV9Gcldpa2tmRTJrelpRbnJ2M1ZDMG1Jcm1rZFcwVVNjclpqTnBCQWV4eFEwUzM0UDVVTjc3cmtkR2tBcGtBUy16SGpOZ29oT0ZvZG5jd0VqS2w0VzYxTkF4dFRFSDJpQ2Zyd0tZQm55dGVxS1dyUks0OW5HUTRNUTVIMFo0c0FEXzBEN3lqeDFUaEV1U2FUcERHYTIyU3ZQc1haTXE4WS1pdmxkVzNCSDROdjJvVlU4UG9la0wwZ1dYazlna2xiQU9ESmpJdUNERWxTWnFPdkRycE1CbnpZSzNFUTZ2dklQZ0V2NE0?oc=5",
@@ -108,24 +115,17 @@
   },
   {
    "topic": "Optical fibre",
+   "title": "Fitch upgrades Sri Lanka Telecom’s national rating to AA+(lka)",
+   "source": "Hiru News",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQR0RYcWFQNjllSGJKVjRvTlFlMi1KQ2tHU2dYME1ka1V4SG1EdVN1blRoUW5yVl9senQ4ZERDQTBkYWdQNnBFT3p6UDFkUEhPSUNOeHNibFBVcjlDdzJQVnBoRE1pWnpOcE1mYzlNaXN6S3ozMjNTc0szUmp6Wm9nd0l4NjJuUmtLZDN5ckNLNGJxdWhxUnU4bTBJNVhJa2JFbGV0RXlB?oc=5",
+   "date": "2026-11-06T05:10:29.000Z"
+  },
+  {
+   "topic": "Optical fibre",
    "title": "C3ntro Telecom Opens Hermosillo Edge Facility for TIKVA Project",
    "source": "Mexico Business News",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaW5XOTV1UTlOUk8ySFU2ZXVRU2pPUlZPX1Z5LUpiRUpweXd1NUZvWllQX0ZmZlhpeEFDc1JjWDBMZUJkOGc1bWlJa3g2X0lEcjFHNWV2VXI2ZWhMck95dDZCNFhEX0IyQTNveHBzT0s1TnB6d2I0SnpxeTd4dU55NWFOdjVLa0FYcGNpOV9qRG02V0ZNYkNCUjJHNERXanQ2VHZDU0dmb0o?oc=5",
    "date": "2026-11-05T21:15:53.000Z"
-  },
-  {
-   "topic": "Optical fibre",
-   "title": "C3ntro Telecom Hermosillo Data Center: 2 MW Specs [2026]",
-   "source": "https://tech-insider.org/",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYkc1Ymp4QjNjdXppSm9VczJlMDlBR2JXOVBhaXl5cGE2bVA1dTFsdWRuRUxxYzBPbmxGazNkajAtZkpFMlNzTXNwVEtTU0JjUWhkQ3NBUEtXTF9PSzhTNUFvc1hlZjc5VHhtdzVzR0drWlB3QUYzU1BiNlg0LTlJeGpWRE92Q3ZhNElJVg?oc=5",
-   "date": "2026-11-05T19:21:36.000Z"
-  },
-  {
-   "topic": "Optical fibre",
-   "title": "C3ntro Telecom opens edge data center in Sonora for Tikva network",
-   "source": "BNamericas",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbUpGVmpvdzZJWjNydG41ZzVrdkx3RnpoYjR5VVlyQUUtYWU3Z3NqMTBjTXNoUVY2VnNsRzY2OGNjZW9yS21hVFhqQk1PTGxxQ0JHam5lVkRjdHVfaXN4WU5UWEJVcXhSSDRxYkJmNEoyTzB3WmswV0hwUmFneUhySFJ3eUc0S251bl9NUHNoSjU0ODFvSlhvbWVQVllZOUtEa2c?oc=5",
-   "date": "2026-11-05T17:26:46.000Z"
   },
   {
    "topic": "DWDM",
@@ -154,6 +154,13 @@
    "source": "Telecompaper",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY3ZSVEFYa29SdF92di13Z0tfaURUZnRNWmY5cGZiaFdobWVzaVNha3o5Mk1fOC1WTFdhdFB0VWYzMHF2QjQyOXRQQ3JRc0M1T3d2ZXNoc0RucHhRWXRPR3VVeWZLOGkxSDdTQy1VY1JSNXQ4RjhMMGdkV3U4ZG1NOG14RU1iVDhZN1F0MmVyS1dmbXNUY0E4cjlobjUycWJKdW85ZFZmaVl2YldnM1RISXcyb0VxTlJkaFJV?oc=5",
    "date": "2026-10-27T07:00:00.000Z"
+  },
+  {
+   "topic": "Innovation",
+   "title": "Sam George engages global telecom leaders at MWC Doha 2026",
+   "source": "MyJoyOnline",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSW5kdWdmVlBXbUUzMzdUUDgtcncxeFktbGNaa0cyY3diaXRVWER4aGdzckRVZTlrQzJkZmM3VG5qNFpHZTY2ejU2RjZVbFplemRRem91b2JpenZoR205UWpfYjVhLXB1U0NtY2UtemxBbkNwOXFURkx4eFhxWGtnNkZrQWxXMW5qeUhoa01NNFQ?oc=5",
+   "date": "2026-11-09T06:05:55.000Z"
   },
   {
    "topic": "Innovation",
@@ -217,13 +224,6 @@
    "source": "TechAfrica News",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZXhWZGhlM09kMzBDYXlwQlo3cGV4UnhiWEgyQWU1akxXa1VrN0I3V0ttS3llbVptdlRBT0JjMHpsZE1aVkM1SmVrcGtaMkFsQ21iRkR1eklmdzhBUl91OXdMX3Z0aW5FN0Ntb2xTbFY4TzhnZW1PUUpnOFZXdFNrWC1tUzBzaE12Umt1QXhud3N2VlRHUG80WWN6TkJ0YWV1cFpuZ1oxcTRVeU5SczZKV2tfLWx6b3d1bWdsYmFNZw?oc=5",
    "date": "2026-11-05T12:27:40.000Z"
-  },
-  {
-   "topic": "Innovation",
-   "title": "Far EasTone Telecommunications : Record Q3 revenue and EBITDA, with broad-based growth and FY guidance on track",
-   "source": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPQzFyQ01Vajl2eDhOZ2lCYm5pNzZkekd4RE9ubDdQTHlzQmRTbGNqM0d3OG5meXgxNFBvTzBLUEdITEJPbGxNbElGbnZoM3pSR1h3RFFBTUUtc0VXRGptaWxZTF9kWGtfcUk0X21pSTlmUjVBanMxZ203OWI3OHQzeGFoak1YNFlrQTcyekNNTDktMHg1MTg1eGh4NDlZeUFHVnZMQXVHdmxJNDVrSGVrOHRTbnBQX0VZZncwM2wwODVGdjhTOXN6V2l6QjlZVkgtZFoxWmF0dHRDdmJ0bnRZLVNFRU5Tai0yTjBPeF9YYk1iVlVpYUY1NWZaTDlhd0U0WDBIT0hYcFM5T3RPRzR6djhENjFvdVBNc3Q0WS1BM1c?oc=5",
-   "date": "2026-11-05T09:03:59.000Z"
   }
  ]
 }
