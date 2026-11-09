@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T04:49:24.359Z",
+ "updated": "2026-11-09T05:50:54.316Z",
  "items": [
   {
    "topic": "5G",
@@ -7,6 +7,13 @@
    "source": "SMH.com.au",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVzZDQS14WXNKdmU3Ykc3akNKOTdpYnpLV1B3YjYweXJEdERsT0E3eHA2YXRsSVhPRHJpZVJodF93aWsta2RUNkdFVWhmNUNpNFdfYXc4VzYzdnR0WnZHM1IxSUNzRkRCY3d1c1dsZnpZemRPbE9vTmM0T0YxNVkzZGoyWG1GbkhhSk42WlhWaEgydWZ4VHNpM0VOY2NKRWVPdFZsaU1WZXpOTms0TFhfQmozbklIVG4xMEtWVk96TnNjWG8?oc=5",
    "date": "2026-11-07T23:06:08.000Z"
+  },
+  {
+   "topic": "5G",
+   "title": "Telstra users face 60-hour outage during Yornup upgrade",
+   "source": "Manjimup Bridgetown Times",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTUtSWHRwdmVkc2hwc0dBNXNlbFNneXVCN2ZGTHVubEN4TV9TM2VQV0JXNGI4RktlMmtjTE9hSjdiSEE1LUVIV1lWZ3RLUndHVE5QVHUyY0k3THpkcUd3OUZsWjFlTkt6MHNiTlZvVVAwSEhiOFNOazlDVUZMSTZsb1RyWl8tR1prN0VmMElQam9ST3I3Y18ySTEyOXFCYl80VXZhRk5HUWV6OWs?oc=5",
+   "date": "2026-11-07T08:00:00.000Z"
   },
   {
    "topic": "5G",
@@ -37,13 +44,6 @@
    "date": "2026-11-04T18:42:57.000Z"
   },
   {
-   "topic": "5G",
-   "title": "SpaceX taps Qualcomm for Starlink Mobile: should investors pay attention?",
-   "source": "Invezz",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNalk5TVBBTGU0NWVjOXlKSGRZV2R2WS1nN1gzM3lUTGtyM3ppTW16WERreGlfenpfb2lQYlhFQVFteXE1TkpQNjAwajk1ZnV0V2dNWkdXRmc4UWl5b1ZBZERMTVZLdEM2UllwZVNuRW8wYlNJVU96dHFQeXE4Sm9JY1lGMHRzdTlXZlUyalRfbXJrODc0a1NHSkVtWDNjTUYtOE5ET2tTdXFNSUNjelMw?oc=5",
-   "date": "2026-11-04T15:36:03.000Z"
-  },
-  {
    "topic": "4G",
    "title": "Jio vs Airtel vs Vi vs BSNL in 2026: Which Mobile Network Offers the Best 5G Speed, Coverage and Call Quality in India?",
    "source": "TelecomLead",
@@ -61,8 +61,8 @@
    "topic": "4G",
    "title": "Mobile Network Quality at Airports, Railway Stations and Highways in 2026: Jio, Airtel, Vi and BSNL Speed and Coverage Comparison",
    "source": "TelecomLead",
-   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQY0JaMHM5Tk5RTm1aNjhSRkdGVHp3TDdDaGU1eGg5WkZFS19yZnIzZTNWSHpMM2M4RnlTNHplT3NraHJyd2MyODRzM18xd3EtZEhvNVdqSU9hV1c2emJ1WVk2WjRCRVNWOURuQzk3V0xDbjc5aXpvYUJWdG9lc1lVRm9ST3c3V0JxUnJFcVk3RktNU1gzR2VIZlFxZEh6c0hoamZESl9NLVRRRmtRT0FJRURLaGVRY0ZkOHhxREJZbWVhUm9LRkpfT1luN0xXenotNTI3RUhYV3NFRXEteWdNRnZWNmJhZWtjNlNBUWFDS0dIakJyWk1lam4tSDhwUdIB_gFBVV95cUxQY0JaMHM5Tk5RTm1aNjhSRkdGVHp3TDdDaGU1eGg5WkZFS19yZnIzZTNWSHpMM2M4RnlTNHplT3NraHJyd2MyODRzM18xd3EtZEhvNVdqSU9hV1c2emJ1WVk2WjRCRVNWOURuQzk3V0xDbjc5aXpvYUJWdG9lc1lVRm9ST3c3V0JxUnJFcVk3RktNU1gzR2VIZlFxZEh6c0hoamZESl9NLVRRRmtRT0FJRURLaGVRY0ZkOHhxREJZbWVhUm9LRkpfT1luN0xXenotNTI3RUhYV3NFRXEteWdNRnZWNmJhZWtjNlNBUWFDS0dIakJyWk1lam4tSDhwUQ?oc=5",
-   "date": "2026-11-08T12:28:06.000Z"
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUE12elEzbEZ6dGRheThVRHBuMnE0alRPWGhJQVJ6NHg3OENPazF4NnEyRml6bFlsb211YkpNSGo5Vy04UmVqQk42bmh1QjdENnhFa25yb3lFWW9NWDlhUEFqd0dVRnJkTnh2VjRzREdDRlZHMmFqUi1IWmUzTThpYmhGM0lYWkJCZUJ0RGVmc1I3MEpCam1tUjNOSGtsb1pxX3F0c202WW1OWE9sSUNaWm1raHM4Y3pfT1FIUGQzb0FkeFRnSTV5TEVDRnEzUUVoQ0xzQkVBejdKSTJXNDdrWDlZTEtXb0FPb0Z1a2VLSjd3YXE3cEHSAf4BQVVfeXFMUGNCWjBzOU5OUU5tWjY4UkZHRlR6d0w3Q2hlNXhoOVpGRUtfcmZyM2UzVkh6TDNjOEZ5UzR6ZU9za2hycndjMjg0czNfMXdxLWRIbzVXaklPYVdXNnpidVlZNlo0QkVTVjlEbkM5N1dMQ243OWl6b2FCVnRvZXNZVUZvUk93N1dCcVJyRXFZN0ZLTVNYM0dlSGZRcWRIenNIaGpmREpfTS1UUUZrUU9BSUVES2hlUWNGZDh4cURCWW1lYVJvS0ZKX09ZbjdMV3p6LTUyN0VIWFdzRUVxLXlnTUZ2VjZiYWVrYzZTQVFhQ0tHSGpCclpNZWpuLUg4cFE?oc=5",
+   "date": "2026-11-08T12:31:14.000Z"
   },
   {
    "topic": "4G",
@@ -94,13 +94,6 @@
   },
   {
    "topic": "Optical fibre",
-   "title": "N4 Trillion Telecom Spend Needs Power, Fibre [2026]",
-   "source": "shattered.io",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVFpabDVRWTBrQjNkcnF2VDBuV2VJTERRTW15YkRxaVhLUno3TE1VaE9SU2k5Tm01bUNFM0xMT3YxNzRIcFUtYm92cGxNMFloRVZRRGw5SEpseWl4a0ZnbHpzZnpjd0ZfRmpodUNGTTJyVWhUZVR3c3Y4TV82Y0JQanNseEFxdnBoa1NCTmtDa0dTT0x2YTZkVkx3?oc=5",
-   "date": "2026-11-08T06:43:57.000Z"
-  },
-  {
-   "topic": "Optical fibre",
    "title": "West Coast Paper Mills Q2: Net Profit Jumps Multi-Fold YoY To ₹111.93 Cr On 22.4% Revenue Growth; Approves ₹290 Cr Fibre Expansion",
    "source": "Trade Brains",
    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQSGRpQ2JFN05vM0hHV00zQnNIRV9Gcldpa2tmRTJrelpRbnJ2M1ZDMG1Jcm1rZFcwVVNjclpqTnBCQWV4eFEwUzM0UDVVTjc3cmtkR2tBcGtBUy16SGpOZ29oT0ZvZG5jd0VqS2w0VzYxTkF4dFRFSDJpQ2Zyd0tZQm55dGVxS1dyUks0OW5HUTRNUTVIMFo0c0FEXzBEN3lqeDFUaEV1U2FUcERHYTIyU3ZQc1haTXE4WS1pdmxkVzNCSDROdjJvVlU4UG9la0wwZ1dYazlna2xiQU9ESmpJdUNERWxTWnFPdkRycE1CbnpZSzNFUTZ2dklQZ0V2NE0?oc=5",
@@ -126,6 +119,13 @@
    "source": "https://tech-insider.org/",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYkc1Ymp4QjNjdXppSm9VczJlMDlBR2JXOVBhaXl5cGE2bVA1dTFsdWRuRUxxYzBPbmxGazNkajAtZkpFMlNzTXNwVEtTU0JjUWhkQ3NBUEtXTF9PSzhTNUFvc1hlZjc5VHhtdzVzR0drWlB3QUYzU1BiNlg0LTlJeGpWRE92Q3ZhNElJVg?oc=5",
    "date": "2026-11-05T19:21:36.000Z"
+  },
+  {
+   "topic": "Optical fibre",
+   "title": "C3ntro Telecom opens edge data center in Sonora for Tikva network",
+   "source": "BNamericas",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbUpGVmpvdzZJWjNydG41ZzVrdkx3RnpoYjR5VVlyQUUtYWU3Z3NqMTBjTXNoUVY2VnNsRzY2OGNjZW9yS21hVFhqQk1PTGxxQ0JHam5lVkRjdHVfaXN4WU5UWEJVcXhSSDRxYkJmNEoyTzB3WmswV0hwUmFneUhySFJ3eUc0S251bl9NUHNoSjU0ODFvSlhvbWVQVllZOUtEa2c?oc=5",
+   "date": "2026-11-05T17:26:46.000Z"
   },
   {
    "topic": "DWDM",
