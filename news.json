@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T14:03:44.851Z",
+ "updated": "2026-11-09T15:46:05.991Z",
  "items": [
   {
    "topic": "5G",
@@ -7,13 +7,6 @@
    "source": "Telecompaper",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdTNLYjloTGMwRnFmeW13V0IySWJkUnhOWnlrYVhVUl9XcDlGLUNjYkYwLVZTZFYwZWRydkw3NE5CelBXNTc2T2JJZGstZFNmbXVVSFJPQzllaUxKM2hRUDV6X2ZRLTJrVGZZYXB6NTlfYVN6MW5ua0RCVzR1WmVKNHFqd25zWElfTXhrbUVPdDhrUVZtR05GOTVTWnUtVkdBZ1E?oc=5",
    "date": "2026-11-09T03:58:40.000Z"
-  },
-  {
-   "topic": "5G",
-   "title": "Ericsson Drone Detection: 2027 Pilots on 5G Towers [2026]",
-   "source": "https://tech-insider.org/",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYklpZzd5Y1dSSjl6Zk9uNzVEOWhlT2pUeTk4Y1BhQ0NZR1FYQUZaVndPTTBVSWxlZlE5ZnhjNV9mcXJwNkJtVE5Lc0lXaUNvVDFJRXFfS3J4cFgxZF95OVdmamFGZzNyb1V1VmR0Q3lja3JHNDdYd3gzMFBTVU92dk5tbkJHNHc3a1lFcWtRekc?oc=5",
-   "date": "2026-11-08T02:06:57.000Z"
   },
   {
    "topic": "5G",
@@ -42,6 +35,13 @@
    "source": "Snowy River Mail",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBFM1A5Y3hhUjh4b0ZfWlZPSGlBSUNQWmM4WHdqSHBnd3d5Z0owdmsyQnVPREFmMUZrSkhhdWJ1dmtBMjFTS3RtSHYyNXl0UkVpM3NpWUlhRE1sVjk0dGdCXy0xTmtkRlZlaDFEdENOWHdmUmc?oc=5",
    "date": "2026-11-05T03:06:19.000Z"
+  },
+  {
+   "topic": "5G",
+   "title": "8 Networks signs two-year deal with Perth Scorchers",
+   "source": "TelcoNews Australia",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWm8yc1oxRzVBbjQya1JuUmRSbk1GVDduNmhWZzdfUWxTS3UydlpuT0daR2NWeXJvTHdwUUI2ZzlUNzRfeGZCT2lCRlZCdVMxNWlQM3dKWjh6dkY4dWZWZVM2LS1uV2t5N3U1TTd4U2ZBNHZHNDdMS21wc09xSWdmZUdlcHlkalFNMGc?oc=5",
+   "date": "2026-11-04T21:15:00.000Z"
   },
   {
    "topic": "4G",
@@ -87,10 +87,10 @@
   },
   {
    "topic": "Optical fibre",
-   "title": "Nigeria Telecom Investment: N4trn Power Gap [2026]",
-   "source": "https://tech-insider.org/",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcUlGb0FaN05LQlRPaU8zaUw1UmhLRzJQeWE2X2Z5cEFkRWxyTWctb3lLckhULUdiVERsQ3NVUGNzSXlMSFJ6N3RzWTRnQndxM1JqUk90ZHZ0cjhQdUFBNUI1eE5uTzRBcmFRaGNrUzh3a0k5R05rRmd5NVdFRDRGWk9JTVpoSkg5VF9xTWN3RG83dWY1UTF3WFJFWFBSTlk?oc=5",
-   "date": "2026-11-08T07:19:45.000Z"
+   "title": "Romanian Telecom Giant DIGI Launches Aggressive Cyber Monday Tariff Reductions Across Service Portfolio",
+   "source": "https://streamlinefeed.co.ke/",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUmJhQjI5UWNCZ3ZCdWlZVHc3bGY5ZDN3bWxweHJjbTdPakJfanZ2UnFEdHVFU1FOT0JDX1FJUGdPZ3BienRiclRncjR5d0EwNGlNNUphcGdKUnNCR2EzRXRHTktiWlFobWcwdnZxeGZHZzRNUEkyRVdieHlPN1VIbTVPQjJjZlpFcjRrX256UUhTdEV5OXJXaDJFM2hBODlwdVF0ckdLVVA0QmZocC1DNmVIZGltWVc0RW4xbW14NnZERURsZk4xMVBrTEhwR0JoME1n?oc=5",
+   "date": "2026-11-09T08:31:40.000Z"
   },
   {
    "topic": "Optical fibre",
@@ -126,13 +126,6 @@
    "source": "Mexico Business News",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaW5XOTV1UTlOUk8ySFU2ZXVRU2pPUlZPX1Z5LUpiRUpweXd1NUZvWllQX0ZmZlhpeEFDc1JjWDBMZUJkOGc1bWlJa3g2X0lEcjFHNWV2VXI2ZWhMck95dDZCNFhEX0IyQTNveHBzT0s1TnB6d2I0SnpxeTd4dU55NWFOdjVLa0FYcGNpOV9qRG02V0ZNYkNCUjJHNERXanQ2VHZDU0dmb0o?oc=5",
    "date": "2026-11-05T21:15:53.000Z"
-  },
-  {
-   "topic": "DWDM",
-   "title": "VNPT brings Vietnam's telecommunications infrastructure into the international network service \"game\".",
-   "source": "Vietnam.vn",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNR2xUclR1UXUyTGd3WHdtT1liWjljV1d4aVFLcVJ2cHA0d1BRZlRqWjMyMFlQbTJvc3N6T29LUnZ4ajQ0RXNlelVKcldXNUc5RUxSTmVRc3RSRTZUZ0VIbHZzTWkyYm1EV2xCZUtxZk9lSWlaUWxXdWl1QzZzYkh0ZGJDbXlXcHBzTUNrckFIQXBDNUlNV05KTDdYZGVQZw?oc=5",
-   "date": "2026-11-09T12:19:02.000Z"
   },
   {
    "topic": "DWDM",
@@ -206,6 +199,13 @@
   },
   {
    "topic": "Innovation",
+   "title": "NTT Unveils Tech to Enhance AI Performance for 6G and Next-Gen Computing",
+   "source": "HPCwire",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcnUzcnNWYXRRSTFDZzQzNU9LSWNEeV83TXYtUEtNYng0STVzdEhMdDZxQkNDRkNhUWdBa0lPWHA4cG9pU2J4QnlVWDhfeDh0X2tHWW55NG9WNWVJbWFlS0lDbnBYZmtnT2F3NHNETTNKdHhadzFWQTJNa1Rad3BFTG1tOFlKYTB1RGtYY1ZjV2xwd3QxMGtPS3VrYlJObnVwWXAtcU1PeFd2aGU3S0EyVnZncW1fTGstVWZSaVQ5aw?oc=5",
+   "date": "2026-11-06T08:00:00.000Z"
+  },
+  {
+   "topic": "Innovation",
    "title": "JNCASR silicon chip enables 100 Gbps transmission for 6G over terahertz frequencies",
    "source": "electronics.economictimes.indiatimes.com",
    "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOUGduenZIWjVYX3hZX1hmMHdxVEdjdlltU0hNejJxcGxfeTdWcnAxLXhCMEtVVHNQb0phUU9vNmJaamprRDdOMF9wRWV0eU9PYzRvTDlMRHN3TVYwM0dLNEZPcTFqT0RLWUtVaVVhQlllMHdWb0IwMHFLRl9tS1BCQmNhRXRQZ3hkaUp4V0NXU3k1ZDhwUTU5b085N09SYjRkaENWdUxZcHBkN2FiSXc3VGJES0ZpcXpvRW5JTGRodXFNQlNFOEhvZ0Q2UXVoREgzSjJhanB1elVkNEJvQ1ZTS0o3bHV0a25tUjdKUXVwZ2JCSjZxYUJENXZsNGRwQlRJU2tfYUhEN1hqN2xlSGhuZVc3a2JnNF9hQlRTM1dmc3huYXJPU2FqNXFjT3IySk9R0gH_AUFVX3lxTFBUSzdHWXFRcDc1bmwtX1hLQmJDSG5FVVQ2SGpuRjhrbG9sd19vVnRxT19LaW95MHdJbGhYNFpzVjNLWXlaQWlEcjF0dG52NWNlc2d4X1RKT0o5eENTd0tIaDBLb0JoekdHa3JhQUlhNjk0VGtZMUc3Y3k2ZGU5eWVHTzljV0ltQ0tPMzVsbko2UTNVYmUzVUMtUnZweWktVXd5dlowZjlENlQzeXVCblJLOFZKZUljb25oSXdLd09KUFNkM0M5X0NxT3ZLTHU2T3B5U2dEdFZKSDBLREZIV2hIR3hTdUNXYWU2RnFmMW0wanlUTV9pblVpc3NWZUZrNA?oc=5",
@@ -224,13 +224,6 @@
    "source": "BigGo Finance",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VaXZENXd3ZVQ5SzAwYzk4MEFhc1dyN0lwVEVLU1J2Yllpa1ZrWktYMU5Jcy1QelZuei1BeVFwNnV5MEwtRmdJVGNkcnlBdFhBNmo2ZzZMMm15U0RSaFkzWHFuZlNIMEtkS0IweS1pSE1KUTVMNkE?oc=5",
    "date": "2026-11-06T00:56:00.000Z"
-  },
-  {
-   "topic": "Innovation",
-   "title": "ETSI paper explores 6G ISAC computing framework",
-   "source": "Telecompaper",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObVpYZVk2QU9VbllfU3JKX2tyQmhwSWZFZzFZalAzM1JoRlhhcE5xeXV3YXh4Zkk3YmJJVHNXbm11UVc4RUgxandzR3prbmR5WWhxQ09MaE8wTTA3Yi14bVZmdk5zSUpyc3ZBSE9DdVZsUUMxRG8wNkw1ZzlNcDF3bHl2ZkFGYm5WR3NMVFNZbTFGMnVP?oc=5",
-   "date": "2026-11-05T14:29:38.000Z"
   }
  ]
 }
