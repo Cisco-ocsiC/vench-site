@@ -5,7 +5,7 @@
 
   var bar = document.createElement("div");
   bar.className = "topbar";
-  bar.innerHTML = '<div class="wrap"><a href="tools.html#news">News &amp; Media</a><a href="tools.html#numbers">Useful numbers</a><a href="enquire.html">Enquire</a></div>';
+  bar.innerHTML = '<div class="wrap"><a href="tools.html#news">News &amp; Media</a><a href="enquire.html">Enquire</a></div>';
   header.parentNode.insertBefore(bar, header);
 
   var nav = header.querySelector("nav");
@@ -24,7 +24,6 @@
     ["Public holidays in Australia", "tools.html#holidays", "holiday date state"],
     ["Visa fees and processing times", "tools.html#visa", "visa immigration fee 189 190 491 482 186 processing"],
     ["Skilled occupation checker", "tools.html#occupation", "anzsco occupation skilled visa 189 190 491"],
-    ["Useful numbers", "tools.html#numbers", "emergency police ambulance fire ato medicare immigration phone"],
     ["Telecom news and innovation", "tools.html#news", "news 5g 4g fibre dwdm innovation"],
     ["Enquire", "enquire.html", "contact enquiry quote hourly daily project"],
     ["Our story", "index.html#about", "about engineers entrepreneurs"]

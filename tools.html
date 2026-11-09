@@ -35,7 +35,6 @@
         <a href="#holidays">Public holidays</a>
         <a href="#visa">Visa fees &amp; times</a>
         <a href="#occupation">Occupation checker</a>
-        <a href="#numbers">Useful numbers</a>
         <a href="#news">News</a>
       </div>
     </div>
@@ -161,13 +160,6 @@
             <div class="result" id="oc-out"></div>
             <p class="fine" id="oc-src"></p>
           </div>
-        </div>
-
-        <!-- NUMBERS -->
-        <div class="tool" id="numbers">
-          <h2>Useful numbers in Australia</h2>
-          <p class="d">Emergency and government contact numbers. Tap a number on your phone to call. Always confirm on the official website before relying on a number.</p>
-          <div id="nm-out"></div>
         </div>
 
         <!-- NEWS -->
@@ -471,51 +463,6 @@ getJson("occupations.json").then(d => {
 }).catch(() => { $("oc-src").textContent = "Occupation data could not be loaded right now."; });
 $("oc-q").addEventListener("input", occFilter);
 $("oc-sel").addEventListener("change", occView);
-
-/* ---------- Useful numbers ---------- */
-const NUMS = [
-  ["Emergency", [
-    ["000", "Triple Zero: police, fire and rescue, ambulance", "Life-threatening emergencies"],
-    ["112", "Emergency from a mobile phone", "Connects to 000, including when your network has no coverage"],
-    ["106", "Text emergency service", "For people who are deaf or have a hearing or speech impairment"],
-    ["132 500", "State Emergency Service (SES)", "Flood, storm and tsunami help"],
-  ]],
-  ["Police and safety", [
-    ["131 444", "Police Assistance Line", "Non-urgent police matters in most states and territories"],
-    ["1800 333 000", "Crime Stoppers", "Report crime anonymously"],
-    ["1800 737 732", "1800RESPECT", "Family, domestic and sexual violence support"],
-  ]],
-  ["Health and support", [
-    ["13 11 26", "Poisons Information Centre", "Poisoning and overdose advice"],
-    ["1800 022 222", "healthdirect", "24-hour health advice from a nurse"],
-    ["13 11 14", "Lifeline", "24-hour crisis support"],
-    ["1300 224 636", "Beyond Blue", "Mental health support"],
-    ["1800 55 1800", "Kids Helpline", "Support for young people"],
-  ]],
-  ["Government services", [
-    ["13 28 61", "Australian Taxation Office (ATO)", "Individuals", "https://www.ato.gov.au/contact-us"],
-    ["13 28 66", "Australian Taxation Office (ATO)", "Businesses", "https://www.ato.gov.au/contact-us"],
-    ["132 011", "Medicare", "Services Australia", "https://www.servicesaustralia.gov.au/contact-us"],
-    ["132 850", "Centrelink", "Employment services payments", "https://www.servicesaustralia.gov.au/contact-us"],
-    ["131 881", "Department of Home Affairs (immigration)", "Visa and citizenship enquiries", "https://immi.homeaffairs.gov.au/help-support/contact-us"],
-    ["131 450", "Translating and Interpreting Service (TIS National)", "Interpreter by phone", "https://www.tisnational.gov.au"],
-    ["13 13 94", "Fair Work Infoline", "Pay and workplace rights", "https://www.fairwork.gov.au/about-us/contact-us"],
-    ["131 232", "Australian Passport Information Service", "Passports", "https://www.passports.gov.au"],
-    ["133 677", "National Relay Service", "For people who are deaf or have a hearing or speech impairment", "https://www.accesshub.gov.au"],
-  ]],
-  ["Telecommunications and utilities", [
-    ["1100", "Before You Dig Australia", "Check underground cables and pipes before digging", "https://www.byda.com.au"],
-    ["1800 062 058", "Telecommunications Industry Ombudsman (TIO)", "Complaints about phone and internet providers", "https://www.tio.com.au"],
-    ["1300 850 115", "Australian Communications and Media Authority (ACMA)", "Telecommunications and spam rules", "https://www.acma.gov.au"],
-    ["1300 302 502", "ACCC", "Consumer and competition enquiries", "https://www.accc.gov.au"],
-    ["1300 300 630", "ASIC", "Companies and financial services", "https://asic.gov.au"],
-    ["1800 595 160", "IDCARE", "Identity theft and scam support", "https://www.idcare.org"],
-  ]],
-];
-$("nm-out").innerHTML = NUMS.map(([g, rows]) => `<h3 style="margin:22px 0 8px;font-size:1rem">${esc(g)}</h3><div class="tbl-wrap"><table><tbody>` +
-  rows.map(r => `<tr><td style="white-space:nowrap;font-weight:700;font-size:1.05rem"><a href="tel:${esc(r[0].replace(/\s/g, ""))}" style="color:var(--blue)">${esc(r[0])}</a></td><td><b>${esc(r[1])}</b><br><span class="fine" style="margin:0">${esc(r[2])}${r[3] ? ` &middot; <a href="${esc(r[3])}" rel="noopener" style="text-decoration:underline">website</a>` : ""}</span></td></tr>`).join("") +
-  `</tbody></table></div>`).join("") +
-  `<p class="fine">In an emergency call 000 first. For fire and rescue, ambulance or police, 000 connects you to the right service. Numbers may change, so confirm with the organisation's website. Last reviewed November 2026.</p>`;
 
 /* ---------- News ---------- */
 let NEWS = [], topic = "All";
