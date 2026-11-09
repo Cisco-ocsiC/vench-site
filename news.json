@@ -1,13 +1,6 @@
 {
- "updated": "2026-11-09T15:46:05.991Z",
+ "updated": "2026-11-09T16:51:59.094Z",
  "items": [
-  {
-   "topic": "5G",
-   "title": "Optus validates Cisco Live Protect on 8000 Series routers",
-   "source": "Telecompaper",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdTNLYjloTGMwRnFmeW13V0IySWJkUnhOWnlrYVhVUl9XcDlGLUNjYkYwLVZTZFYwZWRydkw3NE5CelBXNTc2T2JJZGstZFNmbXVVSFJPQzllaUxKM2hRUDV6X2ZRLTJrVGZZYXB6NTlfYVN6MW5ua0RCVzR1WmVKNHFqd25zWElfTXhrbUVPdDhrUVZtR05GOTVTWnUtVkdBZ1E?oc=5",
-   "date": "2026-11-09T03:58:40.000Z"
-  },
   {
    "topic": "5G",
    "title": "6G phones arrive in 2030. The fight over the airwaves has already begun",
@@ -44,6 +37,27 @@
    "date": "2026-11-04T21:15:00.000Z"
   },
   {
+   "topic": "5G",
+   "title": "Qualcomm (QCOM) Backs A Nationwide 5G Network For A New US Carrier",
+   "source": "Simply Wall St",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNElGb2dSYkRkZnF5Szd3N2JjenlsdVdhempBSjVPZHY3Nk9vOVJORElpWF9nSDM3WUVPVjI1WHNGLWFCZmN3ZVo4MHloWUVRNkhMeURNbmhBczhTcGdqdUwwVTBrSExUaEdFS0VDTWtrdGhqUTJoQjZwdmplaF9sQWs1cEZZanJCZFFrUHRDdEN3ZWp1WGpidTlWMjQyZUhGUG5Wc2F5eHRtS3FqWE15MTBvdU8wZkJQelRUczBGc1NnWThCV2w5MlhnWkQ2d9IB0wFBVV95cUxOYmtNZVJndkFVeWhPZjFBYmhSV2dqdHR0Z1kycllUQ1ZqeFNnTkhIWUFsM01TSmRzUnNXQWlGcTFpeXg0dWdDZk5rbEtPckdKMTh2TzVobWdHMDlEMTZndE4wSWVkeExZMnlUcl94YXZQNWZfWFJsSzVLOHZFSURxLS03VGJXNE5RZzVwRTB1MElhNzljWVFnTi1tM1BadEE2d1FGVFhyR1VQcXdzcGVrd2d0dTI2SWdPMFlxeVJsYXpzdU9zbzVLWFVnVk9fNV9NVDlN?oc=5",
+   "date": "2026-11-04T17:27:20.000Z"
+  },
+  {
+   "topic": "4G",
+   "title": "Reliance Jio Leads 5G Download Speeds in Arunachal Pradesh at 103.49 Mbps, Airtel Tops Upload Performance: TRAI",
+   "source": "TelecomLead",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMXlOdmN4N254R0RDREkxSVFTOGtoemV2dVpuOXV2U1JIRUlhSjl3UHR2N3hMeGc3YlhVaEJuaDRrVXM0U0Yxd1lzc3ROU24tX1FuZmg5VjNibjlVVWxJN3JPRDhZMVllVFZselpGeTlBM2FTdDlkcFU4U0VGWE94OGZreFdJTnZLQ2Y1MGFfSXZ6c1ZRM0MtY0pfVFNvaENWZjh5WkF4VHJHc082SDVhVmxkcXRDWkR1TjM5aTZlaHJiMzBVdjFUQm1oRG5vYnhuaUZ4Rk4tN3dlNEtCbDhOWdIB6AFBVV95cUxNVVlkVkNIWVN2c2E1WUt4WWFCRzdHc3h2Ni1QSnNNY0NnaUhZZUpLMmktRk5mOUZ2akozcU9WQ0VIT09BV01majVHQUxWWDNQRzV2Y0E5VndBVHpSSlVWMUx6MmdUbDU2UUtUcjlDYmJWeWRUZ1F1MElMSVNRZGdWQ1ViakgyQ1d6TUJicFJTTWJtUWFkNjJhbjdHSTBveGtTRUFlYzBkVnc0WHI1VjMyNnNRbHZXMzNzY0JjR1h6NmtfN2NnYTRaRFNvMTlFMEhCME5PeTlpQ3ZSTmplUG12TTVhakZfZnBU?oc=5",
+   "date": "2026-11-09T13:21:23.000Z"
+  },
+  {
+   "topic": "4G",
+   "title": "Reliance Jio Leads Mumbai Mobile Network Speed Test with 248.93 Mbps Download, Vodafone Idea Records Zero Call Drops: TRAI",
+   "source": "TelecomLead",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPdlZCUFBEajIyNFFZSXBZSTdIRW9UMUZIRktPbDBVQ2EtdDB3a0hOOUl4ZUwxUVNydlZWSTgzTHVfOW5xTmJWOW45eUs2OHowcGcxcDd2Qi1wSnFqZlpVdC1fak51NXJHWXJPeHgwbS1Bd1ppS3NpUWxtLWxuTWNKWklqMGpMX1JVUWxmeXlENUVfajRiWUxzdlE1eTl6Z0NzbEN4OE5TV01hM19xWmpJZHVDOHNXRHpaanI1Y3pmZ0ZNSE9COExzQk9KM2thMFBjZktWV1R6d3RRZDlhV3hMZFlXRFNjTXg5U2hNOHBaWEkyUWptVGdN0gH3AUFVX3lxTE92VkJQUERqMjI0UVlJcFlJN0hFb1QxRkhGS09sMFVDYS10MHdrSE45SXhlTDFRU3J2VlZJODNMdV85bnFOYlY5bjl5SzY4ejBwZzFwN3ZCLXBKcWpmWlV0LV9qTnU1ckdZck94eDBtLUF3WmlLc2lRbG0tbG5NY0paSWowakxfUlVRbGZ5eUQ1RV9qNGJZTHN2UTV5OXpnQ3NsQ3g4TlNXTWEzX3FaaklkdUM4c1dEelpqcjVjemZnRk1IT0I4THNCT0oza2EwUGNmS1ZXVHp3dFFkOWFXeExkWVdEU2NNeDlTaE04cFpYSTJRam1UZ00?oc=5",
+   "date": "2026-11-09T13:16:22.000Z"
+  },
+  {
    "topic": "4G",
    "title": "Best mobile hotspots",
    "source": "Chicago Tribune",
@@ -68,22 +82,8 @@
    "topic": "4G",
    "title": "Mobile Network Quality at Airports, Railway Stations and Highways in 2026: Jio, Airtel, Vi and BSNL Speed and Coverage Comparison",
    "source": "TelecomLead",
-   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQY0JaMHM5Tk5RTm1aNjhSRkdGVHp3TDdDaGU1eGg5WkZFS19yZnIzZTNWSHpMM2M4RnlTNHplT3NraHJyd2MyODRzM18xd3EtZEhvNVdqSU9hV1c2emJ1WVk2WjRCRVNWOURuQzk3V0xDbjc5aXpvYUJWdG9lc1lVRm9ST3c3V0JxUnJFcVk3RktNU1gzR2VIZlFxZEh6c0hoamZESl9NLVRRRmtRT0FJRURLaGVRY0ZkOHhxREJZbWVhUm9LRkpfT1luN0xXenotNTI3RUhYV3NFRXEteWdNRnZWNmJhZWtjNlNBUWFDS0dIakJyWk1lam4tSDhwUdIB_gFBVV95cUxQY0JaMHM5Tk5RTm1aNjhSRkdGVHp3TDdDaGU1eGg5WkZFS19yZnIzZTNWSHpMM2M4RnlTNHplT3NraHJyd2MyODRzM18xd3EtZEhvNVdqSU9hV1c2emJ1WVk2WjRCRVNWOURuQzk3V0xDbjc5aXpvYUJWdG9lc1lVRm9ST3c3V0JxUnJFcVk3RktNU1gzR2VIZlFxZEh6c0hoamZESl9NLVRRRmtRT0FJRURLaGVRY0ZkOHhxREJZbWVhUm9LRkpfT1luN0xXenotNTI3RUhYV3NFRXEteWdNRnZWNmJhZWtjNlNBUWFDS0dIakJyWk1lam4tSDhwUQ?oc=5",
-   "date": "2026-11-08T12:28:06.000Z"
-  },
-  {
-   "topic": "4G",
-   "title": "How to Share Mobile Internet: Hotspot Setup & Fixes Guide",
-   "source": "Vocal",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNb1Bncy12Sk1NNEpRS1BBeVYtMFNQa0Q4UUhNNmNRTGVWUHNMWFBOZGhPM2dmdDFzV2ZGV3ZwbXdpSXJTaVBTU3Atd2UxX3ZqVFVLVUM0LTdFdDRXQWtjY1EwYzBlejdPNkE1OWpGcUxDbFh4alpoTi1pdG4wVWJBSm5DWQ?oc=5",
-   "date": "2026-11-08T10:44:27.000Z"
-  },
-  {
-   "topic": "4G",
-   "title": "We Found the 3 Best Cell Phone Plans in Canada, Including Unlimited 5G for $35/month",
-   "source": "WhistleOut Canada",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8ya1RKc3VFWk92clc1UWx5eDNtNkdRbjVIMW0tNE4tbWZFc0hZaDdjN1RmSXJUUEFCZG5JZDlwSVl2VU8wUjU0a3dMaWhpVlg5ZTJlNzdmbGN6MG5KZ3FfMEg4clh1R3JkMk1aRy1yVzFSRlk?oc=5",
-   "date": "2026-11-06T08:00:00.000Z"
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUE12elEzbEZ6dGRheThVRHBuMnE0alRPWGhJQVJ6NHg3OENPazF4NnEyRml6bFlsb211YkpNSGo5Vy04UmVqQk42bmh1QjdENnhFa25yb3lFWW9NWDlhUEFqd0dVRnJkTnh2VjRzREdDRlZHMmFqUi1IWmUzTThpYmhGM0lYWkJCZUJ0RGVmc1I3MEpCam1tUjNOSGtsb1pxX3F0c202WW1OWE9sSUNaWm1raHM4Y3pfT1FIUGQzb0FkeFRnSTV5TEVDRnEzUUVoQ0xzQkVBejdKSTJXNDdrWDlZTEtXb0FPb0Z1a2VLSjd3YXE3cEHSAf4BQVVfeXFMUGNCWjBzOU5OUU5tWjY4UkZHRlR6d0w3Q2hlNXhoOVpGRUtfcmZyM2UzVkh6TDNjOEZ5UzR6ZU9za2hycndjMjg0czNfMXdxLWRIbzVXaklPYVdXNnpidVlZNlo0QkVTVjlEbkM5N1dMQ243OWl6b2FCVnRvZXNZVUZvUk93N1dCcVJyRXFZN0ZLTVNYM0dlSGZRcWRIenNIaGpmREpfTS1UUUZrUU9BSUVES2hlUWNGZDh4cURCWW1lYVJvS0ZKX09ZbjdMV3p6LTUyN0VIWFdzRUVxLXlnTUZ2VjZiYWVrYzZTQVFhQ0tHSGpCclpNZWpuLUg4cFE?oc=5",
+   "date": "2026-11-08T12:31:14.000Z"
   },
   {
    "topic": "Optical fibre",
@@ -129,6 +129,13 @@
   },
   {
    "topic": "DWDM",
+   "title": "VNPT brings Vietnam's telecommunications infrastructure into the international network service \"game\".",
+   "source": "Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNR2xUclR1UXUyTGd3WHdtT1liWjljV1d4aVFLcVJ2cHA0d1BRZlRqWjMyMFlQbTJvc3N6T29LUnZ4ajQ0RXNlelVKcldXNUc5RUxSTmVRc3RSRTZUZ0VIbHZzTWkyYm1EV2xCZUtxZk9lSWlaUWxXdWl1QzZzYkh0ZGJDbXlXcHBzTUNrckFIQXBDNUlNV05KTDdYZGVQZw?oc=5",
+   "date": "2026-11-09T12:19:02.000Z"
+  },
+  {
+   "topic": "DWDM",
    "title": "Optical Networking Market 2026: Ciena, Nokia, Huawei and Cisco Compete for $18 Billion in AI and Data Center Infrastructure Spending",
    "source": "TelecomLead",
    "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNM09EcUhWTV82RkJtN1VwRXI5QlNRUlUxY08zcGctaE9CVUFZX0lwVUN2RzlFTFV1R3Zsc0RwS0Vob0pmVzR1N01LaEV6aGtuaXBFajhQbnIzLTZEVUxFSzZYWHYtZXR4UlBqTUJtcXBWQ250QlFzS3ZFR3E5bGc2cjN1M05JQ1M5dmVZNk1kWW1pOE5lRE5UNFNzQTJrVF9mazBUQVpaT2dUZGZ0bUVSTXNwUFlZNkNWNlpLV0dyYURsczJqaE9rbVAyZEppZHl5czB0Mzl3SS04c2pUMXVnRk5QS2t6bkUwOE9DaklXbGlvN25sQkhnU2gwNThBRk56WGZvQ2lFRHFyZ21qN2VfatIBkAJBVV95cUxNM09EcUhWTV82RkJtN1VwRXI5QlNRUlUxY08zcGctaE9CVUFZX0lwVUN2RzlFTFV1R3Zsc0RwS0Vob0pmVzR1N01LaEV6aGtuaXBFajhQbnIzLTZEVUxFSzZYWHYtZXR4UlBqTUJtcXBWQ250QlFzS3ZFR3E5bGc2cjN1M05JQ1M5dmVZNk1kWW1pOE5lRE5UNFNzQTJrVF9mazBUQVpaT2dUZGZ0bUVSTXNwUFlZNkNWNlpLV0dyYURsczJqaE9rbVAyZEppZHl5czB0Mzl3SS04c2pUMXVnRk5QS2t6bkUwOE9DaklXbGlvN25sQkhnU2gwNThBRk56WGZvQ2lFRHFyZ21qN2Vfag?oc=5",
@@ -157,6 +164,20 @@
   },
   {
    "topic": "Innovation",
+   "title": "Verizon CTO assesses 7GHz band for 6G after first call in the field",
+   "source": "Light Reading",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbTlEN2lMbmw2RG5xYjJydENCYjVMSzRTQzR2aWpJMTBvVTI0WUNPQmVpWE1od3JpZGJLRHVyNTloNGcwcXI4UHBzR3pwejB5azdTSG9RV1BxcHpIcUFZRU9MVlB1b3UyWVljM0NSbFQ5TkJfNlFHRkpTUm95SnF2Zjhuc2o3N1h6bU9rSE5FdTFObHFPLWRCNWl1TU84UHdD?oc=5",
+   "date": "2026-11-09T16:02:52.000Z"
+  },
+  {
+   "topic": "Innovation",
+   "title": "India joins 24 countries in global initiative on 6G technology",
+   "source": "News On AIR",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObjY4NnRCMUVMSXlxeDVpbmdWTC1kZktvakxQSkNpUDBpVEFlOG1PdVAwcmhmMzR1MjEwcDRpYTluaDczV1VvYWpvNm9DUE5YSV9YaXUxSDR4Wmg0WDYyUkZSX2pHRGlpSTNIaVhaUGRqaE5lblhYTHJxOW1ySWpjQl9ncERtd29NQ2tzNWFPVGs0dw?oc=5",
+   "date": "2026-11-09T15:09:22.000Z"
+  },
+  {
+   "topic": "Innovation",
    "title": "The transatlantic talent safari: Why Cyprus should look to the Maltese model and what the loss of European primacy in 6G networks means",
    "source": "CBN.com.cy",
    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOaWJHQnZMQkZTUERlZmNzYmMzenZmZXFYT1J3VDhZR3FtX01GMU5pZkxMNC1PU0xqUVF1dFJVRUNkMTNRZFhVaTRiUGlOVHY3RTBZTDIwUmh2N1NlMFBmTERjMjBfVTZRYXdqN0JMaV9zMkxDSWNMYkZrRWlieFA0RTVWLWpyTjFaSFNVWUFhZGhGM0JINlg1OTVNVHNPTFVDaWJIV0tiTUwzd1pLUHlQWVg4NW85RkxxSnRjQ1dYM05XR1pCUUFCcnh2blpUT0lfdExuUWtwalJETlVIbTNVUnhxbzJzMERST2NyR2szdTdabTFHbzU2UmhmSmlxM2Z2bkE?oc=5",
@@ -168,13 +189,6 @@
    "source": "ARNnet",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRWNYNDFZXzlySE1iZ1VPMi1xbXdQUHpxcS15T0pKSWZjb0xtZk5rTUt6YlpyOFhtdTN3T2NXVklCZmRocWFXZDI4UFdlZ1JZbmdudDlTcnpYdm9kUzc2VFBNbmZMWHRmajQ0YW45ZUt2THpRRDd1eGN0bmFKREJqa3VPNkZBMnZGRy1nMlVjeXQ5TzRaTVgtSnUyX3BsWlFVcU9pRmx2OU9lc0k?oc=5",
    "date": "2026-11-08T22:25:11.000Z"
-  },
-  {
-   "topic": "Innovation",
-   "title": "India joins 24 countries in global initiative on 6G technology",
-   "source": "News On AIR",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObjY4NnRCMUVMSXlxeDVpbmdWTC1kZktvakxQSkNpUDBpVEFlOG1PdVAwcmhmMzR1MjEwcDRpYTluaDczV1VvYWpvNm9DUE5YSV9YaXUxSDR4Wmg0WDYyUkZSX2pHRGlpSTNIaVhaUGRqaE5lblhYTHJxOW1ySWpjQl9ncERtd29NQ2tzNWFPVGs0dw?oc=5",
-   "date": "2026-11-08T14:39:25.000Z"
   },
   {
    "topic": "Innovation",
@@ -217,13 +231,6 @@
    "source": "EdTech Innovation Hub",
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONEhJUldkMmNESXFMbnVZaWxrbzdRclY1RVF6VXZUZjJELW1iRVMxMGRaLUV2RUUwV2V5ZmJkZHkxNXpXdXk0YzByNWZQR0k1MnZwVjljS284TWdFUkh2eDJIVUtUUElWa3VxTndnWWhtN0hlYk00d0ZsbWhLaWVqcTBYV0RtYnpnUE5CYmY2RFZKOG5EMnJMMDB6MkVlem1Jd2ZUSWYxZm5LWWtRVkhSQTMzZGh6U2pZVzRNeFFzenFIbVBrSGVETjFSVWxnLWZHUGc?oc=5",
    "date": "2026-11-06T06:28:45.000Z"
-  },
-  {
-   "topic": "Innovation",
-   "title": "Qualcomm Unveils First 6G Terminal Prototype Publicly; China Securities Says Large-Scale Buildout Could Begin as Early as 2029",
-   "source": "BigGo Finance",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VaXZENXd3ZVQ5SzAwYzk4MEFhc1dyN0lwVEVLU1J2Yllpa1ZrWktYMU5Jcy1QelZuei1BeVFwNnV5MEwtRmdJVGNkcnlBdFhBNmo2ZzZMMm15U0RSaFkzWHFuZlNIMEtkS0IweS1pSE1KUTVMNkE?oc=5",
-   "date": "2026-11-06T00:56:00.000Z"
   }
  ]
 }
