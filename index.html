@@ -52,8 +52,6 @@
         <p>Route and site surveys, then a complete as-built package with drawings, splice records and test results.</p>
         <a class="btn" href="survey.html">Survey &amp; as-built</a></div>
     </div>
-    <button class="arrow l" aria-label="Previous slide">&#8249;</button>
-    <button class="arrow r" aria-label="Next slide">&#8250;</button>
     <div class="slider-ctl"><div class="wrap"><div class="dots"></div></div></div>
   </section>
 
@@ -176,13 +174,16 @@
 
   // hero slider
   (function () {
-    var slides = [].slice.call(document.querySelectorAll(".slide")), dotsBox = document.querySelector(".dots"), i = 0, timer;
-    var dots = slides.map(function (_, n) { var b = document.createElement("button"); b.setAttribute("aria-label", "Slide " + (n + 1)); b.onclick = function () { go(n); }; dotsBox.appendChild(b); return b; });
+    var slides = [].slice.call(document.querySelectorAll(".slide")), dotsBox = document.querySelector(".dots"), i = 0, timer, touchX = 0;
+    var dots = slides.map(function (_, n) { var b = document.createElement("button"); b.setAttribute("aria-label", "Slide " + (n + 1)); b.onclick = function (e) { e.stopPropagation(); go(n); }; dotsBox.appendChild(b); return b; });
     function go(n) { i = (n + slides.length) % slides.length; slides.forEach(function (s, k) { s.classList.toggle("on", k === i); dots[k].classList.toggle("on", k === i); }); }
     function start() { if (!window.matchMedia("(prefers-reduced-motion: reduce)").matches) timer = setInterval(function () { go(i + 1); }, 6500); }
-    document.querySelector(".arrow.l").onclick = function () { go(i - 1); };
-    document.querySelector(".arrow.r").onclick = function () { go(i + 1); };
-    var s = document.querySelector(".slider"); s.onmouseenter = function () { clearInterval(timer); }; s.onmouseleave = start;
+    function advance() { go(i + 1); start(); }
+    var s = document.querySelector(".slider");
+    s.addEventListener("click", advance);
+    s.addEventListener("touchstart", function (e) { touchX = e.touches[0].clientX; }, { passive: true });
+    s.addEventListener("touchend", function (e) { var d = touchX - (e.changedTouches[0].clientX || touchX); if (Math.abs(d) > 40) { go(i - Math.sign(d)); start(); } touchX = 0; }, { passive: true });
+    s.onmouseenter = function () { clearInterval(timer); }; s.onmouseleave = start;
     go(0); start();
   })();
 
