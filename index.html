@@ -180,7 +180,7 @@
     function start() { if (!window.matchMedia("(prefers-reduced-motion: reduce)").matches) timer = setInterval(function () { go(i + 1); }, 6500); }
     function advance() { go(i + 1); start(); }
     var s = document.querySelector(".slider");
-    s.addEventListener("click", advance);
+    s.addEventListener("click", function (e) { if (e.target.closest("a, button")) return; advance(); });
     s.addEventListener("touchstart", function (e) { touchX = e.touches[0].clientX; }, { passive: true });
     s.addEventListener("touchend", function (e) { var d = touchX - (e.changedTouches[0].clientX || touchX); if (Math.abs(d) > 40) { go(i - Math.sign(d)); start(); } touchX = 0; }, { passive: true });
     s.onmouseenter = function () { clearInterval(timer); }; s.onmouseleave = start;
