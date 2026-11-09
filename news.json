@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-09T10:42:11.267Z",
+ "updated": "2026-11-09T11:42:01.996Z",
  "items": [
+  {
+   "topic": "5G",
+   "title": "Optus validates Cisco Live Protect on 8000 Series routers",
+   "source": "Telecompaper",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdTNLYjloTGMwRnFmeW13V0IySWJkUnhOWnlrYVhVUl9XcDlGLUNjYkYwLVZTZFYwZWRydkw3NE5CelBXNTc2T2JJZGstZFNmbXVVSFJPQzllaUxKM2hRUDV6X2ZRLTJrVGZZYXB6NTlfYVN6MW5ua0RCVzR1WmVKNHFqd25zWElfTXhrbUVPdDhrUVZtR05GOTVTWnUtVkdBZ1E?oc=5",
+   "date": "2026-11-09T03:58:40.000Z"
+  },
   {
    "topic": "5G",
    "title": "Ericsson Drone Detection: 2027 Pilots on 5G Towers [2026]",
@@ -35,13 +42,6 @@
    "source": "Snowy River Mail",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBFM1A5Y3hhUjh4b0ZfWlZPSGlBSUNQWmM4WHdqSHBnd3d5Z0owdmsyQnVPREFmMUZrSkhhdWJ1dmtBMjFTS3RtSHYyNXl0UkVpM3NpWUlhRE1sVjk0dGdCXy0xTmtkRlZlaDFEdENOWHdmUmc?oc=5",
    "date": "2026-11-05T03:06:19.000Z"
-  },
-  {
-   "topic": "5G",
-   "title": "8 Networks signs two-year deal with Perth Scorchers",
-   "source": "TelcoNews Australia",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWm8yc1oxRzVBbjQya1JuUmRSbk1GVDduNmhWZzdfUWxTS3UydlpuT0daR2NWeXJvTHdwUUI2ZzlUNzRfeGZCT2lCRlZCdVMxNWlQM3dKWjh6dkY4dWZWZVM2LS1uV2t5N3U1TTd4U2ZBNHZHNDdMS21wc09xSWdmZUdlcHlkalFNMGc?oc=5",
-   "date": "2026-11-04T21:15:00.000Z"
   },
   {
    "topic": "4G",
@@ -87,13 +87,6 @@
   },
   {
    "topic": "Optical fibre",
-   "title": "Hajj Calls for Linking Arab Networks and Expanding Fiber Optics in Doha",
-   "source": "Daily Beirut",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPczZVX3J1ZXdiMDU0ZjVRRG1OVHJZZkxmX0pnWmJOVkJpUmRPbDAwOHN3Mjg3MS1XbHdMTGxZOUlLV3VzWDdGdWRFYXJ5aG9kOGZEX3FZbFc3cUJrZFIxM2tlSXRkMHNCcTU2VjllN0V5UVk4eWwySXgwZWVucUx2OVM2SVlVNWdjWGtYUDI4NnJ6bVRIUVFDQ2lOamxibGpHZXkw?oc=5",
-   "date": "2026-11-08T13:32:20.000Z"
-  },
-  {
-   "topic": "Optical fibre",
    "title": "N4 Trillion Telecom Spend Needs Power, Fibre [2026]",
    "source": "shattered.io",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVFpabDVRWTBrQjNkcnF2VDBuV2VJTERRTW15YkRxaVhLUno3TE1VaE9SU2k5Tm01bUNFM0xMT3YxNzRIcFUtYm92cGxNMFloRVZRRGw5SEpseWl4a0ZnbHpzZnpjd0ZfRmpodUNGTTJyVWhUZVR3c3Y4TV82Y0JQanNseEFxdnBoa1NCTmtDa0dTT0x2YTZkVkx3?oc=5",
@@ -128,6 +121,13 @@
    "date": "2026-11-05T21:15:53.000Z"
   },
   {
+   "topic": "Optical fibre",
+   "title": "C3ntro Telecom Hermosillo Data Center: 2 MW Specs [2026]",
+   "source": "https://tech-insider.org/",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYkc1Ymp4QjNjdXppSm9VczJlMDlBR2JXOVBhaXl5cGE2bVA1dTFsdWRuRUxxYzBPbmxGazNkajAtZkpFMlNzTXNwVEtTU0JjUWhkQ3NBUEtXTF9PSzhTNUFvc1hlZjc5VHhtdzVzR0drWlB3QUYzU1BiNlg0LTlJeGpWRE92Q3ZhNElJVg?oc=5",
+   "date": "2026-11-05T19:21:36.000Z"
+  },
+  {
    "topic": "DWDM",
    "title": "Optical Networking Market 2026: Ciena, Nokia, Huawei and Cisco Compete for $18 Billion in AI and Data Center Infrastructure Spending",
    "source": "TelecomLead",
@@ -154,6 +154,13 @@
    "source": "Telecompaper",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY3ZSVEFYa29SdF92di13Z0tfaURUZnRNWmY5cGZiaFdobWVzaVNha3o5Mk1fOC1WTFdhdFB0VWYzMHF2QjQyOXRQQ3JRc0M1T3d2ZXNoc0RucHhRWXRPR3VVeWZLOGkxSDdTQy1VY1JSNXQ4RjhMMGdkV3U4ZG1NOG14RU1iVDhZN1F0MmVyS1dmbXNUY0E4cjlobjUycWJKdW85ZFZmaVl2YldnM1RISXcyb0VxTlJkaFJV?oc=5",
    "date": "2026-10-27T07:00:00.000Z"
+  },
+  {
+   "topic": "Innovation",
+   "title": "The transatlantic talent safari: Why Cyprus should look to the Maltese model and what the loss of European primacy in 6G networks means",
+   "source": "CBN.com.cy",
+   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOaWJHQnZMQkZTUERlZmNzYmMzenZmZXFYT1J3VDhZR3FtX01GMU5pZkxMNC1PU0xqUVF1dFJVRUNkMTNRZFhVaTRiUGlOVHY3RTBZTDIwUmh2N1NlMFBmTERjMjBfVTZRYXdqN0JMaV9zMkxDSWNMYkZrRWlieFA0RTVWLWpyTjFaSFNVWUFhZGhGM0JINlg1OTVNVHNPTFVDaWJIV0tiTUwzd1pLUHlQWVg4NW85RkxxSnRjQ1dYM05XR1pCUUFCcnh2blpUT0lfdExuUWtwalJETlVIbTNVUnhxbzJzMERST2NyR2szdTdabTFHbzU2UmhmSmlxM2Z2bkE?oc=5",
+   "date": "2026-11-09T05:10:35.000Z"
   },
   {
    "topic": "Innovation",
@@ -217,13 +224,6 @@
    "source": "TechAfrica News",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZXhWZGhlM09kMzBDYXlwQlo3cGV4UnhiWEgyQWU1akxXa1VrN0I3V0ttS3llbVptdlRBT0JjMHpsZE1aVkM1SmVrcGtaMkFsQ21iRkR1eklmdzhBUl91OXdMX3Z0aW5FN0Ntb2xTbFY4TzhnZW1PUUpnOFZXdFNrWC1tUzBzaE12Umt1QXhud3N2VlRHUG80WWN6TkJ0YWV1cFpuZ1oxcTRVeU5SczZKV2tfLWx6b3d1bWdsYmFNZw?oc=5",
    "date": "2026-11-05T12:27:40.000Z"
-  },
-  {
-   "topic": "Innovation",
-   "title": "Far EasTone Telecommunications : Record Q3 revenue and EBITDA, with broad-based growth and FY guidance on track",
-   "source": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPQzFyQ01Vajl2eDhOZ2lCYm5pNzZkekd4RE9ubDdQTHlzQmRTbGNqM0d3OG5meXgxNFBvTzBLUEdITEJPbGxNbElGbnZoM3pSR1h3RFFBTUUtc0VXRGptaWxZTF9kWGtfcUk0X21pSTlmUjVBanMxZ203OWI3OHQzeGFoak1YNFlrQTcyekNNTDktMHg1MTg1eGh4NDlZeUFHVnZMQXVHdmxJNDVrSGVrOHRTbnBQX0VZZncwM2wwODVGdjhTOXN6V2l6QjlZVkgtZFoxWmF0dHRDdmJ0bnRZLVNFRU5Tai0yTjBPeF9YYk1iVlVpYUY1NWZaTDlhd0U0WDBIT0hYcFM5T3RPRzR6djhENjFvdVBNc3Q0WS1BM1c?oc=5",
-   "date": "2026-11-05T09:03:59.000Z"
   }
  ]
 }
