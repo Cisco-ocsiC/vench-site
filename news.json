@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T11:42:01.996Z",
+ "updated": "2026-11-09T12:47:27.358Z",
  "items": [
   {
    "topic": "5G",
@@ -45,6 +45,13 @@
   },
   {
    "topic": "4G",
+   "title": "Best mobile hotspots",
+   "source": "Chicago Tribune",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zYzJTNFN5bXdUT2lKUUl3NFhxSjZSZDVVTnJsd2FZZXppN1FieHpkS2FVU2w2M2xQMFNyV0s3N3c3cDFiM0k4UUpQTmJOQXd1b29uYUk2dzNVU2hMbUlOT3pmeUFmNWlSUHJuT0pYb0E?oc=5",
+   "date": "2026-11-09T11:47:45.000Z"
+  },
+  {
+   "topic": "4G",
    "title": "Telecom Network Procurement in 2026: How Ericsson, Nokia, Huawei, Samsung and ZTE Compete on Cost, Energy Savings and 5G Performance",
    "source": "TelecomLead",
    "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOR184djlyN29qalhKM0FRYUkzaW92MVJBVWI3dm81cjhvQkVXdmFZcF9KQUE0X3NEZU5BODE1X0x0SURZNlJaS1FmekdJS1NwQmU3eU82NUVxQTBBU0V3bDRDdUZLaHFSbnM0OGNBRUZEUkJXN3R1cWdBcWpNZ2NUaDFEUllpOXpGcUx0NUd6SXBSZGdlVWdRMTg0a3ZVMF9xakVnWjNocGcxTDJaTkZkODh0cFo2RFBSdkRudlZuMTZOQ0xaMlN2YmczQk1zTzJoc3ZxTTFWMWs2di1YUzd5MGY1WkIxY1N5V2lLWkQ1REo1c2psaVdfVHAyV1Y4RzhUVjhmOFhVMNIBjwJBVV95cUxOOF8ydUxqY0I3RFdTWTJPZWpVcEVreTFhQTdPSkxTcVhSR2ZkdlF6Rlh1bFdrdy00emNGejVhQ0FzcXN5bU1laGhlQWhzZUZlTVVJeFEzTjJvaWtKbV9JaUw3TVFXVXBncVdFRmV5VXd3TkRUQmdjS2hLOG03ZC1mTFFodWNhT2w0OGR4c21TOHdEd0RRcDJFeHE1YWthTnMzMkNFanJZQndMUzEtX3JobTAxMkVWQWJ4RGplR25BbDcxNGtkZ29UNXF3aWpOSFJTSFJ4SjB2bTdtdHVLMjY2eWF2THlPLW9hOWNZMFZRYW5UU1M0YzVGOWlKbmdRMFFWSkJXdTVvalBLdUJ6TGRz?oc=5",
@@ -79,11 +86,11 @@
    "date": "2026-11-08T10:44:27.000Z"
   },
   {
-   "topic": "4G",
-   "title": "We Found the 3 Best Cell Phone Plans in Canada, Including Unlimited 5G for $35/month",
-   "source": "WhistleOut Canada",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8ya1RKc3VFWk92clc1UWx5eDNtNkdRbjVIMW0tNE4tbWZFc0hZaDdjN1RmSXJUUEFCZG5JZDlwSVl2VU8wUjU0a3dMaWhpVlg5ZTJlNzdmbGN6MG5KZ3FfMEg4clh1R3JkMk1aRy1yVzFSRlk?oc=5",
-   "date": "2026-11-06T08:00:00.000Z"
+   "topic": "Optical fibre",
+   "title": "Nigeria Telecom Investment: N4trn Power Gap [2026]",
+   "source": "https://tech-insider.org/",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcUlGb0FaN05LQlRPaU8zaUw1UmhLRzJQeWE2X2Z5cEFkRWxyTWctb3lLckhULUdiVERsQ3NVUGNzSXlMSFJ6N3RzWTRnQndxM1JqUk90ZHZ0cjhQdUFBNUI1eE5uTzRBcmFRaGNrUzh3a0k5R05rRmd5NVdFRDRGWk9JTVpoSkg5VF9xTWN3RG83dWY1UTF3WFJFWFBSTlk?oc=5",
+   "date": "2026-11-08T07:19:45.000Z"
   },
   {
    "topic": "Optical fibre",
@@ -121,11 +128,11 @@
    "date": "2026-11-05T21:15:53.000Z"
   },
   {
-   "topic": "Optical fibre",
-   "title": "C3ntro Telecom Hermosillo Data Center: 2 MW Specs [2026]",
-   "source": "https://tech-insider.org/",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYkc1Ymp4QjNjdXppSm9VczJlMDlBR2JXOVBhaXl5cGE2bVA1dTFsdWRuRUxxYzBPbmxGazNkajAtZkpFMlNzTXNwVEtTU0JjUWhkQ3NBUEtXTF9PSzhTNUFvc1hlZjc5VHhtdzVzR0drWlB3QUYzU1BiNlg0LTlJeGpWRE92Q3ZhNElJVg?oc=5",
-   "date": "2026-11-05T19:21:36.000Z"
+   "topic": "DWDM",
+   "title": "VNPT brings Vietnam's telecommunications infrastructure into the international network service \"game\".",
+   "source": "Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNR2xUclR1UXUyTGd3WHdtT1liWjljV1d4aVFLcVJ2cHA0d1BRZlRqWjMyMFlQbTJvc3N6T29LUnZ4ajQ0RXNlelVKcldXNUc5RUxSTmVRc3RSRTZUZ0VIbHZzTWkyYm1EV2xCZUtxZk9lSWlaUWxXdWl1QzZzYkh0ZGJDbXlXcHBzTUNrckFIQXBDNUlNV05KTDdYZGVQZw?oc=5",
+   "date": "2026-11-09T12:19:02.000Z"
   },
   {
    "topic": "DWDM",
