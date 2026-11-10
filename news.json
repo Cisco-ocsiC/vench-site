@@ -1,13 +1,6 @@
 {
- "updated": "2026-11-10T08:49:58.544Z",
+ "updated": "2026-11-10T09:42:22.795Z",
  "items": [
-  {
-   "topic": "5G",
-   "title": "India 5G Speeds: 12.9 EB Traffic, Up 70% [2026]",
-   "source": "shattered.io",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOEE1RVdKX19PYkdBRTYteVJPYTFJUFpGbC11TmVzSmUtd1VTUldBcFFrcUp1WnE3UDhRMENrSnNmRWNlaWNIbGFYQ2RuaEpDdnRNVzhVQ0owQnFVZDg5WWM1RTducV9wU29JNW1KR21TWUwtU3ZNa1dDZ2Z0c1F3bXJsWnE2QQ?oc=5",
-   "date": "2026-11-10T07:44:45.000Z"
-  },
   {
    "topic": "5G",
    "title": "AGL discounts: Up to $250 back on energy, internet and mobile deals + free Netflix",
@@ -24,13 +17,6 @@
   },
   {
    "topic": "5G",
-   "title": "Optus validates Cisco Live Protect on 8000 Series routers",
-   "source": "Telecompaper",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdTNLYjloTGMwRnFmeW13V0IySWJkUnhOWnlrYVhVUl9XcDlGLUNjYkYwLVZTZFYwZWRydkw3NE5CelBXNTc2T2JJZGstZFNmbXVVSFJPQzllaUxKM2hRUDV6X2ZRLTJrVGZZYXB6NTlfYVN6MW5ua0RCVzR1WmVKNHFqd25zWElfTXhrbUVPdDhrUVZtR05GOTVTWnUtVkdBZ1E?oc=5",
-   "date": "2026-11-09T03:58:40.000Z"
-  },
-  {
-   "topic": "5G",
    "title": "6G phones arrive in 2030. The fight over the airwaves has already begun",
    "source": "SMH.com.au",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVzZDQS14WXNKdmU3Ykc3akNKOTdpYnpLV1B3YjYweXJEdERsT0E3eHA2YXRsSVhPRHJpZVJodF93aWsta2RUNkdFVWhmNUNpNFdfYXc4VzYzdnR0WnZHM1IxSUNzRkRCY3d1c1dsZnpZemRPbE9vTmM0T0YxNVkzZGoyWG1GbkhhSk42WlhWaEgydWZ4VHNpM0VOY2NKRWVPdFZsaU1WZXpOTms0TFhfQmozbklIVG4xMEtWVk96TnNjWG8?oc=5",
@@ -44,11 +30,18 @@
    "date": "2026-11-07T08:00:00.000Z"
   },
   {
-   "topic": "4G",
-   "title": "BH Telecom begins phasing out 3G",
-   "source": "Telecompaper",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQ2l6N1g5dzNOamdLcEZieVc4U1pQWGJ4b2pTNnl3d1RyYWdEbVlTLVhZNFBfRmc0VWE5NzZFSEFLUWdvcW1XQ1VOMjRNbTFvRGlJbWRZU0FLQXhZX2JLT1pNTFRvMUxQYmY4b3hDUTd6VTdncVhfY0I3N3RyejdpMg?oc=5",
-   "date": "2026-11-10T08:37:46.000Z"
+   "topic": "5G",
+   "title": "Starlink wants to build a 5G network, and Nintendo Switch game prices to increase",
+   "source": "MyBroadband",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQb1hyemt3TnNhWWhHMUp2QVBEZGZSbUxPamtlazA0V1lUY3AyZWk5aDFhLUdyeG0tY1laVnhyVkdULU9HV18wMVN2MHMtVURhQ3dOUmxDOVdVa3FmZnk0dC0xZ2RxZmQ4MEh6NGZ2eGR1M3FSXzRHTG12MXRDeDNQWXFhOXhaam4tQ3JfcHI1LTZhVDFLQUw3N25RdW44RzJEbWxLSzgzb1oyN09sSktIdGJvclRLWGZuQ0RhTC1DcDkxajJiX080cV9walk?oc=5",
+   "date": "2026-11-05T06:06:21.000Z"
+  },
+  {
+   "topic": "5G",
+   "title": "8 Networks signs two-year deal with Perth Scorchers",
+   "source": "TelcoNews Australia",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWm8yc1oxRzVBbjQya1JuUmRSbk1GVDduNmhWZzdfUWxTS3UydlpuT0daR2NWeXJvTHdwUUI2ZzlUNzRfeGZCT2lCRlZCdVMxNWlQM3dKWjh6dkY4dWZWZVM2LS1uV2t5N3U1TTd4U2ZBNHZHNDdMS21wc09xSWdmZUdlcHlkalFNMGc?oc=5",
+   "date": "2026-11-04T21:15:00.000Z"
   },
   {
    "topic": "4G",
@@ -84,6 +77,13 @@
    "source": "TelecomLead",
    "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOR184djlyN29qalhKM0FRYUkzaW92MVJBVWI3dm81cjhvQkVXdmFZcF9KQUE0X3NEZU5BODE1X0x0SURZNlJaS1FmekdJS1NwQmU3eU82NUVxQTBBU0V3bDRDdUZLaHFSbnM0OGNBRUZEUkJXN3R1cWdBcWpNZ2NUaDFEUllpOXpGcUx0NUd6SXBSZGdlVWdRMTg0a3ZVMF9xakVnWjNocGcxTDJaTkZkODh0cFo2RFBSdkRudlZuMTZOQ0xaMlN2YmczQk1zTzJoc3ZxTTFWMWs2di1YUzd5MGY1WkIxY1N5V2lLWkQ1REo1c2psaVdfVHAyV1Y4RzhUVjhmOFhVMNIBjwJBVV95cUxOOF8ydUxqY0I3RFdTWTJPZWpVcEVreTFhQTdPSkxTcVhSR2ZkdlF6Rlh1bFdrdy00emNGejVhQ0FzcXN5bU1laGhlQWhzZUZlTVVJeFEzTjJvaWtKbV9JaUw3TVFXVXBncVdFRmV5VXd3TkRUQmdjS2hLOG03ZC1mTFFodWNhT2w0OGR4c21TOHdEd0RRcDJFeHE1YWthTnMzMkNFanJZQndMUzEtX3JobTAxMkVWQWJ4RGplR25BbDcxNGtkZ29UNXF3aWpOSFJTSFJ4SjB2bTdtdHVLMjY2eWF2THlPLW9hOWNZMFZRYW5UU1M0YzVGOWlKbmdRMFFWSkJXdTVvalBLdUJ6TGRz?oc=5",
    "date": "2026-11-08T13:05:32.000Z"
+  },
+  {
+   "topic": "4G",
+   "title": "Jio vs Airtel vs Vi vs BSNL in 2026: Which Mobile Network Offers the Best 5G Speed, Coverage and Call Quality in India?",
+   "source": "TelecomLead",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNckRaT1BNbzh2S3FtdVpCTm1MV1NBRXFfU0ZhTjQ1RkZUQms4dU92Vk1FUDc4S2dDczk1SzNtVUlmU3ppelIzaWZ4TG9rYzNvRFdKTUN1aE9LcGp4bXlDMWZjckRVWFoyRUt5LUlMcFVzZmtBUlBsaTlBWUtIb2VJN0VGekZuRXdLN2Y4X3RIUkJzYno4dHR1VGdVR2YyQVVnV0RVX3N5Z2xCYzFRQUlvbGk1cHcxWWMzMFQ0RjV2SFRrc29YN1ZCakhZYmNtYy1MbG13NzZfNjJNdHR2aXhGeFEweWZITEZtcUhtZGVzNnlHQdIB8gFBVV95cUxNckRaT1BNbzh2S3FtdVpCTm1MV1NBRXFfU0ZhTjQ1RkZUQms4dU92Vk1FUDc4S2dDczk1SzNtVUlmU3ppelIzaWZ4TG9rYzNvRFdKTUN1aE9LcGp4bXlDMWZjckRVWFoyRUt5LUlMcFVzZmtBUlBsaTlBWUtIb2VJN0VGekZuRXdLN2Y4X3RIUkJzYno4dHR1VGdVR2YyQVVnV0RVX3N5Z2xCYzFRQUlvbGk1cHcxWWMzMFQ0RjV2SFRrc29YN1ZCakhZYmNtYy1MbG13NzZfNjJNdHR2aXhGeFEweWZITEZtcUhtZGVzNnlHQQ?oc=5",
+   "date": "2026-11-08T13:02:01.000Z"
   },
   {
    "topic": "Optical fibre",
@@ -122,10 +122,10 @@
   },
   {
    "topic": "Optical fibre",
-   "title": "Hajj Calls for Linking Arab Networks and Expanding Fiber Optics in Doha",
-   "source": "Daily Beirut",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPczZVX3J1ZXdiMDU0ZjVRRG1OVHJZZkxmX0pnWmJOVkJpUmRPbDAwOHN3Mjg3MS1XbHdMTGxZOUlLV3VzWDdGdWRFYXJ5aG9kOGZEX3FZbFc3cUJrZFIxM2tlSXRkMHNCcTU2VjllN0V5UVk4eWwySXgwZWVucUx2OVM2SVlVNWdjWGtYUDI4NnJ6bVRIUVFDQ2lOamxibGpHZXkw?oc=5",
-   "date": "2026-11-08T13:32:20.000Z"
+   "title": "Building Digital Mountains and Rivers Information Network, Advancing Fiber Cable Innovation Development [Electrical Materials Annual Conference]",
+   "source": "Shanghai Metals Market",
+   "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPNHZTTU1zTVFYRXh4MHFOc2pXdTBuV1h0MDkzUTVKT3gxMWpmRTBNRzYxTTdwbEFteklEUjlNZmFwSjA2Z0dTdkNYUDdMUVY4MGhpVXZEOG5sdFVXZmFla21iZkEzUnQxWFNwRHZPNmQ3WEg0WGxjV3ROakVNTGFZbl8tWU51cGYtYmRfV0JUc1FLMmxlZHZVRkQtMThPQ2ZPRHRKbjZtZWYxeUlxWGRrSTEwMmJoZUdmWWFLSy13RGdGMklJZ05BS2JiRjY3RVIydVF3WDJ6Ul9aNFlYNFk1aDNZaFUtUmM3aGcwVWlnRkhrR2EzM2lwYy1TaXJ6X093dk9lQVd6ZWIxZ3cyeHJhNWFQVFVyVjUzTktvUFdLd3pKbzFIWU1PdUJlSnVQR1FUMS1YRWRQTU5UdTBm?oc=5",
+   "date": "2026-11-09T01:38:00.000Z"
   },
   {
    "topic": "DWDM",
@@ -150,10 +150,10 @@
   },
   {
    "topic": "Innovation",
-   "title": "6G technology will reach 2.4 billion connections by 2035.",
-   "source": "Báo Nghệ An",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTjFhaHNrVVZZSUV3aG5Kb1ZBbTBleUQ0TGwtMEExd1Y0bHRINWJxMEhpa29OOHYzdnNhR3VQaVBXMUdNY29LR0tNeUgwWUFLVHFGcE12bndoaEdaTmV3VkN1V0Z4ZjRzb2RUV1p3eXpTLVFNYVR1RFkwNWZRT0JWelhWVDd1UmJaSHRsRU5R?oc=5",
-   "date": "2026-11-10T01:37:01.000Z"
+   "title": "From 6G to Aerospace, New Tech Takes the Stage at CIIE",
+   "source": "Sixth Tone",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWUVsbU13Vi1vbGVkeTZacXdsR1M2REVwRUFjQ1ptTlVfZGtDSlRHcGVTQm90NWJaTi1YNVljNmM0MEdEUDZXQTk0VUtzaW45Zk9lMGNad3J3UkZjellOR1JOSjR4Zkt1Qi16NkE1WENxRDVHRjRwNUFMMEJTcHl5ZUJTeFVwNmw5WGJPaGIxYzlWcHFaWEZfb1pWVzB0ZXBvYjcxOFQxR05JbU9OSHJ2X3hoemZydw?oc=5",
+   "date": "2026-11-10T09:15:17.000Z"
   },
   {
    "topic": "Innovation",
