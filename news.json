@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T01:50:26.650Z",
+ "updated": "2026-11-10T02:37:35.919Z",
  "items": [
   {
    "topic": "5G",
@@ -7,6 +7,13 @@
    "source": "TelcoNews Australia",
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUWNQZjNQUVUwQkZfMDZCaDRCMkRBMTBUWW1Yb3BaRGdhbjZjbHN1dnZFd1daZGZGczJtaVM2dWZBVmgzbG40Ym8tMFJVZWJXY0V5azlXZFQybVZ0YldXeFNfYzRVNFdTRGZuQlhsRWJXekVqME5CNjc4NWdDSWQtUzRZNDduNkpZMXc?oc=5",
    "date": "2026-11-09T21:45:00.000Z"
+  },
+  {
+   "topic": "5G",
+   "title": "Optus validates Cisco Live Protect on 8000 Series routers",
+   "source": "Telecompaper",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdTNLYjloTGMwRnFmeW13V0IySWJkUnhOWnlrYVhVUl9XcDlGLUNjYkYwLVZTZFYwZWRydkw3NE5CelBXNTc2T2JJZGstZFNmbXVVSFJPQzllaUxKM2hRUDV6X2ZRLTJrVGZZYXB6NTlfYVN6MW5ua0RCVzR1WmVKNHFqd25zWElfTXhrbUVPdDhrUVZtR05GOTVTWnUtVkdBZ1E?oc=5",
+   "date": "2026-11-09T03:58:40.000Z"
   },
   {
    "topic": "5G",
@@ -35,13 +42,6 @@
    "source": "TelcoNews Australia",
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWm8yc1oxRzVBbjQya1JuUmRSbk1GVDduNmhWZzdfUWxTS3UydlpuT0daR2NWeXJvTHdwUUI2ZzlUNzRfeGZCT2lCRlZCdVMxNWlQM3dKWjh6dkY4dWZWZVM2LS1uV2t5N3U1TTd4U2ZBNHZHNDdMS21wc09xSWdmZUdlcHlkalFNMGc?oc=5",
    "date": "2026-11-04T21:15:00.000Z"
-  },
-  {
-   "topic": "5G",
-   "title": "Qualcomm (QCOM) Backs A Nationwide 5G Network For A New US Carrier",
-   "source": "Simply Wall St",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNElGb2dSYkRkZnF5Szd3N2JjenlsdVdhempBSjVPZHY3Nk9vOVJORElpWF9nSDM3WUVPVjI1WHNGLWFCZmN3ZVo4MHloWUVRNkhMeURNbmhBczhTcGdqdUwwVTBrSExUaEdFS0VDTWtrdGhqUTJoQjZwdmplaF9sQWs1cEZZanJCZFFrUHRDdEN3ZWp1WGpidTlWMjQyZUhGUG5Wc2F5eHRtS3FqWE15MTBvdU8wZkJQelRUczBGc1NnWThCV2w5MlhnWkQ2d9IB0wFBVV95cUxOYmtNZVJndkFVeWhPZjFBYmhSV2dqdHR0Z1kycllUQ1ZqeFNnTkhIWUFsM01TSmRzUnNXQWlGcTFpeXg0dWdDZk5rbEtPckdKMTh2TzVobWdHMDlEMTZndE4wSWVkeExZMnlUcl94YXZQNWZfWFJsSzVLOHZFSURxLS03VGJXNE5RZzVwRTB1MElhNzljWVFnTi1tM1BadEE2d1FGVFhyR1VQcXdzcGVrd2d0dTI2SWdPMFlxeVJsYXpzdU9zbzVLWFVnVk9fNV9NVDlN?oc=5",
-   "date": "2026-11-04T17:27:20.000Z"
   },
   {
    "topic": "4G",
@@ -87,10 +87,24 @@
   },
   {
    "topic": "Optical fibre",
+   "title": "Vodafone Deutschland to axe 2,300 jobs as it steps up cost-cutting efforts",
+   "source": "Indiatimes",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWGtGTXdIUjJOT3pBTVVQcEx3OGNsUlVfS0dVeXRJbGR5bUR1Z3hWcDNkR0xjNGE1eVM2bUo1eDd2NGJyRTBTVkowZFFKNGRKemVLaEs2NjJVRTFCR0FoWGZVcTJyOWxGNzFTZ3pxY3VtNFI0T2xuTDF2U0M3bWhVWGE1ZTBnMFZxVDJZWERJVWVTVW81UHREUWlhYTZrWWNhdzdwQVhCbEVEaWdtclhJWUpuTnVJR2h5dktZcXYwR2NVZ0dOQnQ4RXdQOUs0cWtxNXdlMHJWZTE3QdIB3wFBVV95cUxNQkJtN3NEcDBLNlpzMkFkWV9XWTdCNDFuLXlEZWdQQUdQSUJjUDBHb0xVUktpRktWM3BFVTN4NkhIbXNYSkc1RnV0MjJ2Q0xkaHZGeWh6Z2lOaHc1aXp0SWlGOHlJWjZRMnVFMWhGRlRSalpMVXg2RXFzdVl3dXh3cVZFTXBvT3d0ckUzZmdQcDhwd2FvVEd4MEoxSzNkdkJHSDM0M0dVNURJcFB5MEh4cmRnWElxc2RPOC01OTQ2Smxlcy1YSVZmQnJqeW0tYTB4OGhLeW01dmFqNXNGRG00?oc=5",
+   "date": "2026-11-10T01:44:11.000Z"
+  },
+  {
+   "topic": "Optical fibre",
    "title": "WACS Submarine Cable Repairs Enter Critical Phase",
    "source": "Nigeria Communications Week",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbE0xWlEtLU9jOUY0SW53amc3VDFVQUpRLUs3bXZmM1RQWW5icWpXamJKRmNBZGFoVjVDRU94cWhodDljdnFFc29UX0p0WnNxZnB1M21taHo4NHNzbDlLRGNQd29sT2tMSXZhSHU1U25INi1sY3RmUWlhMTUzZXhKa2Q3bVdRWXZjVTN2UnhKTm1fU1JJNXpaWENNWmIzWXBjTUd2LTBzMjk?oc=5",
    "date": "2026-11-09T23:02:26.000Z"
+  },
+  {
+   "topic": "Optical fibre",
+   "title": "Telecommunications: Fiber networks expected to reach nearly every Vermonter by 2031",
+   "source": "Vermont Business Magazine",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMDY0b1hZMjNHMFFudGFzSUJic0RVU1ZZcnVCa2V2Sm1yVUVyV2hqUUJZTERZaU5tN2kwODB0V1ZRaEZUUk5nQlBVd3l4aHhpYmxwdUxsUjVBTnd3c1BVemZNcHgxcXFrRlVvVnZ4czlLb0Vsc0EwXzF2RUZHMHY5VTdFQTFaYU9ZYmJ5V1BNRUY5SUdhSWoyN0QtZlV6MVF4bEZtRU03SjRNakQyQmcyYXNNN3VxNmxyZGM4RVRB?oc=5",
+   "date": "2026-11-09T20:32:39.000Z"
   },
   {
    "topic": "Optical fibre",
@@ -112,20 +126,6 @@
    "source": "shattered.io",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVFpabDVRWTBrQjNkcnF2VDBuV2VJTERRTW15YkRxaVhLUno3TE1VaE9SU2k5Tm01bUNFM0xMT3YxNzRIcFUtYm92cGxNMFloRVZRRGw5SEpseWl4a0ZnbHpzZnpjd0ZfRmpodUNGTTJyVWhUZVR3c3Y4TV82Y0JQanNseEFxdnBoa1NCTmtDa0dTT0x2YTZkVkx3?oc=5",
    "date": "2026-11-08T06:43:57.000Z"
-  },
-  {
-   "topic": "Optical fibre",
-   "title": "West Coast Paper Mills Q2: Net Profit Jumps Multi-Fold YoY To ₹111.93 Cr On 22.4% Revenue Growth; Approves ₹290 Cr Fibre Expansion",
-   "source": "Trade Brains",
-   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQSGRpQ2JFN05vM0hHV00zQnNIRV9Gcldpa2tmRTJrelpRbnJ2M1ZDMG1Jcm1rZFcwVVNjclpqTnBCQWV4eFEwUzM0UDVVTjc3cmtkR2tBcGtBUy16SGpOZ29oT0ZvZG5jd0VqS2w0VzYxTkF4dFRFSDJpQ2Zyd0tZQm55dGVxS1dyUks0OW5HUTRNUTVIMFo0c0FEXzBEN3lqeDFUaEV1U2FUcERHYTIyU3ZQc1haTXE4WS1pdmxkVzNCSDROdjJvVlU4UG9la0wwZ1dYazlna2xiQU9ESmpJdUNERWxTWnFPdkRycE1CbnpZSzNFUTZ2dklQZ0V2NE0?oc=5",
-   "date": "2026-11-06T11:24:25.000Z"
-  },
-  {
-   "topic": "Optical fibre",
-   "title": "Oman Fiber Optic Company",
-   "source": "Business Focus Magazine",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbVVNRGFsSXR2YWx0dlFfdHJBTUM0MFZNQkltOU9nUFk1cmRBck10bUZlaGMxeF9UdjV0b2RTZlYwSlAxV1JFOExPcTJ0QklOSmhlQmFtUEJNMnZ4aXJmUXUyQUd2ZTlhclBfOTVTTWlhTGxFQm1iYzVkQVhTX3hwa0ZwUWVRaVhkMlZuRTlZRmFpMUNXNWhuNQ?oc=5",
-   "date": "2026-11-06T10:41:51.000Z"
   },
   {
    "topic": "DWDM",
