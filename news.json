@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T14:43:06.235Z",
+ "updated": "2026-11-10T15:32:16.472Z",
  "items": [
   {
    "topic": "5G",
@@ -24,6 +24,13 @@
   },
   {
    "topic": "5G",
+   "title": "Optus validates Cisco Live Protect on 8000 Series routers",
+   "source": "Telecompaper",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdTNLYjloTGMwRnFmeW13V0IySWJkUnhOWnlrYVhVUl9XcDlGLUNjYkYwLVZTZFYwZWRydkw3NE5CelBXNTc2T2JJZGstZFNmbXVVSFJPQzllaUxKM2hRUDV6X2ZRLTJrVGZZYXB6NTlfYVN6MW5ua0RCVzR1WmVKNHFqd25zWElfTXhrbUVPdDhrUVZtR05GOTVTWnUtVkdBZ1E?oc=5",
+   "date": "2026-11-09T03:58:40.000Z"
+  },
+  {
+   "topic": "5G",
    "title": "6G phones arrive in 2030. The fight over the airwaves has already begun",
    "source": "SMH.com.au",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVzZDQS14WXNKdmU3Ykc3akNKOTdpYnpLV1B3YjYweXJEdERsT0E3eHA2YXRsSVhPRHJpZVJodF93aWsta2RUNkdFVWhmNUNpNFdfYXc4VzYzdnR0WnZHM1IxSUNzRkRCY3d1c1dsZnpZemRPbE9vTmM0T0YxNVkzZGoyWG1GbkhhSk42WlhWaEgydWZ4VHNpM0VOY2NKRWVPdFZsaU1WZXpOTms0TFhfQmozbklIVG4xMEtWVk96TnNjWG8?oc=5",
@@ -37,25 +44,11 @@
    "date": "2026-11-07T08:00:00.000Z"
   },
   {
-   "topic": "5G",
-   "title": "8 Networks signs two-year deal with Perth Scorchers",
-   "source": "TelcoNews Australia",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWm8yc1oxRzVBbjQya1JuUmRSbk1GVDduNmhWZzdfUWxTS3UydlpuT0daR2NWeXJvTHdwUUI2ZzlUNzRfeGZCT2lCRlZCdVMxNWlQM3dKWjh6dkY4dWZWZVM2LS1uV2t5N3U1TTd4U2ZBNHZHNDdMS21wc09xSWdmZUdlcHlkalFNMGc?oc=5",
-   "date": "2026-11-04T21:15:00.000Z"
-  },
-  {
    "topic": "4G",
    "title": "Spark New Zealand Targets $350–380 Million Capex in FY27 as 5G, Mobile ARPU, Fiber and AI Drive Telecom Strategy",
    "source": "TelecomLead",
    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQUnFCQVpfWFFyWmtsOTRteTdpYW1pQzhlMW90UEV5U2VONUd5eXRqdzdkT01sQ1U3aVRSN3FSZW93R1FNX09tYkprUU12VXpURExtQTQyWDJnY2pkZ0hqMllhblE0Q2tSdkxSZ0NnemhhcE81Wno4ZHhQcjNwVTl6N3lUanVyLTZRdkxuOWJfZk9CTlctanY2U0tQb1QzQl93MHlWenFsMFM4VExwcEFoRGRaX3ozaG1Ncmdoc01wRWJxTUpTMlNLOUJGZTRYTkxHdENYd293UnZLQ2NzN2M5TTlaRlRIRTN1WFRqcEh30gH2AUFVX3lxTE4tbG4zckZJSzR3UUxZVm1aaU5jN3BoLWZ1ekVlN0NPNWNTaTljWXVaTXZENHZTR21lR1d4aDRGNmVzZGNzNXRGeVFjWWlLb1ZPczVpbmhZWXVGZWJadGZlVXRyVlpDWkZoUlc5TmVEZVpFNVNOT3ZrMTNEcmMxeHRHWWxsblN6VlVfSllJWmdpQVY0YjhZQkVYTDhJczB3dEtqa1NfTUw0OGJ3V1BadEtwY2lHWjJoX2FSckxodVRsdnNKUmpfUUFnZGs0all2em9SS2lRSE5EZER6YVEtX2Jvc2VQOU9NMEFQZklwWWIyaWVhS3M3Zw?oc=5",
    "date": "2026-11-10T04:44:18.000Z"
-  },
-  {
-   "topic": "4G",
-   "title": "Reliance Jio Leads 5G Download Speeds in Arunachal Pradesh at 103.49 Mbps, Airtel Tops Upload Performance: TRAI",
-   "source": "TelecomLead",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMXlOdmN4N254R0RDREkxSVFTOGtoemV2dVpuOXV2U1JIRUlhSjl3UHR2N3hMeGc3YlhVaEJuaDRrVXM0U0Yxd1lzc3ROU24tX1FuZmg5VjNibjlVVWxJN3JPRDhZMVllVFZselpGeTlBM2FTdDlkcFU4U0VGWE94OGZreFdJTnZLQ2Y1MGFfSXZ6c1ZRM0MtY0pfVFNvaENWZjh5WkF4VHJHc082SDVhVmxkcXRDWkR1TjM5aTZlaHJiMzBVdjFUQm1oRG5vYnhuaUZ4Rk4tN3dlNEtCbDhOWdIB6AFBVV95cUxNVVlkVkNIWVN2c2E1WUt4WWFCRzdHc3h2Ni1QSnNNY0NnaUhZZUpLMmktRk5mOUZ2akozcU9WQ0VIT09BV01majVHQUxWWDNQRzV2Y0E5VndBVHpSSlVWMUx6MmdUbDU2UUtUcjlDYmJWeWRUZ1F1MElMSVNRZGdWQ1ViakgyQ1d6TUJicFJTTWJtUWFkNjJhbjdHSTBveGtTRUFlYzBkVnc0WHI1VjMyNnNRbHZXMzNzY0JjR1h6NmtfN2NnYTRaRFNvMTlFMEhCME5PeTlpQ3ZSTmplUG12TTVhakZfZnBU?oc=5",
-   "date": "2026-11-09T13:21:23.000Z"
   },
   {
    "topic": "4G",
@@ -86,18 +79,18 @@
    "date": "2026-11-08T12:54:11.000Z"
   },
   {
+   "topic": "4G",
+   "title": "Mobile Network Quality at Airports, Railway Stations and Highways in 2026: Jio, Airtel, Vi and BSNL Speed and Coverage Comparison",
+   "source": "TelecomLead",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUE12elEzbEZ6dGRheThVRHBuMnE0alRPWGhJQVJ6NHg3OENPazF4NnEyRml6bFlsb211YkpNSGo5Vy04UmVqQk42bmh1QjdENnhFa25yb3lFWW9NWDlhUEFqd0dVRnJkTnh2VjRzREdDRlZHMmFqUi1IWmUzTThpYmhGM0lYWkJCZUJ0RGVmc1I3MEpCam1tUjNOSGtsb1pxX3F0c202WW1OWE9sSUNaWm1raHM4Y3pfT1FIUGQzb0FkeFRnSTV5TEVDRnEzUUVoQ0xzQkVBejdKSTJXNDdrWDlZTEtXb0FPb0Z1a2VLSjd3YXE3cEHSAf4BQVVfeXFMUGNCWjBzOU5OUU5tWjY4UkZHRlR6d0w3Q2hlNXhoOVpGRUtfcmZyM2UzVkh6TDNjOEZ5UzR6ZU9za2hycndjMjg0czNfMXdxLWRIbzVXaklPYVdXNnpidVlZNlo0QkVTVjlEbkM5N1dMQ243OWl6b2FCVnRvZXNZVUZvUk93N1dCcVJyRXFZN0ZLTVNYM0dlSGZRcWRIenNIaGpmREpfTS1UUUZrUU9BSUVES2hlUWNGZDh4cURCWW1lYVJvS0ZKX09ZbjdMV3p6LTUyN0VIWFdzRUVxLXlnTUZ2VjZiYWVrYzZTQVFhQ0tHSGpCclpNZWpuLUg4cFE?oc=5",
+   "date": "2026-11-08T12:31:14.000Z"
+  },
+  {
    "topic": "Optical fibre",
    "title": "Iraq, Qatar to lay optical fiber cable linking Singapore to Italy",
    "source": "IraqiNews",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcDUteHE1THNzYS1NNko3R0tkclV0N1E0VVhZVEdIOThMREVoWTc4VFd5YjFXUjY3RmlTYzNSMVJtRVRYR2tTckNpLVotMjdWUW1wcV9PM1VQRFZOVWQ2VVdKdjlIZDBwNHFjNFgzTDRJbzJ4Nk5hd2FBbEZoTkg2cFlTODFzMFlWbDl1M21MakZGcmtSWGJrMG5pRms?oc=5",
    "date": "2026-11-10T13:30:00.000Z"
-  },
-  {
-   "topic": "Optical fibre",
-   "title": "Data link trial: China team finds hollow-core fibre cuts lag 30% across 1,000km",
-   "source": "South China Morning Post",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNX2hVaVgtZHZtN2lIajhNcGd0Qm5uMlA4LVJUTXNobmY0REFacll1SVliZUEyZFRhZUFzbjlnbjNfRWlPeV9aTTJ4M3pydFIyN0RhNnlPVEs0WFdKd2gwUTR1em9NOFRMdjZ4OGpOc0JZZ0pzNndsWDg1NFRBSERHMkVhWlhZdnRlNkhIS3FUcFBzN2lfaGd1X2FHYkRGQjExckFUSEdFU2diR2wyelVoWDRSREZaaEd5VkY1M1NlbDlrLUQwbEwwOHJsdUNxNEnSAc8BQVVfeXFMTV9oVWlYLWR2bTdpSGo4TXBndEJubjJQOC1SVE1zaG5mNERBWnJZdUlZYmVBMmRUYWVBc245Z24zX0VpT3lfWk0yeDN6cnRSMjdEYTZ5T1RLNFhXSndoMFE0dXpvTThUTHY2eDhqTnNCWWdKczZ3bFg4NTRUQUhERzJFYVpYWXZ0ZTZISEtxVHBQczdpX2hndV9hR2JERkIxMXJBVEhHRVNnYkdsMnpVaFg0UkRGWmhHeVZGNTNTZWw5ay1EMGxMMDhybHVDcTRJ?oc=5",
-   "date": "2026-11-10T13:00:28.000Z"
   },
   {
    "topic": "Optical fibre",
@@ -126,6 +119,13 @@
    "source": "Nigeria Communications Week",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbE0xWlEtLU9jOUY0SW53amc3VDFVQUpRLUs3bXZmM1RQWW5icWpXamJKRmNBZGFoVjVDRU94cWhodDljdnFFc29UX0p0WnNxZnB1M21taHo4NHNzbDlLRGNQd29sT2tMSXZhSHU1U25INi1sY3RmUWlhMTUzZXhKa2Q3bVdRWXZjVTN2UnhKTm1fU1JJNXpaWENNWmIzWXBjTUd2LTBzMjk?oc=5",
    "date": "2026-11-10T04:16:57.000Z"
+  },
+  {
+   "topic": "Optical fibre",
+   "title": "Vodafone Deutschland to axe 2,300 jobs as it steps up cost-cutting efforts",
+   "source": "Indiatimes",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWGtGTXdIUjJOT3pBTVVQcEx3OGNsUlVfS0dVeXRJbGR5bUR1Z3hWcDNkR0xjNGE1eVM2bUo1eDd2NGJyRTBTVkowZFFKNGRKemVLaEs2NjJVRTFCR0FoWGZVcTJyOWxGNzFTZ3pxY3VtNFI0T2xuTDF2U0M3bWhVWGE1ZTBnMFZxVDJZWERJVWVTVW81UHREUWlhYTZrWWNhdzdwQVhCbEVEaWdtclhJWUpuTnVJR2h5dktZcXYwR2NVZ0dOQnQ4RXdQOUs0cWtxNXdlMHJWZTE3QdIB3wFBVV95cUxNQkJtN3NEcDBLNlpzMkFkWV9XWTdCNDFuLXlEZWdQQUdQSUJjUDBHb0xVUktpRktWM3BFVTN4NkhIbXNYSkc1RnV0MjJ2Q0xkaHZGeWh6Z2lOaHc1aXp0SWlGOHlJWjZRMnVFMWhGRlRSalpMVXg2RXFzdVl3dXh3cVZFTXBvT3d0ckUzZmdQcDhwd2FvVEd4MEoxSzNkdkJHSDM0M0dVNURJcFB5MEh4cmRnWElxc2RPOC01OTQ2Smxlcy1YSVZmQnJqeW0tYTB4OGhLeW01dmFqNXNGRG00?oc=5",
+   "date": "2026-11-10T01:44:11.000Z"
   },
   {
    "topic": "DWDM",
