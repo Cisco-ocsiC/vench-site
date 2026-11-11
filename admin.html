@@ -462,17 +462,41 @@ async function runStockAnalysis() {
       ' &nbsp;<strong>SL:</strong> $' + v.sl.toFixed(2) + ' (-' + ((1-v.sl/v.entryPrice)*100).toFixed(1) + '%)' +
       '<br><strong>Risk/Reward:</strong> ' + v.riskRewardRatio +
       ' &nbsp;<strong>Horizon:</strong> ' + v.timeHorizon +
-      '<br><br><em>Bull Case:</em> ' + (v.bullCase || '—') +
-      '<br><em>Bear Case:</em> ' + (v.bearCase || '—') +
-      '<br><em>Key Risks:</em> ' + ((v.keyRisks||[]).slice(0,2).join(' | ') || 'None detected') +
+      '<br><br><em>Bull Case:</em> ' + (v.summary?.bullCase || v.bullCase || '—') +
+      '<br><em>Bear Case:</em> ' + (v.summary?.bearCase || v.bearCase || '—') +
+      '<br><em>Key Risks:</em> ' + ((v.keyRisks||[]).slice(0,2).join(' | ') || (v.summary?.sentimentSummary ? '' : 'None detected')) +
       '</div>';
   } catch(e) {
     out.innerHTML = '<div style="color:#f87171;padding:16px;background:#1c1017;border-radius:8px">' + e.message + '</div>';
   }
 }
 
-function screenAllStocks() {
-  window.open("https://stock-agents-kh79.onrender.com", "_blank");
+async function screenAllStocks() {
+  var out = document.getElementById("stockOutput");
+  out.innerHTML = '<div class="loading" style="padding:24px;text-align:center;color:#6b7280;">Screening universe...</div>';
+  try {
+    var r = await fetch("https://stock-agents-kh79.onrender.com/api/screen").then(function(x){ return x.json(); });
+    if (!r.candidates || r.candidates.length === 0) { out.innerHTML = '<p class="err">No candidates found.</p>'; return; }
+    var rows = r.candidates.map(function(c,i) {
+      return '<tr>' +
+        '<td><strong>' + c.symbol + '</strong></td>' +
+        '<td style="color:#9ca3af">' + (c.name||'').slice(0,28) + '</td>' +
+        '<td>$' + (c.price ? c.price.toFixed(2) : '—') + '</td>' +
+        '<td><span style="background:#7c3aed;color:white;padding:2px 8px;border-radius:4px;font-size:12px;font-weight:600">' + c.score + '</span></td>' +
+        '<td><button class="btn" style="padding:4px 10px;font-size:12px;margin-top:0" onclick="runFromScreen(\'' + c.symbol + '\')">Analyze</button></td>' +
+        '</tr>';
+    }).join('');
+    out.innerHTML = '<h2>Top Screened Candidates (' + r.candidates.length + ')</h2>' +
+      '<table><thead><tr><th>Symbol</th><th>Name</th><th>Price</th><th>Score</th><th>Action</th></tr></thead>' +
+      '<tbody>' + rows + '</tbody></table>' +
+      '<p class="meta" style="margin-top:10px">Click "Analyze" on any ticker for full TP1/TP2/SL breakdown.</p>';
+  } catch(e) {
+    out.innerHTML = '<div style="color:#f87171;padding:16px;background:#1c1017;border-radius:8px">' + e.message + '</div>';
+  }
+}
+function runFromScreen(sym) {
+  document.getElementById("tickerInput").value = sym;
+  runStockAnalysis();
 }
 
 // ---- INIT ----
