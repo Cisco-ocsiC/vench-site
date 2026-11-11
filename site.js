@@ -120,12 +120,12 @@
   }
 
   function load() {
-    // Try localStorage first (user overrides)
+    // Try localStorage first (user overrides from previous saves)
     try {
       var saved = JSON.parse(localStorage.getItem(KEY));
       if (saved) return merge(DEFAULTS, saved);
     } catch (e) {}
-    // Fall back to settings.json file on disk
+    // Always fall back to live settings.json on server for global sync
     try {
       var xhr = new XMLHttpRequest();
       xhr.open("GET", "settings.json?t=" + Date.now(), false); // synchronous

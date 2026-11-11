@@ -172,7 +172,8 @@ input:checked + .slider:before { transform: translateX(20px); }
         <label>Enquiry Subject Prefix</label>
         <input id="cSubject" type="text">
       </div>
-      <button id="saveSettingsBtn" class="btn" onclick="saveSettings()">Save Settings</button>
+      <button id="saveSettingsBtn" class="btn" onclick="saveSettings()">Save Settings (This Browser Only)</button>
+      <button class="btn secondary" style="margin-left:10px" onclick="publishSettings()">Publish Globally</button>
       <span class="note" id="settingsMsg"></span>
     </div>
 
@@ -365,6 +366,25 @@ function saveProfile() {
   document.getElementById("profileMsg").className = "note ok";
   document.getElementById("profileMsg").textContent = "Profile saved.";
   setTimeout(function(){ document.getElementById("profileMsg").textContent = ""; }, 3000);
+}
+
+function publishSettings() {
+  var s = getSettingsFromStorage();
+  // Update site info from form fields
+  s.site = { name: document.getElementById("sName").value, tagline: document.getElementById("sTagline").value, logo: document.getElementById("sLogo").value, abn: document.getElementById("sABN").value, footerPhotos: document.getElementById("sFooter").value };
+  // Update contact details from form fields
+  s.contact = { email: document.getElementById("cEmail").value, phone: document.getElementById("cPhone").value, address: document.getElementById("cAddress").value, enquirySubject: document.getElementById("cSubject").value };
+  // Preserve page visibility and profile as-is
+  var published = JSON.stringify(s, null, 2);
+  var blob = new Blob([published], {type: 'application/json'});
+  var url = URL.createObjectURL(blob);
+  var a = document.createElement("a");
+  a.href = url; a.download = "settings.json";
+  document.body.appendChild(a); a.click(); document.body.removeChild(a);
+  URL.revokeObjectURL(url);
+  document.getElementById("settingsMsg").className = "note ok";
+  document.getElementById("settingsMsg").textContent = "Downloaded settings.json — upload to GitHub to push changes globally.";
+  setTimeout(function(){ document.getElementById("settingsMsg").textContent = ""; }, 4000);
 }
 
 function changePassword() {
