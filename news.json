@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-11T04:43:59.664Z",
+ "updated": "2026-11-11T05:44:37.381Z",
  "items": [
+  {
+   "topic": "5G",
+   "title": "Optus and Nokia demonstrate asymmetric 5G configuration using 900 MHz",
+   "source": "Telecompaper",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZFd2N1FKdHJ2Y05hMkxoRGxsQVlSVXJWdVVubGxhOUN4akVUNWhUOXU0am0zc094eW9XS1ZkdUx6bnVsckZrVEVVZElZQjZlX3k3MF9IWEVKUEs0dkZQSHVXMWR5NUtiLTB6TTduZXdNNDRzTnE1c3ZhSnRBNHlzZEdhRERqeWYtS29vTmZOR0YyQmZmcW9oekQwX0V6dXlvbEpZc1lBRFh5ZlYzUEpYMVFn?oc=5",
+   "date": "2026-11-11T05:33:09.000Z"
+  },
   {
    "topic": "5G",
    "title": "Optus and Nokia achieve world-first 25MHz 5G downlink breakthrough in 900MHz spectrum",
@@ -35,13 +42,6 @@
    "source": "TelcoNews Australia",
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUWNQZjNQUVUwQkZfMDZCaDRCMkRBMTBUWW1Yb3BaRGdhbjZjbHN1dnZFd1daZGZGczJtaVM2dWZBVmgzbG40Ym8tMFJVZWJXY0V5azlXZFQybVZ0YldXeFNfYzRVNFdTRGZuQlhsRWJXekVqME5CNjc4NWdDSWQtUzRZNDduNkpZMXc?oc=5",
    "date": "2026-11-09T21:45:00.000Z"
-  },
-  {
-   "topic": "5G",
-   "title": "6G phones arrive in 2030. The fight over the airwaves has already begun",
-   "source": "SMH.com.au",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVzZDQS14WXNKdmU3Ykc3akNKOTdpYnpLV1B3YjYweXJEdERsT0E3eHA2YXRsSVhPRHJpZVJodF93aWsta2RUNkdFVWhmNUNpNFdfYXc4VzYzdnR0WnZHM1IxSUNzRkRCY3d1c1dsZnpZemRPbE9vTmM0T0YxNVkzZGoyWG1GbkhhSk42WlhWaEgydWZ4VHNpM0VOY2NKRWVPdFZsaU1WZXpOTms0TFhfQmozbklIVG4xMEtWVk96TnNjWG8?oc=5",
-   "date": "2026-11-07T23:06:08.000Z"
   },
   {
    "topic": "4G",
@@ -88,9 +88,9 @@
   {
    "topic": "Optical fibre",
    "title": "China completes 1,000-km hollow-core fiber transmission verification",
-   "source": "Xinhua",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE10QnNVUEFPUUxZaTJlb2ZnYVRWZFpmUjFYN0lpOWVlOG0zaV9rQk5nUWN6a3BEeVBCMWNySDctN3ltSnZ5Umt3Zm85bWNsX2otQ2tWU3dEa05vQkdKNUVHYk1jWkE2cDN6bnhPOGJQZmVQV1NISkN4czZ5YkU?oc=5",
-   "date": "2026-11-11T02:36:15.000Z"
+   "source": "CGTN",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcjJZVFVidjlqSGluZjVzY0RlWGRSUHdhTnQxX29SektTcnVuRUctcVJrM0dMZ1ZVUWxwQ2FnWWhBdzNyZmdBWG1wMzA2OEc4TXphWXlmMENaRTJBdTVmN2xjOXMzTnBWaXcybzRXVTNnWHlJeDkxanladzRQa2k1Tk5ncUtqaEtVMmVDWU5kREVZaGs4UHpTUzlMWGJkcWo2T2RGc3kwT1Zva3dJR0liLUdQQU1raXk4NFpJS2kxZlFnN0Zmb0UtSk5RX1N6dw?oc=5",
+   "date": "2026-11-11T03:04:49.000Z"
   },
   {
    "topic": "Optical fibre",
@@ -199,13 +199,6 @@
   },
   {
    "topic": "Innovation",
-   "title": "CRA Showcases Results of Advanced Technology Trials Paving Way for 6G at MWC26 Doha",
-   "source": "Qatar news agency",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPblAzMkpkLXFWX2haYVM0Rmdvc1dTc2djQ0JaX2VyT2IxZFRGWW9yRnJiRi1QSXR6MlFuTnotdnR6Z05CV1lxRHRPanR5ZmFoN1hsUDVWcW5KZXlQdUFZUFFSRU1paDZqWHJMaGMzX0FlQ09KM2w5VTRwLUItTVNsakpBVnVsQXlpeXBHbFBkR2psQ3lCdFBJTHZNc2tKT3pqT1MwZFFobFZHeEVjNVdqU3hBdi1lMzZsOHlMVlRkYUJydnQ1ME92eXd3?oc=5",
-   "date": "2026-11-08T19:23:27.000Z"
-  },
-  {
-   "topic": "Innovation",
    "title": "6G phones arrive in 2030. The fight over the airwaves has already begun",
    "source": "SMH.com.au",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVzZDQS14WXNKdmU3Ykc3akNKOTdpYnpLV1B3YjYweXJEdERsT0E3eHA2YXRsSVhPRHJpZVJodF93aWsta2RUNkdFVWhmNUNpNFdfYXc4VzYzdnR0WnZHM1IxSUNzRkRCY3d1c1dsZnpZemRPbE9vTmM0T0YxNVkzZGoyWG1GbkhhSk42WlhWaEgydWZ4VHNpM0VOY2NKRWVPdFZsaU1WZXpOTms0TFhfQmozbklIVG4xMEtWVk96TnNjWG8?oc=5",
@@ -224,6 +217,13 @@
    "source": "Advanced Television",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdjVfN3AwTlNpMVJaRkc1RGpObHZNZnRzOXZEY1ltZjZjY01ZX1Q4UmZYY1FhcWZDWkpzbnowN2wzQmJDS3h0UXRhREZVTGFZcUd3MHVfNjVvNG5YTjJNMzJYMFpXUkI0Z05IOUJZbTFEMU0zamZ3NVRXTEF6TVoxOUlNS1p6Y0RfbF9BYUowN1NSX0tCX0EzNmM2Z2F3Qkk0cHNR?oc=5",
    "date": "2026-11-06T10:08:43.000Z"
+  },
+  {
+   "topic": "Innovation",
+   "title": "NTT Unveils Tech to Enhance AI Performance for 6G and Next-Gen Computing",
+   "source": "HPCwire",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcnUzcnNWYXRRSTFDZzQzNU9LSWNEeV83TXYtUEtNYng0STVzdEhMdDZxQkNDRkNhUWdBa0lPWHA4cG9pU2J4QnlVWDhfeDh0X2tHWW55NG9WNWVJbWFlS0lDbnBYZmtnT2F3NHNETTNKdHhadzFWQTJNa1Rad3BFTG1tOFlKYTB1RGtYY1ZjV2xwd3QxMGtPS3VrYlJObnVwWXAtcU1PeFd2aGU3S0EyVnZncW1fTGstVWZSaVQ5aw?oc=5",
+   "date": "2026-11-06T08:00:00.000Z"
   }
  ]
 }
