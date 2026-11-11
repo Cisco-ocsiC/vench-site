@@ -477,8 +477,10 @@ async function runStockAnalysis() {
     var v = r.verdict;
     var recClass = (v.recommendation === "buy" || v.recommendation === "accumulate") ? "on" :
                    (v.recommendation === "sell" || v.recommendation === "underweight") ? "off" : "";
+    var name = (v.agentOutputs?.screen?.name) || v.symbol;
     out.innerHTML = '<div class="result-card">' +
-      '<h3 style="margin-bottom:6px">' + v.symbol + '</h3>' +
+      '<h3 style="margin-bottom:2px">' + v.symbol + '</h3>' +
+      '<div style="color:var(--muted);font-size:13px;margin-bottom:8px">' + name + '</div>' +
       '<span class="tag ' + recClass + '">' + v.recommendation.toUpperCase() + '</span>' +
       ' &nbsp;Score: <strong>' + v.compositeScore + '</strong> &nbsp;Confidence: <strong>' + v.confidence + '</strong><br><br>' +
       '<strong>Entry:</strong> $' + v.entryPrice.toFixed(2) +
