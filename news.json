@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T14:01:48.735Z",
+ "updated": "2026-11-11T15:35:38.692Z",
  "items": [
   {
    "topic": "5G",
@@ -87,6 +87,13 @@
   },
   {
    "topic": "Optical fibre",
+   "title": "Riding the AI wave: An Omdia survey of telecom providers",
+   "source": "Light Reading",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMVlXX3p4a0MxVzNKMXV6TWxLZnNUdzVVRjdObVJwUFNzcF84NHR5WWpjUjFCekRKLUNCUGlQcTZRbkxqaGJPbEVxVW5oTGxIUTV3SGQwLVJDa2h4ZFZGN2Zuc2dGZFh0UTlIdHlLVTBhdkR3RmdZOTlqaFYtYjFTZkpwcGtfanZGMmxHV2ZlTnU3SGpNS2pQR0NKQUFFT3dVS0tJVWdlRQ?oc=5",
+   "date": "2026-11-11T14:01:09.000Z"
+  },
+  {
+   "topic": "Optical fibre",
    "title": "Cameroon Regulator Flags 93 Telecom Violations Valued at CFAF18.6 Billion",
    "source": "Business in Cameroon",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTmNIbGhrRzRYaXRIdGdqYktmTk1MOHJ2aUpjeVhnMVZVWm1hZEZhby12NEpoUnRKY25WVlU3b1NlSFdRdm1ZSGZncFZvVi1oUHpPTFk4X0t2NFJYMkpXN09QUnZyNzVZWkd2YkZPYk8xdXRwR1U3NmUwazBET2hfa1BwSWF0Yzk1QnBfWTdvUkJ1Sm81RVFoRE50T09HaVFHQmkzMWdkMWkxX3BuTWpyUlJkMGp4Zm5sekg3VGFVUXlJWkdVRXc?oc=5",
@@ -119,13 +126,6 @@
    "source": "Telecompaper",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU2NiRkpBbGY5MDdMU3FURkVpV0E0NmY0NkctLXFmN1dRTEpYT0oweWRWZmNmdUN1TkhNeFNKU1NUX1RGZlBuaGtrNDUyZWxyaWUxc0pSamFJeTloV3JVY3VHOE9aQ0FkMmpPT0QxOHE2ckt2V1FJT2JqbzdUSVhOVjJpUjZFZWRIc1B0cFhDd3YxZlBlUF9NVmh6UnpuZEJSQWVvVjRSUFBMejc5?oc=5",
    "date": "2026-11-10T15:58:48.000Z"
-  },
-  {
-   "topic": "Optical fibre",
-   "title": "Iraq, Qatar to lay optical fiber cable linking Singapore to Italy",
-   "source": "IraqiNews",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcDUteHE1THNzYS1NNko3R0tkclV0N1E0VVhZVEdIOThMREVoWTc4VFd5YjFXUjY3RmlTYzNSMVJtRVRYR2tTckNpLVotMjdWUW1wcV9PM1VQRFZOVWQ2VVdKdjlIZDBwNHFjNFgzTDRJbzJ4Nk5hd2FBbEZoTkg2cFlTODFzMFlWbDl1M21MakZGcmtSWGJrMG5pRms?oc=5",
-   "date": "2026-11-10T13:30:17.000Z"
   },
   {
    "topic": "DWDM",
@@ -164,7 +164,7 @@
   },
   {
    "topic": "Innovation",
-   "title": "Verizon completes Private 5G network deployment for Thames Freeport",
+   "title": "Verizon completes private 5G network deployment for Thames Freeport",
    "source": "Telecompaper",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbmVRRE9mYnVNeDd3RElyTk1hRGVhc05VTXRDRmZXNjU0a2RYOVhGc1pBQTJzOHNXUGpqdWJkeUoyVEFMd3J3c0E3YXA0QTBPVHJLMXBlRW9sdnhBc3k2ZXF2YUNWZXdINktjQ3g1NEU1QVRoX1pIcFdvVzZ4M0Z5d2pfVURiSUV6aXAtMzNtQTVkZlRZVzFvRUlJdjNUdGpnMmd6VUtQeTY5aEQ3dC00?oc=5",
    "date": "2026-11-11T10:17:25.000Z"
@@ -192,10 +192,10 @@
   },
   {
    "topic": "Innovation",
-   "title": "Verizon CTO assesses 7GHz band for 6G after first test call",
+   "title": "Verizon CTO assesses 7GHz band for 6G after first call in the field",
    "source": "Light Reading",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbTlEN2lMbmw2RG5xYjJydENCYjVMSzRTQzR2aWpJMTBvVTI0WUNPQmVpWE1od3JpZGJLRHVyNTloNGcwcXI4UHBzR3pwejB5azdTSG9RV1BxcHpIcUFZRU9MVlB1b3UyWVljM0NSbFQ5TkJfNlFHRkpTUm95SnF2Zjhuc2o3N1h6bU9rSE5FdTFObHFPLWRCNWl1TU84UHdD?oc=5",
-   "date": "2026-11-09T16:01:59.000Z"
+   "date": "2026-11-09T16:02:52.000Z"
   },
   {
    "topic": "Innovation",
