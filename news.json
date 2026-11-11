@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T21:17:50.116Z",
+ "updated": "2026-11-11T22:39:27.752Z",
  "items": [
   {
    "topic": "5G",
@@ -164,13 +164,6 @@
   },
   {
    "topic": "Innovation",
-   "title": "Verizon completes private 5G network deployment for Thames Freeport",
-   "source": "Telecompaper",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbmVRRE9mYnVNeDd3RElyTk1hRGVhc05VTXRDRmZXNjU0a2RYOVhGc1pBQTJzOHNXUGpqdWJkeUoyVEFMd3J3c0E3YXA0QTBPVHJLMXBlRW9sdnhBc3k2ZXF2YUNWZXdINktjQ3g1NEU1QVRoX1pIcFdvVzZ4M0Z5d2pfVURiSUV6aXAtMzNtQTVkZlRZVzFvRUlJdjNUdGpnMmd6VUtQeTY5aEQ3dC00?oc=5",
-   "date": "2026-11-11T10:16:20.000Z"
-  },
-  {
-   "topic": "Innovation",
    "title": "India Endorses Global Call to Action for 6G Leadership and Security",
    "source": "DD News",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVVc1ZTlwQURSTEdmVWpTNmIyRzR5MGczaUNRQmRrdjB4QmVTdVh6MGlBX2hQc21oc0N2Y1F3cTd0XzhJd2hOLXUzcEZEUVVDUGpHbW1MQ1VIM0c1WlVQVFQ1N3VhcVItSEJfczhKOXRSV2o1U20yOVNobUF3QjRVM3FmUGRnbzhmUllnQjZleGpydjZ0UzZ3aA?oc=5",
@@ -217,6 +210,13 @@
    "source": "SMH.com.au",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVzZDQS14WXNKdmU3Ykc3akNKOTdpYnpLV1B3YjYweXJEdERsT0E3eHA2YXRsSVhPRHJpZVJodF93aWsta2RUNkdFVWhmNUNpNFdfYXc4VzYzdnR0WnZHM1IxSUNzRkRCY3d1c1dsZnpZemRPbE9vTmM0T0YxNVkzZGoyWG1GbkhhSk42WlhWaEgydWZ4VHNpM0VOY2NKRWVPdFZsaU1WZXpOTms0TFhfQmozbklIVG4xMEtWVk96TnNjWG8?oc=5",
    "date": "2026-11-07T23:06:08.000Z"
+  },
+  {
+   "topic": "Innovation",
+   "title": "JNCASR silicon chip enables 100 Gbps transmission for 6G over terahertz frequencies",
+   "source": "electronics.economictimes.indiatimes.com",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQSDdTVFY5TkJHdmh2QXI4YjA2Nm1sdXk0R2E0QjZOTEFkMXduVHhXQ1JsQjdiOEZtNllQeVFPajg2eGs0ZkNLOHRxYmQ5LThwamdCbmRwYV9OMVJ3dEpSMFdIZU0wS0o0T0J3OGVRSkw4X2FTRTJ2d0pFbnpRdWgxdVh2aDZpck9WNHhtaEFPY2gxR3BreFZYc29XcU1iX2pPdnlFZjNFa2pZLVNmaE5HLTh3bm1JZ3QxZzUtMVpuN2g2b1VtaTYzakc5WkJYRDROMnFXenlvRTNucHF2ZW9NTVNCS0lpUHE2YnVqNmcxVXk2eFNLWGdaN0ZUMNIB_wFBVV95cUxQVEs3R1lxUXA3NW5sLV9YS0JiQ0huRVVUNkhqbkY4a2xvbHdfb1Z0cU9fS2lveTB3SWxoWDRac1YzS1l5WkFpRHIxdHRudjVjZXNneF9USk9KOXhDU3dLSGgwS29CaHpHR2tyYUFJYTY5NFRrWTFHN2N5NmRlOXllR085Y1dJbUNLTzM1bG5KNlEzVWJlM1VDLVJ2cHlpLVV3eXZaMGY5RDZUM3l1Qm5SSzhWSmVJY29uaEl3S3dPSlBTZDNDOV9DcU92S0x1Nk9weVNnRHRWSkgwS0RGSFdoSEd4U3VDV2FlNkZxZjFtMGp5VE1faW5VaXNzVmVGazQ?oc=5",
+   "date": "2026-11-06T12:07:06.000Z"
   }
  ]
 }
