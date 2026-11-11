@@ -463,8 +463,16 @@ function clearVisits() {
 }
 
 // ---- STOCK AGENTS INTEGRATION ----
+// Auto-detect common ASX stocks so user doesn't need .AX suffix
+function normaliseTicker(sym) {
+  sym = (sym || '').toUpperCase().trim().replace(/\s+/g, '');
+  if (/\.AX$/.test(sym)) return sym;
+  var asx = ['BHP','CBA','WES','RIO','NAB','ANZ','WBC','TLS','FMG','WDS','COL','STO','QBE','TCL','S32','MTS','MDT','GMG','CSL','WOW','ORG','REA','TNE','SCG','CPU','XRO','LYC','SGP','MIN','HVN','SUL'];
+  return asx.includes(sym) ? sym + '.AX' : sym;
+}
+
 async function runStockAnalysis() {
-  const sym = document.getElementById("tickerInput").value.trim().toUpperCase();
+  const sym = normaliseTicker(document.getElementById("tickerInput").value.trim());
   if (!sym) { alert("Enter a ticker symbol"); return; }
   var out = document.getElementById("stockOutput");
   out.innerHTML = '<div class="loading" style="padding:24px;text-align:center;color:#6b7280;">Analyzing ' + sym + '...</div>';
