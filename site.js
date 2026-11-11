@@ -103,7 +103,7 @@
 (function () {
   var KEY = "vench.settings";
   var DEFAULTS = {
-    site: { name: "Vench", tagline: "Sydney, Australia", logo: "logo.jpg", footerPhotos: "Photos: Unsplash" },
+    site: { name: "Vench", tagline: "Sydney, Australia", logo: "logo.jpg", abn: "99 999 999 999", footerPhotos: "Photos: Unsplash" },
     contact: { name: "Vench", email: "hello@vench.cc", phone: "+61 2 9000 0000", enquirySubject: "Vench enquiry" },
     pages: {},
     profile: { name: "Admin", email: "hello@vench.cc", phone: "+61 2 9000 0000" }

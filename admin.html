@@ -156,6 +156,8 @@ input:checked + .slider:before { transform: translateX(20px); }
         <input id="sTagline" type="text">
         <label>Logo File Path</label>
         <input id="sLogo" type="text" placeholder="logo.jpg">
+        <label>ABN</label>
+        <input id="sABN" type="text" placeholder="XX XXX XXX XXX">
         <label>Footer Credit</label>
         <input id="sFooter" type="text">
       </div>
@@ -303,7 +305,7 @@ function showTab(name) {
 // ---- SETTINGS ----
 var _settings = null;
 function loadSettings() {
-  var defaults = {"version":1,"site":{"name":"Vench","tagline":"Sydney, Australia","logo":"logo.jpg","footerPhotos":"Photos: Unsplash"},"contact":{"name":"Vench","email":"hello@vench.cc","phone":"+61 2 9000 0000","enquirySubject":"Vench enquiry"},"pages":{"index.html":{"published":true,"navLabel":"Services"},"tools.html":{"published":true,"navLabel":"Tools"},"cabling.html":{"published":true,"navLabel":"Tie cable design"},"dwdm.html":{"published":true,"navLabel":"DWDM design"},"survey.html":{"published":true,"navLabel":"Survey & as-built"},"enquire.html":{"published":true,"navLabel":"Enquire"},"fibre.html":{"published":true,"navLabel":"Fibre design"}},"profile":{"name":"Admin","email":"hello@vench.cc","phone":"+61 2 9000 0000"}};
+  var defaults = {"version":1,"site":{"name":"Vench","tagline":"Sydney, Australia","logo":"logo.jpg","abn":"99 999 999 999","footerPhotos":"Photos: Unsplash"},"contact":{"name":"Vench","email":"hello@vench.cc","phone":"+61 2 9000 0000","enquirySubject":"Vench enquiry"},"pages":{"index.html":{"published":true,"navLabel":"Services"},"tools.html":{"published":true,"navLabel":"Tools"},"cabling.html":{"published":true,"navLabel":"Tie cable design"},"dwdm.html":{"published":true,"navLabel":"DWDM design"},"survey.html":{"published":true,"navLabel":"Survey & as-built"},"enquire.html":{"published":true,"navLabel":"Enquire"},"fibre.html":{"published":true,"navLabel":"Fibre design"}},"profile":{"name":"Admin","email":"hello@vench.cc","phone":"+61 2 9000 0000"}};
   try {
     var remote = fetch("settings.json").then(function(r){ return r.json(); }).catch(function(){ return null; });
     return Promise.all([remote]).then(function(res){ _settings = res[0] || defaults; applySettingsToForm(_settings); return _settings; });
@@ -314,6 +316,7 @@ function applySettingsToForm(s) {
   document.getElementById("sName").value = s.site.name || "";
   document.getElementById("sTagline").value = s.site.tagline || "";
   document.getElementById("sLogo").value = s.site.logo || "";
+  document.getElementById("sABN").value = s.site.abn || "";
   document.getElementById("sFooter").value = s.site.footerPhotos || "";
   document.getElementById("cEmail").value = s.contact.email || "";
   document.getElementById("cPhone").value = s.contact.phone || "";
@@ -326,7 +329,7 @@ function applySettingsToForm(s) {
 
 function saveSettings() {
   var s = _settings || {};
-  s.site = { name: document.getElementById("sName").value, tagline: document.getElementById("sTagline").value, logo: document.getElementById("sLogo").value, footerPhotos: document.getElementById("sFooter").value };
+  s.site = { name: document.getElementById("sName").value, tagline: document.getElementById("sTagline").value, logo: document.getElementById("sLogo").value, abn: document.getElementById("sABN").value, footerPhotos: document.getElementById("sFooter").value };
   s.contact = { email: document.getElementById("cEmail").value, phone: document.getElementById("cPhone").value, address: document.getElementById("cAddress").value, enquirySubject: document.getElementById("cSubject").value };
   try { localStorage.setItem("vench.settings", JSON.stringify(s)); localStorage.setItem("vench.settings.remote", JSON.stringify(s)); } catch(e) {}
   document.getElementById("settingsMsg").className = "note ok";
