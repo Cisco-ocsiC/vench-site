@@ -150,8 +150,13 @@
         abnEl.textContent = " | ABN: " + s.site.abn;
       }
       if (footer && s.site && s.site.footerPhotos) {
-        var spans = footer.querySelectorAll("footer span:last-child");
-        if (spans.length) spans[spans.length - 1].textContent = s.site.footerPhotos;
+        var photoEl = footer.querySelector("#photos-display");
+        if (photoEl) {
+          photoEl.textContent = s.site.footerPhotos;
+        } else {
+          var spans = footer.querySelectorAll("footer span:last-child");
+          if (spans.length) spans[spans.length - 1].textContent = s.site.footerPhotos;
+        }
       }
       // Apply contact details to every page — email, phone, address
       if (s.contact) {
