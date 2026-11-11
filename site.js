@@ -244,4 +244,11 @@
       window.Vench.Settings.apply();
     }
   }
+
+  // Listen for storage changes from other tabs/pages (e.g., admin saves settings)
+  window.addEventListener("storage", function (e) {
+    if (e.key === KEY && !/admin\.html/.test(location.pathname)) {
+      window.Vench.Settings.apply();
+    }
+  });
 })();

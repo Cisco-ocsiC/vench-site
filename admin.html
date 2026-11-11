@@ -412,7 +412,7 @@ function renderPageToggles() {
   }).join("");
 }
 function togglePage(page, visible) {
-  var s = _settings || {};
+  var s = getSettingsFromStorage();
   s.pages = s.pages || {};
   s.pages[page] = s.pages[page] || {};
   s.pages[page].published = visible;
