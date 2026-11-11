@@ -270,7 +270,8 @@ function showDashboard() {
 }
 
 function showTab(name) {
-  document.querySelectorAll(".tab").forEach(function(t){ t.classList.toggle("on", t.textContent.toLowerCase().includes(name === "overview" ? "overview" : name === "site settings" ? "site" : name === "pages" ? "pages" : name === "profile" ? "profile" : "security")); });
+  var tabNames = ["overview","site settings","pages","profile","security","stocks"];
+  document.querySelectorAll(".tab").forEach(function(t,i){ t.classList.toggle("active", tabNames[i]===name); });
   document.querySelectorAll(".panel").forEach(function(p){ p.classList.toggle("on", p.id === "tab-" + name); });
   if (name === "overview") loadStats();
 }
