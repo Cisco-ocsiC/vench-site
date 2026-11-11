@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T19:46:39.990Z",
+ "updated": "2026-11-11T21:17:50.116Z",
  "items": [
   {
    "topic": "5G",
@@ -45,6 +45,13 @@
   },
   {
    "topic": "4G",
+   "title": "How competitive is Chile’s mobile market?",
+   "source": "BNamericas",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNTRWVmEtM0RISzE3U05JeEZlWnc4TjRoWEVJekFDcy1mOGlUZk9mUGk4cU1OSVFLWHZid200RkZsS1JGNEF2bGZ3UGdXZEhyYTBqTEVlWGdmb1IydlNSdTNjNVU1U0hSZ2llX2E1Z2RKMktIZDRHRk90U2RNSmF0U0NGaGI?oc=5",
+   "date": "2026-11-11T20:44:39.000Z"
+  },
+  {
+   "topic": "4G",
    "title": "TIM Group Revenue Rises 2.8% to €10.4 Billion, Capex Reaches €1.3 Billion as 5G, Fiber, Cloud and AI Drive Strategy",
    "source": "TelecomLead",
    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQY0p2UUhDLVE4b1J2a2gtVldxbDdnQ3JpdlBSSl9BUmJZbXV2SWRDZjRuOGYyRFEtR00ya0NKN3FrSV9GOTI4cVFiRGJoWk14Q1VqSGRHc3ZzVjJjVEF0N3dJc3FrMTQ1UmNqSnlVdDhhZkdqVFd0RHRUdGtsOUptYldINEtKMndlSHgxM0RaRXRXckE1ZFNQekdmOEk0QnJzeDdQc0plZHg4U1I5QWRPWlhiVVhiVmtBUHJEaFVMVDVRY25CMGpYQ1dBdXU3U0F1RFRFT3d0ejZleHRKUllrVnVnQ09WempjOTlz0gHrAUFVX3lxTFBjSnZRSEMtUThvUnZraC1WV3FsN2dDcml2UFJKX0FSYlltdXZJZENmNG44ZjJEUS1HTTJrQ0o3cWtJX0Y5MjhxUWJEYmhaTXhDVWpIZEdzdnNWMmNUQXQ3d0lzcWsxNDVSY2pKeVV0OGFmR2pUV3REdFR0a2w5Sm1iV0g0S0oyd2VIeDEzRFpFdFdyQTVkU1B6R2Y4STRCcnN4N1BzSmVkeDhTUjlBZE9aWGJVWGJWa0FQckRoVUxUNVFjbkIwalhDV0F1dTdTQXVEVEVPd3R6NmV4dEpSWWtWdWdDT1Z6amM5OXM?oc=5",
@@ -79,13 +86,6 @@
    "date": "2026-11-09T11:47:45.000Z"
   },
   {
-   "topic": "4G",
-   "title": "Jio vs Airtel vs Vi vs BSNL in 2026: Which Mobile Network Offers the Best 5G Speed, Coverage and Call Quality in India?",
-   "source": "TelecomLead",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQWlBfMko3RHB3RmxiOHlmYnE0R1lFQ2lpYjBBWmEwWFE5YTlDT2FhSHRhUnBLUFkxMHhxZ3NfLWluMlUzMzRhd0FGbW9GT0JLRllNcElWMndtSzNBRC1vMzFBV2pic1NJY3A5X1NuT2VicW9hdG5tSjVRRE5wamFmNWRRd3I1bnVaZ3hwRXJLWmpnemJmRTlLYzVfdXpUcHJEcEYxTk9iY3c1VmsxeDhfN2RJQVdlT0dZUDhJVTBSaEl4a1ZhOThIOEM3NGdpN0hjUUtScHUxbVAzaW9DdXlIUzVTdXEyaG5PR3fSAfIBQVVfeXFMTXJEWk9QTW84dktxbXVaQk5tTFdTQUVxX1NGYU40NUZGVEJrOHVPdlZNRVA3OEtnQ3M5NUszbVVJZlN6aXpSM2lmeExva2Mzb0RXSk1DdWhPS3BqeG15QzFmY3JEVVhaMkVLeS1JTHBVc2ZrQVJQbGk5QVlLSG9lSTdFRnpGbkV3SzdmOF90SFJCc2J6OHR0dVRnVUdmMkFVZ1dEVV9zeWdsQmMxUUFJb2xpNXB3MVljMzBUNEY1dkhUa3NvWDdWQmpIWWJjbWMtTGxtdzc2XzYyTXR0dml4RnhRMHlmSExGbXFIbWRlczZ5R0E?oc=5",
-   "date": "2026-11-08T13:02:01.000Z"
-  },
-  {
    "topic": "Optical fibre",
    "title": "Hollow-Core Fiber Record: 64 Tbps Over 1,007 km [2026]",
    "source": "shattered.io",
@@ -97,7 +97,7 @@
    "title": "Riding the AI wave: An Omdia survey of telecom providers",
    "source": "Light Reading",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMVlXX3p4a0MxVzNKMXV6TWxLZnNUdzVVRjdObVJwUFNzcF84NHR5WWpjUjFCekRKLUNCUGlQcTZRbkxqaGJPbEVxVW5oTGxIUTV3SGQwLVJDa2h4ZFZGN2Zuc2dGZFh0UTlIdHlLVTBhdkR3RmdZOTlqaFYtYjFTZkpwcGtfanZGMmxHV2ZlTnU3SGpNS2pQR0NKQUFFT3dVS0tJVWdlRQ?oc=5",
-   "date": "2026-11-11T14:01:09.000Z"
+   "date": "2026-11-11T14:01:31.000Z"
   },
   {
    "topic": "Optical fibre",
