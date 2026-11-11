@@ -105,6 +105,7 @@
       <div class="tab" onclick="showTab('pages')">Pages</div>
       <div class="tab" onclick="showTab('profile')">Profile</div>
       <div class="tab" onclick="showTab('security')">Security</div>
+      <div class="tab" onclick="showTab('stocks')">Stock Agents</div>
     </div>
 
     <!-- OVERVIEW TAB -->
@@ -214,6 +215,20 @@
         </div>
       </div>
     </div>
+
+    <!-- STOCK AGENTS TAB -->
+    <div id="tab-stocks" class="panel">
+      <div class="card">
+        <h3>Stock Analysis Agent</h3>
+        <label>Ticker Symbol</label>
+        <input id="tickerInput" type="text" placeholder="e.g. AAPL, MSFT, BHP.AX">
+        <button class="btn" onclick="runStockAnalysis()" style="margin-top:12px">Analyze</button>
+        <button class="btn secondary" onclick="screenAllStocks()" style="margin-top:12px;margin-left:8px">Screen All Candidates</button>
+        <p class="note" style="margin-top:8px">Powered by 5-Agent Stock Pipeline — powered live by Yahoo Finance & Google News</p>
+        <div id="stockOutput"></div>
+      </div>
+    </div>
+
   </div>
 </div>
 
@@ -420,6 +435,44 @@ function clearVisits() {
   localStorage.removeItem("vench.visits");
   loadStats();
   alert("Visit history cleared.");
+}
+
+// ---- STOCK AGENTS INTEGRATION ----
+async function runStockAnalysis() {
+  const sym = document.getElementById("tickerInput").value.trim().toUpperCase();
+  if (!sym) { alert("Enter a ticker symbol"); return; }
+  var out = document.getElementById("stockOutput");
+  out.innerHTML = '<div class="loading" style="padding:24px;text-align:center;color:#6b7280;">Analyzing ' + sym + '...</div>';
+  try {
+    var r = await fetch("https://stock-agents-kh79.onrender.com/api/analyze", {
+      method: "POST", headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ symbol: sym })
+    }).then(function(x) { return x.json(); });
+    if (r.error) throw new Error(r.error);
+    var v = r.verdict;
+    var recClass = (v.recommendation === "buy" || v.recommendation === "accumulate") ? "on" :
+                   (v.recommendation === "sell" || v.recommendation === "underweight") ? "off" : "";
+    out.innerHTML = '<div style="border-left:3px solid #7c3aed;padding-left:16px;margin-top:16px">' +
+      '<h3>' + v.symbol + '</h3>' +
+      '<span class="tag ' + recClass + '">' + v.recommendation.toUpperCase() + '</span>' +
+      ' &nbsp;Score: <strong>' + v.compositeScore + '</strong> &nbsp;Confidence: <strong>' + v.confidence + '</strong><br><br>' +
+      '<strong>Entry:</strong> $' + v.entryPrice.toFixed(2) +
+      ' &nbsp;<strong>TP1:</strong> $' + v.tp1.toFixed(2) + ' (+' + ((v.tp1/v.entryPrice-1)*100).toFixed(1) + '%)' +
+      ' &nbsp;<strong>TP2:</strong> $' + v.tp2.toFixed(2) + ' (+' + ((v.tp2/v.entryPrice-1)*100).toFixed(1) + '%)' +
+      ' &nbsp;<strong>SL:</strong> $' + v.sl.toFixed(2) + ' (-' + ((1-v.sl/v.entryPrice)*100).toFixed(1) + '%)' +
+      '<br><strong>Risk/Reward:</strong> ' + v.riskRewardRatio +
+      ' &nbsp;<strong>Horizon:</strong> ' + v.timeHorizon +
+      '<br><br><em>Bull Case:</em> ' + (v.bullCase || '—') +
+      '<br><em>Bear Case:</em> ' + (v.bearCase || '—') +
+      '<br><em>Key Risks:</em> ' + ((v.keyRisks||[]).slice(0,2).join(' | ') || 'None detected') +
+      '</div>';
+  } catch(e) {
+    out.innerHTML = '<div style="color:#f87171;padding:16px;background:#1c1017;border-radius:8px">' + e.message + '</div>';
+  }
+}
+
+function screenAllStocks() {
+  window.open("https://stock-agents-kh79.onrender.com", "_blank");
 }
 
 // ---- INIT ----
