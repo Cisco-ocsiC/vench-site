@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T03:39:37.954Z",
+ "updated": "2026-11-11T04:43:59.664Z",
  "items": [
   {
    "topic": "5G",
@@ -52,13 +52,6 @@
   },
   {
    "topic": "4G",
-   "title": "Spark New Zealand Targets $350–380 Million Capex in FY27 as 5G, Mobile ARPU, Fiber and AI Drive Telecom Strategy",
-   "source": "TelecomLead",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQUnFCQVpfWFFyWmtsOTRteTdpYW1pQzhlMW90UEV5U2VONUd5eXRqdzdkT01sQ1U3aVRSN3FSZW93R1FNX09tYkprUU12VXpURExtQTQyWDJnY2pkZ0hqMllhblE0Q2tSdkxSZ0NnemhhcE81Wno4ZHhQcjNwVTl6N3lUanVyLTZRdkxuOWJfZk9CTlctanY2U0tQb1QzQl93MHlWenFsMFM4VExwcEFoRGRaX3ozaG1Ncmdoc01wRWJxTUpTMlNLOUJGZTRYTkxHdENYd293UnZLQ2NzN2M5TTlaRlRIRTN1WFRqcEh30gH2AUFVX3lxTE4tbG4zckZJSzR3UUxZVm1aaU5jN3BoLWZ1ekVlN0NPNWNTaTljWXVaTXZENHZTR21lR1d4aDRGNmVzZGNzNXRGeVFjWWlLb1ZPczVpbmhZWXVGZWJadGZlVXRyVlpDWkZoUlc5TmVEZVpFNVNOT3ZrMTNEcmMxeHRHWWxsblN6VlVfSllJWmdpQVY0YjhZQkVYTDhJczB3dEtqa1NfTUw0OGJ3V1BadEtwY2lHWjJoX2FSckxodVRsdnNKUmpfUUFnZGs0all2em9SS2lRSE5EZER6YVEtX2Jvc2VQOU9NMEFQZklwWWIyaWVhS3M3Zw?oc=5",
-   "date": "2026-11-10T04:44:18.000Z"
-  },
-  {
-   "topic": "4G",
    "title": "Reliance Jio Leads Mumbai Mobile Network Speed Test with 248.93 Mbps Download, Vodafone Idea Records Zero Call Drops: TRAI",
    "source": "TelecomLead",
    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPdlZCUFBEajIyNFFZSXBZSTdIRW9UMUZIRktPbDBVQ2EtdDB3a0hOOUl4ZUwxUVNydlZWSTgzTHVfOW5xTmJWOW45eUs2OHowcGcxcDd2Qi1wSnFqZlpVdC1fak51NXJHWXJPeHgwbS1Bd1ppS3NpUWxtLWxuTWNKWklqMGpMX1JVUWxmeXlENUVfajRiWUxzdlE1eTl6Z0NzbEN4OE5TV01hM19xWmpJZHVDOHNXRHpaanI1Y3pmZ0ZNSE9COExzQk9KM2thMFBjZktWV1R6d3RRZDlhV3hMZFlXRFNjTXg5U2hNOHBaWEkyUWptVGdN0gH3AUFVX3lxTE92VkJQUERqMjI0UVlJcFlJN0hFb1QxRkhGS09sMFVDYS10MHdrSE45SXhlTDFRU3J2VlZJODNMdV85bnFOYlY5bjl5SzY4ejBwZzFwN3ZCLXBKcWpmWlV0LV9qTnU1ckdZck94eDBtLUF3WmlLc2lRbG0tbG5NY0paSWowakxfUlVRbGZ5eUQ1RV9qNGJZTHN2UTV5OXpnQ3NsQ3g4TlNXTWEzX3FaaklkdUM4c1dEelpqcjVjemZnRk1IT0I4THNCT0oza2EwUGNmS1ZXVHp3dFFkOWFXeExkWVdEU2NNeDlTaE04cFpYSTJRam1UZ00?oc=5",
@@ -86,6 +79,13 @@
    "date": "2026-11-08T12:54:11.000Z"
   },
   {
+   "topic": "4G",
+   "title": "Mobile Network Quality at Airports, Railway Stations and Highways in 2026: Jio, Airtel, Vi and BSNL Speed and Coverage Comparison",
+   "source": "TelecomLead",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUE12elEzbEZ6dGRheThVRHBuMnE0alRPWGhJQVJ6NHg3OENPazF4NnEyRml6bFlsb211YkpNSGo5Vy04UmVqQk42bmh1QjdENnhFa25yb3lFWW9NWDlhUEFqd0dVRnJkTnh2VjRzREdDRlZHMmFqUi1IWmUzTThpYmhGM0lYWkJCZUJ0RGVmc1I3MEpCam1tUjNOSGtsb1pxX3F0c202WW1OWE9sSUNaWm1raHM4Y3pfT1FIUGQzb0FkeFRnSTV5TEVDRnEzUUVoQ0xzQkVBejdKSTJXNDdrWDlZTEtXb0FPb0Z1a2VLSjd3YXE3cEHSAf4BQVVfeXFMUGNCWjBzOU5OUU5tWjY4UkZHRlR6d0w3Q2hlNXhoOVpGRUtfcmZyM2UzVkh6TDNjOEZ5UzR6ZU9za2hycndjMjg0czNfMXdxLWRIbzVXaklPYVdXNnpidVlZNlo0QkVTVjlEbkM5N1dMQ243OWl6b2FCVnRvZXNZVUZvUk93N1dCcVJyRXFZN0ZLTVNYM0dlSGZRcWRIenNIaGpmREpfTS1UUUZrUU9BSUVES2hlUWNGZDh4cURCWW1lYVJvS0ZKX09ZbjdMV3p6LTUyN0VIWFdzRUVxLXlnTUZ2VjZiYWVrYzZTQVFhQ0tHSGpCclpNZWpuLUg4cFE?oc=5",
+   "date": "2026-11-08T12:28:06.000Z"
+  },
+  {
    "topic": "Optical fibre",
    "title": "China completes 1,000-km hollow-core fiber transmission verification",
    "source": "Xinhua",
@@ -94,17 +94,17 @@
   },
   {
    "topic": "Optical fibre",
-   "title": "Germany's Novanetz buys stake in Yplay to expand fibre connections",
-   "source": "Telecompaper",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU2NiRkpBbGY5MDdMU3FURkVpV0E0NmY0NkctLXFmN1dRTEpYT0oweWRWZmNmdUN1TkhNeFNKU1NUX1RGZlBuaGtrNDUyZWxyaWUxc0pSamFJeTloV3JVY3VHOE9aQ0FkMmpPT0QxOHE2ckt2V1FJT2JqbzdUSVhOVjJpUjZFZWRIc1B0cFhDd3YxZlBlUF9NVmh6UnpuZEJSQWVvVjRSUFBMejc5?oc=5",
-   "date": "2026-11-10T21:55:55.000Z"
-  },
-  {
-   "topic": "Optical fibre",
    "title": "Ribbon extends partnership with Viaero Fiber Networks",
    "source": "Telecompaper",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVWJ0MXcxWGxZV0xhMkJxaFpQUkxpTVBmeUJ0X0pYblNIb1pHM2FGSEc5Uk10MGF4MHNUT25WeEpHU1NpOFRPd2MwWU5tQlNVcDZ1X08wNlYza1EtMEFQcnZySUdtc1E5SGJKeV9NVzh5Z0RjdHJEY0xHLWszZGtaa1ZoN21jcTNSSkFVczNGek5SdGJkN25COHMxX2Q?oc=5",
    "date": "2026-11-10T19:57:52.000Z"
+  },
+  {
+   "topic": "Optical fibre",
+   "title": "Germany's Novanetz buys stake in Yplay to expand fibre connections",
+   "source": "Telecompaper",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU2NiRkpBbGY5MDdMU3FURkVpV0E0NmY0NkctLXFmN1dRTEpYT0oweWRWZmNmdUN1TkhNeFNKU1NUX1RGZlBuaGtrNDUyZWxyaWUxc0pSamFJeTloV3JVY3VHOE9aQ0FkMmpPT0QxOHE2ckt2V1FJT2JqbzdUSVhOVjJpUjZFZWRIc1B0cFhDd3YxZlBlUF9NVmh6UnpuZEJSQWVvVjRSUFBMejc5?oc=5",
+   "date": "2026-11-10T15:58:48.000Z"
   },
   {
    "topic": "Optical fibre",
@@ -185,6 +185,13 @@
   },
   {
    "topic": "Innovation",
+   "title": "The transatlantic talent safari: Why Cyprus should look to the Maltese model and what the loss of European primacy in 6G networks means",
+   "source": "CBN.com.cy",
+   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOaWJHQnZMQkZTUERlZmNzYmMzenZmZXFYT1J3VDhZR3FtX01GMU5pZkxMNC1PU0xqUVF1dFJVRUNkMTNRZFhVaTRiUGlOVHY3RTBZTDIwUmh2N1NlMFBmTERjMjBfVTZRYXdqN0JMaV9zMkxDSWNMYkZrRWlieFA0RTVWLWpyTjFaSFNVWUFhZGhGM0JINlg1OTVNVHNPTFVDaWJIV0tiTUwzd1pLUHlQWVg4NW85RkxxSnRjQ1dYM05XR1pCUUFCcnh2blpUT0lfdExuUWtwalJETlVIbTNVUnhxbzJzMERST2NyR2szdTdabTFHbzU2UmhmSmlxM2Z2bkE?oc=5",
+   "date": "2026-11-09T05:10:35.000Z"
+  },
+  {
+   "topic": "Innovation",
    "title": "Optus completes world-first validation of Cisco Live Protect",
    "source": "ARNnet",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRWNYNDFZXzlySE1iZ1VPMi1xbXdQUHpxcS15T0pKSWZjb0xtZk5rTUt6YlpyOFhtdTN3T2NXVklCZmRocWFXZDI4UFdlZ1JZbmdudDlTcnpYdm9kUzc2VFBNbmZMWHRmajQ0YW45ZUt2THpRRDd1eGN0bmFKREJqa3VPNkZBMnZGRy1nMlVjeXQ5TzRaTVgtSnUyX3BsWlFVcU9pRmx2OU9lc0k?oc=5",
@@ -194,8 +201,8 @@
    "topic": "Innovation",
    "title": "CRA Showcases Results of Advanced Technology Trials Paving Way for 6G at MWC26 Doha",
    "source": "Qatar news agency",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcHllUS00YUZnckVqY20tUGhDc3FfSmVmSFh4Ul9sMVFUMzhiM2t0N2t2c2swUEhoSTBreTJtVDFYU3drTlFvbFpvMWdaNld5MG5Hd1VZT3YyMUE4MFdBdXo0YzZHNzNoSkdQRldDenpOVXpxczcyRFBaejVNVU5BNHZRT3ItUExsaVUxYnoyVWx0Y2FOdlduak9YeEZxVlZ6MWlHNloyR0dsV3ZjLTFGdVZUQTJuaTZDYlQzcVprcG5Iazhfa0s4SHdnekRTdUc1NkpHT2hqUHI?oc=5",
-   "date": "2026-11-08T19:23:28.000Z"
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPblAzMkpkLXFWX2haYVM0Rmdvc1dTc2djQ0JaX2VyT2IxZFRGWW9yRnJiRi1QSXR6MlFuTnotdnR6Z05CV1lxRHRPanR5ZmFoN1hsUDVWcW5KZXlQdUFZUFFSRU1paDZqWHJMaGMzX0FlQ09KM2w5VTRwLUItTVNsakpBVnVsQXlpeXBHbFBkR2psQ3lCdFBJTHZNc2tKT3pqT1MwZFFobFZHeEVjNVdqU3hBdi1lMzZsOHlMVlRkYUJydnQ1ME92eXd3?oc=5",
+   "date": "2026-11-08T19:23:27.000Z"
   },
   {
    "topic": "Innovation",
@@ -217,13 +224,6 @@
    "source": "Advanced Television",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdjVfN3AwTlNpMVJaRkc1RGpObHZNZnRzOXZEY1ltZjZjY01ZX1Q4UmZYY1FhcWZDWkpzbnowN2wzQmJDS3h0UXRhREZVTGFZcUd3MHVfNjVvNG5YTjJNMzJYMFpXUkI0Z05IOUJZbTFEMU0zamZ3NVRXTEF6TVoxOUlNS1p6Y0RfbF9BYUowN1NSX0tCX0EzNmM2Z2F3Qkk0cHNR?oc=5",
    "date": "2026-11-06T10:08:43.000Z"
-  },
-  {
-   "topic": "Innovation",
-   "title": "NTT Unveils Tech to Enhance AI Performance for 6G and Next-Gen Computing",
-   "source": "HPCwire",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcnUzcnNWYXRRSTFDZzQzNU9LSWNEeV83TXYtUEtNYng0STVzdEhMdDZxQkNDRkNhUWdBa0lPWHA4cG9pU2J4QnlVWDhfeDh0X2tHWW55NG9WNWVJbWFlS0lDbnBYZmtnT2F3NHNETTNKdHhadzFWQTJNa1Rad3BFTG1tOFlKYTB1RGtYY1ZjV2xwd3QxMGtPS3VrYlJObnVwWXAtcU1PeFd2aGU3S0EyVnZncW1fTGstVWZSaVQ5aw?oc=5",
-   "date": "2026-11-06T08:00:00.000Z"
   }
  ]
 }
