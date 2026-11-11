@@ -140,6 +140,15 @@
       var titleEl = document.querySelector("title");
       if (titleEl && s.site && s.site.name) titleEl.textContent = titleEl.textContent.replace(/^.*\|/, s.site.name + " |");
       var footer = document.querySelector("footer");
+      if (footer && s.site && s.site.abn) {
+        var abnEl = footer.querySelector("#abn-display");
+        if (!abnEl) {
+          abnEl = document.createElement("span");
+          abnEl.id = "abn-display";
+          footer.querySelector(".wrap").appendChild(abnEl);
+        }
+        abnEl.textContent = " | ABN: " + s.site.abn;
+      }
       if (footer && s.site && s.site.footerPhotos) {
         var spans = footer.querySelectorAll("footer span:last-child");
         if (spans.length) spans[spans.length - 1].textContent = s.site.footerPhotos;
