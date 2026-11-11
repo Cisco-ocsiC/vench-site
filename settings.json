@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "site": {
+    "name": "Vench",
+    "tagline": "Sydney, Australia",
+    "logo": "logo.jpg",
+    "footerPhotos": "Photos: Unsplash"
+  },
+  "contact": {
+    "name": "Vench",
+    "email": "hello@vench.cc",
+    "phone": "+61 2 9000 0000",
+    "address": "Sydney, NSW, Australia",
+    "enquirySubject": "Vench enquiry"
+  },
+  "pages": {
+    "index.html": { "published": true, "navLabel": "Services" },
+    "tools.html": { "published": true, "navLabel": "Tools" },
+    "tools.html#fibre-loss": { "published": true, "navLabel": "Tool: Fibre loss calculator" },
+    "tools.html#dwdm-budget": { "published": true, "navLabel": "Tool: DWDM link budget" },
+    "tools.html#take-home": { "published": true, "navLabel": "Tool: Take-home pay" },
+    "tools.html#holidays": { "published": true, "navLabel": "Tool: Public holidays" },
+    "tools.html#visa": { "published": true, "navLabel": "Tool: Visa fees & times" },
+    "tools.html#occupation": { "published": true, "navLabel": "Tool: Skilled occupation checker" },
+    "tools.html#news": { "published": true, "navLabel": "Tool: Telecom news" },
+    "cabling.html": { "published": true, "navLabel": "Tie cable design" },
+    "dwdm.html": { "published": true, "navLabel": "DWDM design" },
+    "survey.html": { "published": true, "navLabel": "Survey & as-built" },
+    "enquire.html": { "published": true, "navLabel": "Enquire" },
+    "fibre.html": { "published": true, "navLabel": "Fibre design" }
+  },
+  "profile": {
+    "name": "Admin",
+    "email": "hello@vench.cc",
+    "phone": "+61 2 9000 0000"
+  }
+}

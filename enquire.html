@@ -81,6 +81,8 @@
           <li>Daily rate</li>
           <li>End-to-end project</li>
         </ul>
+        <h3 style="margin-top:28px">Contact</h3>
+        <p id="contact-info" class="fine contact-info-block">—</p>
         <h3 style="margin-top:28px">Where we work</h3>
         <ul>
           <li>Based in Sydney, serving clients across Australia</li>
@@ -97,11 +99,21 @@
   </div>
 </footer>
 
+<script src="site.js"></script>
 <script>
-  // Set once the Zoho mailbox on the new domain is ready, e.g. "info@yourdomain.com"
-  var ENQUIRY_EMAIL = "";
-
   document.getElementById("yr").textContent = new Date().getFullYear();
+
+  // Update contact info when site.js loads (it calls apply() which sets this up)
+  window._venchUpdateContact = function(c) {
+    var el = document.getElementById("contact-info");
+    if (!el) return;
+    if (!c || !c.email) { el.innerHTML = "—"; return; }
+    var lines = [];
+    if (c.email) lines.push('<strong>Email:</strong> <a href="mailto:' + c.email + '">' + c.email + '</a>');
+    if (c.phone) lines.push('<strong>Phone:</strong> ' + c.phone);
+    if (c.address) lines.push('<strong>Address:</strong> ' + c.address);
+    el.innerHTML = lines.join("<br>");
+  };
 
   document.getElementById("enquiry").addEventListener("submit", function (e) {
     e.preventDefault();
@@ -112,7 +124,10 @@
       status.textContent = "Please fill in your name, email and project details.";
       return;
     }
-    if (!ENQUIRY_EMAIL) {
+    var c = (window.Vench && window.Vench.Contact) || {};
+    var email = c.email || "";
+    var subjectPrefix = c.enquirySubject || "Vench enquiry";
+    if (!email) {
       status.className = "note err";
       status.textContent = "The enquiry form is not active yet. Please check back soon.";
       return;
@@ -121,12 +136,11 @@
                "\nEmail: " + f.email.value + "\nService: " + f.service.value +
                "\nEngagement: " + f.engage.value +
                "\n\n" + f.message.value;
-    window.location.href = "mailto:" + ENQUIRY_EMAIL +
-      "?subject=" + encodeURIComponent("Vench enquiry: " + f.service.value) +
+    window.location.href = "mailto:" + email +
+      "?subject=" + encodeURIComponent(subjectPrefix + ": " + f.service.value) +
       "&body=" + encodeURIComponent(body);
     status.textContent = "Opening your email app to send the enquiry.";
   });
 </script>
-<script src="site.js"></script>
 </body>
 </html>
