@@ -120,9 +120,24 @@
   }
 
   function load() {
+    // Try localStorage first (user overrides)
     try {
       var saved = JSON.parse(localStorage.getItem(KEY));
       if (saved) return merge(DEFAULTS, saved);
+    } catch (e) {}
+    // Fall back to settings.json file on disk
+    try {
+      var xhr = new XMLHttpRequest();
+      xhr.open("GET", "settings.json?t=" + Date.now(), false); // synchronous
+      xhr.send();
+      if (xhr.status === 200 && xhr.responseText) {
+        var remote = JSON.parse(xhr.responseText);
+        if (remote && typeof remote === "object") {
+          // Save to localStorage so future loads use local copy
+          try { localStorage.setItem(KEY, JSON.stringify(remote)); } catch(e) {}
+          return merge(DEFAULTS, remote);
+        }
+      }
     } catch (e) {}
     return merge(DEFAULTS, {});
   }
