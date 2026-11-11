@@ -1,0 +1,548 @@
+<!doctype html>
+<html lang="en-AU">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Admin | Vench</title>
+<link rel="icon" href="logo.jpg">
+<style>
+:root {
+  --bg: #ffffff;
+  --bg-soft: #f5f8fb;
+  --ink: #1f2937;
+  --muted: #5b6676;
+  --line: #e3e9f0;
+  --teal: #14b894;
+  --blue: #0a5aa0;
+  --navy: #2b3544;
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: "Inter", system-ui, -apple-system, sans-serif; background: var(--bg-soft); color: var(--ink); min-height: 100vh; }
+.wrap { max-width: 960px; margin: 0 auto; padding: 24px 20px; }
+header { background: rgba(255,255,255,.92); backdrop-filter: blur(10px); border-bottom: 1px solid var(--line); padding: 16px 0; margin-bottom: 24px; }
+header .wrap { display: flex; align-items: center; justify-content: space-between; }
+.brand { font-size: 22px; font-weight: 700; color: var(--navy); text-decoration: none; letter-spacing: -.02em; }
+.back { color: var(--muted); text-decoration: none; font-size: 14px; }
+.back:hover { color: var(--blue); }
+h1 { font-size: 22px; margin-bottom: 20px; color: var(--navy); font-weight: 700; letter-spacing: -.01em; }
+h2 { font-size: 15px; font-weight: 600; color: var(--muted); text-transform: uppercase; letter-spacing: .06em; margin-bottom: 12px; }
+.grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 16px; margin-bottom: 24px; }
+.card { background: #fff; border-radius: 12px; padding: 24px; border: 1px solid var(--line); border-top: 3px solid var(--teal); }
+.card h3 { font-size: 14px; color: var(--muted); margin-bottom: 14px; text-transform: uppercase; letter-spacing: .05em; font-weight: 600; }
+label { display: block; font-size: 13px; color: var(--muted); margin-bottom: 4px; margin-top: 12px; font-weight: 500; }
+input, select, textarea { width: 100%; padding: 10px 12px; background: var(--bg); border: 1px solid var(--line); border-radius: 8px; color: var(--ink); font-size: 14px; font-family: inherit; }
+input:focus, select:focus, textarea:focus { outline: none; border-color: var(--blue); box-shadow: 0 0 0 3px rgba(10,90,160,.08); }
+textarea { resize: vertical; min-height: 80px; }
+button.btn { display: inline-block; padding: 10px 20px; background: var(--navy); color: white; border: 0; border-radius: 8px; font-size: 14px; cursor: pointer; font-weight: 600; font-family: inherit; margin-top: 16px; transition: background .15s, transform .15s; }
+button.btn:hover { background: var(--blue); transform: translateY(-1px); }
+button.btn.secondary { background: transparent; color: var(--navy); border: 1px solid var(--line); }
+button.btn.secondary:hover { background: var(--bg-soft); border-color: var(--blue); color: var(--blue); }
+button.btn.danger { background: #dc2626; }
+button.btn.danger:hover { background: #b91c1c; }
+.stat { background: #fff; border: 1px solid var(--line); border-radius: 10px; padding: 16px 20px; flex: 1; min-width: 140px; border-top: 3px solid var(--teal); }
+.stat .num { font-size: 28px; font-weight: 700; color: var(--blue); letter-spacing: -.02em; }
+.stat .lbl { font-size: 12px; color: var(--muted); margin-top: 4px; text-transform: uppercase; letter-spacing: .05em; }
+table { width: 100%; border-collapse: collapse; margin-top: 10px; }
+th, td { text-align: left; padding: 10px 12px; border-bottom: 1px solid var(--line); font-size: 13px; }
+th { color: var(--muted); font-weight: 600; font-size: 11px; text-transform: uppercase; letter-spacing: .05em; }
+td { color: var(--ink); }
+.login-screen { display: flex; justify-content: center; align-items: center; min-height: 60vh; }
+.login-box { background: #fff; border-radius: 16px; padding: 36px; width: 380px; border: 1px solid var(--line); box-shadow: 0 8px 30px rgba(31,41,55,.08); }
+.login-box h1 { text-align: center; margin-bottom: 20px; color: var(--navy); font-size: 22px; font-weight: 700; }
+.note { font-size: 12px; color: var(--muted); margin-top: 8px; }
+.err { color: #dc2626; }
+.ok { color: var(--teal); }
+.tabs { display: flex; gap: 4px; margin-bottom: 24px; border-bottom: 2px solid var(--line); padding-bottom: 0; }
+.tab { padding: 10px 18px; color: var(--muted); cursor: pointer; border-bottom: 2px solid transparent; margin-bottom: -2px; font-size: 14px; font-weight: 500; transition: color .15s; }
+.tab:hover { color: var(--blue); }
+.tab.active { color: var(--blue); border-bottom-color: var(--blue); }
+.panel { display: none; }
+.panel.on { display: block; }
+.toggle-row { display: flex; align-items: center; justify-content: space-between; padding: 12px 0; border-bottom: 1px solid var(--line); }
+.toggle-row:last-child { border-bottom: none; }
+.switch { position: relative; width: 44px; height: 24px; }
+.switch input { opacity: 0; width: 0; height: 0; }
+.slider { position: absolute; cursor: pointer; top: 0; left: 0; right: 0; bottom: 0; background: var(--line); border-radius: 22px; transition: .2s; }
+.slider:before { content: ""; position: absolute; height: 18px; width: 18px; left: 3px; bottom: 3px; background: white; border-radius: 50%; transition: .2s; box-shadow: 0 1px 3px rgba(0,0,0,.15); }
+input:checked + .slider { background: var(--teal); }
+input:checked + .slider:before { transform: translateX(20px); }
+.tag { display: inline-block; padding: 3px 10px; border-radius: 999px; font-size: 11px; font-weight: 700; letter-spacing: .03em; }
+.tag.on { background: #ecfdf5; color: #065f46; }
+.tag.off { background: #fef2f2; color: #991b1b; }
+.empty { color: var(--muted); font-style: italic; font-size: 13px; padding: 12px 0; }
+.chart-bar { display: flex; align-items: flex-end; gap: 3px; height: 110px; margin-top: 12px; }
+.chart-col { flex: 1; background: var(--teal); border-radius: 3px 3px 0 0; min-height: 2px; position: relative; transition: background .15s; }
+.chart-col:hover { background: var(--blue); }
+.chart-col:hover::after { content: attr(data-val); position: absolute; bottom: 100%; left: 50%; transform: translateX(-50%); font-size: 10px; color: var(--navy); white-space: nowrap; background: #fff; padding: 2px 6px; border-radius: 4px; border: 1px solid var(--line); box-shadow: 0 2px 6px rgba(31,41,55,.08); }
+.chart-labels { display: flex; gap: 3px; margin-top: 6px; }
+.chart-labels span { flex: 1; text-align: center; font-size: 10px; color: var(--muted); }
+.hidden { display: none !important; }
+.result-card { border-left: 3px solid var(--teal); padding-left: 16px; margin-top: 16px; }
+.meta { font-size: 12px; color: var(--muted); margin-top: 8px; }
+.loading { text-align: center; padding: 32px; color: var(--muted); }
+</style>
+</head>
+<body>
+
+<!-- LOGIN SCREEN -->
+<div id="loginScreen" class="login-screen">
+  <div class="login-box">
+    <div class="brand" style="text-align:center;margin-bottom:8px;">VENCH ADMIN</div>
+    <h1>Login</h1>
+    <label for="adminUser">Username</label>
+    <input id="adminUser" type="text" autocomplete="username" placeholder="Username">
+    <label for="adminPass">Password</label>
+    <input id="adminPass" type="password" autocomplete="current-password" placeholder="Password">
+    <p class="note" id="loginErr"></p>
+    <button class="btn" style="width:100%" onclick="doLogin()">Sign In</button>
+  </div>
+</div>
+
+<!-- ADMIN DASHBOARD -->
+<div id="adminDash" class="hidden">
+  <header>
+    <div class="wrap">
+      <a href="index.html" class="brand">VENCH</a>
+      <div>
+        <a href="index.html" class="back" style="margin-right:12px">&larr; Back to site</a>
+        <button class="btn secondary" style="margin-top:0;padding:6px 12px;font-size:13px;" onclick="doLogout()">Logout</button>
+      </div>
+    </div>
+  </header>
+
+  <div class="wrap">
+    <h1>Admin Dashboard</h1>
+
+    <div class="tabs">
+      <div class="tab active" onclick="showTab('overview')">Overview</div>
+      <div class="tab" onclick="showTab('settings')">Site Settings</div>
+      <div class="tab" onclick="showTab('pages')">Pages</div>
+      <div class="tab" onclick="showTab('profile')">Profile</div>
+      <div class="tab" onclick="showTab('security')">Security</div>
+      <div class="tab" onclick="showTab('stocks')">Stock Agents</div>
+    </div>
+
+    <!-- OVERVIEW TAB -->
+    <div id="tab-overview" class="panel on">
+      <div class="grid">
+        <div class="stat"><div class="num" id="totalVisits">0</div><div class="lbl">Total Visits</div></div>
+        <div class="stat"><div class="num" id="todayVisits">0</div><div class="lbl">Today</div></div>
+        <div class="stat"><div class="num" id="lastPage">—</div><div class="lbl">Last Page</div></div>
+        <div class="stat"><div class="num" id="activePages">0</div><div class="lbl">Active Pages</div></div>
+      </div>
+
+      <div class="card" style="margin-bottom:20px;">
+        <h3>Last 7 Days Visits</h3>
+        <div class="chart-bar" id="chart"></div>
+        <div class="chart-labels" id="chartLabels"></div>
+      </div>
+
+      <div class="card">
+        <h3>Top Pages</h3>
+        <table>
+          <thead><tr><th>Page</th><th>Views</th></tr></thead>
+          <tbody id="topPages"></tbody>
+        </table>
+      </div>
+    </div>
+
+    <!-- SETTINGS TAB -->
+    <div id="tab-settings" class="panel">
+      <div class="card">
+        <h3>Site Information</h3>
+        <label>Site Name</label>
+        <input id="sName" type="text">
+        <label>Tagline</label>
+        <input id="sTagline" type="text">
+        <label>Logo File Path</label>
+        <input id="sLogo" type="text" placeholder="logo.jpg">
+        <label>ABN</label>
+        <input id="sABN" type="text" placeholder="XX XXX XXX XXX">
+        <label>Footer Credit</label>
+        <input id="sFooter" type="text">
+      </div>
+      <div class="card" style="margin-top:16px;">
+        <h3>Contact Details</h3>
+        <label>Email</label>
+        <input id="cEmail" type="email">
+        <label>Phone</label>
+        <input id="cPhone" type="text">
+        <label>Address</label>
+        <input id="cAddress" type="text">
+        <label>Enquiry Subject Prefix</label>
+        <input id="cSubject" type="text">
+      </div>
+      <button class="btn" onclick="saveSettings()">Save Settings</button>
+      <span class="note" id="settingsMsg"></span>
+    </div>
+
+    <!-- PAGES TAB -->
+    <div id="tab-pages" class="panel">
+      <div class="card">
+        <h3>Page Visibility</h3>
+        <div id="pageToggles"></div>
+      </div>
+    </div>
+
+    <!-- PROFILE TAB -->
+    <div id="tab-profile" class="panel">
+      <div class="card">
+        <h3>Admin Profile</h3>
+        <label>Name</label>
+        <input id="pName" type="text">
+        <label>Email</label>
+        <input id="pEmail" type="email">
+        <label>Phone</label>
+        <input id="pPhone" type="text">
+      </div>
+      <button class="btn" onclick="saveProfile()">Save Profile</button>
+      <span class="note" id="profileMsg"></span>
+    </div>
+
+    <!-- SECURITY TAB -->
+    <div id="tab-security" class="panel">
+      <div class="card">
+        <h3>Change Password</h3>
+        <label>Current Password</label>
+        <input id="curPass" type="password">
+        <label>New Password</label>
+        <input id="newPass" type="password">
+        <label>Confirm New Password</label>
+        <input id="confirmPass" type="password">
+        <p class="note">Use a strong password with letters, numbers, and symbols.</p>
+        <button class="btn" onclick="changePassword()">Update Password</button>
+        <span class="note" id="passMsg"></span>
+      </div>
+      <div class="card" style="margin-top:16px;">
+        <h3>Data Management</h3>
+        <div class="toggle-row">
+          <div>
+            <strong>Export All Data</strong>
+            <div class="note">Download settings and visits as JSON</div>
+          </div>
+          <button class="btn secondary" style="margin-top:0" onclick="exportData()">Export</button>
+        </div>
+        <div class="toggle-row">
+          <div>
+            <strong>Clear Visit History</strong>
+            <div class="note">Remove all visit counts from localStorage</div>
+          </div>
+          <button class="btn danger" style="margin-top:0" onclick="clearVisits()">Clear</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- STOCK AGENTS TAB -->
+    <div id="tab-stocks" class="panel">
+      <div class="card">
+        <h3>Stock Analysis Agent</h3>
+        <label>Ticker Symbol</label>
+        <input id="tickerInput" type="text" placeholder="e.g. AAPL, MSFT, BHP.AX">
+        <button class="btn" onclick="runStockAnalysis()" style="margin-top:12px">Analyze</button>
+        <button class="btn secondary" onclick="screenAllStocks()" style="margin-top:12px;margin-left:8px">Screen All Candidates</button>
+        <p class="note" style="margin-top:8px">Powered by 5-Agent Stock Pipeline — powered live by Yahoo Finance & Google News</p>
+        <div id="stockOutput"></div>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<script>
+// ---- AUTH ----
+// ---- MASTER KEY: vench / Tata@2026 always works regardless of stored password ----
+var MASTER_USER = "vench";
+var MASTER_KEY = "Tata@2026";
+
+const DEFAULT_USER = "admin";
+const DEFAULT_PASS = "Tata@2026";
+
+function getAuth() {
+  try { return JSON.parse(localStorage.getItem("vench.auth")) || { user: DEFAULT_USER, pass: DEFAULT_PASS }; } catch(e) { return { user: DEFAULT_USER, pass: DEFAULT_PASS }; }
+}
+function setAuth(a) { localStorage.setItem("vench.auth", JSON.stringify(a)); }
+
+function doLogin() {
+  var u = document.getElementById("adminUser").value.trim();
+  var p = document.getElementById("adminPass").value;
+  // Master key login — bypasses stored password
+  if (u === MASTER_USER && p === MASTER_KEY) {
+    localStorage.setItem("vench.admin.loggedin", "1");
+    showDashboard();
+    return;
+  }
+  var a = getAuth();
+  if (u === a.user && p === a.pass) {
+    localStorage.setItem("vench.admin.loggedin", "1");
+    showDashboard();
+  } else {
+    document.getElementById("loginErr").className = "note err";
+    document.getElementById("loginErr").textContent = "Invalid username or password.";
+  }
+}
+document.getElementById("adminPass").addEventListener("keydown", function(e) { if(e.key==="Enter") doLogin(); });
+
+function doLogout() {
+  localStorage.removeItem("vench.admin.loggedin");
+  location.reload();
+}
+
+function showDashboard() {
+  document.getElementById("loginScreen").classList.add("hidden");
+  document.getElementById("adminDash").classList.remove("hidden");
+  loadSettings();
+  loadStats();
+  renderPageToggles();
+}
+
+function showTab(name) {
+  var tabNames = ["overview","site settings","pages","profile","security","stocks"];
+  document.querySelectorAll(".tab").forEach(function(t,i){ t.classList.toggle("active", tabNames[i]===name); });
+  document.querySelectorAll(".panel").forEach(function(p){ p.classList.toggle("on", p.id === "tab-" + name); });
+  if (name === "overview") loadStats();
+}
+
+// ---- SETTINGS ----
+var _settings = null;
+function loadSettings() {
+  var defaults = {"version":1,"site":{"name":"Vench","tagline":"Sydney, Australia","logo":"logo.jpg","abn":"99 999 999 999","footerPhotos":"Photos: Unsplash"},"contact":{"name":"Vench","email":"hello@vench.cc","phone":"+61 2 9000 0000","enquirySubject":"Vench enquiry"},"pages":{"index.html":{"published":true,"navLabel":"Services"},"tools.html":{"published":true,"navLabel":"Tools"},"cabling.html":{"published":true,"navLabel":"Tie cable design"},"dwdm.html":{"published":true,"navLabel":"DWDM design"},"survey.html":{"published":true,"navLabel":"Survey & as-built"},"enquire.html":{"published":true,"navLabel":"Enquire"},"fibre.html":{"published":true,"navLabel":"Fibre design"}},"profile":{"name":"Admin","email":"hello@vench.cc","phone":"+61 2 9000 0000"}};
+  try {
+    var remote = fetch("settings.json").then(function(r){ return r.json(); }).catch(function(){ return null; });
+    return Promise.all([remote]).then(function(res){ _settings = res[0] || defaults; applySettingsToForm(_settings); return _settings; });
+  } catch(e) { _settings = defaults; applySettingsToForm(_settings); return Promise.resolve(_settings); }
+}
+
+function applySettingsToForm(s) {
+  document.getElementById("sName").value = s.site.name || "";
+  document.getElementById("sTagline").value = s.site.tagline || "";
+  document.getElementById("sLogo").value = s.site.logo || "";
+  document.getElementById("sABN").value = s.site.abn || "";
+  document.getElementById("sFooter").value = s.site.footerPhotos || "";
+  document.getElementById("cEmail").value = s.contact.email || "";
+  document.getElementById("cPhone").value = s.contact.phone || "";
+  document.getElementById("cAddress").value = s.contact.address || "";
+  document.getElementById("cSubject").value = s.contact.enquirySubject || "";
+  document.getElementById("pName").value = s.profile.name || "";
+  document.getElementById("pEmail").value = s.profile.email || "";
+  document.getElementById("pPhone").value = s.profile.phone || "";
+}
+
+function saveSettings() {
+  var s = _settings || {};
+  s.site = { name: document.getElementById("sName").value, tagline: document.getElementById("sTagline").value, logo: document.getElementById("sLogo").value, abn: document.getElementById("sABN").value, footerPhotos: document.getElementById("sFooter").value };
+  s.contact = { email: document.getElementById("cEmail").value, phone: document.getElementById("cPhone").value, address: document.getElementById("cAddress").value, enquirySubject: document.getElementById("cSubject").value };
+  try { localStorage.setItem("vench.settings", JSON.stringify(s)); localStorage.setItem("vench.settings.remote", JSON.stringify(s)); } catch(e) {}
+  document.getElementById("settingsMsg").className = "note ok";
+  document.getElementById("settingsMsg").textContent = "Settings saved to browser storage.";
+  setTimeout(function(){ document.getElementById("settingsMsg").textContent = ""; }, 3000);
+}
+
+function saveProfile() {
+  var s = _settings || {};
+  s.profile = { name: document.getElementById("pName").value, email: document.getElementById("pEmail").value, phone: document.getElementById("pPhone").value };
+  try { localStorage.setItem("vench.settings", JSON.stringify(s)); } catch(e) {}
+  document.getElementById("profileMsg").className = "note ok";
+  document.getElementById("profileMsg").textContent = "Profile saved.";
+  setTimeout(function(){ document.getElementById("profileMsg").textContent = ""; }, 3000);
+}
+
+function changePassword() {
+  var cur = document.getElementById("curPass").value;
+  var nw = document.getElementById("newPass").value;
+  var cnf = document.getElementById("confirmPass").value;
+  var auth = getAuth();
+  if (cur !== auth.pass) { document.getElementById("passMsg").className = "note err"; document.getElementById("passMsg").textContent = "Current password is incorrect."; return; }
+  if (nw.length < 6) { document.getElementById("passMsg").className = "note err"; document.getElementById("passMsg").textContent = "New password must be at least 6 characters."; return; }
+  if (nw !== cnf) { document.getElementById("passMsg").className = "note err"; document.getElementById("passMsg").textContent = "Passwords do not match."; return; }
+  auth.pass = nw;
+  setAuth(auth);
+  document.getElementById("curPass").value = "";
+  document.getElementById("newPass").value = "";
+  document.getElementById("confirmPass").value = "";
+  document.getElementById("passMsg").className = "note ok";
+  document.getElementById("passMsg").textContent = "Password updated successfully.";
+}
+
+// ---- PAGES TOGGLES ----
+function renderPageToggles() {
+  var container = document.getElementById("pageToggles");
+  var pages = (_settings && _settings.pages) || {};
+  var defaults = {
+    "index.html":{"published":true,"navLabel":"Services"},
+    "tools.html":{"published":true,"navLabel":"Tools"},
+    "tools.html#fibre-loss":{"published":true,"navLabel":"Tool: Fibre loss calculator"},
+    "tools.html#dwdm-budget":{"published":true,"navLabel":"Tool: DWDM link budget"},
+    "tools.html#take-home":{"published":true,"navLabel":"Tool: Take-home pay"},
+    "tools.html#holidays":{"published":true,"navLabel":"Tool: Public holidays"},
+    "tools.html#visa":{"published":true,"navLabel":"Tool: Visa fees & times"},
+    "tools.html#occupation":{"published":true,"navLabel":"Tool: Skilled occupation checker"},
+    "tools.html#news":{"published":true,"navLabel":"Tool: Telecom news"},
+    "cabling.html":{"published":true,"navLabel":"Tie cable design"},
+    "dwdm.html":{"published":true,"navLabel":"DWDM design"},
+    "survey.html":{"published":true,"navLabel":"Survey & as-built"},
+    "enquire.html":{"published":true,"navLabel":"Enquire"},
+    "fibre.html":{"published":true,"navLabel":"Fibre design"}
+  };
+  var merged = Object.assign({}, defaults);
+  for (var k in pages) merged[k] = pages[k];
+  container.innerHTML = Object.keys(merged).map(function(k) {
+    var p = merged[k];
+    return '<div class="toggle-row"><div><strong>' + p.navLabel + '</strong><div class="note">' + k + '</div></div><label class="switch"><input type="checkbox" ' + (p.published !== false ? 'checked' : '') + ' onchange="togglePage(\'' + k + '\', this.checked)"><span class="slider"></span></label></div>';
+  }).join("");
+}
+function togglePage(page, visible) {
+  var s = _settings || {};
+  s.pages = s.pages || {};
+  s.pages[page] = s.pages[page] || {};
+  s.pages[page].published = visible;
+  s.pages[page].navLabel = document.querySelector('input[onchange*="' + page + '"]').closest('.toggle-row').querySelector('strong').textContent;
+  _settings = s;
+  try { localStorage.setItem("vench.settings", JSON.stringify(s)); } catch(e) {}
+}
+
+// ---- VISITS / STATS ----
+function loadStats() {
+  var stats = window.Vench && window.Vench.Visit && window.Vench.Visit.stats ? window.Vench.Visit.stats() : (function(){ try { return JSON.parse(localStorage.getItem("vench.visits")) || {}; } catch(e){ return {}; } })();
+  var days = stats.days || {};
+  var pages = stats.pages || {};
+  var total = 0;
+  var todayKey = new Date().toISOString().slice(0,10);
+  var todayCount = days[todayKey] || 0;
+  var last = stats.last || {};
+  Object.keys(days).forEach(function(d){ total += days[d]; });
+  document.getElementById("totalVisits").textContent = total;
+  document.getElementById("todayVisits").textContent = todayCount;
+  document.getElementById("lastPage").textContent = last.page ? last.page.replace(/\.html$/,'') : '—';
+  if (_settings && _settings.pages) {
+    var active = 0;
+    for (var k in _settings.pages) { if (_settings.pages[k].published) active++; }
+    document.getElementById("activePages").textContent = active;
+  }
+  renderChart(days, todayKey);
+  renderTopPages(pages);
+}
+
+function renderChart(days, todayKey) {
+  var chart = document.getElementById("chart");
+  var labels = document.getElementById("chartLabels");
+  var keys = Object.keys(days).sort();
+  var last7 = keys.slice(-7);
+  if (last7.length === 0) { chart.innerHTML = '<div class="empty">No visit data yet.</div>'; labels.innerHTML = ''; return; }
+  var maxVal = Math.max.apply(null, last7.map(function(k){ return days[k] || 0; }));
+  chart.innerHTML = last7.map(function(k) {
+    var v = days[k] || 0;
+    var h = maxVal > 0 ? (v / maxVal * 100) : 0;
+    var d = new Date(k + "T00:00:00");
+    var lbl = d.toLocaleDateString("en-AU", { weekday: 'short' });
+    return '<div class="chart-col" style="height:' + h + '%;" data-val="' + v + ' visit' + (v!==1?'s':'') + '"></div>';
+  }).join("") + '<div class="chart-col" style="height:0%;"></div>';
+  labels.innerHTML = last7.map(function(k,i) {
+    var d = new Date(k + "T00:00:00");
+    return '<span>' + d.toLocaleDateString("en-AU", { day: 'numeric', month: 'short' }) + '</span>';
+  }).join("") + '<span>…</span>';
+}
+
+function renderTopPages(pages) {
+  var tbody = document.getElementById("topPages");
+  var sorted = Object.entries(pages).sort(function(a,b){ return b[1] - a[1]; }).slice(0, 10);
+  if (sorted.length === 0) { tbody.innerHTML = '<tr><td colspan="2" class="empty">No data yet.</td></tr>'; return; }
+  tbody.innerHTML = sorted.map(function(e){ return '<tr><td>' + e[0].replace(/\.html$/,'') + '</td><td>' + e[1] + '</td></tr>'; }).join("");
+}
+
+// ---- EXPORT / CLEAR ----
+function exportData() {
+  var data = { settings: _settings || {}, visits: (window.Vench&&window.Vench.Visit&&window.Vench.Visit.stats)?window.Vench.Visit.stats():{} };
+  var blob = new Blob([JSON.stringify(data, null, 2)], {type: 'application/json'});
+  var url = URL.createObjectURL(blob);
+  var a = document.createElement("a");
+  a.href = url; a.download = "vench-backup-" + new Date().toISOString().slice(0,10) + ".json";
+  a.click(); URL.revokeObjectURL(url);
+}
+function clearVisits() {
+  if (!confirm("Clear all visit history? This cannot be undone.")) return;
+  localStorage.removeItem("vench.visits");
+  loadStats();
+  alert("Visit history cleared.");
+}
+
+// ---- STOCK AGENTS INTEGRATION ----
+// Auto-detect common ASX stocks so user doesn't need .AX suffix
+function normaliseTicker(sym) {
+  sym = (sym || '').toUpperCase().trim().replace(/\s+/g, '');
+  if (/\.AX$/.test(sym)) return sym;
+  var asx = ['BHP','CBA','WES','RIO','NAB','ANZ','WBC','TLS','FMG','WDS','COL','STO','QBE','TCL','S32','MTS','MDT','GMG','CSL','WOW','ORG','REA','TNE','SCG','CPU','XRO','LYC','SGP','MIN','HVN','SUL'];
+  return asx.includes(sym) ? sym + '.AX' : sym;
+}
+
+async function runStockAnalysis() {
+  const sym = normaliseTicker(document.getElementById("tickerInput").value.trim());
+  if (!sym) { alert("Enter a ticker symbol"); return; }
+  var out = document.getElementById("stockOutput");
+  out.innerHTML = '<div class="loading" style="padding:24px;text-align:center;color:#6b7280;">Analyzing ' + sym + '...</div>';
+  try {
+    var r = await fetch("https://stock-agents-kh79.onrender.com/api/analyze", {
+      method: "POST", headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ symbol: sym })
+    }).then(function(x) { return x.json(); });
+    if (r.error) throw new Error(r.error);
+    var v = r.verdict;
+    var recClass = (v.recommendation === "buy" || v.recommendation === "accumulate") ? "on" :
+                   (v.recommendation === "sell" || v.recommendation === "underweight") ? "off" : "";
+    var name = (v.agentOutputs?.screen?.name) || v.symbol;
+    out.innerHTML = '<div class="result-card">' +
+      '<h3 style="margin-bottom:2px">' + v.symbol + '</h3>' +
+      '<div style="color:var(--muted);font-size:13px;margin-bottom:8px">' + name + '</div>' +
+      '<span class="tag ' + recClass + '">' + v.recommendation.toUpperCase() + '</span>' +
+      ' &nbsp;Score: <strong>' + v.compositeScore + '</strong> &nbsp;Confidence: <strong>' + v.confidence + '</strong><br><br>' +
+      '<strong>Entry:</strong> $' + v.entryPrice.toFixed(2) +
+      ' &nbsp;<strong>TP1:</strong> $' + v.tp1.toFixed(2) + ' (+' + ((v.tp1/v.entryPrice-1)*100).toFixed(1) + '%)' +
+      ' &nbsp;<strong>TP2:</strong> $' + v.tp2.toFixed(2) + ' (+' + ((v.tp2/v.entryPrice-1)*100).toFixed(1) + '%)' +
+      ' &nbsp;<strong>SL:</strong> $' + v.sl.toFixed(2) + ' (-' + ((1-v.sl/v.entryPrice)*100).toFixed(1) + '%)' +
+      '<br><strong>Risk/Reward:</strong> ' + v.riskRewardRatio +
+      ' &nbsp;<strong>Horizon:</strong> ' + v.timeHorizon +
+      '<br><br><em>Bull Case:</em> ' + (v.summary?.bullCase || v.bullCase || '—') +
+      '<br><em>Bear Case:</em> ' + (v.summary?.bearCase || v.bearCase || '—') +
+      '<br><em>Key Risks:</em> ' + ((v.keyRisks||[]).slice(0,2).join(' | ') || 'None detected') +
+      '</div>';
+  } catch(e) {
+    out.innerHTML = '<div style="color:#dc2626;padding:16px;background:#fef2f2;border-radius:8px;border:1px solid #fecaca">' + e.message + '</div>';
+  }
+}
+
+async function screenAllStocks() {
+  var out = document.getElementById("stockOutput");
+  out.innerHTML = '<div class="loading" style="padding:24px;text-align:center;color:#6b7280;">Screening universe...</div>';
+  try {
+    var r = await fetch("https://stock-agents-kh79.onrender.com/api/screen").then(function(x){ return x.json(); });
+    if (!r.candidates || r.candidates.length === 0) { out.innerHTML = '<p class="err">No candidates found.</p>'; return; }
+    var rows = r.candidates.map(function(c,i) {
+      return '<tr>' +
+        '<td><strong>' + c.symbol + '</strong></td>' +
+        '<td style="color:#9ca3af">' + (c.name||'').slice(0,28) + '</td>' +
+        '<td>$' + (c.price ? c.price.toFixed(2) : '—') + '</td>' +
+        '<td><span style="background:#7c3aed;color:white;padding:2px 8px;border-radius:4px;font-size:12px;font-weight:600">' + c.score + '</span></td>' +
+        '<td><button class="btn" style="padding:4px 10px;font-size:12px;margin-top:0" onclick="runFromScreen(\'' + c.symbol + '\')">Analyze</button></td>' +
+        '</tr>';
+    }).join('');
+    out.innerHTML = '<h2>Top Screened Candidates (' + r.candidates.length + ')</h2>' +
+      '<table><thead><tr><th>Symbol</th><th>Name</th><th>Price</th><th>Score</th><th>Action</th></tr></thead>' +
+      '<tbody>' + rows + '</tbody></table>' +
+      '<p class="meta" style="margin-top:10px">Click "Analyze" on any ticker for full TP1/TP2/SL breakdown.</p>';
+  } catch(e) {
+    out.innerHTML = '<div style="color:#f87171;padding:16px;background:#1c1017;border-radius:8px">' + e.message + '</div>';
+  }
+}
+function runFromScreen(sym) {
+  document.getElementById("tickerInput").value = sym;
+  runStockAnalysis();
+}
+
+// ---- INIT ----
+(function(){
+  if (localStorage.getItem("vench.admin.loggedin") === "1") {
+    showDashboard();
+  }
+})();
+</script>
+</body>
+</html>
