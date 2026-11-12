@@ -447,7 +447,19 @@ function togglePage(page, visible) {
   s.pages[page].published = visible;
   s.pages[page].navLabel = document.querySelector('input[onchange*="' + page + '"]').closest('.toggle-row').querySelector('strong').textContent;
   _settings = s;
+  // Save to localStorage for local preview
   try { localStorage.setItem("vench.settings", JSON.stringify(s)); } catch(e) {}
+  // Also trigger global publish by downloading settings.json
+  var published = JSON.stringify(s, null, 2);
+  var blob = new Blob([published], {type: 'application/json'});
+  var url = URL.createObjectURL(blob);
+  var a = document.createElement("a");
+  a.href = url; a.download = "settings.json";
+  document.body.appendChild(a); a.click(); document.body.removeChild(a);
+  URL.revokeObjectURL(url);
+  document.getElementById("settingsMsg").className = "note ok";
+  document.getElementById("settingsMsg").textContent = "Page toggle saved! Download settings.json and upload to GitHub to apply globally.";
+  setTimeout(function(){ document.getElementById("settingsMsg").textContent = ""; }, 4000);
 }
 
 // ---- VISITS / STATS ----
