@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T09:44:34.140Z",
+ "updated": "2026-11-12T10:48:05.079Z",
  "items": [
   {
    "topic": "5G",
@@ -87,6 +87,13 @@
   },
   {
    "topic": "Optical fibre",
+   "title": "BNDES approves BRL 10 mln for P4 Telecom's fibre rollout",
+   "source": "Telecompaper",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcVZ5b0ZtX3RSZGo2RnNtdWRoblBoSjBlcktYZlA3X3NINlBkSWJtRGVSWVgwbDlqTVQ4d3U5bG5LM1plOHhyWnNfMzJtX0hJZ3pISVpuX0xQNFdtNVlyczRuX2dwcWZGei1NWVQxWWpCXzFHT0I0NXU3b3c0Z2dBaW9VdDZSeTBNNEpZVXkyY0JGSmpYQko5WjhDUElvRmM?oc=5",
+   "date": "2026-11-12T10:04:18.000Z"
+  },
+  {
+   "topic": "Optical fibre",
    "title": "The 2026 optical fiber shortage, what is happening and who is affected",
    "source": "Pasquale Pillitteri",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORm93aTF0ekFidGpQVGpEbUFyTDVYalc5ZTNfZlZJWWloSXVXMEZGRjV2UDhtSDJTc3VJdXJqbVZ6Q1pydE5IMlJ6a25ib1lWOU82UVp6VWp2X3pob1hiZmpCai1GS2dQaS1XRmsxZ1I0ZFkzVlRhUm51cUFhOEVCLWtoNDlyQl9lNzljX3VPaGRCSHc?oc=5",
@@ -121,13 +128,6 @@
    "date": "2026-11-11T23:49:55.000Z"
   },
   {
-   "topic": "Optical fibre",
-   "title": "Hollow-Core Fiber Record: 64 Tbps Over 1,007 km [2026]",
-   "source": "shattered.io",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9adTFHY0hFVkt2dnN3b2FaWmtKOUxfZGZZTTI3OU5uZXJvb0JxcnV3SDFVOWFKc0FHclhfWGtxWGd1bEs5NWtuaXVkX3Jjc0o1ZWEtejllSktJdjNtc01DaTV6NmYyRVFYVGJ1aEZmZEZDZmdONGNYaHdzemJPQQ?oc=5",
-   "date": "2026-11-11T16:29:55.000Z"
-  },
-  {
    "topic": "DWDM",
    "title": "VNPT and Symphony collaborate to provide international transmission services, promoting the commercialization of network capacity.",
    "source": "Vietnam.vn",
@@ -154,6 +154,20 @@
    "source": "The Manila Times",
    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQRThpV1RZTGRWRVVYV2RwWDA0MHR2c2RzWlIwNzkyYXpNWk5XMEtnSWpQZ0J3TTdOZkJPM3NPN2NjQ3BkUTBtOG1WV0JiaEVRYmYxNWNfaHRaYmU2VzZkdmQ5eHV4djB0b053WFZqUDk4cC1sLVo0QnlHU2ZudjRhdUtVSnpPbFFONnZ0eWxFSGFjS1dVVmxqVHFybTJpQ1Y4dnNZQmJQdFVkQ01kYVplNUN1SmlidElyLUZ3QklRWXRPSnY2WU9HUWZzaWRXYVJOakY4bzFURGJsOXhTaEdyLWJWeTBUS2h4OVlNU2JlaWlSZVhaZVpGNG9rcTdaUzTSAYQCQVVfeXFMUDZucVVfVWRHVGZPNG5wOEhZLXZVWmg5TnozUUNoZGtOeFdLbUMycm5ucXlHYVB5RWNET1F5WGNYemY2ckp2VlRlbmYwLWtlRmdERFRZZ0d3OVQwT0huX1U4Zk1rYjdEd1JWU053NGJheHJoanVjVUF2QXR5QnF2a1htYXB0bzZlRHlxRDhJbVNQcktDZDBYN1g3VzZfSWNINnI4bThkV0k4b1VPYVEtczBYcGVUc1VVcFpHYzl5RU1pekhJV0NLQmR5dExmMUVKTGdrX1g4Mjdmd25pYTgwM0JEaW5kYlpaU1h0eFdlOHNIblBkbFN4aXVmcEUtLWJMa1RMSzQ?oc=5",
    "date": "2026-11-02T13:53:31.000Z"
+  },
+  {
+   "topic": "Innovation",
+   "title": "GSMA Unveils Five Principles to Strengthen Mobile Network Resilience",
+   "source": "Techeconomy",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWFZMUVBiYzFUSFFoaXMwWVU3R0FYMWl0eXlvSlhkcVN1RDJzLV9UQXN4VGJWQ2Y0U3RxX25EcHVJRnJJWHVZajRUVFpIcWlvVW5Ub1pCUDNENHEwZTJYTlp0MFF4bkw1SEpPX0ZVMDROQ18tdDVaSUNHUWFHYjhwQ1p5cUVPMmNkNXd2aTZMY1RjNTNEdnUwRXhlUGFwcjJG?oc=5",
+   "date": "2026-11-12T10:44:38.000Z"
+  },
+  {
+   "topic": "Innovation",
+   "title": "ITU PP-26 Doha: RASCOM Director General engages African and global telecom leaders at ITU Plenipotentiary Conference",
+   "source": "Tech Review Africa",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPYmJVTjhwS0tVS0lMd0JQVHZ1TG5Ba1Y1S2tMQ1F5ZlpkLW01aHNwbF9TYThQbGJaSGNzTnpheWwwZTh1ay1ZOGhKVXotclVQN19IMzhsZ1dBY1ZLR1dkMGh5d19Pak1CVmpGX1BtY3NSZzNSNEpqTHpPLWtVWkllTlFrdklmLTRnY1dXaTF0VU5EWjNiNjBDNnJLZVpYXzB3VndVbkhzaEhBUnZIZi1hZ0xLenpDaWNZM0R6STNyeEtXN2Nsc3hrR0NiT0s0TDAxWHFSZ00tb1pCbHV4dlFLTElqb2UtZFBod2c?oc=5",
+   "date": "2026-11-12T09:49:41.000Z"
   },
   {
    "topic": "Innovation",
@@ -210,20 +224,6 @@
    "source": "ARNnet",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRWNYNDFZXzlySE1iZ1VPMi1xbXdQUHpxcS15T0pKSWZjb0xtZk5rTUt6YlpyOFhtdTN3T2NXVklCZmRocWFXZDI4UFdlZ1JZbmdudDlTcnpYdm9kUzc2VFBNbmZMWHRmajQ0YW45ZUt2THpRRDd1eGN0bmFKREJqa3VPNkZBMnZGRy1nMlVjeXQ5TzRaTVgtSnUyX3BsWlFVcU9pRmx2OU9lc0k?oc=5",
    "date": "2026-11-08T22:25:11.000Z"
-  },
-  {
-   "topic": "Innovation",
-   "title": "CRA Showcases Results of Advanced Technology Trials Paving Way for 6G at MWC26 Doha",
-   "source": "Qatar news agency",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcHllUS00YUZnckVqY20tUGhDc3FfSmVmSFh4Ul9sMVFUMzhiM2t0N2t2c2swUEhoSTBreTJtVDFYU3drTlFvbFpvMWdaNld5MG5Hd1VZT3YyMUE4MFdBdXo0YzZHNzNoSkdQRldDenpOVXpxczcyRFBaejVNVU5BNHZRT3ItUExsaVUxYnoyVWx0Y2FOdlduak9YeEZxVlZ6MWlHNloyR0dsV3ZjLTFGdVZUQTJuaTZDYlQzcVprcG5Iazhfa0s4SHdnekRTdUc1NkpHT2hqUHI?oc=5",
-   "date": "2026-11-08T19:23:28.000Z"
-  },
-  {
-   "topic": "Innovation",
-   "title": "6G phones arrive in 2030. The fight over the airwaves has already begun",
-   "source": "SMH.com.au",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVzZDQS14WXNKdmU3Ykc3akNKOTdpYnpLV1B3YjYweXJEdERsT0E3eHA2YXRsSVhPRHJpZVJodF93aWsta2RUNkdFVWhmNUNpNFdfYXc4VzYzdnR0WnZHM1IxSUNzRkRCY3d1c1dsZnpZemRPbE9vTmM0T0YxNVkzZGoyWG1GbkhhSk42WlhWaEgydWZ4VHNpM0VOY2NKRWVPdFZsaU1WZXpOTms0TFhfQmozbklIVG4xMEtWVk96TnNjWG8?oc=5",
-   "date": "2026-11-07T23:06:08.000Z"
   }
  ]
 }
