@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T02:03:27.003Z",
+ "updated": "2026-11-12T03:39:11.129Z",
  "items": [
   {
    "topic": "5G",
@@ -129,6 +129,13 @@
   },
   {
    "topic": "DWDM",
+   "title": "VNPT and Symphony collaborate to provide international transmission services, promoting the commercialization of network capacity.",
+   "source": "Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWUtNZWlKRmkyY1BPRGp6ZEMza095QjNQYWlZTjJnZGttWk4wd3hrbHV6UEVqVHRLMTExSlloV2YwMEt1LXdYYUZja2J6YlphNllkQktrc0h0SjJWMDlpUURkb29yaXNMR2NsS1FVSFphbHlBRFNJTGZyV3o0dG95b04yZV8zWE1iNEZMOGtNUnlESDNCaDdEeE40WUhoLXVzTXpaeHZxbFBxOHk1VWNSRXRTWkhudTJLUnhjLXZB?oc=5",
+   "date": "2026-11-09T08:00:00.000Z"
+  },
+  {
+   "topic": "DWDM",
    "title": "Optical Networking Market 2026: Ciena, Nokia, Huawei and Cisco Compete for $18 Billion in AI and Data Center Infrastructure Spending",
    "source": "TelecomLead",
    "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQM0Q4RzRkUEJ5NHpwX2dFNWhZSGQ4NVVBNXlmeVJCb3RiU0dYRmMzWkxKZ01fQkpaVzdvM3ViRWl6QXBnTGJnT0FjNTVadjdLQXA2SWlVYTdlbFptS2ctRTU2M0l6dzRRY3lhT2VxQ3BXdUlYSFRqWW1FYVY0b0I2d291OHZKc3ktNVZXUG9nZndjOG0yYVNOMHVycndlT000bE1ycTdRVE5TNllyWU9NNkU4ZXBHVndRUy02OXZxRDlONnprZEZIdG5tSUNDejF4NFUyMEZBRmhjTERyQUM3cDVKcFV6dTFNRV9aOHQ4WVBSd0JXQU1lQUVPRDlObk9vU1VPekVUcS3SAZACQVVfeXFMTTNPRHFIVk1fNkZCbTdVcEVyOUJTUVJVMWNPM3BnLWhPQlVBWV9JcFVDdkc5RUxVdUd2bHNEcEtFaG9KZlc0dTdNS2hFemhrbmlwRWo4UG5yMy02RFVMRUs2WFh2LWV0eFJQak1CbXFwVkNudEJRc0t2RUdxOWxnNnIzdTNOSUNTOXZlWTZNZFltaThOZUROVDRTc0Eya1RfZmswVEFaWk9nVGRmdG1FUk1zcFBZWTZDVjZaS1dHcmFEbHMyamhPa21QMmRKaWR5eXMwdDM5d0ktOHNqVDF1Z0ZOUEtrem5FMDhPQ2pJV2xpbzdubEJIZ1NoMDU4QUZOelhmb0NpRURxcmdtajdlX2o?oc=5",
@@ -164,17 +171,10 @@
   },
   {
    "topic": "Innovation",
-   "title": "Verizon completes private 5G network deployment for Thames Freeport",
-   "source": "Telecompaper",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbmVRRE9mYnVNeDd3RElyTk1hRGVhc05VTXRDRmZXNjU0a2RYOVhGc1pBQTJzOHNXUGpqdWJkeUoyVEFMd3J3c0E3YXA0QTBPVHJLMXBlRW9sdnhBc3k2ZXF2YUNWZXdINktjQ3g1NEU1QVRoX1pIcFdvVzZ4M0Z5d2pfVURiSUV6aXAtMzNtQTVkZlRZVzFvRUlJdjNUdGpnMmd6VUtQeTY5aEQ3dC00?oc=5",
-   "date": "2026-11-11T10:17:25.000Z"
-  },
-  {
-   "topic": "Innovation",
-   "title": "India Endorses Global Call to Action for 6G Leadership and Security",
-   "source": "DD News",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVVc1ZTlwQURSTEdmVWpTNmIyRzR5MGczaUNRQmRrdjB4QmVTdVh6MGlBX2hQc21oc0N2Y1F3cTd0XzhJd2hOLXUzcEZEUVVDUGpHbW1MQ1VIM0c1WlVQVFQ1N3VhcVItSEJfczhKOXRSV2o1U20yOVNobUF3QjRVM3FmUGRnbzhmUllnQjZleGpydjZ0UzZ3aA?oc=5",
-   "date": "2026-11-10T15:53:08.000Z"
+   "title": "Globe Telecom Defies Economic Challenges with Record P129B Service Revenues",
+   "source": "Daily Tribune",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ZekRKdC05TXhmaWR3UXFFUFdIMlpwMllndjR0dmdOMy1zRFVNZU5sbFZvd3A0TXFIak1YcDRBWURQUjU2OVpDWFlKTmlzUktFa1o1OWJDSUZmQ3AtYXF1Z3JQLUFrZTI4QnFIaTE0UkNVZw?oc=5",
+   "date": "2026-11-11T07:59:17.000Z"
   },
   {
    "topic": "Innovation",
@@ -192,6 +192,20 @@
   },
   {
    "topic": "Innovation",
+   "title": "ICASA just confirmed what SpaceX said about South Africa’s Telecom Licenses",
+   "source": "Innovation Village",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSHJhdVROUVRPU05aNVNJc3dVeW9FdmZ2OWlsYnZQeVNRcU9UTWkzSjZpZWRMTkF0cUFrTmFIV1hrVnlBMENMOGhBTHdmSjE4YnVmTE00R1hiZ05nMExTbXRfekphakYwVzdaaEhHS01vc1FZb3hGRkctaXJhaUdmT2xlN1Blb3FKV09GTkJOSVItSUtYTFJEbTVDR1JJRU5RVkZMeHNOUnVpUQ?oc=5",
+   "date": "2026-11-09T19:17:49.000Z"
+  },
+  {
+   "topic": "Innovation",
+   "title": "Global Telecom Engineering’s TITAN 6000 Named Finalist in 2026 Fierce Network Innovation Awards",
+   "source": "Business Wire",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxObDVmY3BoYUtUNDZlMEx2TUtwSU5nRVJNQzh1cWR4eHp6WGxYOTNUWXBNbXFIeV8tM0x2a2U0NklXRHp0TEVnQ0RKWjVReXFpSmE3YnRCY2tfYkhNTll4UUhZRmlEUi1ZZE44SlFaak1TYVUtVS1pajQtRWRYLW96MUZaRVJGSDd5NHphLXJWOWd3YWNwRndVcm1qMGZQUDZjSlNYTkVBVE5kRlc5SndKbWZZejJFQ0RwRDlBeFhHN2xWei04alhVV2NxOW5fLWptQmxyanNFWmUyMm9HaElseVQ4M25mQQ?oc=5",
+   "date": "2026-11-09T18:02:00.000Z"
+  },
+  {
+   "topic": "Innovation",
    "title": "Verizon CTO assesses 7GHz band for 6G after first call in the field",
    "source": "Light Reading",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbTlEN2lMbmw2RG5xYjJydENCYjVMSzRTQzR2aWpJMTBvVTI0WUNPQmVpWE1od3JpZGJLRHVyNTloNGcwcXI4UHBzR3pwejB5azdTSG9RV1BxcHpIcUFZRU9MVlB1b3UyWVljM0NSbFQ5TkJfNlFHRkpTUm95SnF2Zjhuc2o3N1h6bU9rSE5FdTFObHFPLWRCNWl1TU84UHdD?oc=5",
@@ -203,13 +217,6 @@
    "source": "ARNnet",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRWNYNDFZXzlySE1iZ1VPMi1xbXdQUHpxcS15T0pKSWZjb0xtZk5rTUt6YlpyOFhtdTN3T2NXVklCZmRocWFXZDI4UFdlZ1JZbmdudDlTcnpYdm9kUzc2VFBNbmZMWHRmajQ0YW45ZUt2THpRRDd1eGN0bmFKREJqa3VPNkZBMnZGRy1nMlVjeXQ5TzRaTVgtSnUyX3BsWlFVcU9pRmx2OU9lc0k?oc=5",
    "date": "2026-11-08T22:25:11.000Z"
-  },
-  {
-   "topic": "Innovation",
-   "title": "CRA Showcases Results of Advanced Technology Trials Paving Way for 6G at MWC26 Doha",
-   "source": "Qatar news agency",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcHllUS00YUZnckVqY20tUGhDc3FfSmVmSFh4Ul9sMVFUMzhiM2t0N2t2c2swUEhoSTBreTJtVDFYU3drTlFvbFpvMWdaNld5MG5Hd1VZT3YyMUE4MFdBdXo0YzZHNzNoSkdQRldDenpOVXpxczcyRFBaejVNVU5BNHZRT3ItUExsaVUxYnoyVWx0Y2FOdlduak9YeEZxVlZ6MWlHNloyR0dsV3ZjLTFGdVZUQTJuaTZDYlQzcVprcG5Iazhfa0s4SHdnekRTdUc1NkpHT2hqUHI?oc=5",
-   "date": "2026-11-08T19:23:28.000Z"
   },
   {
    "topic": "Innovation",
