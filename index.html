@@ -56,26 +56,26 @@
     <div class="slider-ctl"><div class="wrap"><div class="dots"></div></div></div>
   </section>
 
-  <section class="band">
+  <section class="band reveal">
     <div class="wrap">
       <h2>Network design, survey and documentation, from engineers who have built it</h2>
       <p>Vench brings experience from large telecommunications, utility, railway and roadway organisations to projects of every size.</p>
     </div>
   </section>
 
-  <section class="soft">
+  <section class="soft reveal" data-delay="100">
     <div class="wrap">
       <h2>Our approach: Survey, Design, Deliver</h2>
       <p class="lead">Every project follows the same clear path, so you always know what comes next.</p>
       <div class="steps">
-        <div class="step"><h3>Survey</h3><p>Desktop study and field survey of the route, exchange or data centre, so the design starts from facts.</p></div>
-        <div class="step"><h3>Design</h3><p>Fibre, tie cable and DWDM design with loss and OSNR budgets, drawings and a bill of quantities.</p></div>
-        <div class="step"><h3>Deliver</h3><p>As-built package with drawings, splice records, test results and handover documents.</p></div>
+        <div class="step reveal" data-delay="0"><h3>Survey</h3><p>Desktop study and field survey of the route, exchange or data centre, so the design starts from facts.</p></div>
+        <div class="step reveal" data-delay="120"><h3>Design</h3><p>Fibre, tie cable and DWDM design with loss and OSNR budgets, drawings and a bill of quantities.</p></div>
+        <div class="step reveal" data-delay="240"><h3>Deliver</h3><p>As-built package with drawings, splice records, test results and handover documents.</p></div>
       </div>
     </div>
   </section>
 
-  <section id="services">
+  <section id="services" class="reveal">
     <div class="wrap">
       <h2>What we do</h2>
       <div class="tabs" role="tablist">
@@ -124,7 +124,7 @@
     </div>
   </section>
 
-  <section id="about">
+  <section id="about" class="reveal">
     <div class="wrap about">
       <div>
         <h2>Our story</h2>
@@ -132,7 +132,7 @@
         <p>We are entrepreneurs. After years of designing and delivering networks inside big organisations, we came together to build this platform and share our services with the people and businesses who need them.</p>
         <p>We are based in Sydney and work with clients across Australia.</p>
       </div>
-      <div class="facts">
+      <div class="facts reveal" data-delay="120">
         <div class="fact"><b>Based in</b>Sydney, NSW</div>
         <div class="fact"><b>Address</b><span id="addr"></span></div>
         <div class="fact"><b>Serving</b>Australia-wide</div>
@@ -141,20 +141,20 @@
     </div>
   </section>
 
-  <section class="soft">
+  <section class="soft reveal" data-delay="80">
     <div class="wrap">
       <h2>Tools and insights</h2>
       <p class="lead">Free calculators and live information for network and migration planning.</p>
       <div class="toolcards">
-        <a href="tools.html#fibre-loss"><b>Fibre loss calculator</b><span>End-to-end link loss and margin.</span></a>
-        <a href="tools.html#dwdm-budget"><b>DWDM link budget</b><span>Span loss and OSNR margin.</span></a>
-        <a href="tools.html#visa"><b>Visa fees and times</b><span>Official Home Affairs data, refreshed daily.</span></a>
-        <a href="tools.html#news"><b>Telecom news</b><span>4G, 5G, fibre, DWDM and innovation.</span></a>
+        <a href="tools.html#fibre-loss" class="reveal" data-delay="0"><b>Fibre loss calculator</b><span>End-to-end link loss and margin.</span></a>
+        <a href="tools.html#dwdm-budget" class="reveal" data-delay="100"><b>DWDM link budget</b><span>Span loss and OSNR margin.</span></a>
+        <a href="tools.html#visa" class="reveal" data-delay="200"><b>Visa fees and times</b><span>Official Home Affairs data, refreshed daily.</span></a>
+        <a href="tools.html#news" class="reveal" data-delay="300"><b>Telecom news</b><span>4G, 5G, fibre, DWDM and innovation.</span></a>
       </div>
     </div>
   </section>
 
-  <section class="cta">
+  <section class="cta reveal">
     <div class="wrap">
       <h2>Planning a network project?</h2>
       <p>Tell us about your fibre, cabling, DWDM or survey requirements and we will get back to you.</p>
@@ -173,6 +173,7 @@
 </footer>
 
 <script src="site.js"></script>
+<script src="animations.js"></script>
 <script>
   document.getElementById("yr").textContent = new Date().getFullYear();
 

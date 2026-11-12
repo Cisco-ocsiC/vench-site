@@ -29,8 +29,27 @@ header {
 }
 .nav { display: flex; align-items: center; justify-content: space-between; height: 76px; }
 .brand img { height: 46px; width: auto; mix-blend-mode: multiply; }
-nav a { margin-left: 30px; font-size: .95rem; font-weight: 500; color: var(--muted); transition: color .15s; }
-nav a:hover, nav a.active { color: var(--blue); }
+.nav-indicator {
+  position: absolute; bottom: -2px; left: 0; height: 2px; width: 0;
+  background: var(--blue); border-radius: 1px;
+  transition: width .25s cubic-bezier(.4,0,.2,1), transform .25s cubic-bezier(.4,0,.2,1);
+}
+nav a {
+  margin-left: 30px; font-size: .95rem; font-weight: 500; color: var(--muted);
+  transition: color .15s, text-shadow .15s;
+}
+nav a:hover, nav a.active { color: var(--blue); text-shadow: 0 0 12px rgba(10,90,160,.18); }
+
+/* ---- Scroll-reveal base ---- */
+.reveal {
+  opacity: 0;
+  transform: translateY(24px);
+  transition: opacity .55s cubic-bezier(.22,.61,.36,1), transform .55s cubic-bezier(.22,.61,.36,1);
+}
+.reveal.seen {
+  opacity: 1;
+  transform: translateY(0);
+}
 
 .hero { padding: 80px 0; background: linear-gradient(180deg, #fff 0%, var(--bg-soft) 100%); border-bottom: 1px solid var(--line); }
 .hero-grid { display: grid; grid-template-columns: 1.15fr 1fr; gap: 56px; align-items: center; }
@@ -64,9 +83,17 @@ h3 { color: var(--navy); }
 .card {
   background: #fff; border: 1px solid var(--line); border-radius: 12px; padding: 30px;
   border-top: 3px solid var(--teal);
-  transition: box-shadow .2s, transform .2s;
+  transition: box-shadow .25s cubic-bezier(.4,0,.2,1), transform .25s cubic-bezier(.4,0,.2,1);
+  will-change: transform;
 }
-.card:hover { box-shadow: 0 14px 34px rgba(31,41,55,.09); transform: translateY(-3px); }
+.card:hover { box-shadow: 0 16px 40px rgba(10,90,160,.12); transform: translateY(-4px); }
+
+/* ---- Subtle pulse on CTA button ---- */
+@keyframes pulse-glow {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(20,184,148,.3); }
+  50% { box-shadow: 0 0 0 10px rgba(20,184,148,0); }
+}
+.cta .btn { animation: pulse-glow 2.4s ease-in-out infinite; }
 .num { font-size: .85rem; font-weight: 700; letter-spacing: .14em; color: var(--blue); }
 .card h3 { margin: 10px 0 12px; font-size: 1.15rem; line-height: 1.3; }
 .card p { color: var(--muted); font-size: .96rem; }
