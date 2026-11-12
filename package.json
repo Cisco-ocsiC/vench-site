@@ -1,0 +1,23 @@
+{
+  "name": "vench",
+  "version": "1.0.0",
+  "description": "",
+  "main": "animations.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cisco-ocsiC/vench-site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cisco-ocsiC/vench-site/issues"
+  },
+  "homepage": "https://github.com/Cisco-ocsiC/vench-site#readme",
+  "dependencies": {
+    "sharp": "^0.35.5"
+  }
+}
