@@ -297,10 +297,10 @@ function doLogout() {
   location.reload();
 }
 
-function showDashboard() {
+async function showDashboard() {
   document.getElementById("loginScreen").classList.add("hidden");
   document.getElementById("adminDash").classList.remove("hidden");
-  loadSettings();
+  await loadSettings();
   loadStats();
   renderPageToggles();
 }
@@ -316,18 +316,16 @@ function showTab(name) {
 var _settings = null;
 var _settingsLoaded = false;
 
-function getSettingsFromStorage() {
+async function getSettingsFromStorage() {
   try {
     var saved = JSON.parse(localStorage.getItem("vench.settings"));
     if (saved) return saved;
   } catch(e) {}
   // Fallback to settings.json file if localStorage is empty
   try {
-    var resp = new XMLHttpRequest();
-    resp.open("GET", "settings.json?t=" + Date.now(), false); // synchronous
-    resp.send();
-    if (resp.status === 200) {
-      return JSON.parse(resp.responseText);
+    var resp = await fetch("settings.json?t=" + Date.now(), { cache: 'no-store' });
+    if (resp.ok) {
+      return await resp.json();
     }
   } catch(e) {}
   // Ultimate fallback defaults
@@ -336,8 +334,8 @@ function getSettingsFromStorage() {
     "terms.html":{"published":true,"navLabel":"Terms of Service"}},"profile":{"name":"Admin","email":"hello@vench.cc","phone":"+61 2 9000 0000"}};
 }
 
-function loadSettings() {
-  _settings = getSettingsFromStorage();
+async function loadSettings() {
+  _settings = await getSettingsFromStorage();
   applySettingsToForm(_settings);
   _settingsLoaded = true;
   document.getElementById("saveSettingsBtn").disabled = false;
@@ -358,8 +356,8 @@ function applySettingsToForm(s) {
   document.getElementById("pPhone").value = s.profile.phone || "";
 }
 
-function saveSettings() {
-  var s = getSettingsFromStorage() || {};
+async function saveSettings() {
+  var s = await getSettingsFromStorage() || {};
   s.site = { name: document.getElementById("sName").value, tagline: document.getElementById("sTagline").value, logo: document.getElementById("sLogo").value, abn: document.getElementById("sABN").value, footerPhotos: document.getElementById("sFooter").value };
   s.contact = { email: document.getElementById("cEmail").value, phone: document.getElementById("cPhone").value, address: document.getElementById("cAddress").value, enquirySubject: document.getElementById("cSubject").value };
   try { localStorage.setItem("vench.settings", JSON.stringify(s)); } catch(e) {}
@@ -379,8 +377,8 @@ function saveProfile() {
   setTimeout(function(){ document.getElementById("profileMsg").textContent = ""; }, 3000);
 }
 
-function publishSettings() {
-  var s = getSettingsFromStorage();
+async function publishSettings() {
+  var s = await getSettingsFromStorage();
   // Update site info from form fields
   s.site = { name: document.getElementById("sName").value, tagline: document.getElementById("sTagline").value, logo: document.getElementById("sLogo").value, abn: document.getElementById("sABN").value, footerPhotos: document.getElementById("sFooter").value };
   // Update contact details from form fields
@@ -444,12 +442,14 @@ function renderPageToggles() {
     return '<div class="toggle-row"><div><strong>' + p.navLabel + '</strong><div class="note">' + k + '</div></div><label class="switch"><input type="checkbox" ' + (p.published !== false ? 'checked' : '') + ' onchange="togglePage(\'' + k + '\', this.checked)"><span class="slider"></span></label></div>';
   }).join("");
 }
-function togglePage(page, visible) {
-  var s = getSettingsFromStorage();
+async function togglePage(page, visible) {
+  var s = await getSettingsFromStorage();
   s.pages = s.pages || {};
   s.pages[page] = s.pages[page] || {};
   s.pages[page].published = visible;
-  s.pages[page].navLabel = document.querySelector('input[onchange*="' + page + '"]').closest('.toggle-row').querySelector('strong').textContent;
+  // Escape # in CSS selector (used for fragment pages like tools.html#fibre-loss)
+  var escapedPage = page.replace(/#/g, '\\#');
+  s.pages[page].navLabel = document.querySelector('input[onchange*="' + escapedPage + '"]').closest('.toggle-row').querySelector('strong').textContent;
   _settings = s;
   // Save to localStorage for local preview
   try { localStorage.setItem("vench.settings", JSON.stringify(s)); } catch(e) {}
