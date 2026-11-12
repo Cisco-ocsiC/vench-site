@@ -172,7 +172,8 @@ input:checked + .slider:before { transform: translateX(20px); }
         <label>Enquiry Subject Prefix</label>
         <input id="cSubject" type="text">
       </div>
-      <button class="btn" onclick="saveSettings()">Save Settings</button>
+      <button id="saveSettingsBtn" class="btn" onclick="saveSettings()">Save Settings (This Browser Only)</button>
+      <button class="btn secondary" style="margin-left:10px" onclick="publishSettings()">Publish Globally</button>
       <span class="note" id="settingsMsg"></span>
     </div>
 
@@ -304,12 +305,31 @@ function showTab(name) {
 
 // ---- SETTINGS ----
 var _settings = null;
-function loadSettings() {
-  var defaults = {"version":1,"site":{"name":"Vench","tagline":"Sydney, Australia","logo":"logo.jpg","abn":"99 999 999 999","footerPhotos":"Photos: Unsplash"},"contact":{"name":"Vench","email":"hello@vench.cc","phone":"+61 2 9000 0000","enquirySubject":"Vench enquiry"},"pages":{"index.html":{"published":true,"navLabel":"Services"},"tools.html":{"published":true,"navLabel":"Tools"},"cabling.html":{"published":true,"navLabel":"Tie cable design"},"dwdm.html":{"published":true,"navLabel":"DWDM design"},"survey.html":{"published":true,"navLabel":"Survey & as-built"},"enquire.html":{"published":true,"navLabel":"Enquire"},"fibre.html":{"published":true,"navLabel":"Fibre design"}},"profile":{"name":"Admin","email":"hello@vench.cc","phone":"+61 2 9000 0000"}};
+var _settingsLoaded = false;
+
+function getSettingsFromStorage() {
   try {
-    var remote = fetch("settings.json").then(function(r){ return r.json(); }).catch(function(){ return null; });
-    return Promise.all([remote]).then(function(res){ _settings = res[0] || defaults; applySettingsToForm(_settings); return _settings; });
-  } catch(e) { _settings = defaults; applySettingsToForm(_settings); return Promise.resolve(_settings); }
+    var saved = JSON.parse(localStorage.getItem("vench.settings"));
+    if (saved) return saved;
+  } catch(e) {}
+  // Fallback to settings.json file if localStorage is empty
+  try {
+    var resp = new XMLHttpRequest();
+    resp.open("GET", "settings.json?t=" + Date.now(), false); // synchronous
+    resp.send();
+    if (resp.status === 200) {
+      return JSON.parse(resp.responseText);
+    }
+  } catch(e) {}
+  // Ultimate fallback defaults
+  return {"version":1,"site":{"name":"Vench","tagline":"Sydney, Australia","logo":"logo.jpg","abn":"99 999 999 999","footerPhotos":"Photos: Unsplash"},"contact":{"name":"Vench","email":"hello@vench.cc","phone":"+61 2 9000 0000","enquirySubject":"Vench enquiry"},"pages":{"index.html":{"published":true,"navLabel":"Services"},"tools.html":{"published":true,"navLabel":"Tools"},"cabling.html":{"published":true,"navLabel":"Tie cable design"},"dwdm.html":{"published":true,"navLabel":"DWDM design"},"survey.html":{"published":true,"navLabel":"Survey & as-built"},"enquire.html":{"published":true,"navLabel":"Enquire"},"fibre.html":{"published":true,"navLabel":"Fibre design"}},"profile":{"name":"Admin","email":"hello@vench.cc","phone":"+61 2 9000 0000"}};
+}
+
+function loadSettings() {
+  _settings = getSettingsFromStorage();
+  applySettingsToForm(_settings);
+  _settingsLoaded = true;
+  document.getElementById("saveSettingsBtn").disabled = false;
 }
 
 function applySettingsToForm(s) {
@@ -328,12 +348,14 @@ function applySettingsToForm(s) {
 }
 
 function saveSettings() {
-  var s = _settings || {};
+  var s = getSettingsFromStorage() || {};
   s.site = { name: document.getElementById("sName").value, tagline: document.getElementById("sTagline").value, logo: document.getElementById("sLogo").value, abn: document.getElementById("sABN").value, footerPhotos: document.getElementById("sFooter").value };
   s.contact = { email: document.getElementById("cEmail").value, phone: document.getElementById("cPhone").value, address: document.getElementById("cAddress").value, enquirySubject: document.getElementById("cSubject").value };
-  try { localStorage.setItem("vench.settings", JSON.stringify(s)); localStorage.setItem("vench.settings.remote", JSON.stringify(s)); } catch(e) {}
+  try { localStorage.setItem("vench.settings", JSON.stringify(s)); } catch(e) {}
+  // Also update the settings.json in memory by reloading page
+  _settings = s;
   document.getElementById("settingsMsg").className = "note ok";
-  document.getElementById("settingsMsg").textContent = "Settings saved to browser storage.";
+  document.getElementById("settingsMsg").textContent = "Settings saved! Refresh the site to see changes.";
   setTimeout(function(){ document.getElementById("settingsMsg").textContent = ""; }, 3000);
 }
 
@@ -344,6 +366,25 @@ function saveProfile() {
   document.getElementById("profileMsg").className = "note ok";
   document.getElementById("profileMsg").textContent = "Profile saved.";
   setTimeout(function(){ document.getElementById("profileMsg").textContent = ""; }, 3000);
+}
+
+function publishSettings() {
+  var s = getSettingsFromStorage();
+  // Update site info from form fields
+  s.site = { name: document.getElementById("sName").value, tagline: document.getElementById("sTagline").value, logo: document.getElementById("sLogo").value, abn: document.getElementById("sABN").value, footerPhotos: document.getElementById("sFooter").value };
+  // Update contact details from form fields
+  s.contact = { email: document.getElementById("cEmail").value, phone: document.getElementById("cPhone").value, address: document.getElementById("cAddress").value, enquirySubject: document.getElementById("cSubject").value };
+  // Preserve page visibility and profile as-is
+  var published = JSON.stringify(s, null, 2);
+  var blob = new Blob([published], {type: 'application/json'});
+  var url = URL.createObjectURL(blob);
+  var a = document.createElement("a");
+  a.href = url; a.download = "settings.json";
+  document.body.appendChild(a); a.click(); document.body.removeChild(a);
+  URL.revokeObjectURL(url);
+  document.getElementById("settingsMsg").className = "note ok";
+  document.getElementById("settingsMsg").textContent = "Downloaded settings.json — upload to GitHub to push changes globally.";
+  setTimeout(function(){ document.getElementById("settingsMsg").textContent = ""; }, 4000);
 }
 
 function changePassword() {
@@ -391,7 +432,7 @@ function renderPageToggles() {
   }).join("");
 }
 function togglePage(page, visible) {
-  var s = _settings || {};
+  var s = getSettingsFromStorage();
   s.pages = s.pages || {};
   s.pages[page] = s.pages[page] || {};
   s.pages[page].published = visible;
