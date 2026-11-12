@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T00:45:12.265Z",
+ "updated": "2026-11-12T02:03:27.003Z",
  "items": [
   {
    "topic": "5G",
@@ -87,17 +87,17 @@
   },
   {
    "topic": "Optical fibre",
+   "title": "Ribbon, Viaero Fiber Expand Optical Network Partnership to Support AI Infrastructure",
+   "source": "The Fast Mode",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeUt4RkxxRnhoMUZtVEt6R284bGpZX3JZX3dHWUdLZG8wQXJvaW1QZEY5bDJncTVlUWxXa0Rvb3VGWFZhc3JUdU8wNGdQMGVSXzRydFN5VVl5SkpPdWRPMTRaSHRHZVp4QmpQUS0tLVdYS21RX3pIUndoY0VwSHNaVV9XZWlKZVVUUmo2MVZ3eWk5bUlpaGxWeTRFT1duR21Ia2p0UkZQWG0xRXlHalY5cmdRWnY2azM1NkZ6S1RrdzRvb25peUQ2UFVLb0J5M3FIWmk4UkRDY1J6Zw?oc=5",
+   "date": "2026-11-11T23:09:02.000Z"
+  },
+  {
+   "topic": "Optical fibre",
    "title": "Hollow-Core Fiber Record: 64 Tbps Over 1,007 km [2026]",
    "source": "shattered.io",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9adTFHY0hFVkt2dnN3b2FaWmtKOUxfZGZZTTI3OU5uZXJvb0JxcnV3SDFVOWFKc0FHclhfWGtxWGd1bEs5NWtuaXVkX3Jjc0o1ZWEtejllSktJdjNtc01DaTV6NmYyRVFYVGJ1aEZmZEZDZmdONGNYaHdzemJPQQ?oc=5",
    "date": "2026-11-11T16:29:55.000Z"
-  },
-  {
-   "topic": "Optical fibre",
-   "title": "Riding the AI wave: An Omdia survey of telecom providers",
-   "source": "Light Reading",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMVlXX3p4a0MxVzNKMXV6TWxLZnNUdzVVRjdObVJwUFNzcF84NHR5WWpjUjFCekRKLUNCUGlQcTZRbkxqaGJPbEVxVW5oTGxIUTV3SGQwLVJDa2h4ZFZGN2Zuc2dGZFh0UTlIdHlLVTBhdkR3RmdZOTlqaFYtYjFTZkpwcGtfanZGMmxHV2ZlTnU3SGpNS2pQR0NKQUFFT3dVS0tJVWdlRQ?oc=5",
-   "date": "2026-11-11T14:01:31.000Z"
   },
   {
    "topic": "Optical fibre",
@@ -199,13 +199,6 @@
   },
   {
    "topic": "Innovation",
-   "title": "The transatlantic talent safari: Why Cyprus should look to the Maltese model and what the loss of European primacy in 6G networks means",
-   "source": "CBN.com.cy",
-   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOaWJHQnZMQkZTUERlZmNzYmMzenZmZXFYT1J3VDhZR3FtX01GMU5pZkxMNC1PU0xqUVF1dFJVRUNkMTNRZFhVaTRiUGlOVHY3RTBZTDIwUmh2N1NlMFBmTERjMjBfVTZRYXdqN0JMaV9zMkxDSWNMYkZrRWlieFA0RTVWLWpyTjFaSFNVWUFhZGhGM0JINlg1OTVNVHNPTFVDaWJIV0tiTUwzd1pLUHlQWVg4NW85RkxxSnRjQ1dYM05XR1pCUUFCcnh2blpUT0lfdExuUWtwalJETlVIbTNVUnhxbzJzMERST2NyR2szdTdabTFHbzU2UmhmSmlxM2Z2bkE?oc=5",
-   "date": "2026-11-09T05:10:35.000Z"
-  },
-  {
-   "topic": "Innovation",
    "title": "Optus completes world-first validation of Cisco Live Protect",
    "source": "ARNnet",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRWNYNDFZXzlySE1iZ1VPMi1xbXdQUHpxcS15T0pKSWZjb0xtZk5rTUt6YlpyOFhtdTN3T2NXVklCZmRocWFXZDI4UFdlZ1JZbmdudDlTcnpYdm9kUzc2VFBNbmZMWHRmajQ0YW45ZUt2THpRRDd1eGN0bmFKREJqa3VPNkZBMnZGRy1nMlVjeXQ5TzRaTVgtSnUyX3BsWlFVcU9pRmx2OU9lc0k?oc=5",
@@ -215,8 +208,15 @@
    "topic": "Innovation",
    "title": "CRA Showcases Results of Advanced Technology Trials Paving Way for 6G at MWC26 Doha",
    "source": "Qatar news agency",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPblAzMkpkLXFWX2haYVM0Rmdvc1dTc2djQ0JaX2VyT2IxZFRGWW9yRnJiRi1QSXR6MlFuTnotdnR6Z05CV1lxRHRPanR5ZmFoN1hsUDVWcW5KZXlQdUFZUFFSRU1paDZqWHJMaGMzX0FlQ09KM2w5VTRwLUItTVNsakpBVnVsQXlpeXBHbFBkR2psQ3lCdFBJTHZNc2tKT3pqT1MwZFFobFZHeEVjNVdqU3hBdi1lMzZsOHlMVlRkYUJydnQ1ME92eXd3?oc=5",
-   "date": "2026-11-08T19:23:27.000Z"
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcHllUS00YUZnckVqY20tUGhDc3FfSmVmSFh4Ul9sMVFUMzhiM2t0N2t2c2swUEhoSTBreTJtVDFYU3drTlFvbFpvMWdaNld5MG5Hd1VZT3YyMUE4MFdBdXo0YzZHNzNoSkdQRldDenpOVXpxczcyRFBaejVNVU5BNHZRT3ItUExsaVUxYnoyVWx0Y2FOdlduak9YeEZxVlZ6MWlHNloyR0dsV3ZjLTFGdVZUQTJuaTZDYlQzcVprcG5Iazhfa0s4SHdnekRTdUc1NkpHT2hqUHI?oc=5",
+   "date": "2026-11-08T19:23:28.000Z"
+  },
+  {
+   "topic": "Innovation",
+   "title": "6G phones arrive in 2030. The fight over the airwaves has already begun",
+   "source": "SMH.com.au",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVzZDQS14WXNKdmU3Ykc3akNKOTdpYnpLV1B3YjYweXJEdERsT0E3eHA2YXRsSVhPRHJpZVJodF93aWsta2RUNkdFVWhmNUNpNFdfYXc4VzYzdnR0WnZHM1IxSUNzRkRCY3d1c1dsZnpZemRPbE9vTmM0T0YxNVkzZGoyWG1GbkhhSk42WlhWaEgydWZ4VHNpM0VOY2NKRWVPdFZsaU1WZXpOTms0TFhfQmozbklIVG4xMEtWVk96TnNjWG8?oc=5",
+   "date": "2026-11-07T23:06:08.000Z"
   }
  ]
 }
