@@ -69,6 +69,14 @@
     "fibre.html": {
       "published": true,
       "navLabel": "Fibre design"
+    },
+    "privacy.html": {
+      "published": true,
+      "navLabel": "Privacy Policy"
+    },
+    "terms.html": {
+      "published": true,
+      "navLabel": "Terms of Service"
     }
   },
   "profile": {
