@@ -331,7 +331,9 @@ function getSettingsFromStorage() {
     }
   } catch(e) {}
   // Ultimate fallback defaults
-  return {"version":1,"site":{"name":"Vench","tagline":"Sydney, Australia","logo":"logo.jpg","abn":"99 999 999 999","footerPhotos":"Photos: Unsplash"},"contact":{"name":"Vench","email":"hello@vench.cc","phone":"+61 2 9000 0000","enquirySubject":"Vench enquiry"},"pages":{"index.html":{"published":true,"navLabel":"Services"},"tools.html":{"published":true,"navLabel":"Tools"},"cabling.html":{"published":true,"navLabel":"Tie cable design"},"dwdm.html":{"published":true,"navLabel":"DWDM design"},"survey.html":{"published":true,"navLabel":"Survey & as-built"},"enquire.html":{"published":true,"navLabel":"Enquire"},"fibre.html":{"published":true,"navLabel":"Fibre design"}},"profile":{"name":"Admin","email":"hello@vench.cc","phone":"+61 2 9000 0000"}};
+  return {"version":1,"site":{"name":"Vench","tagline":"Sydney, Australia","logo":"logo.jpg","abn":"99 999 999 999","footerPhotos":"Photos: Unsplash"},"contact":{"name":"Vench","email":"hello@vench.cc","phone":"+61 2 9000 0000","enquirySubject":"Vench enquiry"},"pages":{"index.html":{"published":true,"navLabel":"Services"},"tools.html":{"published":true,"navLabel":"Tools"},"cabling.html":{"published":true,"navLabel":"Tie cable design"},"dwdm.html":{"published":true,"navLabel":"DWDM design"},"survey.html":{"published":true,"navLabel":"Survey & as-built"},"enquire.html":{"published":true,"navLabel":"Enquire"},"fibre.html":{"published":true,"navLabel":"Fibre design"},
+    "privacy.html":{"published":true,"navLabel":"Privacy Policy"},
+    "terms.html":{"published":true,"navLabel":"Terms of Service"}},"profile":{"name":"Admin","email":"hello@vench.cc","phone":"+61 2 9000 0000"}};
 }
 
 function loadSettings() {
@@ -431,7 +433,9 @@ function renderPageToggles() {
     "dwdm.html":{"published":true,"navLabel":"DWDM design"},
     "survey.html":{"published":true,"navLabel":"Survey & as-built"},
     "enquire.html":{"published":true,"navLabel":"Enquire"},
-    "fibre.html":{"published":true,"navLabel":"Fibre design"}
+    "fibre.html":{"published":true,"navLabel":"Fibre design"},
+    "privacy.html":{"published":true,"navLabel":"Privacy Policy"},
+    "terms.html":{"published":true,"navLabel":"Terms of Service"}
   };
   var merged = Object.assign({}, defaults);
   for (var k in pages) merged[k] = pages[k];
