@@ -125,6 +125,11 @@ h3 { color: var(--navy); }
 .cta p { color: var(--muted); margin: 0 auto 32px; max-width: 540px; font-size: 1.05rem; }
 
 .page-head { padding: 64px 0 52px; background: linear-gradient(180deg, #fff 0%, var(--bg-soft) 100%); border-bottom: 1px solid var(--line); }
+.page-head .eyebrow, .page-head h1, .page-head p { opacity: 0; transform: translateY(20px); transition: opacity .5s ease, transform .5s cubic-bezier(.22,.61,.36,1); }
+.page-head.revealed .eyebrow, .page-head.revealed h1, .page-head.revealed p { opacity: 1; transform: translateY(0); }
+.page-head.revealed .eyebrow { transition-delay: .05s; }
+.page-head.revealed h1   { transition-delay: .15s; }
+.page-head.revealed p    { transition-delay: .25s; }
 .page-head p { color: var(--muted); max-width: 640px; font-size: 1.1rem; margin-top: 8px; }
 
 .detail { display: grid; grid-template-columns: 1.4fr 1fr; gap: 56px; align-items: start; }

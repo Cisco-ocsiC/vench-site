@@ -53,6 +53,20 @@
 
   // Re-observe after dynamic content loads
   window._venchReobserve = function () { observe(); reveals.forEach(function (el) { io.observe(el); }); };
+
+  // ---- Page-head fade-in on inner pages ----
+  document.querySelectorAll(".page-head").forEach(function (ph) {
+    ph.classList.add("reveal-ready");
+    var ro = new IntersectionObserver(function (entries) {
+      entries.forEach(function (entry) {
+        if (entry.isIntersecting) {
+          entry.target.classList.add("revealed");
+          ro.unobserve(entry.target);
+        }
+      });
+    }, { threshold: 0.15 });
+    ro.observe(ph);
+  });
 })();
 
 // ---- Slider text animation ----
