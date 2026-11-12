@@ -124,25 +124,34 @@ input:checked + .slider:before { transform: translateX(20px); }
 
     <!-- OVERVIEW TAB -->
     <div id="tab-overview" class="panel on">
-      <div class="grid">
-        <div class="stat"><div class="num" id="totalVisits">0</div><div class="lbl">Total Visits</div></div>
-        <div class="stat"><div class="num" id="todayVisits">0</div><div class="lbl">Today</div></div>
-        <div class="stat"><div class="num" id="lastPage">—</div><div class="lbl">Last Page</div></div>
-        <div class="stat"><div class="num" id="activePages">0</div><div class="lbl">Active Pages</div></div>
+      <div class="card" style="margin-bottom:20px;">
+        <h3>Analytics</h3>
+        <div class="grid">
+          <div class="stat"><div class="num" id="totalVisits">0</div><div class="lbl">Total Visits</div></div>
+          <div class="stat"><div class="num" id="todayVisits">0</div><div class="lbl">Today</div></div>
+          <div class="stat"><div class="num" id="activePages">0</div><div class="lbl">Active Pages</div></div>
+        </div>
       </div>
-
       <div class="card" style="margin-bottom:20px;">
         <h3>Last 7 Days Visits</h3>
         <div class="chart-bar" id="chart"></div>
         <div class="chart-labels" id="chartLabels"></div>
       </div>
-
-      <div class="card">
-        <h3>Top Pages</h3>
-        <table>
-          <thead><tr><th>Page</th><th>Views</th></tr></thead>
-          <tbody id="topPages"></tbody>
-        </table>
+      <div class="grid">
+        <div class="card">
+          <h3>Top Pages</h3>
+          <table>
+            <thead><tr><th>Page</th><th>Views</th></tr></thead>
+            <tbody id="topPages"></tbody>
+          </table>
+        </div>
+        <div class="card">
+          <h3>Referrers</h3>
+          <table>
+            <thead><tr><th>Source</th><th>Count</th></tr></thead>
+            <tbody id="referrers"></tbody>
+          </table>
+        </div>
       </div>
     </div>
 
@@ -461,6 +470,7 @@ function loadStats() {
   }
   renderChart(days, todayKey);
   renderTopPages(pages);
+  renderReferrers(stats.refs || {});
 }
 
 function renderChart(days, todayKey) {
@@ -488,6 +498,16 @@ function renderTopPages(pages) {
   var sorted = Object.entries(pages).sort(function(a,b){ return b[1] - a[1]; }).slice(0, 10);
   if (sorted.length === 0) { tbody.innerHTML = '<tr><td colspan="2" class="empty">No data yet.</td></tr>'; return; }
   tbody.innerHTML = sorted.map(function(e){ return '<tr><td>' + e[0].replace(/\.html$/,'') + '</td><td>' + e[1] + '</td></tr>'; }).join("");
+}
+
+function renderReferrers(refs) {
+  var tbody = document.getElementById("referrers");
+  var sorted = Object.entries(refs).sort(function(a,b){ return b[1] - a[1]; }).slice(0, 10);
+  if (sorted.length === 0) { tbody.innerHTML = '<tr><td colspan="2" class="empty">No referrer data yet.</td></tr>'; return; }
+  tbody.innerHTML = sorted.map(function(e){
+    var label = e[0].length > 30 ? e[0].slice(0, 27) + "..." : e[0];
+    return '<tr><td title="' + e[0] + '">' + label + '</td><td>' + e[1] + '</td></tr>';
+  }).join("");
 }
 
 // ---- EXPORT / CLEAR ----

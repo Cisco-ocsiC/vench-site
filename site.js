@@ -68,6 +68,7 @@
 
   // Public helpers used by admin.html
   window.Vench = window.Vench || {};
+  var _startTime = Date.now();
   window.Vench.Visit = {
     record: function (page) {
       if (ADMIN.test(location.pathname)) return;
@@ -75,15 +76,36 @@
       var day = todayKey();
       v.days = v.days || {};
       v.pages = v.pages || {};
+      v.pageTime = v.pageTime || {};
       v.days[day] = (v.days[day] || 0) + 1;
       v.pages[page] = (v.pages[page] || 0) + 1;
-      v.last = { day: day, page: page, ref: document.referrer || "(direct)", at: new Date().toISOString() };
-      save(v);
-      if (GA_ID) {
-        try { if (window.gtag) gtag("event", "page_view", { page_path: page, measurement_id: GA_ID }); } catch (e) {}
+      var elapsed = Math.round((Date.now() - _startTime) / 1000);
+      v.last = { day: day, page: page, ref: document.referrer || "(direct)", at: new Date().toISOString(), timeOnPage: elapsed };
+      // Track average time on page
+      if (elapsed > 0) {
+        var t = v.pageTime[page] || { total: 0, count: 0 };
+        t.total += elapsed; t.count++; t.avg = Math.round(t.total / t.count);
+        v.pageTime[page] = t;
       }
+      // Referrer counts
+      v.refs = v.refs || {};
+      var ref = document.referrer || "(direct)";
+      v.refs[ref] = (v.refs[ref] || 0) + 1;
+      save(v);
     },
-    stats: function () { return load(); }
+    stats: function () { return load(); },
+    // End timer when user navigates away
+    leave: function () {
+      var p = location.pathname.replace(/.*\//, "") || "index.html";
+      var elapsed = Math.round((Date.now() - _startTime) / 1000);
+      var v = load();
+      v.pageTime = v.pageTime || {};
+      var t = v.pageTime[p] || { total: 0, count: 0 };
+      t.total += elapsed; t.count++; t.avg = Math.round(t.total / t.count);
+      v.pageTime[p] = t;
+      save(v);
+      _startTime = Date.now();
+    }
   };
 
   // Record the current page view once, after the DOM is ready.

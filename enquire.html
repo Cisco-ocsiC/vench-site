@@ -125,22 +125,25 @@
       status.textContent = "Please fill in your name, email and project details.";
       return;
     }
-    var c = (window.Vench && window.Vench.Contact) || {};
-    var email = c.email || "";
-    var subjectPrefix = c.enquirySubject || "Vench enquiry";
-    if (!email) {
+
+    // Send to formspree (or any simple webhook endpoint)
+    status.textContent = "Sending...";
+    fetch("https://formspree.io/f/xvonzgwb", {
+      method: "POST",
+      body: new FormData(f),
+      headers: { 'Accept': 'application/json' }
+    }).then(function(r) {
+      if (r.ok) {
+        status.className = "note ok";
+        status.textContent = "Thank you! We have received your enquiry.";
+        f.reset();
+      } else {
+        throw new Error("Could not send.");
+      }
+    }).catch(function() {
       status.className = "note err";
-      status.textContent = "The enquiry form is not active yet. Please check back soon.";
-      return;
-    }
-    var body = "Name: " + f.name.value + "\nOrganisation: " + f.org.value +
-               "\nEmail: " + f.email.value + "\nService: " + f.service.value +
-               "\nEngagement: " + f.engage.value +
-               "\n\n" + f.message.value;
-    window.location.href = "mailto:" + email +
-      "?subject=" + encodeURIComponent(subjectPrefix + ": " + f.service.value) +
-      "&body=" + encodeURIComponent(body);
-    status.textContent = "Opening your email app to send the enquiry.";
+      status.textContent = "There was an error sending your enquiry. Please email us directly.";
+    });
   });
 </script>
 </body>

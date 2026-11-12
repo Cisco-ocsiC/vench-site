@@ -1,0 +1,49 @@
+name: Auto-Update Settings
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'settings.json'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-settings:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 2
+
+      - name: Validate settings.json
+        run: |
+          if [ ! -f settings.json ]; then
+            echo "Error: settings.json not found"
+            exit 1
+          fi
+          python3 -c "import json; json.load(open('settings.json'))" && echo "JSON valid" || (echo "Invalid JSON"; exit 1)
+
+      - name: Check if changes exist
+        id: check
+        run: |
+          git diff HEAD~1 -- settings.json > /tmp/settings.diff 2>/dev/null || true
+          if [ -s /tmp/settings.diff ]; then
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+          else
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push changes
+        if: steps.check.outputs.has_changes == 'true'
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+          git add settings.json
+          git commit -m "Auto-update: Update site settings" || echo "No changes to commit"
+          git pull --rebase origin main
+          git push origin main
