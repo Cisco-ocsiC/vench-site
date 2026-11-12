@@ -301,8 +301,8 @@ async function showDashboard() {
   document.getElementById("loginScreen").classList.add("hidden");
   document.getElementById("adminDash").classList.remove("hidden");
   await loadSettings();
+  await renderPageToggles();
   loadStats();
-  renderPageToggles();
 }
 
 function showTab(name) {
@@ -310,6 +310,7 @@ function showTab(name) {
   document.querySelectorAll(".tab").forEach(function(t,i){ t.classList.toggle("active", tabNames[i]===name); });
   document.querySelectorAll(".panel").forEach(function(p){ p.classList.toggle("on", p.id === "tab-" + name); });
   if (name === "overview") loadStats();
+  if (name === "pages") renderPageToggles();
 }
 
 // ---- SETTINGS ----
@@ -414,8 +415,9 @@ function changePassword() {
 }
 
 // ---- PAGES TOGGLES ----
-function renderPageToggles() {
+async function renderPageToggles() {
   var container = document.getElementById("pageToggles");
+  if (!container) return;
   var pages = (_settings && _settings.pages) || {};
   var defaults = {
     "index.html":{"published":true,"navLabel":"Services"},
