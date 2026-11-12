@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-12T04:44:09.785Z",
+ "updated": "2026-11-12T05:47:15.888Z",
  "items": [
+  {
+   "topic": "5G",
+   "title": "Optus' network takes home most awards in new Opensignal report",
+   "source": "WhistleOut",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQVdLZlNTRGY5Nk1wQU0tdHZ6ZkV5R1hMWEc4NVhrSEJWM2haLS1GaHVHdy1WZEx2T3pBTERqVW1IaVRhbUdWU0FvVWVCUUNxMy1ZcVB6U1VXeTBNbWZmVmJvQ3hRTXVfUVY0bzRXRXJ1cVJpMU5CemNTYl9BX3JYX0h4R0YtV292SVlnZ19MQ3VMOVFO?oc=5",
+   "date": "2026-11-12T05:11:28.000Z"
+  },
+  {
+   "topic": "5G",
+   "title": "Optus, Nokia go high on low-band 5G",
+   "source": "Mobile World Live",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ2hCMjdFZWpYbTVFQmpqR0laVjFwYUs5MFhFTW9qQUtHbC1jbkRMQVpzdklBdDVzZWJGZnItV0RsX3RBaHk5M2tmQU55ZVRha2xEM3pubmo0azZtZHBwbnhrWnYtUWV2Nm9BUThodlh0VmZ3ck9NRTAwenBvMl9ZYW5pT2E4ZUE?oc=5",
+   "date": "2026-11-11T12:32:27.000Z"
+  },
   {
    "topic": "5G",
    "title": "Optus and Nokia demonstrate asymmetric 5G configuration using 900 MHz",
@@ -30,20 +44,6 @@
    "date": "2026-11-10T14:13:20.000Z"
   },
   {
-   "topic": "5G",
-   "title": "AGL discounts: Up to $250 back on energy, internet and mobile deals + free Netflix",
-   "source": "Finder.com.au",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNmsxbzVxT2hUWmNZbVJpQnlfekgxQzRJRVIwaVY1RW5iQ0ZSLThSbUFyaUh2bkhBVG5BR09xM0gxMHM5U21OSWhFODdYanhsTXRBcVZ6MmV2dXJvTmZrS1NKd1B1TEh5bTRJOFNEUk1HNW5VQVpvUlhwV2x6TWh0RFNuRnc?oc=5",
-   "date": "2026-11-09T23:30:00.000Z"
-  },
-  {
-   "topic": "5G",
-   "title": "National Wireless signs Mobile Tornado deal for ANZ",
-   "source": "TelcoNews Australia",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUWNQZjNQUVUwQkZfMDZCaDRCMkRBMTBUWW1Yb3BaRGdhbjZjbHN1dnZFd1daZGZGczJtaVM2dWZBVmgzbG40Ym8tMFJVZWJXY0V5azlXZFQybVZ0YldXeFNfYzRVNFdTRGZuQlhsRWJXekVqME5CNjc4NWdDSWQtUzRZNDduNkpZMXc?oc=5",
-   "date": "2026-11-09T21:45:00.000Z"
-  },
-  {
    "topic": "4G",
    "title": "5G, Data Demand Drive Vietnam Mobile Revenue Growth",
    "source": "Content + Technology",
@@ -56,13 +56,6 @@
    "source": "BNamericas",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNTRWVmEtM0RISzE3U05JeEZlWnc4TjRoWEVJekFDcy1mOGlUZk9mUGk4cU1OSVFLWHZid200RkZsS1JGNEF2bGZ3UGdXZEhyYTBqTEVlWGdmb1IydlNSdTNjNVU1U0hSZ2llX2E1Z2RKMktIZDRHRk90U2RNSmF0U0NGaGI?oc=5",
    "date": "2026-11-11T20:44:39.000Z"
-  },
-  {
-   "topic": "4G",
-   "title": "Google MVNO tight-lipped on its 'super network' carriers",
-   "source": "Telecoms",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYzNQMHdLdEZxcTludHBTYzFpNnBPVEV5cWZsVWdxdjNqYUM2SlZBUk5NVDN2RnpYR1pKaWFhd1IyS0RUTmVWeTFiTElEV3dZZVlTQk8taGZzcXljcUlHY00yb0RlYWJ5dmZrTGNGdWt4YklEMEVLdzRCcFh3Z1ZlYmotY1FHV0d2ZUxaM053?oc=5",
-   "date": "2026-11-11T14:13:19.000Z"
   },
   {
    "topic": "4G",
@@ -86,11 +79,25 @@
    "date": "2026-11-09T13:21:23.000Z"
   },
   {
+   "topic": "4G",
+   "title": "Reliance Jio Leads Mumbai Mobile Network Speed Test with 248.93 Mbps Download, Vodafone Idea Records Zero Call Drops: TRAI",
+   "source": "TelecomLead",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPdlZCUFBEajIyNFFZSXBZSTdIRW9UMUZIRktPbDBVQ2EtdDB3a0hOOUl4ZUwxUVNydlZWSTgzTHVfOW5xTmJWOW45eUs2OHowcGcxcDd2Qi1wSnFqZlpVdC1fak51NXJHWXJPeHgwbS1Bd1ppS3NpUWxtLWxuTWNKWklqMGpMX1JVUWxmeXlENUVfajRiWUxzdlE1eTl6Z0NzbEN4OE5TV01hM19xWmpJZHVDOHNXRHpaanI1Y3pmZ0ZNSE9COExzQk9KM2thMFBjZktWV1R6d3RRZDlhV3hMZFlXRFNjTXg5U2hNOHBaWEkyUWptVGdN0gH3AUFVX3lxTE92VkJQUERqMjI0UVlJcFlJN0hFb1QxRkhGS09sMFVDYS10MHdrSE45SXhlTDFRU3J2VlZJODNMdV85bnFOYlY5bjl5SzY4ejBwZzFwN3ZCLXBKcWpmWlV0LV9qTnU1ckdZck94eDBtLUF3WmlLc2lRbG0tbG5NY0paSWowakxfUlVRbGZ5eUQ1RV9qNGJZTHN2UTV5OXpnQ3NsQ3g4TlNXTWEzX3FaaklkdUM4c1dEelpqcjVjemZnRk1IT0I4THNCT0oza2EwUGNmS1ZXVHp3dFFkOWFXeExkWVdEU2NNeDlTaE04cFpYSTJRam1UZ00?oc=5",
+   "date": "2026-11-09T13:16:22.000Z"
+  },
+  {
+   "topic": "Optical fibre",
+   "title": "HFCL shares gain 2% after securing Rs 834 crore export orders for optical fibre cables",
+   "source": "The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVFFKLUx4ZFV6OGFKcWNSMzVyQnhMNDBMUUlqS0RXUjJDbnBENkhwaG9zVGVNcm9CTjRhZlBDSlRteE1JQnhYSkRmdW9VOHpmazhUV3R0YXNwbXNCWi1fekxubVRXSng3LXdCTHN6RW9TbWNiOUxvbUJvQXNHYTAxQ292UWstU1Nib1VBc1Jkc2QySjZVVk9LTEhhdlVQY1VUVHBJNjliYVl2M0ZiRXA2Ri1hT24wenpSeUtmQkxkbWY0OHViaHZxeHd5QXJSSF83NzRlWlBQSFFGZlNOem5UT9IB5gFBVV95cUxNT180RVdXQkt5c1VxWWpJUVp4Y0ZkVTQxNVNzeXczbFpIem9kVlRtY09CVFB0dkdfXzhwQ0FQaS1iZzFoYkl0N2o4R0g0YTVhbjhkckhRcFRYcG5HNXJCcjRyS2IyYkhMOUtRd3pJU2dRbTB2MWltaTdQUU14VUxoZWFvb1dwMU5YMUdtc0FWRm5vNklZZ1JGZTMwQVpkVkc1Si1taV9MbWNNNHhpMmdrYW1aT2dhT0F3bU14SXdQTTE5YVlRSFJpWUJKNTRlRWlZM3VkQjdzdGx0THZnZGI4STV6dndkUQ?oc=5",
+   "date": "2026-11-12T05:40:37.000Z"
+  },
+  {
    "topic": "Optical fibre",
    "title": "Ribbon, Viaero Fiber Expand Optical Network Partnership to Support AI Infrastructure",
    "source": "The Fast Mode",
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeUt4RkxxRnhoMUZtVEt6R284bGpZX3JZX3dHWUdLZG8wQXJvaW1QZEY5bDJncTVlUWxXa0Rvb3VGWFZhc3JUdU8wNGdQMGVSXzRydFN5VVl5SkpPdWRPMTRaSHRHZVp4QmpQUS0tLVdYS21RX3pIUndoY0VwSHNaVV9XZWlKZVVUUmo2MVZ3eWk5bUlpaGxWeTRFT1duR21Ia2p0UkZQWG0xRXlHalY5cmdRWnY2azM1NkZ6S1RrdzRvb25peUQ2UFVLb0J5M3FIWmk4UkRDY1J6Zw?oc=5",
-   "date": "2026-11-11T23:09:02.000Z"
+   "date": "2026-11-11T23:49:55.000Z"
   },
   {
    "topic": "Optical fibre",
@@ -119,13 +126,6 @@
    "source": "CGTN",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcjJZVFVidjlqSGluZjVzY0RlWGRSUHdhTnQxX29SektTcnVuRUctcVJrM0dMZ1ZVUWxwQ2FnWWhBdzNyZmdBWG1wMzA2OEc4TXphWXlmMENaRTJBdTVmN2xjOXMzTnBWaXcybzRXVTNnWHlJeDkxanladzRQa2k1Tk5ncUtqaEtVMmVDWU5kREVZaGs4UHpTUzlMWGJkcWo2T2RGc3kwT1Zva3dJR0liLUdQQU1raXk4NFpJS2kxZlFnN0Zmb0UtSk5RX1N6dw?oc=5",
    "date": "2026-11-11T03:04:49.000Z"
-  },
-  {
-   "topic": "Optical fibre",
-   "title": "Ribbon extends partnership with Viaero Fiber Networks",
-   "source": "Telecompaper",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVWJ0MXcxWGxZV0xhMkJxaFpQUkxpTVBmeUJ0X0pYblNIb1pHM2FGSEc5Uk10MGF4MHNUT25WeEpHU1NpOFRPd2MwWU5tQlNVcDZ1X08wNlYza1EtMEFQcnZySUdtc1E5SGJKeV9NVzh5Z0RjdHJEY0xHLWszZGtaa1ZoN21jcTNSSkFVczNGek5SdGJkN25COHMxX2Q?oc=5",
-   "date": "2026-11-10T19:57:52.000Z"
   },
   {
    "topic": "DWDM",
