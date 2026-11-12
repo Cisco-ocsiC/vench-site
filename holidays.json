@@ -1,68 +1,319 @@
 {
- "updated": "2026-11-01T04:00:00.000Z",
+ "updated": "2026-11-12T19:46:59.990Z",
  "source": "Fair Work Ombudsman",
  "years": {
   "2026": [
-   {"d":"2026-01-01","n":"New Year's Day","s":"ACT NSW NT QLD SA TAS VIC WA"},
-   {"d":"2026-01-26","n":"Australia Day","s":"ACT NSW NT QLD SA TAS VIC WA"},
-   {"d":"2026-02-09","n":"Royal Hobart Regatta","s":"TAS~","note":"only observed in certain areas of the state, including Hobart"},
-   {"d":"2026-03-02","n":"Labour Day","s":"WA"},
-   {"d":"2026-03-09","n":"Canberra Day (ACT) · Adelaide Cup Day (SA) · Eight Hours Day (TAS) · Labour Day (VIC)","s":"ACT SA TAS VIC"},
-   {"d":"2026-04-03","n":"Good Friday","s":"ACT NSW NT QLD SA TAS VIC WA"},
-   {"d":"2026-04-04","n":"Easter Saturday","s":"ACT NSW NT QLD SA VIC"},
-   {"d":"2026-04-05","n":"Easter Sunday","s":"ACT NSW NT QLD SA VIC WA"},
-   {"d":"2026-04-06","n":"Easter Monday","s":"ACT NSW NT QLD SA TAS VIC WA"},
-   {"d":"2026-04-07","n":"Easter Tuesday","s":"TAS~","note":"generally Tasmanian Public Service only"},
-   {"d":"2026-04-25","n":"Anzac Day","s":"ACT NSW NT QLD SA TAS VIC WA"},
-   {"d":"2026-04-27","n":"Additional public holiday for Anzac Day","s":"ACT NSW WA"},
-   {"d":"2026-05-04","n":"May Day (NT) · Labour Day (QLD)","s":"NT QLD"},
-   {"d":"2026-06-01","n":"Reconciliation Day (ACT) · Western Australia Day (WA)","s":"ACT WA"},
-   {"d":"2026-06-08","n":"King's Birthday","s":"ACT NSW NT SA TAS VIC"},
-   {"d":"2026-08-03","n":"Picnic Day","s":"NT"},
-   {"d":"2026-08-12","n":"Royal Queensland Show","s":"QLD~","note":"Brisbane area only"},
-   {"d":"2026-09-25","n":"Friday before the AFL Grand Final","s":"VIC"},
-   {"d":"2026-09-28","n":"King's Birthday","s":"WA","note":"some regional areas in WA hold the King's Birthday public holiday on a different date"},
-   {"d":"2026-10-05","n":"Labour Day (ACT, NSW, SA) · King's Birthday (QLD)","s":"ACT NSW QLD SA"},
-   {"d":"2026-10-22","n":"Royal Hobart Show","s":"TAS~","note":"only observed in certain areas of the state, including Hobart"},
-   {"d":"2026-11-02","n":"Recreation Day","s":"TAS~","note":"areas of the state that don't observe Royal Hobart Regatta"},
-   {"d":"2026-11-03","n":"Melbourne Cup","s":"VIC","note":"some regional areas in Victoria hold the Melbourne Cup public holiday on a different date"},
-   {"d":"2026-12-24","n":"Christmas Eve","s":"NT~ QLD~ SA~","note":"from 7 pm to midnight; from 6 pm to midnight"},
-   {"d":"2026-12-25","n":"Christmas Day","s":"ACT NSW NT QLD SA TAS VIC WA"},
-   {"d":"2026-12-26","n":"Boxing Day (ACT, NSW, NT, QLD, VIC, WA) · Proclamation Day holiday (SA)","s":"ACT NSW NT QLD SA VIC WA"},
-   {"d":"2026-12-28","n":"Additional public holiday for Boxing Day (ACT, NSW, NT, QLD, VIC, WA) · Additional public holiday for Proclamation Day holiday (SA) · Boxing Day (TAS)","s":"ACT NSW NT QLD SA TAS VIC WA"},
-   {"d":"2026-12-31","n":"New Year's Eve","s":"NT~ SA~","note":"from 7 pm to midnight"}
+   {
+    "d": "2026-01-01",
+    "n": "New Year's Day",
+    "s": "ACT NSW NT QLD SA TAS VIC WA"
+   },
+   {
+    "d": "2026-01-26",
+    "n": "Australia Day",
+    "s": "ACT NSW NT QLD SA TAS VIC WA"
+   },
+   {
+    "d": "2026-02-09",
+    "n": "Royal Hobart Regatta",
+    "s": "TAS~",
+    "note": "only observed in certain areas of the state, including Hobart"
+   },
+   {
+    "d": "2026-03-02",
+    "n": "Labour Day",
+    "s": "WA"
+   },
+   {
+    "d": "2026-03-09",
+    "n": "Canberra Day (ACT) · Adelaide Cup Day (SA) · Eight Hours Day (TAS) · Labour Day (VIC)",
+    "s": "ACT SA TAS VIC"
+   },
+   {
+    "d": "2026-04-03",
+    "n": "Good Friday",
+    "s": "ACT NSW NT QLD SA TAS VIC WA"
+   },
+   {
+    "d": "2026-04-04",
+    "n": "Easter Saturday",
+    "s": "ACT NSW NT QLD SA VIC"
+   },
+   {
+    "d": "2026-04-05",
+    "n": "Easter Sunday",
+    "s": "ACT NSW NT QLD SA VIC WA"
+   },
+   {
+    "d": "2026-04-06",
+    "n": "Easter Monday",
+    "s": "ACT NSW NT QLD SA TAS VIC WA"
+   },
+   {
+    "d": "2026-04-07",
+    "n": "Easter Tuesday",
+    "s": "TAS~",
+    "note": "generally Tasmanian Public Service only"
+   },
+   {
+    "d": "2026-04-25",
+    "n": "Anzac Day",
+    "s": "ACT NSW NT QLD SA TAS VIC WA"
+   },
+   {
+    "d": "2026-04-27",
+    "n": "Additional public holiday for Anzac Day",
+    "s": "ACT NSW WA"
+   },
+   {
+    "d": "2026-05-04",
+    "n": "May Day (NT) · Labour Day (QLD)",
+    "s": "NT QLD"
+   },
+   {
+    "d": "2026-06-01",
+    "n": "Reconciliation Day (ACT) · Western Australia Day (WA)",
+    "s": "ACT WA"
+   },
+   {
+    "d": "2026-06-08",
+    "n": "King's Birthday",
+    "s": "ACT NSW NT SA TAS VIC"
+   },
+   {
+    "d": "2026-08-03",
+    "n": "Picnic Day",
+    "s": "NT"
+   },
+   {
+    "d": "2026-08-12",
+    "n": "Royal Queensland Show",
+    "s": "QLD~",
+    "note": "Brisbane area only"
+   },
+   {
+    "d": "2026-09-25",
+    "n": "Friday before the AFL Grand Final",
+    "s": "VIC"
+   },
+   {
+    "d": "2026-09-28",
+    "n": "King's Birthday",
+    "s": "WA",
+    "note": "some regional areas in WA hold the King's Birthday public holiday on a different date"
+   },
+   {
+    "d": "2026-10-05",
+    "n": "Labour Day (ACT, NSW, SA) · King's Birthday (QLD)",
+    "s": "ACT NSW QLD SA"
+   },
+   {
+    "d": "2026-10-22",
+    "n": "Royal Hobart Show",
+    "s": "TAS~",
+    "note": "only observed in certain areas of the state, including Hobart"
+   },
+   {
+    "d": "2026-11-02",
+    "n": "Recreation Day",
+    "s": "TAS~",
+    "note": "areas of the state that don't observe Royal Hobart Regatta"
+   },
+   {
+    "d": "2026-11-03",
+    "n": "Melbourne Cup",
+    "s": "VIC",
+    "note": "some regional areas in Victoria hold the Melbourne Cup public holiday on a different date"
+   },
+   {
+    "d": "2026-12-24",
+    "n": "Christmas Eve",
+    "s": "NT~ QLD~ SA~",
+    "note": "from 7 pm to midnight; from 6 pm to midnight"
+   },
+   {
+    "d": "2026-12-25",
+    "n": "Christmas Day",
+    "s": "ACT NSW NT QLD SA TAS VIC WA"
+   },
+   {
+    "d": "2026-12-26",
+    "n": "Boxing Day (ACT, NSW, NT, QLD, VIC, WA) · Proclamation Day holiday (SA)",
+    "s": "ACT NSW NT QLD SA VIC WA"
+   },
+   {
+    "d": "2026-12-28",
+    "n": "Additional public holiday for Boxing Day (ACT, NSW, NT, QLD, VIC, WA) · Additional public holiday for Proclamation Day holiday (SA) · Boxing Day (TAS)",
+    "s": "ACT NSW NT QLD SA TAS VIC WA"
+   },
+   {
+    "d": "2026-12-31",
+    "n": "New Year's Eve",
+    "s": "NT~ SA~",
+    "note": "from 7 pm to midnight"
+   }
   ],
   "2027": [
-   {"d":"2027-01-01","n":"New Year's Day","s":"ACT NSW NT QLD SA TAS VIC WA"},
-   {"d":"2027-01-26","n":"Australia Day","s":"ACT NSW NT QLD SA TAS VIC WA"},
-   {"d":"2027-02-08","n":"Royal Hobart Regatta","s":"TAS~","note":"only observed in certain areas of the state"},
-   {"d":"2027-03-01","n":"Labour Day","s":"WA"},
-   {"d":"2027-03-08","n":"Canberra Day (ACT) · Adelaide Cup Day (SA) · Eight Hours Day (TAS) · Labour Day (VIC)","s":"ACT SA TAS VIC"},
-   {"d":"2027-03-26","n":"Good Friday","s":"ACT NSW NT QLD SA TAS VIC WA"},
-   {"d":"2027-03-27","n":"Easter Saturday","s":"ACT NSW NT QLD SA VIC"},
-   {"d":"2027-03-28","n":"Easter Sunday","s":"ACT NSW NT QLD SA VIC WA"},
-   {"d":"2027-03-29","n":"Easter Monday","s":"ACT NSW NT QLD SA TAS VIC WA"},
-   {"d":"2027-03-30","n":"Easter Tuesday","s":"TAS~","note":"generally Tasmanian Public Service only"},
-   {"d":"2027-04-25","n":"Additional public holiday for Anzac Day (ACT) · Anzac Day (NSW, SA, TAS, VIC, WA)","s":"ACT NSW SA TAS VIC WA"},
-   {"d":"2027-04-26","n":"Anzac Day (ACT, NT, QLD) · Additional public holiday for Anzac Day (NSW, WA)","s":"ACT NSW NT QLD WA"},
-   {"d":"2027-05-03","n":"May Day (NT) · Labour Day (QLD)","s":"NT QLD"},
-   {"d":"2027-05-31","n":"Reconciliation Day","s":"ACT"},
-   {"d":"2027-06-07","n":"Western Australia Day","s":"WA"},
-   {"d":"2027-06-14","n":"King's Birthday","s":"ACT NSW NT SA TAS VIC"},
-   {"d":"2027-08-02","n":"Picnic Day","s":"NT"},
-   {"d":"2027-08-11","n":"Royal Queensland Show","s":"QLD~","note":"Brisbane area only"},
-   {"d":"2027-09-24","n":"Friday before the AFL Grand Final","s":"VIC","tbc":true},
-   {"d":"2027-09-27","n":"King's Birthday","s":"WA","note":"some regional areas in WA hold the King's Birthday public holiday on a different date"},
-   {"d":"2027-10-04","n":"Labour Day (ACT, NSW, SA) · King's Birthday (QLD)","s":"ACT NSW QLD SA"},
-   {"d":"2027-10-21","n":"Royal Hobart Show","s":"TAS~","note":"only observed in certain areas of the state, including Hobart"},
-   {"d":"2027-11-01","n":"Recreation Day","s":"TAS~","note":"areas of the state that don't observe Royal Hobart Regatta"},
-   {"d":"2027-11-02","n":"Melbourne Cup","s":"VIC","note":"some regional areas in Victoria hold the Melbourne Cup public holiday on a different date"},
-   {"d":"2027-12-24","n":"Christmas Eve","s":"NT~ QLD~ SA~","note":"from 7 pm to midnight; from 6 pm to midnight"},
-   {"d":"2027-12-25","n":"Christmas Day","s":"ACT NSW NT QLD SA TAS VIC WA"},
-   {"d":"2027-12-26","n":"Boxing Day (ACT, NSW, NT, QLD, VIC, WA) · Proclamation Day holiday (SA)","s":"ACT NSW NT QLD SA VIC WA"},
-   {"d":"2027-12-27","n":"Additional public holiday for Christmas Day","s":"ACT NSW NT QLD SA TAS VIC WA"},
-   {"d":"2027-12-28","n":"Additional public holiday for Boxing Day (ACT, NSW, NT, QLD, VIC, WA) · Additional public holiday for Proclamation Day holiday (SA) · Boxing Day (TAS)","s":"ACT NSW NT QLD SA TAS VIC WA"},
-   {"d":"2027-12-31","n":"New Year's Eve","s":"NT~ SA~","note":"from 7 pm to midnight"}
+   {
+    "d": "2027-01-01",
+    "n": "New Year's Day",
+    "s": "ACT NSW NT QLD SA TAS VIC WA"
+   },
+   {
+    "d": "2027-01-26",
+    "n": "Australia Day",
+    "s": "ACT NSW NT QLD SA TAS VIC WA"
+   },
+   {
+    "d": "2027-02-08",
+    "n": "Royal Hobart Regatta",
+    "s": "TAS~",
+    "note": "only observed in certain areas of the state"
+   },
+   {
+    "d": "2027-03-01",
+    "n": "Labour Day",
+    "s": "WA"
+   },
+   {
+    "d": "2027-03-08",
+    "n": "Canberra Day (ACT) · Adelaide Cup Day (SA) · Eight Hours Day (TAS) · Labour Day (VIC)",
+    "s": "ACT SA TAS VIC"
+   },
+   {
+    "d": "2027-03-26",
+    "n": "Good Friday",
+    "s": "ACT NSW NT QLD SA TAS VIC WA"
+   },
+   {
+    "d": "2027-03-27",
+    "n": "Easter Saturday",
+    "s": "ACT NSW NT QLD SA VIC"
+   },
+   {
+    "d": "2027-03-28",
+    "n": "Easter Sunday",
+    "s": "ACT NSW NT QLD SA VIC WA"
+   },
+   {
+    "d": "2027-03-29",
+    "n": "Easter Monday",
+    "s": "ACT NSW NT QLD SA TAS VIC WA"
+   },
+   {
+    "d": "2027-03-30",
+    "n": "Easter Tuesday",
+    "s": "TAS~",
+    "note": "generally Tasmanian Public Service only"
+   },
+   {
+    "d": "2027-04-25",
+    "n": "Additional public holiday for Anzac Day* (ACT) · Anzac Day (NSW, SA, TAS, VIC, WA)",
+    "s": "ACT NSW SA TAS VIC WA"
+   },
+   {
+    "d": "2027-04-26",
+    "n": "Anzac Day* (ACT) · Additional public holiday for Anzac Day (NSW, WA) · Anzac Day (NT, QLD)",
+    "s": "ACT NSW NT QLD WA"
+   },
+   {
+    "d": "2027-05-03",
+    "n": "May Day (NT) · Labour Day (QLD)",
+    "s": "NT QLD"
+   },
+   {
+    "d": "2027-05-31",
+    "n": "Reconciliation Day",
+    "s": "ACT"
+   },
+   {
+    "d": "2027-06-07",
+    "n": "Western Australia Day",
+    "s": "WA"
+   },
+   {
+    "d": "2027-06-14",
+    "n": "King's Birthday",
+    "s": "ACT NSW NT SA TAS VIC"
+   },
+   {
+    "d": "2027-08-02",
+    "n": "Picnic Day",
+    "s": "NT"
+   },
+   {
+    "d": "2027-08-11",
+    "n": "Royal Queensland Show",
+    "s": "QLD~",
+    "note": "Brisbane area only"
+   },
+   {
+    "d": "2027-09-24",
+    "n": "Friday before the AFL Grand Final",
+    "s": "VIC",
+    "tbc": true
+   },
+   {
+    "d": "2027-09-27",
+    "n": "King's Birthday",
+    "s": "WA",
+    "note": "some regional areas in WA hold the King's Birthday public holiday on a different date"
+   },
+   {
+    "d": "2027-10-04",
+    "n": "Labour Day (ACT, NSW, SA) · King's Birthday (QLD)",
+    "s": "ACT NSW QLD SA"
+   },
+   {
+    "d": "2027-10-21",
+    "n": "Royal Hobart Show",
+    "s": "TAS~",
+    "note": "only observed in certain areas of the state, including Hobart"
+   },
+   {
+    "d": "2027-11-01",
+    "n": "Recreation Day",
+    "s": "TAS~",
+    "note": "areas of the state that don't observe Royal Hobart Regatta"
+   },
+   {
+    "d": "2027-11-02",
+    "n": "Melbourne Cup",
+    "s": "VIC",
+    "note": "some regional areas in Victoria hold the Melbourne Cup public holiday on a different date"
+   },
+   {
+    "d": "2027-12-24",
+    "n": "Christmas Eve",
+    "s": "NT~ QLD~ SA~",
+    "note": "from 7 pm to midnight; from 6 pm to midnight"
+   },
+   {
+    "d": "2027-12-25",
+    "n": "Christmas Day",
+    "s": "ACT NSW NT QLD SA TAS VIC WA"
+   },
+   {
+    "d": "2027-12-26",
+    "n": "Boxing Day (ACT, NSW, NT, QLD, VIC, WA) · Proclamation Day holiday (SA)",
+    "s": "ACT NSW NT QLD SA VIC WA"
+   },
+   {
+    "d": "2027-12-27",
+    "n": "Additional public holiday for Christmas Day",
+    "s": "ACT NSW NT QLD SA TAS VIC WA"
+   },
+   {
+    "d": "2027-12-28",
+    "n": "Additional public holiday for Boxing Day (ACT, NSW, NT, QLD, VIC, WA) · Additional public holiday for Proclamation Day holiday (SA) · Boxing Day (TAS)",
+    "s": "ACT NSW NT QLD SA TAS VIC WA"
+   },
+   {
+    "d": "2027-12-31",
+    "n": "New Year's Eve",
+    "s": "NT~ SA~",
+    "note": "from 7 pm to midnight"
+   }
   ]
  }
 }
