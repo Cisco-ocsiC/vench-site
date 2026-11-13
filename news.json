@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T20:39:31.144Z",
+ "updated": "2026-11-13T21:34:55.083Z",
  "items": [
   {
    "topic": "5G",
@@ -153,7 +153,7 @@
    "title": "Bluebird Fiber Announces Tera-Core™ as Customer Demand Accelerates Beyond Single 400G Connections",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaUVLYWN1eE1DTTJyVVgxcWN6VmpVT1E2YjJiOWUzN01uMmpHZUdpX1htY3NkNjFrM3I5WWVvaXFVdzRtN3NYVDN0RVBXVG9BSXdhVS1iUGtwdVVVaG05dG9idmJfMl9xZkkwdi02OG16MUdjWmZ6RzkzYWJhNWpVbXcyN1puUmtrZHZYc1A3NjVWdVhFb3hkalRyaw?oc=5",
-   "date": "2026-11-02T08:00:00.000Z"
+   "date": "2026-11-02T13:34:00.000Z"
   },
   {
    "topic": "Innovation",
@@ -199,6 +199,13 @@
   },
   {
    "topic": "Innovation",
+   "title": "Early results on using 7 GHz for 6G indoor coverage not 'encouraging', says Verizon CTO: Report",
+   "source": "ET Telecom",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUTlaVl8ySVFIcE1BYW96WmczelRidk5xcFJrNHdXOFBKVFowQTNIN3UyTlhTcWIzTUlYdUwwZzFmbl9Ob3JuS1VPMkx5ZUlmZ1dCNHJ6ZUFrdzdQeUJjUlFxRWdjTGg2Z2kwTWNtdExQR1AzTFBxQ2Y2VUlTdjNzV1FyNzhYQWpoTElERE9adUU2V1g0SFpQUi1vVW5ybk9EclVLVHMza2hzOFFCbXlXWlFzR2JDQXFoSFhTeC1VQ1c3YW16NllyNkRHQnlFQ2tPVVJCYXBwcmlTUnZSdFVOYllLZW1zOElnc1JYTGxPVDI1d9IB9wFBVV95cUxQemlaTi1QV2VDT1JfaVZRSEhxajB0QzVzcXhjWjBVNUNPTExYaG0tbnBZcTZld013WTczZ0d3RXVNbmZzaVlQVkExd09FR1Ezc3EtaF9rbVc3aFJvZ0F4a1dCRTd6amNPVHFVdmgxQlJpLW9OZ3FQNEdqSEhLM2xJXzREZXphSWdsUHBjYm05ZGR3UzF3WVZFN0ZOZkM5clNuaFNlekJJeFVqaERPd0RzajdTajRJZXRUaks5V1B2dzVsRFBVaXVxUXdSRWdrd0xaQjVRNkNzb2N0cy1ZYzJGaHdEUlRfdzFpN3ROVUtIRjZKU25uYTZF?oc=5",
+   "date": "2026-11-10T02:39:58.000Z"
+  },
+  {
+   "topic": "Innovation",
    "title": "Verizon CTO assesses 7GHz band for 6G after first call in the field",
    "source": "Light Reading",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbTlEN2lMbmw2RG5xYjJydENCYjVMSzRTQzR2aWpJMTBvVTI0WUNPQmVpWE1od3JpZGJLRHVyNTloNGcwcXI4UHBzR3pwejB5azdTSG9RV1BxcHpIcUFZRU9MVlB1b3UyWVljM0NSbFQ5TkJfNlFHRkpTUm95SnF2Zjhuc2o3N1h6bU9rSE5FdTFObHFPLWRCNWl1TU84UHdD?oc=5",
@@ -217,13 +224,6 @@
    "source": "SMH.com.au",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVzZDQS14WXNKdmU3Ykc3akNKOTdpYnpLV1B3YjYweXJEdERsT0E3eHA2YXRsSVhPRHJpZVJodF93aWsta2RUNkdFVWhmNUNpNFdfYXc4VzYzdnR0WnZHM1IxSUNzRkRCY3d1c1dsZnpZemRPbE9vTmM0T0YxNVkzZGoyWG1GbkhhSk42WlhWaEgydWZ4VHNpM0VOY2NKRWVPdFZsaU1WZXpOTms0TFhfQmozbklIVG4xMEtWVk96TnNjWG8?oc=5",
    "date": "2026-11-07T23:06:08.000Z"
-  },
-  {
-   "topic": "Innovation",
-   "title": "JNCASR silicon chip enables 100 Gbps transmission for 6G over terahertz frequencies",
-   "source": "electronics.economictimes.indiatimes.com",
-   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQSDdTVFY5TkJHdmh2QXI4YjA2Nm1sdXk0R2E0QjZOTEFkMXduVHhXQ1JsQjdiOEZtNllQeVFPajg2eGs0ZkNLOHRxYmQ5LThwamdCbmRwYV9OMVJ3dEpSMFdIZU0wS0o0T0J3OGVRSkw4X2FTRTJ2d0pFbnpRdWgxdVh2aDZpck9WNHhtaEFPY2gxR3BreFZYc29XcU1iX2pPdnlFZjNFa2pZLVNmaE5HLTh3bm1JZ3QxZzUtMVpuN2g2b1VtaTYzakc5WkJYRDROMnFXenlvRTNucHF2ZW9NTVNCS0lpUHE2YnVqNmcxVXk2eFNLWGdaN0ZUMNIB_wFBVV95cUxQVEs3R1lxUXA3NW5sLV9YS0JiQ0huRVVUNkhqbkY4a2xvbHdfb1Z0cU9fS2lveTB3SWxoWDRac1YzS1l5WkFpRHIxdHRudjVjZXNneF9USk9KOXhDU3dLSGgwS29CaHpHR2tyYUFJYTY5NFRrWTFHN2N5NmRlOXllR085Y1dJbUNLTzM1bG5KNlEzVWJlM1VDLVJ2cHlpLVV3eXZaMGY5RDZUM3l1Qm5SSzhWSmVJY29uaEl3S3dPSlBTZDNDOV9DcU92S0x1Nk9weVNnRHRWSkgwS0RGSFdoSEd4U3VDV2FlNkZxZjFtMGp5VE1faW5VaXNzVmVGazQ?oc=5",
-   "date": "2026-11-06T12:07:06.000Z"
   }
  ]
 }
