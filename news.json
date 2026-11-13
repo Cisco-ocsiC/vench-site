@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-13T08:06:04.495Z",
+ "updated": "2026-11-13T09:44:50.861Z",
  "items": [
+  {
+   "topic": "5G",
+   "title": "ACCC aligns mobile coverage reporting with new ACMA mapping standard",
+   "source": "Telecompaper",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVEd1TkhpeTFGMFRiYWFGZGJEVWxtclAzb0dnVEtNRzB2Z3FxWGI4bWRaQXRRYXFOZXJnY1k2MEZ0Ui1ialhlWklSam53Mm13anJpOGRQQks3UkJCeExVYmtpbFdKWU1rdjA5aVVTZWR5NEx2RHpMZmtEXzU1SXFCRHlFbWxQN25FOU5SNHVzRzN0b25VdDIzVWNzSnJjMXQwQ3lVWExyMGszT2FGdHZabw?oc=5",
+   "date": "2026-11-13T03:45:52.000Z"
+  },
   {
    "topic": "5G",
    "title": "Optus' network takes home most awards in new Opensignal report",
@@ -14,13 +21,6 @@
    "source": "Mobile World Live",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ2hCMjdFZWpYbTVFQmpqR0laVjFwYUs5MFhFTW9qQUtHbC1jbkRMQVpzdklBdDVzZWJGZnItV0RsX3RBaHk5M2tmQU55ZVRha2xEM3pubmo0azZtZHBwbnhrWnYtUWV2Nm9BUThodlh0VmZ3ck9NRTAwenBvMl9ZYW5pT2E4ZUE?oc=5",
    "date": "2026-11-11T12:32:27.000Z"
-  },
-  {
-   "topic": "5G",
-   "title": "ACCC aligns mobile coverage reporting with new ACMA mapping standard",
-   "source": "Telecompaper",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVEd1TkhpeTFGMFRiYWFGZGJEVWxtclAzb0dnVEtNRzB2Z3FxWGI4bWRaQXRRYXFOZXJnY1k2MEZ0Ui1ialhlWklSam53Mm13anJpOGRQQks3UkJCeExVYmtpbFdKWU1rdjA5aVVTZWR5NEx2RHpMZmtEXzU1SXFCRHlFbWxQN25FOU5SNHVzRzN0b25VdDIzVWNzSnJjMXQwQ3lVWExyMGszT2FGdHZabw?oc=5",
-   "date": "2026-11-11T08:00:00.000Z"
   },
   {
    "topic": "5G",
@@ -45,6 +45,20 @@
   },
   {
    "topic": "4G",
+   "title": "Vodafone Idea Targets ₹45,000 Crore Capex by FY29 as 5G Reaches 400 Cities, Subscribers Rise to 194.4 Million",
+   "source": "TelecomLead",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZHBRc21TckctV3pkS3BjRk5jS1htcWcxRndOU2UtTy1nLUlUM3RneFg2X1hNVHFSYWlLUlVxUkRvM1hwM19Ld29JeV8zMG9QaWh3ZEVjazRxeVJrT1hHS0dCa0NGaHpnUUhjYjdIZWNSSW0zN2lEbFlid01pbnZWLWRKQ29mcXpBY1VqWTg3UUFROHlILWk0Ym9Zbk1MSGR0MEtjTFpoUmJPa01pbTczdlplNzdOZms2VFBXOG9nN3lGcTY1b056ZXZZTWIzdmNOR1BqRl9yN042LVZVMmEtV09mSDVYMzVoRDdCMExCc23SAfABQVVfeXFMTmRwUXNtU3JHLVd6ZEtwY0ZOY0tYbXFnMUZ3TlNlLU8tZy1JVDN0Z3hYNl9YTVRxUmFpS1JVcVJEbzNYcDNfS3dvSXlfMzBvUGlod2RFY2s0cXlSa09YR0tHQmtDRmh6Z1FIY2I3SGVjUkltMzdpRGxZYndNaW52Vi1kSkNvZnF6QWNValk4N1FBUTh5SC1pNGJvWW5NTEhkdDBLY0xaaFJiT2tNaW03M3ZaZTc3TmZrNlRQVzhvZzd5RnE2NW9OemV2WU1iM3ZjTkdQakZfcjdONi1WVTJhLVdPZkg1WDM1aEQ3QjBMQnNt?oc=5",
+   "date": "2026-11-13T06:28:45.000Z"
+  },
+  {
+   "topic": "4G",
+   "title": "ACCC aligns mobile coverage reporting with new ACMA mapping standard",
+   "source": "Telecompaper",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVEd1TkhpeTFGMFRiYWFGZGJEVWxtclAzb0dnVEtNRzB2Z3FxWGI4bWRaQXRRYXFOZXJnY1k2MEZ0Ui1ialhlWklSam53Mm13anJpOGRQQks3UkJCeExVYmtpbFdKWU1rdjA5aVVTZWR5NEx2RHpMZmtEXzU1SXFCRHlFbWxQN25FOU5SNHVzRzN0b25VdDIzVWNzSnJjMXQwQ3lVWExyMGszT2FGdHZabw?oc=5",
+   "date": "2026-11-13T03:45:52.000Z"
+  },
+  {
+   "topic": "4G",
    "title": "5G, Data Demand Drive Vietnam Mobile Revenue Growth",
    "source": "Content + Technology",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTldlTXZEN0Q0RFk3ODFXX0RBdGI3Vy1nVVpsUVNOV19ieVlxYkwxMkFqNUxBMVZXUTBHTFg5dGI2amhLdTFBQldCTEVoVWlnRFdmLTdlSl9fcEFsMWJHdWFMSUcwSmVrUFFwUi1pM2wwUkp4QkJ1eDYwUnkzd0ZHNWh6dm5uVThWemhuUG96RjN5NklJdk13dGNKTFlXdw?oc=5",
@@ -66,24 +80,17 @@
   },
   {
    "topic": "4G",
-   "title": "ACCC aligns mobile coverage reporting with new ACMA mapping standard",
-   "source": "Telecompaper",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVEd1TkhpeTFGMFRiYWFGZGJEVWxtclAzb0dnVEtNRzB2Z3FxWGI4bWRaQXRRYXFOZXJnY1k2MEZ0Ui1ialhlWklSam53Mm13anJpOGRQQks3UkJCeExVYmtpbFdKWU1rdjA5aVVTZWR5NEx2RHpMZmtEXzU1SXFCRHlFbWxQN25FOU5SNHVzRzN0b25VdDIzVWNzSnJjMXQwQ3lVWExyMGszT2FGdHZabw?oc=5",
-   "date": "2026-11-11T08:00:00.000Z"
-  },
-  {
-   "topic": "4G",
    "title": "TIM Group Revenue Rises 2.8% to €10.4 Billion, Capex Reaches €1.3 Billion as 5G, Fiber, Cloud and AI Drive Strategy",
    "source": "TelecomLead",
    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQY0p2UUhDLVE4b1J2a2gtVldxbDdnQ3JpdlBSSl9BUmJZbXV2SWRDZjRuOGYyRFEtR00ya0NKN3FrSV9GOTI4cVFiRGJoWk14Q1VqSGRHc3ZzVjJjVEF0N3dJc3FrMTQ1UmNqSnlVdDhhZkdqVFd0RHRUdGtsOUptYldINEtKMndlSHgxM0RaRXRXckE1ZFNQekdmOEk0QnJzeDdQc0plZHg4U1I5QWRPWlhiVVhiVmtBUHJEaFVMVDVRY25CMGpYQ1dBdXU3U0F1RFRFT3d0ejZleHRKUllrVnVnQ09WempjOTlz0gHrAUFVX3lxTFBjSnZRSEMtUThvUnZraC1WV3FsN2dDcml2UFJKX0FSYlltdXZJZENmNG44ZjJEUS1HTTJrQ0o3cWtJX0Y5MjhxUWJEYmhaTXhDVWpIZEdzdnNWMmNUQXQ3d0lzcWsxNDVSY2pKeVV0OGFmR2pUV3REdFR0a2w5Sm1iV0g0S0oyd2VIeDEzRFpFdFdyQTVkU1B6R2Y4STRCcnN4N1BzSmVkeDhTUjlBZE9aWGJVWGJWa0FQckRoVUxUNVFjbkIwalhDV0F1dTdTQXVEVEVPd3R6NmV4dEpSWWtWdWdDT1Z6amM5OXM?oc=5",
    "date": "2026-11-11T00:56:57.000Z"
   },
   {
-   "topic": "4G",
-   "title": "Reliance Jio Leads Mumbai Mobile Network Speed Test with 248.93 Mbps Download, Vodafone Idea Records Zero Call Drops: TRAI",
-   "source": "TelecomLead",
-   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPdlZCUFBEajIyNFFZSXBZSTdIRW9UMUZIRktPbDBVQ2EtdDB3a0hOOUl4ZUwxUVNydlZWSTgzTHVfOW5xTmJWOW45eUs2OHowcGcxcDd2Qi1wSnFqZlpVdC1fak51NXJHWXJPeHgwbS1Bd1ppS3NpUWxtLWxuTWNKWklqMGpMX1JVUWxmeXlENUVfajRiWUxzdlE1eTl6Z0NzbEN4OE5TV01hM19xWmpJZHVDOHNXRHpaanI1Y3pmZ0ZNSE9COExzQk9KM2thMFBjZktWV1R6d3RRZDlhV3hMZFlXRFNjTXg5U2hNOHBaWEkyUWptVGdN0gH3AUFVX3lxTE92VkJQUERqMjI0UVlJcFlJN0hFb1QxRkhGS09sMFVDYS10MHdrSE45SXhlTDFRU3J2VlZJODNMdV85bnFOYlY5bjl5SzY4ejBwZzFwN3ZCLXBKcWpmWlV0LV9qTnU1ckdZck94eDBtLUF3WmlLc2lRbG0tbG5NY0paSWowakxfUlVRbGZ5eUQ1RV9qNGJZTHN2UTV5OXpnQ3NsQ3g4TlNXTWEzX3FaaklkdUM4c1dEelpqcjVjemZnRk1IT0I4THNCT0oza2EwUGNmS1ZXVHp3dFFkOWFXeExkWVdEU2NNeDlTaE04cFpYSTJRam1UZ00?oc=5",
-   "date": "2026-11-09T13:16:22.000Z"
+   "topic": "Optical fibre",
+   "title": "HFCL wins ₹834 crore export orders for optical fibre cables",
+   "source": "ET Telecom",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPX0NKZ255LU1fV19FTW1qQWZSSHhMYjIyaWtaLV9TMjVPSDFiajM2V0o0dURQWkxNeE5kUjlGR25HbWkwSWtUdlFBcTFFUE5lV2FGeU9KQ3lNUmZGVmxSQjZNc0tIWW1kLW9CRmk2SmhEQjlMUGxIQWlOSzhNM1FvNm11NDRZc2dSNlkyWWY0VGplREtXWU11QTBDaXBGWGZmTWdlWDhSUWxKRnI3a3JYN0tSWDV2TE1pN1VTMTZ2SnNrWGNJTGY3a1JHOHJBNmZILW9OcHVlUdIB1wFBVV95cUxPX0NKZ255LU1fV19FTW1qQWZSSHhMYjIyaWtaLV9TMjVPSDFiajM2V0o0dURQWkxNeE5kUjlGR25HbWkwSWtUdlFBcTFFUE5lV2FGeU9KQ3lNUmZGVmxSQjZNc0tIWW1kLW9CRmk2SmhEQjlMUGxIQWlOSzhNM1FvNm11NDRZc2dSNlkyWWY0VGplREtXWU11QTBDaXBGWGZmTWdlWDhSUWxKRnI3a3JYN0tSWDV2TE1pN1VTMTZ2SnNrWGNJTGY3a1JHOHJBNmZILW9OcHVlUQ?oc=5",
+   "date": "2026-11-13T01:58:58.000Z"
   },
   {
    "topic": "Optical fibre",
@@ -121,13 +128,6 @@
    "date": "2026-11-12T10:03:59.000Z"
   },
   {
-   "topic": "Optical fibre",
-   "title": "The 2026 optical fiber shortage, what is happening and who is affected",
-   "source": "Pasquale Pillitteri",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORm93aTF0ekFidGpQVGpEbUFyTDVYalc5ZTNfZlZJWWloSXVXMEZGRjV2UDhtSDJTc3VJdXJqbVZ6Q1pydE5IMlJ6a25ib1lWOU82UVp6VWp2X3pob1hiZmpCai1GS2dQaS1XRmsxZ1I0ZFkzVlRhUm51cUFhOEVCLWtoNDlyQl9lNzljX3VPaGRCSHc?oc=5",
-   "date": "2026-11-12T08:27:01.000Z"
-  },
-  {
    "topic": "DWDM",
    "title": "VNPT and Symphony collaborate to provide international transmission services, promoting the commercialization of network capacity.",
    "source": "Vietnam.vn",
@@ -157,13 +157,6 @@
   },
   {
    "topic": "Innovation",
-   "title": "Nigeria’s Senate orders a Four-Week Probe into Telecom Airtime Deductions",
-   "source": "Innovation Village",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZmJwVFdFNk9nN3FETXRKVDhFdUh4cjFsV2hEZTBxR25aWVhRLWl4RWlPam1mOUxNRFhBMGY1X3dZcElxb0tucE1kQVdFR2VFQ2RQblNYanNXQ3lEc1ItcEt1N1VpTlBmVE5DWWVsWjNCLXFqYms3TkRtZ0d3b1loTWtPRWJxNDlNcEZUcGpvdGZzWmJjMDgwbnJLNmJzeDNVQVFmVC1naw?oc=5",
-   "date": "2026-11-12T15:51:31.000Z"
-  },
-  {
-   "topic": "Innovation",
    "title": "ITU PP-26 Doha: RASCOM Director General engages African and global telecom leaders at ITU Plenipotentiary Conference",
    "source": "Tech Review Africa",
    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPYmJVTjhwS0tVS0lMd0JQVHZ1TG5Ba1Y1S2tMQ1F5ZlpkLW01aHNwbF9TYThQbGJaSGNzTnpheWwwZTh1ay1ZOGhKVXotclVQN19IMzhsZ1dBY1ZLR1dkMGh5d19Pak1CVmpGX1BtY3NSZzNSNEpqTHpPLWtVWkllTlFrdklmLTRnY1dXaTF0VU5EWjNiNjBDNnJLZVpYXzB3VndVbkhzaEhBUnZIZi1hZ0xLenpDaWNZM0R6STNyeEtXN2Nsc3hrR0NiT0s0TDAxWHFSZ00tb1pCbHV4dlFLTElqb2UtZFBod2c?oc=5",
@@ -171,10 +164,10 @@
   },
   {
    "topic": "Innovation",
-   "title": "Prime Minister Shri Narendra Modi Inaugurates 10th Edition of India Mobile Congress 2026",
-   "source": "www.pib.gov.in",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPLVdpYkZweVhFYU03b09EaXpMektyaEdDWGNEcVlLaHMwYVIyeUdNelRxRnFBVmp5aEFZSWMySnJ1anNyVW5NcUNTUkNhYnlZbFV3bUF5LXdITjVJa0lETUZVNElXRm8wTnZ4bFZnZlV1eTk3QmdLY19WTE1LdDZQb1lRNA?oc=5",
-   "date": "2026-11-12T03:33:22.000Z"
+   "title": "GSMA Sets Out Five Policy Principles to Strengthen Mobile Network Resilience",
+   "source": "Techeconomy",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWFZMUVBiYzFUSFFoaXMwWVU3R0FYMWl0eXlvSlhkcVN1RDJzLV9UQXN4VGJWQ2Y0U3RxX25EcHVJRnJJWHVZajRUVFpIcWlvVW5Ub1pCUDNENHEwZTJYTlp0MFF4bkw1SEpPX0ZVMDROQ18tdDVaSUNHUWFHYjhwQ1p5cUVPMmNkNXd2aTZMY1RjNTNEdnUwRXhlUGFwcjJG?oc=5",
+   "date": "2026-11-12T10:45:16.000Z"
   },
   {
    "topic": "Innovation",
@@ -192,13 +185,6 @@
   },
   {
    "topic": "Innovation",
-   "title": "Globe Telecom Defies Economic Challenges with Record P129B Service Revenues",
-   "source": "Daily Tribune",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ZekRKdC05TXhmaWR3UXFFUFdIMlpwMllndjR0dmdOMy1zRFVNZU5sbFZvd3A0TXFIak1YcDRBWURQUjU2OVpDWFlKTmlzUktFa1o1OWJDSUZmQ3AtYXF1Z3JQLUFrZTI4QnFIaTE0UkNVZw?oc=5",
-   "date": "2026-11-11T07:59:17.000Z"
-  },
-  {
-   "topic": "Innovation",
    "title": "India joins 24 countries in global initiative on 6G technology",
    "source": "News On AIR",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObjY4NnRCMUVMSXlxeDVpbmdWTC1kZktvakxQSkNpUDBpVEFlOG1PdVAwcmhmMzR1MjEwcDRpYTluaDczV1VvYWpvNm9DUE5YSV9YaXUxSDR4Wmg0WDYyUkZSX2pHRGlpSTNIaVhaUGRqaE5lblhYTHJxOW1ySWpjQl9ncERtd29NQ2tzNWFPVGs0dw?oc=5",
@@ -213,17 +199,31 @@
   },
   {
    "topic": "Innovation",
-   "title": "Global Telecom Engineering’s TITAN 6000 Named Finalist in 2026 Fierce Network Innovation Awards",
-   "source": "Business Wire",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxObDVmY3BoYUtUNDZlMEx2TUtwSU5nRVJNQzh1cWR4eHp6WGxYOTNUWXBNbXFIeV8tM0x2a2U0NklXRHp0TEVnQ0RKWjVReXFpSmE3YnRCY2tfYkhNTll4UUhZRmlEUi1ZZE44SlFaak1TYVUtVS1pajQtRWRYLW96MUZaRVJGSDd5NHphLXJWOWd3YWNwRndVcm1qMGZQUDZjSlNYTkVBVE5kRlc5SndKbWZZejJFQ0RwRDlBeFhHN2xWei04alhVV2NxOW5fLWptQmxyanNFWmUyMm9HaElseVQ4M25mQQ?oc=5",
-   "date": "2026-11-09T18:02:00.000Z"
-  },
-  {
-   "topic": "Innovation",
    "title": "Verizon CTO assesses 7GHz band for 6G after first call in the field",
    "source": "Light Reading",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbTlEN2lMbmw2RG5xYjJydENCYjVMSzRTQzR2aWpJMTBvVTI0WUNPQmVpWE1od3JpZGJLRHVyNTloNGcwcXI4UHBzR3pwejB5azdTSG9RV1BxcHpIcUFZRU9MVlB1b3UyWVljM0NSbFQ5TkJfNlFHRkpTUm95SnF2Zjhuc2o3N1h6bU9rSE5FdTFObHFPLWRCNWl1TU84UHdD?oc=5",
    "date": "2026-11-09T16:02:52.000Z"
+  },
+  {
+   "topic": "Innovation",
+   "title": "Optus completes world-first validation of Cisco Live Protect",
+   "source": "ARNnet",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRWNYNDFZXzlySE1iZ1VPMi1xbXdQUHpxcS15T0pKSWZjb0xtZk5rTUt6YlpyOFhtdTN3T2NXVklCZmRocWFXZDI4UFdlZ1JZbmdudDlTcnpYdm9kUzc2VFBNbmZMWHRmajQ0YW45ZUt2THpRRDd1eGN0bmFKREJqa3VPNkZBMnZGRy1nMlVjeXQ5TzRaTVgtSnUyX3BsWlFVcU9pRmx2OU9lc0k?oc=5",
+   "date": "2026-11-08T22:25:11.000Z"
+  },
+  {
+   "topic": "Innovation",
+   "title": "CRA Showcases Results of Advanced Technology Trials Paving Way for 6G at MWC26 Doha",
+   "source": "Qatar news agency",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcHllUS00YUZnckVqY20tUGhDc3FfSmVmSFh4Ul9sMVFUMzhiM2t0N2t2c2swUEhoSTBreTJtVDFYU3drTlFvbFpvMWdaNld5MG5Hd1VZT3YyMUE4MFdBdXo0YzZHNzNoSkdQRldDenpOVXpxczcyRFBaejVNVU5BNHZRT3ItUExsaVUxYnoyVWx0Y2FOdlduak9YeEZxVlZ6MWlHNloyR0dsV3ZjLTFGdVZUQTJuaTZDYlQzcVprcG5Iazhfa0s4SHdnekRTdUc1NkpHT2hqUHI?oc=5",
+   "date": "2026-11-08T19:23:28.000Z"
+  },
+  {
+   "topic": "Innovation",
+   "title": "6G phones arrive in 2030. The fight over the airwaves has already begun",
+   "source": "SMH.com.au",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVzZDQS14WXNKdmU3Ykc3akNKOTdpYnpLV1B3YjYweXJEdERsT0E3eHA2YXRsSVhPRHJpZVJodF93aWsta2RUNkdFVWhmNUNpNFdfYXc4VzYzdnR0WnZHM1IxSUNzRkRCY3d1c1dsZnpZemRPbE9vTmM0T0YxNVkzZGoyWG1GbkhhSk42WlhWaEgydWZ4VHNpM0VOY2NKRWVPdFZsaU1WZXpOTms0TFhfQmozbklIVG4xMEtWVk96TnNjWG8?oc=5",
+   "date": "2026-11-07T23:06:08.000Z"
   }
  ]
 }
