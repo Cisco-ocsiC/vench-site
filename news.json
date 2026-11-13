@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T06:51:00.676Z",
+ "updated": "2026-11-13T08:06:04.495Z",
  "items": [
   {
    "topic": "5G",
@@ -66,6 +66,13 @@
   },
   {
    "topic": "4G",
+   "title": "ACCC aligns mobile coverage reporting with new ACMA mapping standard",
+   "source": "Telecompaper",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVEd1TkhpeTFGMFRiYWFGZGJEVWxtclAzb0dnVEtNRzB2Z3FxWGI4bWRaQXRRYXFOZXJnY1k2MEZ0Ui1ialhlWklSam53Mm13anJpOGRQQks3UkJCeExVYmtpbFdKWU1rdjA5aVVTZWR5NEx2RHpMZmtEXzU1SXFCRHlFbWxQN25FOU5SNHVzRzN0b25VdDIzVWNzSnJjMXQwQ3lVWExyMGszT2FGdHZabw?oc=5",
+   "date": "2026-11-11T08:00:00.000Z"
+  },
+  {
+   "topic": "4G",
    "title": "TIM Group Revenue Rises 2.8% to €10.4 Billion, Capex Reaches €1.3 Billion as 5G, Fiber, Cloud and AI Drive Strategy",
    "source": "TelecomLead",
    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQY0p2UUhDLVE4b1J2a2gtVldxbDdnQ3JpdlBSSl9BUmJZbXV2SWRDZjRuOGYyRFEtR00ya0NKN3FrSV9GOTI4cVFiRGJoWk14Q1VqSGRHc3ZzVjJjVEF0N3dJc3FrMTQ1UmNqSnlVdDhhZkdqVFd0RHRUdGtsOUptYldINEtKMndlSHgxM0RaRXRXckE1ZFNQekdmOEk0QnJzeDdQc0plZHg4U1I5QWRPWlhiVVhiVmtBUHJEaFVMVDVRY25CMGpYQ1dBdXU3U0F1RFRFT3d0ejZleHRKUllrVnVnQ09WempjOTlz0gHrAUFVX3lxTFBjSnZRSEMtUThvUnZraC1WV3FsN2dDcml2UFJKX0FSYlltdXZJZENmNG44ZjJEUS1HTTJrQ0o3cWtJX0Y5MjhxUWJEYmhaTXhDVWpIZEdzdnNWMmNUQXQ3d0lzcWsxNDVSY2pKeVV0OGFmR2pUV3REdFR0a2w5Sm1iV0g0S0oyd2VIeDEzRFpFdFdyQTVkU1B6R2Y4STRCcnN4N1BzSmVkeDhTUjlBZE9aWGJVWGJWa0FQckRoVUxUNVFjbkIwalhDV0F1dTdTQXVEVEVPd3R6NmV4dEpSWWtWdWdDT1Z6amM5OXM?oc=5",
@@ -73,24 +80,10 @@
   },
   {
    "topic": "4G",
-   "title": "TRAI Assam Railway Network Test: Reliance Jio Leads in 5G Download Speed, Airtel Tops Upload Speed, BSNL and Vodafone Idea Face Coverage Gaps",
-   "source": "TelecomLead",
-   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOamwwVGlGZDEwLUstWEg4MEMtcE1SeUxJREZaOFUwT1NQZlhvcTJDS1kwRDFmbWlqeVJfM19EQlFadkFMaFkxLThtVEV2UUlacXZUVS1VdVZGMmhyaFZKekxHN3VnTVI3YUozYzdMN2dVdkRBOGhTWFM2Y0NtUkc3dnZCN0RTTUhDQU10V2JpOVNPVWdUSkdCenJxU2Vyd19Va1M3YVVhVUtTbU9TREZtbUpqZDdqOVdEQk11MURxX3ZNTEFqR1l0Q29MSFF5bFdidVV0SC1oOFZNV0hncWhWTHo4dldxTWFrdTFPX01UanpxWE5RQ2tSRTI5RzlvWm90Uk10V1BBcTlYRjF0dWxR0gGPAkFVX3lxTE5qbDBUaUZkMTAtSy1YSDgwQy1wTVJ5TElERlo4VTBPU1BmWG9xMkNLWTBEMWZtaWp5Ul8zX0RCUVp2QUxoWTEtOG1URXZRSVpxdlRVLVV1VkYyaHJoVkp6TEc3dWdNUjdhSjNjN0w3Z1V2REE4aFNYUzZjQ21SRzd2dkI3RFNNSENBTXRXYmk5U09VZ1RKR0J6cnFTZXJ3X1VrUzdhVWFVS1NtT1NERm1tSmpkN2o5V0RCTXUxRHFfdk1MQWpHWXRDb0xIUXlsV2J1VXRILWg4Vk1XSGdxaFZMejh2V3FNYWt1MU9fTVRqenFYTlFDa1JFMjlHOW9ab3RSTXRXUEFxOVhGMXR1bFE?oc=5",
-   "date": "2026-11-10T12:27:32.000Z"
-  },
-  {
-   "topic": "4G",
    "title": "Reliance Jio Leads Mumbai Mobile Network Speed Test with 248.93 Mbps Download, Vodafone Idea Records Zero Call Drops: TRAI",
    "source": "TelecomLead",
    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPdlZCUFBEajIyNFFZSXBZSTdIRW9UMUZIRktPbDBVQ2EtdDB3a0hOOUl4ZUwxUVNydlZWSTgzTHVfOW5xTmJWOW45eUs2OHowcGcxcDd2Qi1wSnFqZlpVdC1fak51NXJHWXJPeHgwbS1Bd1ppS3NpUWxtLWxuTWNKWklqMGpMX1JVUWxmeXlENUVfajRiWUxzdlE1eTl6Z0NzbEN4OE5TV01hM19xWmpJZHVDOHNXRHpaanI1Y3pmZ0ZNSE9COExzQk9KM2thMFBjZktWV1R6d3RRZDlhV3hMZFlXRFNjTXg5U2hNOHBaWEkyUWptVGdN0gH3AUFVX3lxTE92VkJQUERqMjI0UVlJcFlJN0hFb1QxRkhGS09sMFVDYS10MHdrSE45SXhlTDFRU3J2VlZJODNMdV85bnFOYlY5bjl5SzY4ejBwZzFwN3ZCLXBKcWpmWlV0LV9qTnU1ckdZck94eDBtLUF3WmlLc2lRbG0tbG5NY0paSWowakxfUlVRbGZ5eUQ1RV9qNGJZTHN2UTV5OXpnQ3NsQ3g4TlNXTWEzX3FaaklkdUM4c1dEelpqcjVjemZnRk1IT0I4THNCT0oza2EwUGNmS1ZXVHp3dFFkOWFXeExkWVdEU2NNeDlTaE04cFpYSTJRam1UZ00?oc=5",
    "date": "2026-11-09T13:16:22.000Z"
-  },
-  {
-   "topic": "Optical fibre",
-   "title": "HFCL wins ₹834 crore export orders for optical fibre cables",
-   "source": "ET Telecom",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPX0NKZ255LU1fV19FTW1qQWZSSHhMYjIyaWtaLV9TMjVPSDFiajM2V0o0dURQWkxNeE5kUjlGR25HbWkwSWtUdlFBcTFFUE5lV2FGeU9KQ3lNUmZGVmxSQjZNc0tIWW1kLW9CRmk2SmhEQjlMUGxIQWlOSzhNM1FvNm11NDRZc2dSNlkyWWY0VGplREtXWU11QTBDaXBGWGZmTWdlWDhSUWxKRnI3a3JYN0tSWDV2TE1pN1VTMTZ2SnNrWGNJTGY3a1JHOHJBNmZILW9OcHVlUdIB1wFBVV95cUxPX0NKZ255LU1fV19FTW1qQWZSSHhMYjIyaWtaLV9TMjVPSDFiajM2V0o0dURQWkxNeE5kUjlGR25HbWkwSWtUdlFBcTFFUE5lV2FGeU9KQ3lNUmZGVmxSQjZNc0tIWW1kLW9CRmk2SmhEQjlMUGxIQWlOSzhNM1FvNm11NDRZc2dSNlkyWWY0VGplREtXWU11QTBDaXBGWGZmTWdlWDhSUWxKRnI3a3JYN0tSWDV2TE1pN1VTMTZ2SnNrWGNJTGY3a1JHOHJBNmZILW9OcHVlUQ?oc=5",
-   "date": "2026-11-13T01:58:58.000Z"
   },
   {
    "topic": "Optical fibre",
@@ -128,6 +121,13 @@
    "date": "2026-11-12T10:03:59.000Z"
   },
   {
+   "topic": "Optical fibre",
+   "title": "The 2026 optical fiber shortage, what is happening and who is affected",
+   "source": "Pasquale Pillitteri",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORm93aTF0ekFidGpQVGpEbUFyTDVYalc5ZTNfZlZJWWloSXVXMEZGRjV2UDhtSDJTc3VJdXJqbVZ6Q1pydE5IMlJ6a25ib1lWOU82UVp6VWp2X3pob1hiZmpCai1GS2dQaS1XRmsxZ1I0ZFkzVlRhUm51cUFhOEVCLWtoNDlyQl9lNzljX3VPaGRCSHc?oc=5",
+   "date": "2026-11-12T08:27:01.000Z"
+  },
+  {
    "topic": "DWDM",
    "title": "VNPT and Symphony collaborate to provide international transmission services, promoting the commercialization of network capacity.",
    "source": "Vietnam.vn",
@@ -157,6 +157,13 @@
   },
   {
    "topic": "Innovation",
+   "title": "Nigeria’s Senate orders a Four-Week Probe into Telecom Airtime Deductions",
+   "source": "Innovation Village",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZmJwVFdFNk9nN3FETXRKVDhFdUh4cjFsV2hEZTBxR25aWVhRLWl4RWlPam1mOUxNRFhBMGY1X3dZcElxb0tucE1kQVdFR2VFQ2RQblNYanNXQ3lEc1ItcEt1N1VpTlBmVE5DWWVsWjNCLXFqYms3TkRtZ0d3b1loTWtPRWJxNDlNcEZUcGpvdGZzWmJjMDgwbnJLNmJzeDNVQVFmVC1naw?oc=5",
+   "date": "2026-11-12T15:51:31.000Z"
+  },
+  {
+   "topic": "Innovation",
    "title": "ITU PP-26 Doha: RASCOM Director General engages African and global telecom leaders at ITU Plenipotentiary Conference",
    "source": "Tech Review Africa",
    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPYmJVTjhwS0tVS0lMd0JQVHZ1TG5Ba1Y1S2tMQ1F5ZlpkLW01aHNwbF9TYThQbGJaSGNzTnpheWwwZTh1ay1ZOGhKVXotclVQN19IMzhsZ1dBY1ZLR1dkMGh5d19Pak1CVmpGX1BtY3NSZzNSNEpqTHpPLWtVWkllTlFrdklmLTRnY1dXaTF0VU5EWjNiNjBDNnJLZVpYXzB3VndVbkhzaEhBUnZIZi1hZ0xLenpDaWNZM0R6STNyeEtXN2Nsc3hrR0NiT0s0TDAxWHFSZ00tb1pCbHV4dlFLTElqb2UtZFBod2c?oc=5",
@@ -164,10 +171,10 @@
   },
   {
    "topic": "Innovation",
-   "title": "GSMA Sets Out Five Policy Principles to Strengthen Mobile Network Resilience",
-   "source": "Techeconomy",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWFZMUVBiYzFUSFFoaXMwWVU3R0FYMWl0eXlvSlhkcVN1RDJzLV9UQXN4VGJWQ2Y0U3RxX25EcHVJRnJJWHVZajRUVFpIcWlvVW5Ub1pCUDNENHEwZTJYTlp0MFF4bkw1SEpPX0ZVMDROQ18tdDVaSUNHUWFHYjhwQ1p5cUVPMmNkNXd2aTZMY1RjNTNEdnUwRXhlUGFwcjJG?oc=5",
-   "date": "2026-11-12T10:45:16.000Z"
+   "title": "Prime Minister Shri Narendra Modi Inaugurates 10th Edition of India Mobile Congress 2026",
+   "source": "www.pib.gov.in",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPLVdpYkZweVhFYU03b09EaXpMektyaEdDWGNEcVlLaHMwYVIyeUdNelRxRnFBVmp5aEFZSWMySnJ1anNyVW5NcUNTUkNhYnlZbFV3bUF5LXdITjVJa0lETUZVNElXRm8wTnZ4bFZnZlV1eTk3QmdLY19WTE1LdDZQb1lRNA?oc=5",
+   "date": "2026-11-12T03:33:22.000Z"
   },
   {
    "topic": "Innovation",
@@ -185,10 +192,10 @@
   },
   {
    "topic": "Innovation",
-   "title": "Verizon completes private 5G network deployment for Thames Freeport",
-   "source": "Telecompaper",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbmVRRE9mYnVNeDd3RElyTk1hRGVhc05VTXRDRmZXNjU0a2RYOVhGc1pBQTJzOHNXUGpqdWJkeUoyVEFMd3J3c0E3YXA0QTBPVHJLMXBlRW9sdnhBc3k2ZXF2YUNWZXdINktjQ3g1NEU1QVRoX1pIcFdvVzZ4M0Z5d2pfVURiSUV6aXAtMzNtQTVkZlRZVzFvRUlJdjNUdGpnMmd6VUtQeTY5aEQ3dC00?oc=5",
-   "date": "2026-11-11T10:17:25.000Z"
+   "title": "Globe Telecom Defies Economic Challenges with Record P129B Service Revenues",
+   "source": "Daily Tribune",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ZekRKdC05TXhmaWR3UXFFUFdIMlpwMllndjR0dmdOMy1zRFVNZU5sbFZvd3A0TXFIak1YcDRBWURQUjU2OVpDWFlKTmlzUktFa1o1OWJDSUZmQ3AtYXF1Z3JQLUFrZTI4QnFIaTE0UkNVZw?oc=5",
+   "date": "2026-11-11T07:59:17.000Z"
   },
   {
    "topic": "Innovation",
@@ -206,24 +213,17 @@
   },
   {
    "topic": "Innovation",
+   "title": "Global Telecom Engineering’s TITAN 6000 Named Finalist in 2026 Fierce Network Innovation Awards",
+   "source": "Business Wire",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxObDVmY3BoYUtUNDZlMEx2TUtwSU5nRVJNQzh1cWR4eHp6WGxYOTNUWXBNbXFIeV8tM0x2a2U0NklXRHp0TEVnQ0RKWjVReXFpSmE3YnRCY2tfYkhNTll4UUhZRmlEUi1ZZE44SlFaak1TYVUtVS1pajQtRWRYLW96MUZaRVJGSDd5NHphLXJWOWd3YWNwRndVcm1qMGZQUDZjSlNYTkVBVE5kRlc5SndKbWZZejJFQ0RwRDlBeFhHN2xWei04alhVV2NxOW5fLWptQmxyanNFWmUyMm9HaElseVQ4M25mQQ?oc=5",
+   "date": "2026-11-09T18:02:00.000Z"
+  },
+  {
+   "topic": "Innovation",
    "title": "Verizon CTO assesses 7GHz band for 6G after first call in the field",
    "source": "Light Reading",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbTlEN2lMbmw2RG5xYjJydENCYjVMSzRTQzR2aWpJMTBvVTI0WUNPQmVpWE1od3JpZGJLRHVyNTloNGcwcXI4UHBzR3pwejB5azdTSG9RV1BxcHpIcUFZRU9MVlB1b3UyWVljM0NSbFQ5TkJfNlFHRkpTUm95SnF2Zjhuc2o3N1h6bU9rSE5FdTFObHFPLWRCNWl1TU84UHdD?oc=5",
    "date": "2026-11-09T16:02:52.000Z"
-  },
-  {
-   "topic": "Innovation",
-   "title": "Optus completes world-first validation of Cisco Live Protect",
-   "source": "ARNnet",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRWNYNDFZXzlySE1iZ1VPMi1xbXdQUHpxcS15T0pKSWZjb0xtZk5rTUt6YlpyOFhtdTN3T2NXVklCZmRocWFXZDI4UFdlZ1JZbmdudDlTcnpYdm9kUzc2VFBNbmZMWHRmajQ0YW45ZUt2THpRRDd1eGN0bmFKREJqa3VPNkZBMnZGRy1nMlVjeXQ5TzRaTVgtSnUyX3BsWlFVcU9pRmx2OU9lc0k?oc=5",
-   "date": "2026-11-08T22:25:11.000Z"
-  },
-  {
-   "topic": "Innovation",
-   "title": "CRA Showcases Results of Advanced Technology Trials Paving Way for 6G at MWC26 Doha",
-   "source": "Qatar news agency",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcHllUS00YUZnckVqY20tUGhDc3FfSmVmSFh4Ul9sMVFUMzhiM2t0N2t2c2swUEhoSTBreTJtVDFYU3drTlFvbFpvMWdaNld5MG5Hd1VZT3YyMUE4MFdBdXo0YzZHNzNoSkdQRldDenpOVXpxczcyRFBaejVNVU5BNHZRT3ItUExsaVUxYnoyVWx0Y2FOdlduak9YeEZxVlZ6MWlHNloyR0dsV3ZjLTFGdVZUQTJuaTZDYlQzcVprcG5Iazhfa0s4SHdnekRTdUc1NkpHT2hqUHI?oc=5",
-   "date": "2026-11-08T19:23:28.000Z"
   }
  ]
 }
