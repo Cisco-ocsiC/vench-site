@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T22:31:45.901Z",
+ "updated": "2026-11-13T23:28:19.447Z",
  "items": [
   {
    "topic": "5G",
@@ -45,6 +45,13 @@
   },
   {
    "topic": "4G",
+   "title": "ACCC aligns mobile coverage reporting with new ACMA mapping standard",
+   "source": "Telecompaper",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVEd1TkhpeTFGMFRiYWFGZGJEVWxtclAzb0dnVEtNRzB2Z3FxWGI4bWRaQXRRYXFOZXJnY1k2MEZ0Ui1ialhlWklSam53Mm13anJpOGRQQks3UkJCeExVYmtpbFdKWU1rdjA5aVVTZWR5NEx2RHpMZmtEXzU1SXFCRHlFbWxQN25FOU5SNHVzRzN0b25VdDIzVWNzSnJjMXQwQ3lVWExyMGszT2FGdHZabw?oc=5",
+   "date": "2026-11-13T03:45:52.000Z"
+  },
+  {
+   "topic": "4G",
    "title": "5G, Data Demand Drive Vietnam Mobile Revenue Growth",
    "source": "Content + Technology",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTldlTXZEN0Q0RFk3ODFXX0RBdGI3Vy1nVVpsUVNOV19ieVlxYkwxMkFqNUxBMVZXUTBHTFg5dGI2amhLdTFBQldCTEVoVWlnRFdmLTdlSl9fcEFsMWJHdWFMSUcwSmVrUFFwUi1pM2wwUkp4QkJ1eDYwUnkzd0ZHNWh6dm5uVThWemhuUG96RjN5NklJdk13dGNKTFlXdw?oc=5",
@@ -79,13 +86,6 @@
    "date": "2026-11-11T00:56:57.000Z"
   },
   {
-   "topic": "4G",
-   "title": "Google Fi launches ‘Super Network’ with dual 5G and Wi-Fi switching sentence case",
-   "source": "Business Upturn",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaVlfU0VMVUZyVHNzbUFfWVRxNWVxRFFhYk9SUUk1d1VDeTQ3MDhjSGlBell5TUFTRi1qYlZZNE8teVJWT0NTNFM0clVSNk54V19odmJuMWw0a3NJRlgyN09OMnVxSDlpX3RuWDN2MkRSb3JrNnV0T0FVSUpZWFlxNFFObVctdHNqaVhoNzBZSDZEQldGYi1YTlVyN0ZsT1VtNjBWTHl2ODdQRUZiMDRGWDhQLTRDRTZaWGU2aXowSkZGREk?oc=5",
-   "date": "2026-11-10T16:59:00.000Z"
-  },
-  {
    "topic": "Optical fibre",
    "title": "HFCL wins ₹834 crore export orders for optical fibre cables",
    "source": "ET Telecom",
@@ -98,13 +98,6 @@
    "source": "Qatar news agency",
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVHU1djlRcXEzQ09LbkJOeVZheU1zRU9uNjZXOXpua0p0WDZqTkVKdXFEWGNxSzhydEpVMzZKejY2WE9FM1hUSUE2cmpVblYweGp0emJkN2FsSU15cUhNYVlYTGdiVnNMd2pUN2tVY2I5djNlWU8tbzhlRUN6ck1tdjJmM0ZWUEduUl94QmExYmpNc2trMklmUlJVb3BRN0czQnhlRTF1Rk5xdGp0MTF4MEVrLXlrZWtjWFB0Q1p5QlcwbnNtWFFvaDVmX0xwcDJhVjlEMkk1SQ?oc=5",
    "date": "2026-11-12T17:18:28.000Z"
-  },
-  {
-   "topic": "Optical fibre",
-   "title": "Broadband Aggregation Equipment Market to Reach US$5.5 Billion by 2033 at 2.4% CAGR",
-   "source": "openPR.com",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYTF6UzQzdmFUM3FqS3piXzVkRWMtVFJyZkNCbXN3dGN1M0VuZnR2U0lGRzZEWVcwOXFZbDdkOFpSVkJMZ0VtMXRXY2RvVFlKSEFuOGVvVFJrQ2IwY1paMDZZSVBUejV5UEpwN2pldkZfUV9CNEF2QTNzczNkSXVIbXNqZnlTUGVaejJ1MjB6dkdTWFh2c1pTcXlFc3dyYVU?oc=5",
-   "date": "2026-11-12T16:26:10.000Z"
   },
   {
    "topic": "Optical fibre",
@@ -126,6 +119,13 @@
    "source": "Pasquale Pillitteri",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORm93aTF0ekFidGpQVGpEbUFyTDVYalc5ZTNfZlZJWWloSXVXMEZGRjV2UDhtSDJTc3VJdXJqbVZ6Q1pydE5IMlJ6a25ib1lWOU82UVp6VWp2X3pob1hiZmpCai1GS2dQaS1XRmsxZ1I0ZFkzVlRhUm51cUFhOEVCLWtoNDlyQl9lNzljX3VPaGRCSHc?oc=5",
    "date": "2026-11-12T08:27:01.000Z"
+  },
+  {
+   "topic": "Optical fibre",
+   "title": "HFCL Wins ₹834 Crore Optical Fibre Cable Export Orders",
+   "source": "Urban Acres",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOWlHTXpEenBDSS01b01tSUExYjhDclA2OC1kZ0phYXNIcm1OSDA5U191MFpHWjlza0dIVUtRME1XNE1QTjJKaWlnLVA5QWhmNUFJMTFuejBWYmsxbnJvcGJnUUNGX3RKQTJraXdmS19vU0xjNGtnbEpVVXJfUW1MRlUxUzlWWVBudjA3ck5B?oc=5",
+   "date": "2026-11-12T06:37:22.000Z"
   },
   {
    "topic": "DWDM",
@@ -153,7 +153,7 @@
    "title": "Bluebird Fiber Announces Tera-Core™ as Customer Demand Accelerates Beyond Single 400G Connections",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaUVLYWN1eE1DTTJyVVgxcWN6VmpVT1E2YjJiOWUzN01uMmpHZUdpX1htY3NkNjFrM3I5WWVvaXFVdzRtN3NYVDN0RVBXVG9BSXdhVS1iUGtwdVVVaG05dG9idmJfMl9xZkkwdi02OG16MUdjWmZ6RzkzYWJhNWpVbXcyN1puUmtrZHZYc1A3NjVWdVhFb3hkalRyaw?oc=5",
-   "date": "2026-11-02T13:34:00.000Z"
+   "date": "2026-11-02T08:00:00.000Z"
   },
   {
    "topic": "Innovation",
@@ -168,6 +168,13 @@
    "source": "Tech Review Africa",
    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPYmJVTjhwS0tVS0lMd0JQVHZ1TG5Ba1Y1S2tMQ1F5ZlpkLW01aHNwbF9TYThQbGJaSGNzTnpheWwwZTh1ay1ZOGhKVXotclVQN19IMzhsZ1dBY1ZLR1dkMGh5d19Pak1CVmpGX1BtY3NSZzNSNEpqTHpPLWtVWkllTlFrdklmLTRnY1dXaTF0VU5EWjNiNjBDNnJLZVpYXzB3VndVbkhzaEhBUnZIZi1hZ0xLenpDaWNZM0R6STNyeEtXN2Nsc3hrR0NiT0s0TDAxWHFSZ00tb1pCbHV4dlFLTElqb2UtZFBod2c?oc=5",
    "date": "2026-11-12T14:29:11.000Z"
+  },
+  {
+   "topic": "Innovation",
+   "title": "GSMA Sets Out Five Policy Principles to Strengthen Mobile Network Resilience",
+   "source": "Techeconomy",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWFZMUVBiYzFUSFFoaXMwWVU3R0FYMWl0eXlvSlhkcVN1RDJzLV9UQXN4VGJWQ2Y0U3RxX25EcHVJRnJJWHVZajRUVFpIcWlvVW5Ub1pCUDNENHEwZTJYTlp0MFF4bkw1SEpPX0ZVMDROQ18tdDVaSUNHUWFHYjhwQ1p5cUVPMmNkNXd2aTZMY1RjNTNEdnUwRXhlUGFwcjJG?oc=5",
+   "date": "2026-11-12T10:45:16.000Z"
   },
   {
    "topic": "Innovation",
@@ -217,13 +224,6 @@
    "source": "ARNnet",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRWNYNDFZXzlySE1iZ1VPMi1xbXdQUHpxcS15T0pKSWZjb0xtZk5rTUt6YlpyOFhtdTN3T2NXVklCZmRocWFXZDI4UFdlZ1JZbmdudDlTcnpYdm9kUzc2VFBNbmZMWHRmajQ0YW45ZUt2THpRRDd1eGN0bmFKREJqa3VPNkZBMnZGRy1nMlVjeXQ5TzRaTVgtSnUyX3BsWlFVcU9pRmx2OU9lc0k?oc=5",
    "date": "2026-11-08T22:25:11.000Z"
-  },
-  {
-   "topic": "Innovation",
-   "title": "6G phones arrive in 2030. The fight over the airwaves has already begun",
-   "source": "SMH.com.au",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVzZDQS14WXNKdmU3Ykc3akNKOTdpYnpLV1B3YjYweXJEdERsT0E3eHA2YXRsSVhPRHJpZVJodF93aWsta2RUNkdFVWhmNUNpNFdfYXc4VzYzdnR0WnZHM1IxSUNzRkRCY3d1c1dsZnpZemRPbE9vTmM0T0YxNVkzZGoyWG1GbkhhSk42WlhWaEgydWZ4VHNpM0VOY2NKRWVPdFZsaU1WZXpOTms0TFhfQmozbklIVG4xMEtWVk96TnNjWG8?oc=5",
-   "date": "2026-11-07T23:06:08.000Z"
   }
  ]
 }
