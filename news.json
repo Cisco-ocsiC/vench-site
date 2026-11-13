@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T04:44:46.829Z",
+ "updated": "2026-11-13T05:46:24.634Z",
  "items": [
   {
    "topic": "5G",
@@ -66,13 +66,6 @@
   },
   {
    "topic": "4G",
-   "title": "ACCC aligns mobile coverage reporting with new ACMA mapping standard",
-   "source": "Telecompaper",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVEd1TkhpeTFGMFRiYWFGZGJEVWxtclAzb0dnVEtNRzB2Z3FxWGI4bWRaQXRRYXFOZXJnY1k2MEZ0Ui1ialhlWklSam53Mm13anJpOGRQQks3UkJCeExVYmtpbFdKWU1rdjA5aVVTZWR5NEx2RHpMZmtEXzU1SXFCRHlFbWxQN25FOU5SNHVzRzN0b25VdDIzVWNzSnJjMXQwQ3lVWExyMGszT2FGdHZabw?oc=5",
-   "date": "2026-11-11T08:00:00.000Z"
-  },
-  {
-   "topic": "4G",
    "title": "TIM Group Revenue Rises 2.8% to €10.4 Billion, Capex Reaches €1.3 Billion as 5G, Fiber, Cloud and AI Drive Strategy",
    "source": "TelecomLead",
    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQY0p2UUhDLVE4b1J2a2gtVldxbDdnQ3JpdlBSSl9BUmJZbXV2SWRDZjRuOGYyRFEtR00ya0NKN3FrSV9GOTI4cVFiRGJoWk14Q1VqSGRHc3ZzVjJjVEF0N3dJc3FrMTQ1UmNqSnlVdDhhZkdqVFd0RHRUdGtsOUptYldINEtKMndlSHgxM0RaRXRXckE1ZFNQekdmOEk0QnJzeDdQc0plZHg4U1I5QWRPWlhiVVhiVmtBUHJEaFVMVDVRY25CMGpYQ1dBdXU3U0F1RFRFT3d0ejZleHRKUllrVnVnQ09WempjOTlz0gHrAUFVX3lxTFBjSnZRSEMtUThvUnZraC1WV3FsN2dDcml2UFJKX0FSYlltdXZJZENmNG44ZjJEUS1HTTJrQ0o3cWtJX0Y5MjhxUWJEYmhaTXhDVWpIZEdzdnNWMmNUQXQ3d0lzcWsxNDVSY2pKeVV0OGFmR2pUV3REdFR0a2w5Sm1iV0g0S0oyd2VIeDEzRFpFdFdyQTVkU1B6R2Y4STRCcnN4N1BzSmVkeDhTUjlBZE9aWGJVWGJWa0FQckRoVUxUNVFjbkIwalhDV0F1dTdTQXVEVEVPd3R6NmV4dEpSWWtWdWdDT1Z6amM5OXM?oc=5",
@@ -84,6 +77,13 @@
    "source": "TelecomLead",
    "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOamwwVGlGZDEwLUstWEg4MEMtcE1SeUxJREZaOFUwT1NQZlhvcTJDS1kwRDFmbWlqeVJfM19EQlFadkFMaFkxLThtVEV2UUlacXZUVS1VdVZGMmhyaFZKekxHN3VnTVI3YUozYzdMN2dVdkRBOGhTWFM2Y0NtUkc3dnZCN0RTTUhDQU10V2JpOVNPVWdUSkdCenJxU2Vyd19Va1M3YVVhVUtTbU9TREZtbUpqZDdqOVdEQk11MURxX3ZNTEFqR1l0Q29MSFF5bFdidVV0SC1oOFZNV0hncWhWTHo4dldxTWFrdTFPX01UanpxWE5RQ2tSRTI5RzlvWm90Uk10V1BBcTlYRjF0dWxR0gGPAkFVX3lxTE5qbDBUaUZkMTAtSy1YSDgwQy1wTVJ5TElERlo4VTBPU1BmWG9xMkNLWTBEMWZtaWp5Ul8zX0RCUVp2QUxoWTEtOG1URXZRSVpxdlRVLVV1VkYyaHJoVkp6TEc3dWdNUjdhSjNjN0w3Z1V2REE4aFNYUzZjQ21SRzd2dkI3RFNNSENBTXRXYmk5U09VZ1RKR0J6cnFTZXJ3X1VrUzdhVWFVS1NtT1NERm1tSmpkN2o5V0RCTXUxRHFfdk1MQWpHWXRDb0xIUXlsV2J1VXRILWg4Vk1XSGdxaFZMejh2V3FNYWt1MU9fTVRqenFYTlFDa1JFMjlHOW9ab3RSTXRXUEFxOVhGMXR1bFE?oc=5",
    "date": "2026-11-10T12:27:32.000Z"
+  },
+  {
+   "topic": "4G",
+   "title": "Reliance Jio Leads Mumbai Mobile Network Speed Test with 248.93 Mbps Download, Vodafone Idea Records Zero Call Drops: TRAI",
+   "source": "TelecomLead",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPdlZCUFBEajIyNFFZSXBZSTdIRW9UMUZIRktPbDBVQ2EtdDB3a0hOOUl4ZUwxUVNydlZWSTgzTHVfOW5xTmJWOW45eUs2OHowcGcxcDd2Qi1wSnFqZlpVdC1fak51NXJHWXJPeHgwbS1Bd1ppS3NpUWxtLWxuTWNKWklqMGpMX1JVUWxmeXlENUVfajRiWUxzdlE1eTl6Z0NzbEN4OE5TV01hM19xWmpJZHVDOHNXRHpaanI1Y3pmZ0ZNSE9COExzQk9KM2thMFBjZktWV1R6d3RRZDlhV3hMZFlXRFNjTXg5U2hNOHBaWEkyUWptVGdN0gH3AUFVX3lxTE92VkJQUERqMjI0UVlJcFlJN0hFb1QxRkhGS09sMFVDYS10MHdrSE45SXhlTDFRU3J2VlZJODNMdV85bnFOYlY5bjl5SzY4ejBwZzFwN3ZCLXBKcWpmWlV0LV9qTnU1ckdZck94eDBtLUF3WmlLc2lRbG0tbG5NY0paSWowakxfUlVRbGZ5eUQ1RV9qNGJZTHN2UTV5OXpnQ3NsQ3g4TlNXTWEzX3FaaklkdUM4c1dEelpqcjVjemZnRk1IT0I4THNCT0oza2EwUGNmS1ZXVHp3dFFkOWFXeExkWVdEU2NNeDlTaE04cFpYSTJRam1UZ00?oc=5",
+   "date": "2026-11-09T13:16:22.000Z"
   },
   {
    "topic": "Optical fibre",
@@ -171,13 +171,6 @@
   },
   {
    "topic": "Innovation",
-   "title": "[Telecommunications Outlook] LG U+ Wins Red Dot Award - 'Love for 1,000 Won', SKT's Trust Recovery Survey, KT's AI Customer Experience Innovation",
-   "source": "뉴스웍스",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoLVR5YnNoZGhXU0VrN1ByRTBfbkdpNDhlQ2tmZVhqcG9TLVhFVzdmQl9UMHJIUGdYRGNESXVGNDVVRXNBODh4SmtEUGMyMXZlNEwwNlR0OVVVaEowMTlaWmdFTmVJRUw4RXUtZw?oc=5",
-   "date": "2026-11-12T03:54:30.000Z"
-  },
-  {
-   "topic": "Innovation",
    "title": "Ericsson (OM:ERIC B) Unveils 6G Healthcare Hub And ISAC System",
    "source": "Yahoo Finance Singapore",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUzFpTkgzUHBxbHZycXNlN0wwbGtIdGpRdzBDR2g1c0JvYk9Pc2lQRy1ZajVrMkZ1WEJDM2tNWjlTaDR2bW1fd1lpaTRHLXFYSzVrNEpmek5TaDZKd0FndUYtbmJOSVRjTXFsNVd4bUVHMHcwWjd3TmZLSXRiYndrdQ?oc=5",
@@ -224,6 +217,13 @@
    "source": "ARNnet",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRWNYNDFZXzlySE1iZ1VPMi1xbXdQUHpxcS15T0pKSWZjb0xtZk5rTUt6YlpyOFhtdTN3T2NXVklCZmRocWFXZDI4UFdlZ1JZbmdudDlTcnpYdm9kUzc2VFBNbmZMWHRmajQ0YW45ZUt2THpRRDd1eGN0bmFKREJqa3VPNkZBMnZGRy1nMlVjeXQ5TzRaTVgtSnUyX3BsWlFVcU9pRmx2OU9lc0k?oc=5",
    "date": "2026-11-08T22:25:11.000Z"
+  },
+  {
+   "topic": "Innovation",
+   "title": "CRA Showcases Results of Advanced Technology Trials Paving Way for 6G at MWC26 Doha",
+   "source": "Qatar news agency",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcHllUS00YUZnckVqY20tUGhDc3FfSmVmSFh4Ul9sMVFUMzhiM2t0N2t2c2swUEhoSTBreTJtVDFYU3drTlFvbFpvMWdaNld5MG5Hd1VZT3YyMUE4MFdBdXo0YzZHNzNoSkdQRldDenpOVXpxczcyRFBaejVNVU5BNHZRT3ItUExsaVUxYnoyVWx0Y2FOdlduak9YeEZxVlZ6MWlHNloyR0dsV3ZjLTFGdVZUQTJuaTZDYlQzcVprcG5Iazhfa0s4SHdnekRTdUc1NkpHT2hqUHI?oc=5",
+   "date": "2026-11-08T19:23:28.000Z"
   }
  ]
 }
