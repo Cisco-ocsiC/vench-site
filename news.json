@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T19:30:19.852Z",
+ "updated": "2026-11-14T20:24:03.266Z",
  "items": [
   {
    "topic": "5G",
@@ -17,13 +17,6 @@
   },
   {
    "topic": "5G",
-   "title": "Optus and Nokia demonstrate asymmetric 5G configuration using 900 MHz",
-   "source": "Telecompaper",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZFd2N1FKdHJ2Y05hMkxoRGxsQVlSVXJWdVVubGxhOUN4akVUNWhUOXU0am0zc094eW9XS1ZkdUx6bnVsckZrVEVVZElZQjZlX3k3MF9IWEVKUEs0dkZQSHVXMWR5NUtiLTB6TTduZXdNNDRzTnE1c3ZhSnRBNHlzZEdhRERqeWYtS29vTmZOR0YyQmZmcW9oekQwX0V6dXlvbEpZc1lBRFh5ZlYzUEpYMVFn?oc=5",
-   "date": "2026-11-11T05:33:09.000Z"
-  },
-  {
-   "topic": "5G",
    "title": "Optus and Nokia Achieve World-First 25MHz 5G Downlink Breakthrough in 900MHz Spectrum",
    "source": "iTWire",
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWUp4R0FJYVRCY3ZFV25HNUdRWnNTSExlbkZCdFRPRUlEdlhFVGpZUFJsVDJ0cVZybTA5NWlnQmlqUFRBdDExOHlQbDdFV1l4YlpkVUltX3JjZkNyWE9BTUpYTXJtSDdiaUE4Q3N3bUhXaVBMMDRyTmVJSm5Eci1SOFg2SGZPMUowRm9vaGZoUFlFWFQ4OC1TRVdMdTZyNzdLOWwweEk4NU1XZXplSlFXTDd6ZFo0RDdPQldRU090RWs1d0lvN3o2dE43YjBuWEFVeDhLdg?oc=5",
@@ -38,6 +31,13 @@
   },
   {
    "topic": "5G",
+   "title": "National Wireless signs Mobile Tornado deal for ANZ",
+   "source": "TelcoNews Australia",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUWNQZjNQUVUwQkZfMDZCaDRCMkRBMTBUWW1Yb3BaRGdhbjZjbHN1dnZFd1daZGZGczJtaVM2dWZBVmgzbG40Ym8tMFJVZWJXY0V5azlXZFQybVZ0YldXeFNfYzRVNFdTRGZuQlhsRWJXekVqME5CNjc4NWdDSWQtUzRZNDduNkpZMXc?oc=5",
+   "date": "2026-11-09T21:45:00.000Z"
+  },
+  {
+   "topic": "5G",
    "title": "A new Aura Network route, a bigger opportunity for Australia",
    "source": "Telstra.com",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUnlKUnhIVXFFdGxYOWMzY3NSS296T255VXRaanJURlJnVy1VMWZoRFZuUnVvellBb1lPNGc5eE9WRUVjRGtsaGZIS0EzbWRfTVJIczAtVUpuLUhEaWE5VU9YQVpfbjB5T2RfNkZVLTRTajczZmk0MUh5OXFqWVA2V0VlTXhWNmNzOXNxc2g4d0pPT2Q5T1VSbTFwdEE?oc=5",
@@ -49,13 +49,6 @@
    "source": "TelecomLead",
    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQQllSVjhvdkxxQmpDYy1XUzVqQnd5LTFiVmFDNU9qMFBYd3QwVlVjYkx6NVhiTWJ0eXFjMkF5Uy1xUVlIZTFtWlBPRkZ1SzB1WEJNcEtwNWpGLUVVWDBNYzIxTHdoN29FLUxPeHNLcDJqQWlYUHpyMGwweG4zd0dwZFc5UFNPSGhSNm9MLTQ1ZnRlODE0M2d1WC1LWVlUQVZtX0l0VmpHVGo1a01fVEh0WFUzR2xRanZGMzl5TktSM0k3R0FvbGZwYXY0TEpza0ZKOEtLWUhpNVAxQnBydGR5S2QwT3ctclJQbm1RZkswbGFGMXNT0gH0AUFVX3lxTFBCWVJWOG92THFCakNjLVdTNWpCd3ktMWJWYUM1T2owUFh3dDBWVWNiTHo1WGJNYnR5cWMyQXlTLXFRWUhlMW1aUE9GRnVLMHVYQk1wS3A1akYtRVVYME1jMjFMd2g3b0UtTE94c0twMmpBaVhQenIwbDB4bjN3R3BkVzlQU09IaFI2b0wtNDVmdGU4MTQzZ3VYLUtZWVRBVm1fSXRWakdUajVrTV9USHRYVTNHbFFqdkYzOXlOS1IzSTdHQW9sZnBhdjRMSnNrRko4S0tZSGk1UDFCcHJ0ZHlLZDBPdy1yUlBubVFmSzBsYUYxc1M?oc=5",
    "date": "2026-11-14T06:02:27.000Z"
-  },
-  {
-   "topic": "4G",
-   "title": "Charges on Chilean carrier WOM for non-compliance reach US$70mn after new 5G compensation",
-   "source": "BNamericas",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQ1c2TFhXTmdxVlVDdWxRTGxLQUcxQmQ2X0Y4dWE4Nmc4d1BpX3R1UjRzSk9JNFNyZXdRcHM1VWZpczQ4UDZLZFlzWDVKWW85VDdGOUl5c0h3Y3N0SE5KeW5BMkI5azQtQ0h4RUdseU0wRkp4anBCMEVGandORG9QNTZVaUFTU21iejljQ3hXdVpVVHVZdzZpZHJ3dDBMSElhWGdzM0Rmb1JnTnowMzJIaHI3Q0QyQXRjT2FYQUYzVHc?oc=5",
-   "date": "2026-11-12T13:52:32.000Z"
   },
   {
    "topic": "4G",
@@ -84,6 +77,13 @@
    "source": "Chicago Tribune",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zYzJTNFN5bXdUT2lKUUl3NFhxSjZSZDVVTnJsd2FZZXppN1FieHpkS2FVU2w2M2xQMFNyV0s3N3c3cDFiM0k4UUpQTmJOQXd1b29uYUk2dzNVU2hMbUlOT3pmeUFmNWlSUHJuT0pYb0E?oc=5",
    "date": "2026-11-09T11:47:45.000Z"
+  },
+  {
+   "topic": "4G",
+   "title": "Mobile Network Quality at Airports, Railway Stations and Highways in 2026: Jio, Airtel, Vi and BSNL Speed and Coverage Comparison",
+   "source": "TelecomLead",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUE12elEzbEZ6dGRheThVRHBuMnE0alRPWGhJQVJ6NHg3OENPazF4NnEyRml6bFlsb211YkpNSGo5Vy04UmVqQk42bmh1QjdENnhFa25yb3lFWW9NWDlhUEFqd0dVRnJkTnh2VjRzREdDRlZHMmFqUi1IWmUzTThpYmhGM0lYWkJCZUJ0RGVmc1I3MEpCam1tUjNOSGtsb1pxX3F0c202WW1OWE9sSUNaWm1raHM4Y3pfT1FIUGQzb0FkeFRnSTV5TEVDRnEzUUVoQ0xzQkVBejdKSTJXNDdrWDlZTEtXb0FPb0Z1a2VLSjd3YXE3cEHSAf4BQVVfeXFMUGNCWjBzOU5OUU5tWjY4UkZHRlR6d0w3Q2hlNXhoOVpGRUtfcmZyM2UzVkh6TDNjOEZ5UzR6ZU9za2hycndjMjg0czNfMXdxLWRIbzVXaklPYVdXNnpidVlZNlo0QkVTVjlEbkM5N1dMQ243OWl6b2FCVnRvZXNZVUZvUk93N1dCcVJyRXFZN0ZLTVNYM0dlSGZRcWRIenNIaGpmREpfTS1UUUZrUU9BSUVES2hlUWNGZDh4cURCWW1lYVJvS0ZKX09ZbjdMV3p6LTUyN0VIWFdzRUVxLXlnTUZ2VjZiYWVrYzZTQVFhQ0tHSGpCclpNZWpuLUg4cFE?oc=5",
+   "date": "2026-11-08T12:28:06.000Z"
   },
   {
    "topic": "Optical fibre",
