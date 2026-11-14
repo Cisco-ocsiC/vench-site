@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T18:24:19.568Z",
+ "updated": "2026-11-14T19:30:19.852Z",
  "items": [
   {
    "topic": "5G",
@@ -66,6 +66,13 @@
   },
   {
    "topic": "4G",
+   "title": "T-Mobile illegally imposed 50GB cap on low-income home Internet plan, NY says",
+   "source": "Ars Technica",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVnBzYlFGLXNrR21rVVpZNHZuWHhtaXhqcFFhZWVlTVlORWlOcnNZdXJXQ0drT1VFOFoxS0Z2YjlBT1I2cFQtMUZ3eVF0bm10MXVQOHdyVHlJeVNJd01lbDhnd2ZKaU9MTjRzMjJrclFJcTZ1b0dzWjJwVlk0SnNjMGJ5Z1NNSWhaTkZyRjhfYWxOaG5Ib01FWHZzVmdGNDZhcWctZUc5S2ItekxCY2hMYnh6RVRPLWRlLWRvazJpRQ?oc=5",
+   "date": "2026-11-11T20:32:21.000Z"
+  },
+  {
+   "topic": "4G",
    "title": "Google Fi launches ‘Super Network’ with dual 5G and Wi-Fi switching sentence case",
    "source": "Business Upturn",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaVlfU0VMVUZyVHNzbUFfWVRxNWVxRFFhYk9SUUk1d1VDeTQ3MDhjSGlBell5TUFTRi1qYlZZNE8teVJWT0NTNFM0clVSNk54V19odmJuMWw0a3NJRlgyN09OMnVxSDlpX3RuWDN2MkRSb3JrNnV0T0FVSUpZWFlxNFFObVctdHNqaVhoNzBZSDZEQldGYi1YTlVyN0ZsT1VtNjBWTHl2ODdQRUZiMDRGWDhQLTRDRTZaWGU2aXowSkZGREk?oc=5",
@@ -73,17 +80,10 @@
   },
   {
    "topic": "4G",
-   "title": "Reliance Jio Leads 5G Download Speeds in Arunachal Pradesh at 103.49 Mbps, Airtel Tops Upload Performance: TRAI",
-   "source": "TelecomLead",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMXlOdmN4N254R0RDREkxSVFTOGtoemV2dVpuOXV2U1JIRUlhSjl3UHR2N3hMeGc3YlhVaEJuaDRrVXM0U0Yxd1lzc3ROU24tX1FuZmg5VjNibjlVVWxJN3JPRDhZMVllVFZselpGeTlBM2FTdDlkcFU4U0VGWE94OGZreFdJTnZLQ2Y1MGFfSXZ6c1ZRM0MtY0pfVFNvaENWZjh5WkF4VHJHc082SDVhVmxkcXRDWkR1TjM5aTZlaHJiMzBVdjFUQm1oRG5vYnhuaUZ4Rk4tN3dlNEtCbDhOWdIB6AFBVV95cUxNVVlkVkNIWVN2c2E1WUt4WWFCRzdHc3h2Ni1QSnNNY0NnaUhZZUpLMmktRk5mOUZ2akozcU9WQ0VIT09BV01majVHQUxWWDNQRzV2Y0E5VndBVHpSSlVWMUx6MmdUbDU2UUtUcjlDYmJWeWRUZ1F1MElMSVNRZGdWQ1ViakgyQ1d6TUJicFJTTWJtUWFkNjJhbjdHSTBveGtTRUFlYzBkVnc0WHI1VjMyNnNRbHZXMzNzY0JjR1h6NmtfN2NnYTRaRFNvMTlFMEhCME5PeTlpQ3ZSTmplUG12TTVhakZfZnBU?oc=5",
-   "date": "2026-11-09T13:21:23.000Z"
-  },
-  {
-   "topic": "4G",
-   "title": "Reliance Jio Leads Mumbai Mobile Network Speed Test with 248.93 Mbps Download, Vodafone Idea Records Zero Call Drops: TRAI",
-   "source": "TelecomLead",
-   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPdlZCUFBEajIyNFFZSXBZSTdIRW9UMUZIRktPbDBVQ2EtdDB3a0hOOUl4ZUwxUVNydlZWSTgzTHVfOW5xTmJWOW45eUs2OHowcGcxcDd2Qi1wSnFqZlpVdC1fak51NXJHWXJPeHgwbS1Bd1ppS3NpUWxtLWxuTWNKWklqMGpMX1JVUWxmeXlENUVfajRiWUxzdlE1eTl6Z0NzbEN4OE5TV01hM19xWmpJZHVDOHNXRHpaanI1Y3pmZ0ZNSE9COExzQk9KM2thMFBjZktWV1R6d3RRZDlhV3hMZFlXRFNjTXg5U2hNOHBaWEkyUWptVGdN0gH3AUFVX3lxTE92VkJQUERqMjI0UVlJcFlJN0hFb1QxRkhGS09sMFVDYS10MHdrSE45SXhlTDFRU3J2VlZJODNMdV85bnFOYlY5bjl5SzY4ejBwZzFwN3ZCLXBKcWpmWlV0LV9qTnU1ckdZck94eDBtLUF3WmlLc2lRbG0tbG5NY0paSWowakxfUlVRbGZ5eUQ1RV9qNGJZTHN2UTV5OXpnQ3NsQ3g4TlNXTWEzX3FaaklkdUM4c1dEelpqcjVjemZnRk1IT0I4THNCT0oza2EwUGNmS1ZXVHp3dFFkOWFXeExkWVdEU2NNeDlTaE04cFpYSTJRam1UZ00?oc=5",
-   "date": "2026-11-09T13:16:22.000Z"
+   "title": "Best mobile hotspots",
+   "source": "Chicago Tribune",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zYzJTNFN5bXdUT2lKUUl3NFhxSjZSZDVVTnJsd2FZZXppN1FieHpkS2FVU2w2M2xQMFNyV0s3N3c3cDFiM0k4UUpQTmJOQXd1b29uYUk2dzNVU2hMbUlOT3pmeUFmNWlSUHJuT0pYb0E?oc=5",
+   "date": "2026-11-09T11:47:45.000Z"
   },
   {
    "topic": "Optical fibre",
@@ -129,13 +129,6 @@
   },
   {
    "topic": "DWDM",
-   "title": "Non-Zero Dispersion Fibers Market in China: Size, Trends and Forecast to 2035",
-   "source": "IndexBox",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRHkzREFKeEdRY2s5THY5Q3N5dXA5NDNvZ2tEWm9DZzBhTUR6alNxNF85VkZILXZIaU5QcXltaktGV0xROE5Pb0FOeVRZSS1IdHNHY0UxZXBOVmtnazhRVkhyeE8ybjhMNHNHa1VsVUZFWGNIc0xKVVBiV3QtTkRVZWF2eXlvQVhDX2QweXBpZFhDZHBidjVvY0puRUZfeFZJNTh6bUpQaU1MUXhaX2FzQ280bw?oc=5",
-   "date": "2026-11-12T08:00:00.000Z"
-  },
-  {
-   "topic": "DWDM",
    "title": "VNPT and Symphony collaborate to provide international transmission services, promoting the commercialization of network capacity.",
    "source": "Vietnam.vn",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWUtNZWlKRmkyY1BPRGp6ZEMza095QjNQYWlZTjJnZGttWk4wd3hrbHV6UEVqVHRLMTExSlloV2YwMEt1LXdYYUZja2J6YlphNllkQktrc0h0SjJWMDlpUURkb29yaXNMR2NsS1FVSFphbHlBRFNJTGZyV3o0dG95b04yZV8zWE1iNEZMOGtNUnlESDNCaDdEeE40WUhoLXVzTXpaeHZxbFBxOHk1VWNSRXRTWkhudTJLUnhjLXZB?oc=5",
@@ -158,9 +151,9 @@
   {
    "topic": "DWDM",
    "title": "Bluebird Fiber Announces Tera-Core™ as Customer Demand Accelerates Beyond Single 400G Connections",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaUVLYWN1eE1DTTJyVVgxcWN6VmpVT1E2YjJiOWUzN01uMmpHZUdpX1htY3NkNjFrM3I5WWVvaXFVdzRtN3NYVDN0RVBXVG9BSXdhVS1iUGtwdVVVaG05dG9idmJfMl9xZkkwdi02OG16MUdjWmZ6RzkzYWJhNWpVbXcyN1puUmtrZHZYc1A3NjVWdVhFb3hkalRyaw?oc=5",
-   "date": "2026-11-02T08:00:00.000Z"
+   "source": "GlobeNewswire",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPdEJtODdzQktHZWdsMUgxb0Y4eDBFX0tRZXROMndna19fUlRpekFSWGRtTXRmMk9uNFllUEZOX1UyaFd1ckVaYUc1T0tHeEx3Mklwd2dmNGxNRXhrem01WTl2V0g2aWJRNDUxYWk1eGhUV1hBZjNpYlJjSWQ5NEhKNU4yOHFXMjZrZ3gyMEFSZkVTZ19LelMySGRscHJ5RVZPRXlzS2g5RW5OTzdSb1pxOU9jRGdNcWxiR3FlTHRZZFN6UTlDSWhTS2VDU2VQaDRVak4yS2Jxc21BSFM1UzJHUkxmWk1TZnB0ZUhFRmxFQXpTRjVaMHJSR1B3aDk?oc=5",
+   "date": "2026-11-02T13:34:00.000Z"
   },
   {
    "topic": "Innovation",
