@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T14:31:00.472Z",
+ "updated": "2026-11-14T15:25:39.495Z",
  "items": [
   {
    "topic": "5G",
@@ -7,6 +7,13 @@
    "source": "WhistleOut",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQVdLZlNTRGY5Nk1wQU0tdHZ6ZkV5R1hMWEc4NVhrSEJWM2haLS1GaHVHdy1WZEx2T3pBTERqVW1IaVRhbUdWU0FvVWVCUUNxMy1ZcVB6U1VXeTBNbWZmVmJvQ3hRTXVfUVY0bzRXRXJ1cVJpMU5CemNTYl9BX3JYX0h4R0YtV292SVlnZ19MQ3VMOVFO?oc=5",
    "date": "2026-11-12T08:35:14.000Z"
+  },
+  {
+   "topic": "5G",
+   "title": "Optus and Nokia demonstrate asymmetric 5G configuration using 900 MHz",
+   "source": "Telecompaper",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZFd2N1FKdHJ2Y05hMkxoRGxsQVlSVXJWdVVubGxhOUN4akVUNWhUOXU0am0zc094eW9XS1ZkdUx6bnVsckZrVEVVZElZQjZlX3k3MF9IWEVKUEs0dkZQSHVXMWR5NUtiLTB6TTduZXdNNDRzTnE1c3ZhSnRBNHlzZEdhRERqeWYtS29vTmZOR0YyQmZmcW9oekQwX0V6dXlvbEpZc1lBRFh5ZlYzUEpYMVFn?oc=5",
+   "date": "2026-11-11T05:33:09.000Z"
   },
   {
    "topic": "5G",
@@ -37,13 +44,6 @@
    "date": "2026-11-07T23:06:08.000Z"
   },
   {
-   "topic": "5G",
-   "title": "Major mobile network upgrade",
-   "source": "Snowy River Mail",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBFM1A5Y3hhUjh4b0ZfWlZPSGlBSUNQWmM4WHdqSHBnd3d5Z0owdmsyQnVPREFmMUZrSkhhdWJ1dmtBMjFTS3RtSHYyNXl0UkVpM3NpWUlhRE1sVjk0dGdCXy0xTmtkRlZlaDFEdENOWHdmUmc?oc=5",
-   "date": "2026-11-05T03:06:19.000Z"
-  },
-  {
    "topic": "4G",
    "title": "Telecom Argentina Boosts Capex 44% to $354 Million, Adds 887 5G Sites as Mobile Subscribers Reach 17.94 Million",
    "source": "TelecomLead",
@@ -56,6 +56,13 @@
    "source": "BNamericas",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQ1c2TFhXTmdxVlVDdWxRTGxLQUcxQmQ2X0Y4dWE4Nmc4d1BpX3R1UjRzSk9JNFNyZXdRcHM1VWZpczQ4UDZLZFlzWDVKWW85VDdGOUl5c0h3Y3N0SE5KeW5BMkI5azQtQ0h4RUdseU0wRkp4anBCMEVGandORG9QNTZVaUFTU21iejljQ3hXdVpVVHVZdzZpZHJ3dDBMSElhWGdzM0Rmb1JnTnowMzJIaHI3Q0QyQXRjT2FYQUYzVHc?oc=5",
    "date": "2026-11-12T13:52:32.000Z"
+  },
+  {
+   "topic": "4G",
+   "title": "5G, Data Demand Drive Vietnam Mobile Revenue Growth",
+   "source": "Content + Technology",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTldlTXZEN0Q0RFk3ODFXX0RBdGI3Vy1nVVpsUVNOV19ieVlxYkwxMkFqNUxBMVZXUTBHTFg5dGI2amhLdTFBQldCTEVoVWlnRFdmLTdlSl9fcEFsMWJHdWFMSUcwSmVrUFFwUi1pM2wwUkp4QkJ1eDYwUnkzd0ZHNWh6dm5uVThWemhuUG96RjN5NklJdk13dGNKTFlXdw?oc=5",
+   "date": "2026-11-12T04:28:42.000Z"
   },
   {
    "topic": "4G",
@@ -77,13 +84,6 @@
    "source": "TelecomLead",
    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPdlZCUFBEajIyNFFZSXBZSTdIRW9UMUZIRktPbDBVQ2EtdDB3a0hOOUl4ZUwxUVNydlZWSTgzTHVfOW5xTmJWOW45eUs2OHowcGcxcDd2Qi1wSnFqZlpVdC1fak51NXJHWXJPeHgwbS1Bd1ppS3NpUWxtLWxuTWNKWklqMGpMX1JVUWxmeXlENUVfajRiWUxzdlE1eTl6Z0NzbEN4OE5TV01hM19xWmpJZHVDOHNXRHpaanI1Y3pmZ0ZNSE9COExzQk9KM2thMFBjZktWV1R6d3RRZDlhV3hMZFlXRFNjTXg5U2hNOHBaWEkyUWptVGdN0gH3AUFVX3lxTE92VkJQUERqMjI0UVlJcFlJN0hFb1QxRkhGS09sMFVDYS10MHdrSE45SXhlTDFRU3J2VlZJODNMdV85bnFOYlY5bjl5SzY4ejBwZzFwN3ZCLXBKcWpmWlV0LV9qTnU1ckdZck94eDBtLUF3WmlLc2lRbG0tbG5NY0paSWowakxfUlVRbGZ5eUQ1RV9qNGJZTHN2UTV5OXpnQ3NsQ3g4TlNXTWEzX3FaaklkdUM4c1dEelpqcjVjemZnRk1IT0I4THNCT0oza2EwUGNmS1ZXVHp3dFFkOWFXeExkWVdEU2NNeDlTaE04cFpYSTJRam1UZ00?oc=5",
    "date": "2026-11-09T13:16:22.000Z"
-  },
-  {
-   "topic": "4G",
-   "title": "Best mobile hotspots",
-   "source": "Chicago Tribune",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zYzJTNFN5bXdUT2lKUUl3NFhxSjZSZDVVTnJsd2FZZXppN1FieHpkS2FVU2w2M2xQMFNyV0s3N3c3cDFiM0k4UUpQTmJOQXd1b29uYUk2dzNVU2hMbUlOT3pmeUFmNWlSUHJuT0pYb0E?oc=5",
-   "date": "2026-11-09T11:47:45.000Z"
   },
   {
    "topic": "Optical fibre",
