@@ -1,13 +1,6 @@
 {
- "updated": "2026-11-14T11:24:54.719Z",
+ "updated": "2026-11-14T12:27:37.827Z",
  "items": [
-  {
-   "topic": "5G",
-   "title": "Telstra at Deutsche Bank Virtual Investor Conference: ai bets lift outlook By Investing.com",
-   "source": "Investing.com UK",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaHM4aG83cFdQcTdVQmJlbUJ3dnZFUi1mcnZVSlVJM0p2cE1qenJfcEZjM29iXzBvanctQWNGTDRYajdMWThRZnJ4UEwyeEpsLXJUM1dGcGw2a2VrYkhhc1EtOU5SUlVNXzRDQlhrQ01ZQ0g4N1RNckxBQ25NV1RFOUFWa09CQzRBcFhBbVNOSzNHNlcwM0pIb1piNnBoci1uY2tQcmlFMm9xc3Y0bmk2ZHV2NzNXdWpvMTQ2LUdPMUNaMkRoY2ttanZYaDFBVlk?oc=5",
-   "date": "2026-11-12T20:34:00.000Z"
-  },
   {
    "topic": "5G",
    "title": "Optus' network takes home most awards in new Opensignal report",
@@ -17,10 +10,10 @@
   },
   {
    "topic": "5G",
-   "title": "Optus and Nokia demonstrate asymmetric 5G configuration using 900 MHz",
-   "source": "Telecompaper",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZFd2N1FKdHJ2Y05hMkxoRGxsQVlSVXJWdVVubGxhOUN4akVUNWhUOXU0am0zc094eW9XS1ZkdUx6bnVsckZrVEVVZElZQjZlX3k3MF9IWEVKUEs0dkZQSHVXMWR5NUtiLTB6TTduZXdNNDRzTnE1c3ZhSnRBNHlzZEdhRERqeWYtS29vTmZOR0YyQmZmcW9oekQwX0V6dXlvbEpZc1lBRFh5ZlYzUEpYMVFn?oc=5",
-   "date": "2026-11-11T05:33:09.000Z"
+   "title": "5G Networks Limited (ASX:5GN) Repositions Cloud and Cybersecurity Operations After FY26 Enterprise Revenue Growth",
+   "source": "Kalkine",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPT3IxWWVmbjl5V1EtU2pZWXd4TG5XczZJWnZGeDAyeURHTFAxXy1CaFllSjVOcUJQZ1JWMm9GcWJnVzIzdGhtYm9wVVpkM3dyZXo4ZFZpOXVvU3VVRXZqRHNSNEtDMi1jblBGMlRWdGdlek41aExYc1VDTzdnR2h2YktDWDJQcHdSQ095eEgwYnVINmh2TDNhOEdEYks5MlNoenRiLTdmbnZlcWE3X2txYkcwNmVVVU8tVFZTdHFCcGtpMlVIM3hYbGRXaUV0b0JHRG1QQjFrWlVXclJManFuSjFzSUVwQQ?oc=5",
+   "date": "2026-11-11T05:19:00.000Z"
   },
   {
    "topic": "5G",
@@ -42,6 +35,13 @@
    "source": "SMH.com.au",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVzZDQS14WXNKdmU3Ykc3akNKOTdpYnpLV1B3YjYweXJEdERsT0E3eHA2YXRsSVhPRHJpZVJodF93aWsta2RUNkdFVWhmNUNpNFdfYXc4VzYzdnR0WnZHM1IxSUNzRkRCY3d1c1dsZnpZemRPbE9vTmM0T0YxNVkzZGoyWG1GbkhhSk42WlhWaEgydWZ4VHNpM0VOY2NKRWVPdFZsaU1WZXpOTms0TFhfQmozbklIVG4xMEtWVk96TnNjWG8?oc=5",
    "date": "2026-11-07T23:06:08.000Z"
+  },
+  {
+   "topic": "5G",
+   "title": "ASX Telecom Stocks in Focus as 5G Expansion, Earnings Growth and Buybacks Advance",
+   "source": "Kalkine",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeE1zYXVwTkFTVXp0cXNTcFZLMGhUVU44aDk2djFKaEtSM3dhckNRQldoQUc5NVA5QVpkTkNUTXd0RlpTWjF0MmdaY004UG9OMVpBcWo1STVCN1hseXUzMkhZNFpjTzlLMkxmZ0lwTjJpYWZjN1lHVVhsdmxJdFJDdFFqcXRPMmNKbTBUekJEb19aaXVkT2VpeE1sd3Y5a0xxU3RUUUdWWXQzZ1dBdDhxYjczM1l2XzhsVWZJ?oc=5",
+   "date": "2026-11-06T07:48:00.000Z"
   },
   {
    "topic": "4G",
@@ -151,9 +151,9 @@
   {
    "topic": "DWDM",
    "title": "Bluebird Fiber Announces Tera-Core™ as Customer Demand Accelerates Beyond Single 400G Connections",
-   "source": "GlobeNewswire",
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPdEJtODdzQktHZWdsMUgxb0Y4eDBFX0tRZXROMndna19fUlRpekFSWGRtTXRmMk9uNFllUEZOX1UyaFd1ckVaYUc1T0tHeEx3Mklwd2dmNGxNRXhrem01WTl2V0g2aWJRNDUxYWk1eGhUV1hBZjNpYlJjSWQ5NEhKNU4yOHFXMjZrZ3gyMEFSZkVTZ19LelMySGRscHJ5RVZPRXlzS2g5RW5OTzdSb1pxOU9jRGdNcWxiR3FlTHRZZFN6UTlDSWhTS2VDU2VQaDRVak4yS2Jxc21BSFM1UzJHUkxmWk1TZnB0ZUhFRmxFQXpTRjVaMHJSR1B3aDk?oc=5",
-   "date": "2026-11-02T13:34:00.000Z"
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaUVLYWN1eE1DTTJyVVgxcWN6VmpVT1E2YjJiOWUzN01uMmpHZUdpX1htY3NkNjFrM3I5WWVvaXFVdzRtN3NYVDN0RVBXVG9BSXdhVS1iUGtwdVVVaG05dG9idmJfMl9xZkkwdi02OG16MUdjWmZ6RzkzYWJhNWpVbXcyN1puUmtrZHZYc1A3NjVWdVhFb3hkalRyaw?oc=5",
+   "date": "2026-11-02T08:00:00.000Z"
   },
   {
    "topic": "Innovation",
