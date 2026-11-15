@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T11:26:21.420Z",
+ "updated": "2026-11-15T12:29:43.128Z",
  "items": [
   {
    "topic": "5G",
@@ -52,13 +52,6 @@
   },
   {
    "topic": "4G",
-   "title": "Starlink Mobile’s 800 MHz Band: Which Phones Support It on 5G",
-   "source": "Talk Android",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcmxJeWFudmZuaU1VTkY0TmEzMFBFb3UwUXM5elpNMFRPUzVDUWkxeXVSaUx1YjJKYndINmRSTzdTakZLX2ZWdHRRZDZyaW9DbFpLM29wQlhOcG1Dakt5SmxjRE9ZNkFnbWNnLUlPb2RQUGNVSHRyaTNPZXhKbXFLSXh4LWNrR0Ji?oc=5",
-   "date": "2026-11-13T19:17:14.000Z"
-  },
-  {
-   "topic": "4G",
    "title": "Charges on Chilean carrier WOM for non-compliance reach US$70mn after new 5G compensation",
    "source": "BNamericas",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQ1c2TFhXTmdxVlVDdWxRTGxLQUcxQmQ2X0Y4dWE4Nmc4d1BpX3R1UjRzSk9JNFNyZXdRcHM1VWZpczQ4UDZLZFlzWDVKWW85VDdGOUl5c0h3Y3N0SE5KeW5BMkI5azQtQ0h4RUdseU0wRkp4anBCMEVGandORG9QNTZVaUFTU21iejljQ3hXdVpVVHVZdzZpZHJ3dDBMSElhWGdzM0Rmb1JnTnowMzJIaHI3Q0QyQXRjT2FYQUYzVHc?oc=5",
@@ -73,17 +66,24 @@
   },
   {
    "topic": "4G",
-   "title": "TIM Group Revenue Rises 2.8% to €10.4 Billion, Capex Reaches €1.3 Billion as 5G, Fiber, Cloud and AI Drive Strategy",
-   "source": "TelecomLead",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQY0p2UUhDLVE4b1J2a2gtVldxbDdnQ3JpdlBSSl9BUmJZbXV2SWRDZjRuOGYyRFEtR00ya0NKN3FrSV9GOTI4cVFiRGJoWk14Q1VqSGRHc3ZzVjJjVEF0N3dJc3FrMTQ1UmNqSnlVdDhhZkdqVFd0RHRUdGtsOUptYldINEtKMndlSHgxM0RaRXRXckE1ZFNQekdmOEk0QnJzeDdQc0plZHg4U1I5QWRPWlhiVVhiVmtBUHJEaFVMVDVRY25CMGpYQ1dBdXU3U0F1RFRFT3d0ejZleHRKUllrVnVnQ09WempjOTlz0gHrAUFVX3lxTFBjSnZRSEMtUThvUnZraC1WV3FsN2dDcml2UFJKX0FSYlltdXZJZENmNG44ZjJEUS1HTTJrQ0o3cWtJX0Y5MjhxUWJEYmhaTXhDVWpIZEdzdnNWMmNUQXQ3d0lzcWsxNDVSY2pKeVV0OGFmR2pUV3REdFR0a2w5Sm1iV0g0S0oyd2VIeDEzRFpFdFdyQTVkU1B6R2Y4STRCcnN4N1BzSmVkeDhTUjlBZE9aWGJVWGJWa0FQckRoVUxUNVFjbkIwalhDV0F1dTdTQXVEVEVPd3R6NmV4dEpSWWtWdWdDT1Z6amM5OXM?oc=5",
-   "date": "2026-11-11T00:56:57.000Z"
-  },
-  {
-   "topic": "4G",
    "title": "Google Fi launches ‘Super Network’ with dual 5G and Wi-Fi switching sentence case",
    "source": "Business Upturn",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaVlfU0VMVUZyVHNzbUFfWVRxNWVxRFFhYk9SUUk1d1VDeTQ3MDhjSGlBell5TUFTRi1qYlZZNE8teVJWT0NTNFM0clVSNk54V19odmJuMWw0a3NJRlgyN09OMnVxSDlpX3RuWDN2MkRSb3JrNnV0T0FVSUpZWFlxNFFObVctdHNqaVhoNzBZSDZEQldGYi1YTlVyN0ZsT1VtNjBWTHl2ODdQRUZiMDRGWDhQLTRDRTZaWGU2aXowSkZGREk?oc=5",
    "date": "2026-11-10T16:59:00.000Z"
+  },
+  {
+   "topic": "4G",
+   "title": "Best mobile hotspots",
+   "source": "Chicago Tribune",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zYzJTNFN5bXdUT2lKUUl3NFhxSjZSZDVVTnJsd2FZZXppN1FieHpkS2FVU2w2M2xQMFNyV0s3N3c3cDFiM0k4UUpQTmJOQXd1b29uYUk2dzNVU2hMbUlOT3pmeUFmNWlSUHJuT0pYb0E?oc=5",
+   "date": "2026-11-09T11:47:45.000Z"
+  },
+  {
+   "topic": "4G",
+   "title": "Mobile Network Quality at Airports, Railway Stations and Highways in 2026: Jio, Airtel, Vi and BSNL Speed and Coverage Comparison",
+   "source": "TelecomLead",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUE12elEzbEZ6dGRheThVRHBuMnE0alRPWGhJQVJ6NHg3OENPazF4NnEyRml6bFlsb211YkpNSGo5Vy04UmVqQk42bmh1QjdENnhFa25yb3lFWW9NWDlhUEFqd0dVRnJkTnh2VjRzREdDRlZHMmFqUi1IWmUzTThpYmhGM0lYWkJCZUJ0RGVmc1I3MEpCam1tUjNOSGtsb1pxX3F0c202WW1OWE9sSUNaWm1raHM4Y3pfT1FIUGQzb0FkeFRnSTV5TEVDRnEzUUVoQ0xzQkVBejdKSTJXNDdrWDlZTEtXb0FPb0Z1a2VLSjd3YXE3cEHSAf4BQVVfeXFMUGNCWjBzOU5OUU5tWjY4UkZHRlR6d0w3Q2hlNXhoOVpGRUtfcmZyM2UzVkh6TDNjOEZ5UzR6ZU9za2hycndjMjg0czNfMXdxLWRIbzVXaklPYVdXNnpidVlZNlo0QkVTVjlEbkM5N1dMQ243OWl6b2FCVnRvZXNZVUZvUk93N1dCcVJyRXFZN0ZLTVNYM0dlSGZRcWRIenNIaGpmREpfTS1UUUZrUU9BSUVES2hlUWNGZDh4cURCWW1lYVJvS0ZKX09ZbjdMV3p6LTUyN0VIWFdzRUVxLXlnTUZ2VjZiYWVrYzZTQVFhQ0tHSGpCclpNZWpuLUg4cFE?oc=5",
+   "date": "2026-11-08T12:28:06.000Z"
   },
   {
    "topic": "Optical fibre",
