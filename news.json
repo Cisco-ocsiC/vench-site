@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T19:31:59.103Z",
+ "updated": "2026-11-15T20:25:23.874Z",
  "items": [
   {
    "topic": "5G",
@@ -14,13 +14,6 @@
    "source": "WhistleOut",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQVdLZlNTRGY5Nk1wQU0tdHZ6ZkV5R1hMWEc4NVhrSEJWM2haLS1GaHVHdy1WZEx2T3pBTERqVW1IaVRhbUdWU0FvVWVCUUNxMy1ZcVB6U1VXeTBNbWZmVmJvQ3hRTXVfUVY0bzRXRXJ1cVJpMU5CemNTYl9BX3JYX0h4R0YtV292SVlnZ19MQ3VMOVFO?oc=5",
    "date": "2026-11-12T08:35:14.000Z"
-  },
-  {
-   "topic": "5G",
-   "title": "Optus and Nokia demonstrate asymmetric 5G configuration using 900 MHz",
-   "source": "Telecompaper",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZFd2N1FKdHJ2Y05hMkxoRGxsQVlSVXJWdVVubGxhOUN4akVUNWhUOXU0am0zc094eW9XS1ZkdUx6bnVsckZrVEVVZElZQjZlX3k3MF9IWEVKUEs0dkZQSHVXMWR5NUtiLTB6TTduZXdNNDRzTnE1c3ZhSnRBNHlzZEdhRERqeWYtS29vTmZOR0YyQmZmcW9oekQwX0V6dXlvbEpZc1lBRFh5ZlYzUEpYMVFn?oc=5",
-   "date": "2026-11-11T05:33:09.000Z"
   },
   {
    "topic": "5G",
@@ -42,6 +35,13 @@
    "source": "SMH.com.au",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVzZDQS14WXNKdmU3Ykc3akNKOTdpYnpLV1B3YjYweXJEdERsT0E3eHA2YXRsSVhPRHJpZVJodF93aWsta2RUNkdFVWhmNUNpNFdfYXc4VzYzdnR0WnZHM1IxSUNzRkRCY3d1c1dsZnpZemRPbE9vTmM0T0YxNVkzZGoyWG1GbkhhSk42WlhWaEgydWZ4VHNpM0VOY2NKRWVPdFZsaU1WZXpOTms0TFhfQmozbklIVG4xMEtWVk96TnNjWG8?oc=5",
    "date": "2026-11-07T23:06:08.000Z"
+  },
+  {
+   "topic": "5G",
+   "title": "Major mobile network upgrade",
+   "source": "Snowy River Mail",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBFM1A5Y3hhUjh4b0ZfWlZPSGlBSUNQWmM4WHdqSHBnd3d5Z0owdmsyQnVPREFmMUZrSkhhdWJ1dmtBMjFTS3RtSHYyNXl0UkVpM3NpWUlhRE1sVjk0dGdCXy0xTmtkRlZlaDFEdENOWHdmUmc?oc=5",
+   "date": "2026-11-05T03:06:19.000Z"
   },
   {
    "topic": "4G",
@@ -66,10 +66,10 @@
   },
   {
    "topic": "4G",
-   "title": "Google Fi launches ‘Super Network’ with dual 5G and Wi-Fi switching sentence case",
-   "source": "Business Upturn",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaVlfU0VMVUZyVHNzbUFfWVRxNWVxRFFhYk9SUUk1d1VDeTQ3MDhjSGlBell5TUFTRi1qYlZZNE8teVJWT0NTNFM0clVSNk54V19odmJuMWw0a3NJRlgyN09OMnVxSDlpX3RuWDN2MkRSb3JrNnV0T0FVSUpZWFlxNFFObVctdHNqaVhoNzBZSDZEQldGYi1YTlVyN0ZsT1VtNjBWTHl2ODdQRUZiMDRGWDhQLTRDRTZaWGU2aXowSkZGREk?oc=5",
-   "date": "2026-11-10T16:59:00.000Z"
+   "title": "How competitive is Chile’s mobile market?",
+   "source": "BNamericas",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNTRWVmEtM0RISzE3U05JeEZlWnc4TjRoWEVJekFDcy1mOGlUZk9mUGk4cU1OSVFLWHZid200RkZsS1JGNEF2bGZ3UGdXZEhyYTBqTEVlWGdmb1IydlNSdTNjNVU1U0hSZ2llX2E1Z2RKMktIZDRHRk90U2RNSmF0U0NGaGI?oc=5",
+   "date": "2026-11-11T20:44:39.000Z"
   },
   {
    "topic": "4G",
@@ -84,6 +84,13 @@
    "source": "TelecomLead",
    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUE12elEzbEZ6dGRheThVRHBuMnE0alRPWGhJQVJ6NHg3OENPazF4NnEyRml6bFlsb211YkpNSGo5Vy04UmVqQk42bmh1QjdENnhFa25yb3lFWW9NWDlhUEFqd0dVRnJkTnh2VjRzREdDRlZHMmFqUi1IWmUzTThpYmhGM0lYWkJCZUJ0RGVmc1I3MEpCam1tUjNOSGtsb1pxX3F0c202WW1OWE9sSUNaWm1raHM4Y3pfT1FIUGQzb0FkeFRnSTV5TEVDRnEzUUVoQ0xzQkVBejdKSTJXNDdrWDlZTEtXb0FPb0Z1a2VLSjd3YXE3cEHSAf4BQVVfeXFMUGNCWjBzOU5OUU5tWjY4UkZHRlR6d0w3Q2hlNXhoOVpGRUtfcmZyM2UzVkh6TDNjOEZ5UzR6ZU9za2hycndjMjg0czNfMXdxLWRIbzVXaklPYVdXNnpidVlZNlo0QkVTVjlEbkM5N1dMQ243OWl6b2FCVnRvZXNZVUZvUk93N1dCcVJyRXFZN0ZLTVNYM0dlSGZRcWRIenNIaGpmREpfTS1UUUZrUU9BSUVES2hlUWNGZDh4cURCWW1lYVJvS0ZKX09ZbjdMV3p6LTUyN0VIWFdzRUVxLXlnTUZ2VjZiYWVrYzZTQVFhQ0tHSGpCclpNZWpuLUg4cFE?oc=5",
    "date": "2026-11-08T12:28:06.000Z"
+  },
+  {
+   "topic": "Optical fibre",
+   "title": "Somali Telecom Firms Form Consortium to Lay Shared Fibre Routes",
+   "source": "Dawan Africa",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdVV5Z0lqSksyeFl6dU54LTdXbHBfSmRPUEo2QzdYQmRUNGN3Zjlaeml0WkhRam5NMy1MUGhCRVM3R25pNEZtSEJCV1hkNkNrQ3NMY3RvbHJQd0MzczFZb2R4S1drdklSaXh5R0x2aFNoTTJ4anAzQm9TSVQ5SVR6ZXFQXzVKUkUzYXZKOC1qVER5UVc4d3ZNYw?oc=5",
+   "date": "2026-11-15T20:21:26.000Z"
   },
   {
    "topic": "Optical fibre",
@@ -121,11 +128,11 @@
    "date": "2026-11-12T08:27:01.000Z"
   },
   {
-   "topic": "Optical fibre",
-   "title": "HFCL shares gain 2% after securing Rs 834 crore export orders for optical fibre cables",
-   "source": "The Economic Times",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVFFKLUx4ZFV6OGFKcWNSMzVyQnhMNDBMUUlqS0RXUjJDbnBENkhwaG9zVGVNcm9CTjRhZlBDSlRteE1JQnhYSkRmdW9VOHpmazhUV3R0YXNwbXNCWi1fekxubVRXSng3LXdCTHN6RW9TbWNiOUxvbUJvQXNHYTAxQ292UWstU1Nib1VBc1Jkc2QySjZVVk9LTEhhdlVQY1VUVHBJNjliYVl2M0ZiRXA2Ri1hT24wenpSeUtmQkxkbWY0OHViaHZxeHd5QXJSSF83NzRlWlBQSFFGZlNOem5UT9IB5gFBVV95cUxNT180RVdXQkt5c1VxWWpJUVp4Y0ZkVTQxNVNzeXczbFpIem9kVlRtY09CVFB0dkdfXzhwQ0FQaS1iZzFoYkl0N2o4R0g0YTVhbjhkckhRcFRYcG5HNXJCcjRyS2IyYkhMOUtRd3pJU2dRbTB2MWltaTdQUU14VUxoZWFvb1dwMU5YMUdtc0FWRm5vNklZZ1JGZTMwQVpkVkc1Si1taV9MbWNNNHhpMmdrYW1aT2dhT0F3bU14SXdQTTE5YVlRSFJpWUJKNTRlRWlZM3VkQjdzdGx0THZnZGI4STV6dndkUQ?oc=5",
-   "date": "2026-11-12T05:40:37.000Z"
+   "topic": "DWDM",
+   "title": "Optical Transport Network Equipment Market To 2035: Hyperscale and 5G Drive Forward Growth - News and Statistics",
+   "source": "IndexBox",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQckl1S1ctVnRiM3d3UTRXSXJXMVQyWjFZZmFYdFhWUmlucWJrb2JDQTlMalg4bGpKSUJmU19QbTZlUEZXUzBSNGUwYVZacGxVUmlfWUNWTVhvSlZBM0F6b2VHYVpjWDFRMU5FeUZTY1dZYXc1YkVOdjBwNkNrMVRTbndpU182Ty03ODVyVHRGOUJTTE5mYVRBdS1PaktfXy1OMnZEclc0Mm5rakIzcFNqNTgwQ1NhYXpDNTBRT3FVeUt5SmhPZ2tyNWdxaGZlRlJldWVTMWlvUTZyN2pXdFlPQ1diVmNDalFhaEhGRDhB?oc=5",
+   "date": "2026-11-13T13:31:04.000Z"
   },
   {
    "topic": "DWDM",
