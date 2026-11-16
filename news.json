@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-16T05:17:21.718Z",
+ "updated": "2026-11-16T08:03:31.410Z",
  "items": [
+  {
+   "topic": "5G",
+   "title": "Australian Watchdog Rejects Albanese Claim on Mobile Phone Heart Risks",
+   "source": "https://streamlinefeed.co.ke/",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMnd3T3pIVVdoVTBqMmZmS0pnWHpIaEN6NUlEUGFuenZfNWltN2Fxa2NMaWdNLWVlMy1oUjNmZHRfZnM0SGNyTWpkWTZaS2VyYlNVcl9BX0RtcDNjWGJrUzFzU0NjNUxDREJKQWticVBqcE4wYWJEMXdsY21OVGdzdVh6dVR2LVlpMk5OUmd4cXI0NG9DLWpQWXpVU21ZYW1hQ0xMOEk3aw?oc=5",
+   "date": "2026-11-16T07:38:00.000Z"
+  },
+  {
+   "topic": "5G",
+   "title": "Optus reports 13.7% EBIT growth despite lower revenue",
+   "source": "Telecompaper",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPX2FncW1ZUnNVU1E4c2tILXFrTGtUb3NtUmdtY2pRbThmTUtwaG1NeG9oemJTLVNobks4c20xeS1TR3JzWC1CNmdWdzJaZlhycE8yVDE1MWVWTjN1ZUhtYTJRX2x0cF82YUZyNE1YelcwTi1ERnRhNmhqbXZ1bGRzZWRVckJrV0pnVmZxb0VMZVV4UW03THlmYmNn?oc=5",
+   "date": "2026-11-16T05:30:23.000Z"
+  },
   {
    "topic": "5G",
    "title": "One NZ, Ericsson Completes First 5G SA Test Call, Advancing Network Modernisation",
@@ -24,24 +38,17 @@
   },
   {
    "topic": "5G",
-   "title": "Optus and Nokia Achieve World-First 25MHz 5G Downlink Breakthrough in 900MHz Spectrum",
-   "source": "iTWire",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWUp4R0FJYVRCY3ZFV25HNUdRWnNTSExlbkZCdFRPRUlEdlhFVGpZUFJsVDJ0cVZybTA5NWlnQmlqUFRBdDExOHlQbDdFV1l4YlpkVUltX3JjZkNyWE9BTUpYTXJtSDdiaUE4Q3N3bUhXaVBMMDRyTmVJSm5Eci1SOFg2SGZPMUowRm9vaGZoUFlFWFQ4OC1TRVdMdTZyNzdLOWwweEk4NU1XZXplSlFXTDd6ZFo0RDdPQldRU090RWs1d0lvN3o2dE43YjBuWEFVeDhLdg?oc=5",
-   "date": "2026-11-11T03:21:18.000Z"
+   "title": "Optus and Nokia demonstrate asymmetric 5G configuration using 900 MHz",
+   "source": "Telecompaper",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZFd2N1FKdHJ2Y05hMkxoRGxsQVlSVXJWdVVubGxhOUN4akVUNWhUOXU0am0zc094eW9XS1ZkdUx6bnVsckZrVEVVZElZQjZlX3k3MF9IWEVKUEs0dkZQSHVXMWR5NUtiLTB6TTduZXdNNDRzTnE1c3ZhSnRBNHlzZEdhRERqeWYtS29vTmZOR0YyQmZmcW9oekQwX0V6dXlvbEpZc1lBRFh5ZlYzUEpYMVFn?oc=5",
+   "date": "2026-11-11T05:34:02.000Z"
   },
   {
-   "topic": "5G",
-   "title": "Full year of 5G for $60. You pick the network!",
-   "source": "PhoneArena",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOV9tTFVNc0VvMzM3QnY0MWc4NlAwQWtSaWRVV051ZElscGZJOHRWQ1d2dVlJS1N6aFpXcmNqbEQ0WWJXTDFkczdBZnZSbkk2LU0xRWplTzdLTlFMVk9sZS1TMWFsRlo3Um5uSWNWbFJBV0F4bHBKNjBZX0ttaFM3VjBqMWZFa2FqYTZnbFh3?oc=5",
-   "date": "2026-11-10T14:13:20.000Z"
-  },
-  {
-   "topic": "5G",
-   "title": "National Wireless signs Mobile Tornado deal for ANZ",
-   "source": "TelcoNews Australia",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUWNQZjNQUVUwQkZfMDZCaDRCMkRBMTBUWW1Yb3BaRGdhbjZjbHN1dnZFd1daZGZGczJtaVM2dWZBVmgzbG40Ym8tMFJVZWJXY0V5azlXZFQybVZ0YldXeFNfYzRVNFdTRGZuQlhsRWJXekVqME5CNjc4NWdDSWQtUzRZNDduNkpZMXc?oc=5",
-   "date": "2026-11-09T21:45:00.000Z"
+   "topic": "4G",
+   "title": "Rakuten Mobile and JTower target 1,000 shared network sites by March 2027",
+   "source": "Telecompaper",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQN1ZuT25qcE92Xy1UYTlYQkpKZk03a0JzQzZxMEszQ1JKbHBURmFjLTd1ZW1yenZvMG8tX2FKcWFJcUctckJWa1VhV0J6X0FlcE1zLUhQT3VsZG56SFo3X1J5M3o4cE1EWVFEZmliWF9UeHN5cjdzWDVfRjNxeldsSDljaktIVnNmX05RUkxZVFQ2YzdOZXVrN3Q4TE9JZnZDbDdnX28yUUdlZ3dSRTl3SVlZNWR2Zw?oc=5",
+   "date": "2026-11-16T05:44:19.000Z"
   },
   {
    "topic": "4G",
@@ -79,11 +86,18 @@
    "date": "2026-11-10T16:59:00.000Z"
   },
   {
-   "topic": "4G",
-   "title": "Best mobile hotspots",
-   "source": "Chicago Tribune",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zYzJTNFN5bXdUT2lKUUl3NFhxSjZSZDVVTnJsd2FZZXppN1FieHpkS2FVU2w2M2xQMFNyV0s3N3c3cDFiM0k4UUpQTmJOQXd1b29uYUk2dzNVU2hMbUlOT3pmeUFmNWlSUHJuT0pYb0E?oc=5",
-   "date": "2026-11-09T11:47:45.000Z"
+   "topic": "Optical fibre",
+   "title": "Telecom operators bemoan vandalism, restrictions",
+   "source": "The Nation Newspaper",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdjNxQ0dyMVpmNG5wQXJTNGZibGVKQ1BTdWx6VVdxaEN3V2dZYWludU1mUGlHdl85T0pidWdzMEhZb05nZGl2YkJmMy03N3JSbnNKUkdrZ2w3X0lGYkJmT0lCNDFMSVhoMVQxTTJhblRhM2doc2FVcVZtRnZqR3B6NVBQQ3rSAYoBQVVfeXFMTUk5Y2NlU1hqM01IdlJDUl9DQTE1VENWTEw0eC00bzNCVGdkR1JpWlpfUktveEMzYU80TkZPVzE1TEc2aF9ybTNIZlhmcFU5V2o5MGFWYmFqTzNPZnIyQzVocTVKX3JqUUF1bGVyaUVnWWtZUmsyVlYzWkctRUFuZzNnQ2taeVFibHN3?oc=5",
+   "date": "2026-11-16T07:52:39.000Z"
+  },
+  {
+   "topic": "Optical fibre",
+   "title": "How Are 800G, 1.6T and Coherent Optical Technologies Transforming the Terabit Optical Networking Market?",
+   "source": "openPR.com",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYjRMb3Y2UDU1LUU3cWlEeDlSaGhBamM2R0NlR2hCdEtZd1NWTXI3Wm42blNlOW1VeHNtZnY5RTFrWWhZcFJReGEwcE9oZGtCNmpoa0l0RU50MWxDdlpfalBaaVBRLWpQTU9xVWVFemlKVkpRMGp2clhsVl9yc3lSdm9tdTJNaTVpbi1JWFRRSUQ?oc=5",
+   "date": "2026-11-16T07:28:44.000Z"
   },
   {
    "topic": "Optical fibre",
@@ -114,18 +128,11 @@
    "date": "2026-11-12T17:18:28.000Z"
   },
   {
-   "topic": "Optical fibre",
-   "title": "Côte d'Ivoire Prepares New Rules for Fiber-Optic Network Deployment",
-   "source": "We are Tech",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMG5VQm9mdWlRRFZWQ1hEbmdmT3NvT2hMQm9aQ21ZZDgzOGI0ZE5QdVB1Q0l1UFBPdkZUQS1RQW04T1oya3lfdnFJYlQ2SVMzYmQ2YjNQNktCdm1BV2kwdTFCd2RKUVdGMlRrYVNueVVqdmJ1U3Fkb0hPWWtJRzB4dC1xSFYteWFQTk9yRUNTcW5PX25QLVJTLXlHWThwdnQ1d050TjJLQXpwc3cwbk9BQl9QNmlGRzQ?oc=5",
-   "date": "2026-11-12T15:53:13.000Z"
-  },
-  {
-   "topic": "Optical fibre",
-   "title": "The 2026 optical fiber shortage, what is happening and who is affected",
-   "source": "Pasquale Pillitteri",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORm93aTF0ekFidGpQVGpEbUFyTDVYalc5ZTNfZlZJWWloSXVXMEZGRjV2UDhtSDJTc3VJdXJqbVZ6Q1pydE5IMlJ6a25ib1lWOU82UVp6VWp2X3pob1hiZmpCai1GS2dQaS1XRmsxZ1I0ZFkzVlRhUm51cUFhOEVCLWtoNDlyQl9lNzljX3VPaGRCSHc?oc=5",
-   "date": "2026-11-12T08:27:01.000Z"
+   "topic": "DWDM",
+   "title": "How Are 800G, 1.6T and Coherent Optical Technologies Transforming the Terabit Optical Networking Market?",
+   "source": "openPR.com",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYjRMb3Y2UDU1LUU3cWlEeDlSaGhBamM2R0NlR2hCdEtZd1NWTXI3Wm42blNlOW1VeHNtZnY5RTFrWWhZcFJReGEwcE9oZGtCNmpoa0l0RU50MWxDdlpfalBaaVBRLWpQTU9xVWVFemlKVkpRMGp2clhsVl9yc3lSdm9tdTJNaTVpbi1JWFRRSUQ?oc=5",
+   "date": "2026-11-16T07:28:44.000Z"
   },
   {
    "topic": "DWDM",
@@ -164,6 +171,13 @@
   },
   {
    "topic": "Innovation",
+   "title": "The strowger switch: One invention that changed telecommunications forever",
+   "source": "Daily News",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObWdXM0RtVHdYdzEwR0txOUV3UU1jNGl5MFBzcDBuc09aQWlIM1pUTWdENWZmVXhBSFJjbG12N1lYQkdkUHNvUFF1VDFmOVQ2blFUV0w1RjZlWWRhSm5DTVlqck5jcmUwTnhobjk4RjNRZk9vRzhQejVYekJrenZ2QVBZbmY4MzEzLXBLYVFvc2h5djVkQWk1MWRpd1RZdGc?oc=5",
+   "date": "2026-11-16T07:15:24.000Z"
+  },
+  {
+   "topic": "Innovation",
    "title": "India joins 24 countries in global initiative on 6G technology | Akashvani News",
    "source": "News On AIR",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObjY4NnRCMUVMSXlxeDVpbmdWTC1kZktvakxQSkNpUDBpVEFlOG1PdVAwcmhmMzR1MjEwcDRpYTluaDczV1VvYWpvNm9DUE5YSV9YaXUxSDR4Wmg0WDYyUkZSX2pHRGlpSTNIaVhaUGRqaE5lblhYTHJxOW1ySWpjQl9ncERtd29NQ2tzNWFPVGs0dw?oc=5",
@@ -175,13 +189,6 @@
    "source": "Crypto Briefing",
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWlpGOW1ldmZYMjZFQXNPQldaeDlXVnNlNWF0bUU0bjJWem96Vl80T1R4MmtqUDFnMTVzM3ZZOUo4Z2dyMmpGWVZ3Yk92SzVjRWVHbEpvTUtMd1FuM284N1JQNU1YOXZKcnlzLUgwWjJ5NWxMN0hhaXhLZEtvRlFZUXFR?oc=5",
    "date": "2026-11-14T02:19:57.000Z"
-  },
-  {
-   "topic": "Innovation",
-   "title": "ITU PP-26 Doha: RASCOM Director General engages African and global telecom leaders at ITU Plenipotentiary Conference",
-   "source": "Tech Review Africa",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPYmJVTjhwS0tVS0lMd0JQVHZ1TG5Ba1Y1S2tMQ1F5ZlpkLW01aHNwbF9TYThQbGJaSGNzTnpheWwwZTh1ay1ZOGhKVXotclVQN19IMzhsZ1dBY1ZLR1dkMGh5d19Pak1CVmpGX1BtY3NSZzNSNEpqTHpPLWtVWkllTlFrdklmLTRnY1dXaTF0VU5EWjNiNjBDNnJLZVpYXzB3VndVbkhzaEhBUnZIZi1hZ0xLenpDaWNZM0R6STNyeEtXN2Nsc3hrR0NiT0s0TDAxWHFSZ00tb1pCbHV4dlFLTElqb2UtZFBod2c?oc=5",
-   "date": "2026-11-12T14:29:11.000Z"
   },
   {
    "topic": "Innovation",
