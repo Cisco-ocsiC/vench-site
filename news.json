@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T11:54:15.181Z",
+ "updated": "2026-11-16T14:40:42.065Z",
  "items": [
   {
    "topic": "5G",
@@ -17,17 +17,17 @@
   },
   {
    "topic": "5G",
+   "title": "One NZ completes first 5G Standalone test call",
+   "source": "IT Brief New Zealand",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oVWtOVi03SVlmZy1KWmdEU0VSbDNPb1lUVW8xVWhHZGdLd2JYNUVsVGNTaWt3NnAzUGlibWc0VURmVndrSFgtUkMxbk4wYVo2Ym1lOFVKM2plUlpwZll4ekV5b1N1d0xTWENrb1ZZSXNaWWFiREJfRkdkRDExVFk?oc=5",
+   "date": "2026-11-16T01:20:03.000Z"
+  },
+  {
+   "topic": "5G",
    "title": "One NZ, Ericsson Completes First 5G SA Test Call, Advancing Network Modernisation",
    "source": "The Fast Mode",
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQS2tDRFZ3MDNnQkp5aExaMmJqbVNjaTMzMXVzT2tTc1hpcjVEMDVvVm1mdWwzNU5FTTB0YWVNSmdud0FRTmVPWjRrN3lfM3BuTFdHM1pBSlROSUpTTEl2OWZYOE53Vk51R2RTemQxWDllUGZrN2I2b1NYYW1GZFhXcUNNWHp5VHFMVmJwTXhnVWItVm02WG1oUGVfaGRURTZxMEdKdEI3Wjhob3oyTzJreXlHenF4Z1BMTTRCck9vNm9MbXU2SU9CZDRWeWxfV1VaYzl5dw?oc=5",
    "date": "2026-11-15T22:56:55.000Z"
-  },
-  {
-   "topic": "5G",
-   "title": "Airtel Chairmans Take on Mobile Recharge Costs",
-   "source": "Udaipur Kiran",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFByNlAxdnJpZ3RTSWw3dUJST0F1LWxEdWZPdjNrbDIzdUtsc3pUaE53d0RONjdFclRIQVhjYVVkV05POC1wei1XWDBQV0dkektlaXdtbVdXb0pzZ1Rab1lvd1oyekxTZUlZeDZnMGFwdV9uMzk2TW54WV82dzg?oc=5",
-   "date": "2026-11-14T03:36:48.000Z"
   },
   {
    "topic": "5G",
@@ -42,6 +42,13 @@
    "source": "Telecompaper",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZFd2N1FKdHJ2Y05hMkxoRGxsQVlSVXJWdVVubGxhOUN4akVUNWhUOXU0am0zc094eW9XS1ZkdUx6bnVsckZrVEVVZElZQjZlX3k3MF9IWEVKUEs0dkZQSHVXMWR5NUtiLTB6TTduZXdNNDRzTnE1c3ZhSnRBNHlzZEdhRERqeWYtS29vTmZOR0YyQmZmcW9oekQwX0V6dXlvbEpZc1lBRFh5ZlYzUEpYMVFn?oc=5",
    "date": "2026-11-11T05:34:02.000Z"
+  },
+  {
+   "topic": "4G",
+   "title": "Ookla study shows large indoor mobile coverage divide in global cities",
+   "source": "Telecompaper",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTmRDbjIyb05RSDFtb28yVExTYjNJd2FLZ0VfSng0TW5PdFd4R1ctcTQ2aE1XSFBacXE4bFdIaTF1eV90OTRMejBxUDFhVV93VTJfYWJ5NFR5clZocGZtUEIwbGhIaFBqY3BnNDhCWlFDMk5KNF9qS0pZZktpZFM3dmR3blJqN2lFc3RCTml0bmRTbFoyWmdSTVMyWldtZjhRTFl4WXc5Rk03MEVjU3N0UVFvZw?oc=5",
+   "date": "2026-11-16T12:32:22.000Z"
   },
   {
    "topic": "4G",
@@ -79,11 +86,11 @@
    "date": "2026-11-12T13:52:32.000Z"
   },
   {
-   "topic": "4G",
-   "title": "How competitive is Chile’s mobile market?",
-   "source": "BNamericas",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNTRWVmEtM0RISzE3U05JeEZlWnc4TjRoWEVJekFDcy1mOGlUZk9mUGk4cU1OSVFLWHZid200RkZsS1JGNEF2bGZ3UGdXZEhyYTBqTEVlWGdmb1IydlNSdTNjNVU1U0hSZ2llX2E1Z2RKMktIZDRHRk90U2RNSmF0U0NGaGI?oc=5",
-   "date": "2026-11-11T20:44:39.000Z"
+   "topic": "Optical fibre",
+   "title": "Connecting the World: JURRY, a China Certified Telecom Conduit Extrusion Line Producer at Work",
+   "source": "openPR.com",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPd2QxcmVySE1aeUZ6aUQxQWU1dkw0cHFPYk10OE5pMkEzRU5Tem53ZEUtR2Z1Wk42WEo5RFp5ZFVNRmlqc1ZmMzdjTDJ3MnlCVTdHTlMwcDhNQ3VpMHZXZkw5STNPSEFRVGEweVVGODdrRkszNWMxYnNOZWt0b08zQTZrZllkcTY2cVdCRVFKeVJGemRVQnNRcHRoZ3g?oc=5",
+   "date": "2026-11-16T09:41:52.000Z"
   },
   {
    "topic": "Optical fibre",
@@ -108,24 +115,17 @@
   },
   {
    "topic": "Optical fibre",
+   "title": "Optical Transceiver Modules Market to Reach USD 560.6 Million",
+   "source": "openPR.com",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQk5MTEczektnMzQ4ZnF6bkNzQV9jRkgxV25DcE8wYnpOMjF6X0NIZzhPQ3JLc3JiNHVCX08xWXFVT1ZGUExnbWpPUHRUaXRjc3UwVExQc3E1V0xMYUV6azRsa3FyX2QtRlFtNTNNRE1VWDNPTXN5QVV0Njlwb3lZU1MtMGdLQzBvR0JENEFjV3VNRUxXd3I2UWxKZ3RlUQ?oc=5",
+   "date": "2026-11-13T12:40:26.000Z"
+  },
+  {
+   "topic": "Optical fibre",
    "title": "HFCL wins ₹834 crore export orders for optical fibre cables",
    "source": "ET Telecom",
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPX0NKZ255LU1fV19FTW1qQWZSSHhMYjIyaWtaLV9TMjVPSDFiajM2V0o0dURQWkxNeE5kUjlGR25HbWkwSWtUdlFBcTFFUE5lV2FGeU9KQ3lNUmZGVmxSQjZNc0tIWW1kLW9CRmk2SmhEQjlMUGxIQWlOSzhNM1FvNm11NDRZc2dSNlkyWWY0VGplREtXWU11QTBDaXBGWGZmTWdlWDhSUWxKRnI3a3JYN0tSWDV2TE1pN1VTMTZ2SnNrWGNJTGY3a1JHOHJBNmZILW9OcHVlUdIB1wFBVV95cUxPX0NKZ255LU1fV19FTW1qQWZSSHhMYjIyaWtaLV9TMjVPSDFiajM2V0o0dURQWkxNeE5kUjlGR25HbWkwSWtUdlFBcTFFUE5lV2FGeU9KQ3lNUmZGVmxSQjZNc0tIWW1kLW9CRmk2SmhEQjlMUGxIQWlOSzhNM1FvNm11NDRZc2dSNlkyWWY0VGplREtXWU11QTBDaXBGWGZmTWdlWDhSUWxKRnI3a3JYN0tSWDV2TE1pN1VTMTZ2SnNrWGNJTGY3a1JHOHJBNmZILW9OcHVlUQ?oc=5",
    "date": "2026-11-13T01:58:58.000Z"
-  },
-  {
-   "topic": "Optical fibre",
-   "title": "Ooredoo Fibre Networks Gets Iraq Authorization for International Fiber Transit Network - News and Statistics",
-   "source": "IndexBox",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdE0zd2hJYTc3cE5SVjlFQ0o1eC01b1l6eURmUV9VYXNoRlJ3bWlJVWxmSlRwY01XZnYzSmtlUlM5M09zNjB0LWdfdEVORVlacVZnWjg1U1dWVlN1Mlo0a3VmY1FQRU5RQTlxQWlYUU03RndvSGhXNmhYNk5TSnR5QzI5RDk2YS00SHRVX3pHanFCeDdYX1ZSMXVVMnIyVUxyYzFkQmhYZUEyMmtISjNjX01FRQ?oc=5",
-   "date": "2026-11-12T18:20:37.000Z"
-  },
-  {
-   "topic": "Optical fibre",
-   "title": "Ooredoo Secures Authorization to Build International Fiber Optic Transit Network Across Iraq",
-   "source": "Qatar news agency",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVHU1djlRcXEzQ09LbkJOeVZheU1zRU9uNjZXOXpua0p0WDZqTkVKdXFEWGNxSzhydEpVMzZKejY2WE9FM1hUSUE2cmpVblYweGp0emJkN2FsSU15cUhNYVlYTGdiVnNMd2pUN2tVY2I5djNlWU8tbzhlRUN6ck1tdjJmM0ZWUEduUl94QmExYmpNc2trMklmUlJVb3BRN0czQnhlRTF1Rk5xdGp0MTF4MEVrLXlrZWtjWFB0Q1p5QlcwbnNtWFFvaDVmX0xwcDJhVjlEMkk1SQ?oc=5",
-   "date": "2026-11-12T17:18:28.000Z"
   },
   {
    "topic": "DWDM",
@@ -150,31 +150,31 @@
   },
   {
    "topic": "DWDM",
+   "title": "Bluebird Fiber Announces Tera-Core™ as Customer Demand Accelerates Beyond Single 400G Connections",
+   "source": "Electronic Engineering Journal",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNY2YyYnFIQlNReVVqLXJwTWhBUmduV3h4Ykl0T1dRUEpWOTRJZGlmbDh1SFNWZkNzQl9ubDRYMzFuYS05Y2M3YmlsSVU2UXY4aWlLZGI4NlFfclJhR0lmSGc2OFp2YzQ4cEloRWk1ZUN1TGNsS3VDeHRXY1dLRklmd1R0UlhsVGZGVUd5Nkh4dGQ1UVAxVTJpcFlEUXgzZWtIWEs4WnUtRnBaTWd3TXNBUm1wTjlPVEFVUXhicmNEMzIwRDVYQ0Z4ZDRjMzJRWlJ4Y1pv?oc=5",
+   "date": "2026-11-03T14:12:35.000Z"
+  },
+  {
+   "topic": "DWDM",
    "title": "Bluebird Fiber Introduces Tera-Core Network Architecture to Support 800G Connectivity",
    "source": "citybiz",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZk54Rjc2YURQaXBJMFdEcUE3U3ZWNUdDRF9yLVpfQnpGLV90OEFKaGhGS1pxRlMzMENBclh3d2E5aHh0d1FoVTY1b29ZRUdzM05YNnRiSGJtS1FRYVhPSXdYQ0lPMTZZSFdyeDNtd3VXbk1QWE5fRU9FV1BmQVJpQjVMZVpaTV80dXFoeDMzQWQ4ZWJCRTZfSldxa2lVektzcGRqNmNjNkNrODJxYXVnX3U5N2NFWW5nZFFsY29Ia1lEZw?oc=5",
    "date": "2026-11-02T15:57:07.000Z"
   },
   {
-   "topic": "DWDM",
-   "title": "Bluebird Fiber Announces Tera-Core™ as Customer Demand Accelerates Beyond Single 400G Connections",
-   "source": "GlobeNewswire",
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPdEJtODdzQktHZWdsMUgxb0Y4eDBFX0tRZXROMndna19fUlRpekFSWGRtTXRmMk9uNFllUEZOX1UyaFd1ckVaYUc1T0tHeEx3Mklwd2dmNGxNRXhrem01WTl2V0g2aWJRNDUxYWk1eGhUV1hBZjNpYlJjSWQ5NEhKNU4yOHFXMjZrZ3gyMEFSZkVTZ19LelMySGRscHJ5RVZPRXlzS2g5RW5OTzdSb1pxOU9jRGdNcWxiR3FlTHRZZFN6UTlDSWhTS2VDU2VQaDRVak4yS2Jxc21BSFM1UzJHUkxmWk1TZnB0ZUhFRmxFQXpTRjVaMHJSR1B3aDk?oc=5",
-   "date": "2026-11-02T13:34:00.000Z"
+   "topic": "Innovation",
+   "title": "India joins 24 countries in global initiative on 6G technology | Akashvani News",
+   "source": "News On AIR",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObjY4NnRCMUVMSXlxeDVpbmdWTC1kZktvakxQSkNpUDBpVEFlOG1PdVAwcmhmMzR1MjEwcDRpYTluaDczV1VvYWpvNm9DUE5YSV9YaXUxSDR4Wmg0WDYyUkZSX2pHRGlpSTNIaVhaUGRqaE5lblhYTHJxOW1ySWpjQl9ncERtd29NQ2tzNWFPVGs0dw?oc=5",
+   "date": "2026-11-16T12:02:23.000Z"
   },
   {
    "topic": "Innovation",
    "title": "The strowger switch: One invention that changed telecommunications forever",
    "source": "Daily News",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObWdXM0RtVHdYdzEwR0txOUV3UU1jNGl5MFBzcDBuc09aQWlIM1pUTWdENWZmVXhBSFJjbG12N1lYQkdkUHNvUFF1VDFmOVQ2blFUV0w1RjZlWWRhSm5DTVlqck5jcmUwTnhobjk4RjNRZk9vRzhQejVYekJrenZ2QVBZbmY4MzEzLXBLYVFvc2h5djVkQWk1MWRpd1RZdGc?oc=5",
-   "date": "2026-11-16T07:15:24.000Z"
-  },
-  {
-   "topic": "Innovation",
-   "title": "India joins 24 countries in global initiative on 6G technology | Akashvani News",
-   "source": "News On AIR",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObjY4NnRCMUVMSXlxeDVpbmdWTC1kZktvakxQSkNpUDBpVEFlOG1PdVAwcmhmMzR1MjEwcDRpYTluaDczV1VvYWpvNm9DUE5YSV9YaXUxSDR4Wmg0WDYyUkZSX2pHRGlpSTNIaVhaUGRqaE5lblhYTHJxOW1ySWpjQl9ncERtd29NQ2tzNWFPVGs0dw?oc=5",
-   "date": "2026-11-14T16:00:45.000Z"
+   "date": "2026-11-16T07:17:25.000Z"
   },
   {
    "topic": "Innovation",
@@ -182,13 +182,6 @@
    "source": "Crypto Briefing",
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWlpGOW1ldmZYMjZFQXNPQldaeDlXVnNlNWF0bUU0bjJWem96Vl80T1R4MmtqUDFnMTVzM3ZZOUo4Z2dyMmpGWVZ3Yk92SzVjRWVHbEpvTUtMd1FuM284N1JQNU1YOXZKcnlzLUgwWjJ5NWxMN0hhaXhLZEtvRlFZUXFR?oc=5",
    "date": "2026-11-14T02:19:57.000Z"
-  },
-  {
-   "topic": "Innovation",
-   "title": "[Telecommunications Outlook] LG U+ Wins Red Dot Award - 'Love for 1,000 Won', SKT's Trust Recovery Survey, KT's AI Customer Experience Innovation",
-   "source": "뉴스웍스",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoLVR5YnNoZGhXU0VrN1ByRTBfbkdpNDhlQ2tmZVhqcG9TLVhFVzdmQl9UMHJIUGdYRGNESXVGNDVVRXNBODh4SmtEUGMyMXZlNEwwNlR0OVVVaEowMTlaWmdFTmVJRUw4RXUtZw?oc=5",
-   "date": "2026-11-12T03:54:30.000Z"
   },
   {
    "topic": "Innovation",
@@ -231,6 +224,13 @@
    "source": "electronics.economictimes.indiatimes.com",
    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQSDdTVFY5TkJHdmh2QXI4YjA2Nm1sdXk0R2E0QjZOTEFkMXduVHhXQ1JsQjdiOEZtNllQeVFPajg2eGs0ZkNLOHRxYmQ5LThwamdCbmRwYV9OMVJ3dEpSMFdIZU0wS0o0T0J3OGVRSkw4X2FTRTJ2d0pFbnpRdWgxdVh2aDZpck9WNHhtaEFPY2gxR3BreFZYc29XcU1iX2pPdnlFZjNFa2pZLVNmaE5HLTh3bm1JZ3QxZzUtMVpuN2g2b1VtaTYzakc5WkJYRDROMnFXenlvRTNucHF2ZW9NTVNCS0lpUHE2YnVqNmcxVXk2eFNLWGdaN0ZUMNIB_wFBVV95cUxQVEs3R1lxUXA3NW5sLV9YS0JiQ0huRVVUNkhqbkY4a2xvbHdfb1Z0cU9fS2lveTB3SWxoWDRac1YzS1l5WkFpRHIxdHRudjVjZXNneF9USk9KOXhDU3dLSGgwS29CaHpHR2tyYUFJYTY5NFRrWTFHN2N5NmRlOXllR085Y1dJbUNLTzM1bG5KNlEzVWJlM1VDLVJ2cHlpLVV3eXZaMGY5RDZUM3l1Qm5SSzhWSmVJY29uaEl3S3dPSlBTZDNDOV9DcU92S0x1Nk9weVNnRHRWSkgwS0RGSFdoSEd4U3VDV2FlNkZxZjFtMGp5VE1faW5VaXNzVmVGazQ?oc=5",
    "date": "2026-11-07T08:00:00.000Z"
+  },
+  {
+   "topic": "Innovation",
+   "title": "Secured spectrum vital for 6G to unlock $1.24tn economic benefit",
+   "source": "Computer Weekly",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcmNSdTJJcHBGZUd0STJCSlZwdGJJXzRaRm4yUUF0VXRuVThFQ2pwTlF5U0oyZS1aeHVGR3owREZ4U0p6MzBISE05Q2lkeFl1WGIwMmNEWnVZckZ3TnVwb3lET3NVbE05Y0RINnJiT3BFRHBRWVo0dnk1aEZpbjdfNmVaUE9WNWs2dlVIbF9jckdtemVWMDNoZGR3M0FZV2hsNDJBbFd4cXRLZlp4?oc=5",
+   "date": "2026-11-06T08:00:00.000Z"
   }
  ]
 }
