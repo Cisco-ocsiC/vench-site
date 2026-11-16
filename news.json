@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T08:03:31.410Z",
+ "updated": "2026-11-16T10:28:44.905Z",
  "items": [
   {
    "topic": "5G",
@@ -45,6 +45,13 @@
   },
   {
    "topic": "4G",
+   "title": "Docomo's 5G SA network goes down a third time in 11 days, for six hours",
+   "source": "Pasquale Pillitteri",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVVJtSHl0Vk1pX0kwVDU1dmJjTUVRaWM0RVZYOHpGLXdZTkpqTHJNbGNJRlhyejVIU1pvbW5BNWF0YVV0cHZEczhEMkd4LUx1ODdsM1FyUlZQTFFEYzJfSmlOZDVnemJDUERhQnZHYVUzM2VhS2JLNDRBcm9ZemVpaDZWclZ2WHlXeGU3OTJhQVhyYTgyaHBr?oc=5",
+   "date": "2026-11-16T09:29:20.000Z"
+  },
+  {
+   "topic": "4G",
    "title": "Rakuten Mobile and JTower target 1,000 shared network sites by March 2027",
    "source": "Telecompaper",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQN1ZuT25qcE92Xy1UYTlYQkpKZk03a0JzQzZxMEszQ1JKbHBURmFjLTd1ZW1yenZvMG8tX2FKcWFJcUctckJWa1VhV0J6X0FlcE1zLUhQT3VsZG56SFo3X1J5M3o4cE1EWVFEZmliWF9UeHN5cjdzWDVfRjNxeldsSDljaktIVnNmX05RUkxZVFQ2YzdOZXVrN3Q4TE9JZnZDbDdnX28yUUdlZ3dSRTl3SVlZNWR2Zw?oc=5",
@@ -77,13 +84,6 @@
    "source": "BNamericas",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNTRWVmEtM0RISzE3U05JeEZlWnc4TjRoWEVJekFDcy1mOGlUZk9mUGk4cU1OSVFLWHZid200RkZsS1JGNEF2bGZ3UGdXZEhyYTBqTEVlWGdmb1IydlNSdTNjNVU1U0hSZ2llX2E1Z2RKMktIZDRHRk90U2RNSmF0U0NGaGI?oc=5",
    "date": "2026-11-11T20:44:39.000Z"
-  },
-  {
-   "topic": "4G",
-   "title": "Google Fi launches ‘Super Network’ with dual 5G and Wi-Fi switching sentence case",
-   "source": "Business Upturn",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaVlfU0VMVUZyVHNzbUFfWVRxNWVxRFFhYk9SUUk1d1VDeTQ3MDhjSGlBell5TUFTRi1qYlZZNE8teVJWT0NTNFM0clVSNk54V19odmJuMWw0a3NJRlgyN09OMnVxSDlpX3RuWDN2MkRSb3JrNnV0T0FVSUpZWFlxNFFObVctdHNqaVhoNzBZSDZEQldGYi1YTlVyN0ZsT1VtNjBWTHl2ODdQRUZiMDRGWDhQLTRDRTZaWGU2aXowSkZGREk?oc=5",
-   "date": "2026-11-10T16:59:00.000Z"
   },
   {
    "topic": "Optical fibre",
@@ -133,13 +133,6 @@
    "source": "openPR.com",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYjRMb3Y2UDU1LUU3cWlEeDlSaGhBamM2R0NlR2hCdEtZd1NWTXI3Wm42blNlOW1VeHNtZnY5RTFrWWhZcFJReGEwcE9oZGtCNmpoa0l0RU50MWxDdlpfalBaaVBRLWpQTU9xVWVFemlKVkpRMGp2clhsVl9yc3lSdm9tdTJNaTVpbi1JWFRRSUQ?oc=5",
    "date": "2026-11-16T07:28:44.000Z"
-  },
-  {
-   "topic": "DWDM",
-   "title": "Optical Transport Network Equipment Market To 2035: Hyperscale and 5G Drive Forward Growth - News and Statistics",
-   "source": "IndexBox",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQckl1S1ctVnRiM3d3UTRXSXJXMVQyWjFZZmFYdFhWUmlucWJrb2JDQTlMalg4bGpKSUJmU19QbTZlUEZXUzBSNGUwYVZacGxVUmlfWUNWTVhvSlZBM0F6b2VHYVpjWDFRMU5FeUZTY1dZYXc1YkVOdjBwNkNrMVRTbndpU182Ty03ODVyVHRGOUJTTE5mYVRBdS1PaktfXy1OMnZEclc0Mm5rakIzcFNqNTgwQ1NhYXpDNTBRT3FVeUt5SmhPZ2tyNWdxaGZlRlJldWVTMWlvUTZyN2pXdFlPQ1diVmNDalFhaEhGRDhB?oc=5",
-   "date": "2026-11-13T13:31:04.000Z"
   },
   {
    "topic": "DWDM",
