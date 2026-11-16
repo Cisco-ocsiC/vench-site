@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T19:45:56.434Z",
+ "updated": "2026-11-16T20:38:46.253Z",
  "items": [
   {
    "topic": "5G",
@@ -38,10 +38,10 @@
   },
   {
    "topic": "5G",
-   "title": "Optus and Nokia demonstrate asymmetric 5G configuration using 900 MHz",
-   "source": "Telecompaper",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZFd2N1FKdHJ2Y05hMkxoRGxsQVlSVXJWdVVubGxhOUN4akVUNWhUOXU0am0zc094eW9XS1ZkdUx6bnVsckZrVEVVZElZQjZlX3k3MF9IWEVKUEs0dkZQSHVXMWR5NUtiLTB6TTduZXdNNDRzTnE1c3ZhSnRBNHlzZEdhRERqeWYtS29vTmZOR0YyQmZmcW9oekQwX0V6dXlvbEpZc1lBRFh5ZlYzUEpYMVFn?oc=5",
-   "date": "2026-11-11T05:34:02.000Z"
+   "title": "2026 network outage report and internet health check",
+   "source": "Network World",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQV0JCRjM1ZUF6c2NhUDJ4LTFrVEl4blBFb0dFRk9paE5tZnc2ZUNaU28xdnJ3bVhjYzg4WFEteWl2NUIyRkFCd1diTWJxeHhDQUFNOXpDc2NWUC0wSHkwOUVfT2Rma2pxNzZsUUJ4LWhwc1h1MjJpQkxzbUdXTzc1SXhidU9PVVNtYUNtbTFHWHpBeUxQYnVpWGJZUWdJRm9fSllCMg?oc=5",
+   "date": "2026-11-12T08:00:00.000Z"
   },
   {
    "topic": "4G",
@@ -101,6 +101,13 @@
   },
   {
    "topic": "Optical fibre",
+   "title": "NBI expands fibre network roll-out in Carlow, Donegal counties",
+   "source": "Telecompaper",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWUZ2Y1JPbVZFZ0FTOURlWFdhOU14aUtjMHhWY3paXzBUQXVNN0E4Ym1oQk5XWW5qRVc2SmhoN2N2dEdUZHRKamVQVThBT3RvMG05RDl2akpoWnBsYkZaS3N3dkFVOUlsZmV1THRPM3NTdXB0MXZIaDlyWUNYeFpFLVdOLUtKSGJJLW9fV214SnBPZkJneVozb011cS1JNFV5TzdFUVpSQQ?oc=5",
+   "date": "2026-11-16T08:14:20.000Z"
+  },
+  {
+   "topic": "Optical fibre",
    "title": "Telecom operators bemoan vandalism, restrictions",
    "source": "The Nation Newspaper",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdjNxQ0dyMVpmNG5wQXJTNGZibGVKQ1BTdWx6VVdxaEN3V2dZYWludU1mUGlHdl85T0pidWdzMEhZb05nZGl2YkJmMy03N3JSbnNKUkdrZ2w3X0lGYkJmT0lCNDFMSVhoMVQxTTJhblRhM2doc2FVcVZtRnZqR3B6NVBQQ3rSAYoBQVVfeXFMTUk5Y2NlU1hqM01IdlJDUl9DQTE1VENWTEw0eC00bzNCVGdkR1JpWlpfUktveEMzYU80TkZPVzE1TEc2aF9ybTNIZlhmcFU5V2o5MGFWYmFqTzNPZnIyQzVocTVKX3JqUUF1bGVyaUVnWWtZUmsyVlYzWkctRUFuZzNnQ2taeVFibHN3?oc=5",
@@ -121,25 +128,11 @@
    "date": "2026-11-15T20:56:12.000Z"
   },
   {
-   "topic": "Optical fibre",
-   "title": "Optical Transceiver Modules Market to Reach USD 560.6 Million",
-   "source": "openPR.com",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQk5MTEczektnMzQ4ZnF6bkNzQV9jRkgxV25DcE8wYnpOMjF6X0NIZzhPQ3JLc3JiNHVCX08xWXFVT1ZGUExnbWpPUHRUaXRjc3UwVExQc3E1V0xMYUV6azRsa3FyX2QtRlFtNTNNRE1VWDNPTXN5QVV0Njlwb3lZU1MtMGdLQzBvR0JENEFjV3VNRUxXd3I2UWxKZ3RlUQ?oc=5",
-   "date": "2026-11-13T12:40:26.000Z"
-  },
-  {
    "topic": "DWDM",
    "title": "How Are 800G, 1.6T and Coherent Optical Technologies Transforming the Terabit Optical Networking Market?",
    "source": "openPR.com",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYjRMb3Y2UDU1LUU3cWlEeDlSaGhBamM2R0NlR2hCdEtZd1NWTXI3Wm42blNlOW1VeHNtZnY5RTFrWWhZcFJReGEwcE9oZGtCNmpoa0l0RU50MWxDdlpfalBaaVBRLWpQTU9xVWVFemlKVkpRMGp2clhsVl9yc3lSdm9tdTJNaTVpbi1JWFRRSUQ?oc=5",
    "date": "2026-11-16T07:28:44.000Z"
-  },
-  {
-   "topic": "DWDM",
-   "title": "VNPT and Symphony collaborate to provide international transmission services, promoting the commercialization of network capacity.",
-   "source": "Vietnam.vn",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWUtNZWlKRmkyY1BPRGp6ZEMza095QjNQYWlZTjJnZGttWk4wd3hrbHV6UEVqVHRLMTExSlloV2YwMEt1LXdYYUZja2J6YlphNllkQktrc0h0SjJWMDlpUURkb29yaXNMR2NsS1FVSFphbHlBRFNJTGZyV3o0dG95b04yZV8zWE1iNEZMOGtNUnlESDNCaDdEeE40WUhoLXVzTXpaeHZxbFBxOHk1VWNSRXRTWkhudTJLUnhjLXZB?oc=5",
-   "date": "2026-11-09T08:00:00.000Z"
   },
   {
    "topic": "DWDM",
@@ -167,7 +160,7 @@
    "title": "The strowger switch: One invention that changed telecommunications forever",
    "source": "Daily News",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObWdXM0RtVHdYdzEwR0txOUV3UU1jNGl5MFBzcDBuc09aQWlIM1pUTWdENWZmVXhBSFJjbG12N1lYQkdkUHNvUFF1VDFmOVQ2blFUV0w1RjZlWWRhSm5DTVlqck5jcmUwTnhobjk4RjNRZk9vRzhQejVYekJrenZ2QVBZbmY4MzEzLXBLYVFvc2h5djVkQWk1MWRpd1RZdGc?oc=5",
-   "date": "2026-11-16T07:17:25.000Z"
+   "date": "2026-11-16T07:17:27.000Z"
   },
   {
    "topic": "Innovation",
@@ -209,7 +202,7 @@
    "title": "6G phones arrive in 2030. The fight over the airwaves has already begun",
    "source": "SMH.com.au",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVzZDQS14WXNKdmU3Ykc3akNKOTdpYnpLV1B3YjYweXJEdERsT0E3eHA2YXRsSVhPRHJpZVJodF93aWsta2RUNkdFVWhmNUNpNFdfYXc4VzYzdnR0WnZHM1IxSUNzRkRCY3d1c1dsZnpZemRPbE9vTmM0T0YxNVkzZGoyWG1GbkhhSk42WlhWaEgydWZ4VHNpM0VOY2NKRWVPdFZsaU1WZXpOTms0TFhfQmozbklIVG4xMEtWVk96TnNjWG8?oc=5",
-   "date": "2026-11-07T23:06:08.000Z"
+   "date": "2026-11-08T08:00:00.000Z"
   },
   {
    "topic": "Innovation",
