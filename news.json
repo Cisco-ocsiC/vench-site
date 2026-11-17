@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-17T01:58:48.807Z",
+ "updated": "2026-11-17T02:45:50.458Z",
  "items": [
+  {
+   "topic": "5G",
+   "title": "Simba director Richard Tan resigns after telco admits unauthorised spectrum use, Singapore News",
+   "source": "AsiaOne.com",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcE5kNllUWDBkMlpqVEpMVnE3VW92bW1xSGRZZzdJTVJaYTRZLVJpaFFuRThJTkFWOWZkWHFMR2JlUzY1SlQxNkNvRnBneWlTWTdWRzR1QXJNY1JISkFxWkhGUHNNZVhWMTd6WnlWRFBsT2FpcGJRQ0RuLWQ5ak5pa3FpLUpsbkdLYy1jTkYyQ013ZUU?oc=5",
+   "date": "2026-11-17T02:01:00.000Z"
+  },
   {
    "topic": "5G",
    "title": "Australian Watchdog Rejects Albanese Claim on Mobile Phone Heart Risks",
@@ -37,13 +44,6 @@
    "date": "2026-11-12T08:00:00.000Z"
   },
   {
-   "topic": "5G",
-   "title": "Optus and Nokia demonstrate asymmetric 5G configuration using 900 MHz",
-   "source": "Telecompaper",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZFd2N1FKdHJ2Y05hMkxoRGxsQVlSVXJWdVVubGxhOUN4akVUNWhUOXU0am0zc094eW9XS1ZkdUx6bnVsckZrVEVVZElZQjZlX3k3MF9IWEVKUEs0dkZQSHVXMWR5NUtiLTB6TTduZXdNNDRzTnE1c3ZhSnRBNHlzZEdhRERqeWYtS29vTmZOR0YyQmZmcW9oekQwX0V6dXlvbEpZc1lBRFh5ZlYzUEpYMVFn?oc=5",
-   "date": "2026-11-11T05:34:02.000Z"
-  },
-  {
    "topic": "4G",
    "title": "Simulated Reinforcement Learning Model Improves 4G LTE Handover Success and Reliability",
    "source": "Bioengineer.org",
@@ -69,7 +69,7 @@
    "title": "Ookla study shows large indoor mobile coverage divide in global cities",
    "source": "Telecompaper",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTmRDbjIyb05RSDFtb28yVExTYjNJd2FLZ0VfSng0TW5PdFd4R1ctcTQ2aE1XSFBacXE4bFdIaTF1eV90OTRMejBxUDFhVV93VTJfYWJ5NFR5clZocGZtUEIwbGhIaFBqY3BnNDhCWlFDMk5KNF9qS0pZZktpZFM3dmR3blJqN2lFc3RCTml0bmRTbFoyWmdSTVMyWldtZjhRTFl4WXc5Rk03MEVjU3N0UVFvZw?oc=5",
-   "date": "2026-11-16T12:36:50.000Z"
+   "date": "2026-11-16T12:32:22.000Z"
   },
   {
    "topic": "4G",
@@ -101,13 +101,6 @@
   },
   {
    "topic": "Optical fibre",
-   "title": "NBI expands fibre network roll-out in Carlow, Donegal counties",
-   "source": "Telecompaper",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWUZ2Y1JPbVZFZ0FTOURlWFdhOU14aUtjMHhWY3paXzBUQXVNN0E4Ym1oQk5XWW5qRVc2SmhoN2N2dEdUZHRKamVQVThBT3RvMG05RDl2akpoWnBsYkZaS3N3dkFVOUlsZmV1THRPM3NTdXB0MXZIaDlyWUNYeFpFLVdOLUtKSGJJLW9fV214SnBPZkJneVozb011cS1JNFV5TzdFUVpSQQ?oc=5",
-   "date": "2026-11-16T08:14:20.000Z"
-  },
-  {
-   "topic": "Optical fibre",
    "title": "Telecom operators bemoan vandalism, restrictions",
    "source": "The Nation Newspaper",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdjNxQ0dyMVpmNG5wQXJTNGZibGVKQ1BTdWx6VVdxaEN3V2dZYWludU1mUGlHdl85T0pidWdzMEhZb05nZGl2YkJmMy03N3JSbnNKUkdrZ2w3X0lGYkJmT0lCNDFMSVhoMVQxTTJhblRhM2doc2FVcVZtRnZqR3B6NVBQQ3rSAYoBQVVfeXFMTUk5Y2NlU1hqM01IdlJDUl9DQTE1VENWTEw0eC00bzNCVGdkR1JpWlpfUktveEMzYU80TkZPVzE1TEc2aF9ybTNIZlhmcFU5V2o5MGFWYmFqTzNPZnIyQzVocTVKX3JqUUF1bGVyaUVnWWtZUmsyVlYzWkctRUFuZzNnQ2taeVFibHN3?oc=5",
@@ -126,6 +119,13 @@
    "source": "CairoScene",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdWItUjRpdExYTlZPaDhiT1kzX1dpQkRkVndZNWtvM3lZMlBuTHdUY2RWVXpQLXE5VWU0YjlOTzQtRFhYX3dsNFVETkhQejJmV3lSVXNyMURWLV9uWlFuc1RaNTFodWlZbU1ReHBwRG91QjJQajlENlFTeWdrQXNyN3JiMGREWWNjTTBr?oc=5",
    "date": "2026-11-15T04:06:51.000Z"
+  },
+  {
+   "topic": "Optical fibre",
+   "title": "US flight shutdown exposes deepening air traffic network crisis",
+   "source": "CNA",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNM2txUmNvOWFTNC1rTU1tNWN3elJPZzh5bDVnZEhpYm5TNDlicUVZZmotN3J3UEVqLU1FSWFSdlBKbFpjT0xUeEdsdHVOSFBVQmo4SFBjVlU4a2Z3bEYyVXRGSVh1OVNJdGlJRzNsVlUzMFdKejZNRTlnYWtQaU9aY0dpTUxhLTE1WjNyaDZMYjJoSVE0dXVpQjRROVc?oc=5",
+   "date": "2026-11-14T03:56:01.000Z"
   },
   {
    "topic": "DWDM",
