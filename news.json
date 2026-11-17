@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-17T06:53:47.108Z",
+ "updated": "2026-11-17T09:48:37.023Z",
  "items": [
+  {
+   "topic": "5G",
+   "title": "Australia opens telecom research institute focused on network resilience",
+   "source": "Telecompaper",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUjRLSDFXWldJQVBGREpEa1A4cTgwUjRxbEppMktzekE4cl96T3kxUzQ3VWJuUmt4OVNHcWlNS1Z3blVjMGtjZ29zejFLeEdXT3BUenMzVjlPUUp5Zk9PYUdRR3VoMnFTSWJ3S3BCMU9uZDAtRGdCdjV5cUNuR09PeFJneTJkQWpwYWxjYS1OTkJlLUdNbW1xckNiT29rZFh4OWEtSW0zMzRSRWZEemtKR0hLaTNmdw?oc=5",
+   "date": "2026-11-17T06:23:59.000Z"
+  },
+  {
+   "topic": "5G",
+   "title": "One NZ Completes First 5G Standalone Test Call in New Zealand",
+   "source": "The Fast Mode",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUUNobWhuYnZtU05QNlpEUlVvWW82S21EQUV4dTdBY3FwaHJya0JsUkNnaXdqZnhkVGNMbGUtUUd6TlI3Y0UwOXBmN3RoMXR6TXpCZ2VYc0x0SDFCcFI3MjE5Q3FubVhVdGVSRXZ0S1locWh6U01oS0ZVTWRWSUFUX0c5alV3UWRTVm1BVDAyY1FKVEQzWlhSMS1wT2t3ZUlES1UzR0x3ODFqdWI5RjBYblZFM2FBSlBwX1BMVA?oc=5",
+   "date": "2026-11-17T01:28:35.000Z"
+  },
   {
    "topic": "5G",
    "title": "Australian Watchdog Rejects Albanese Claim on Mobile Phone Heart Risks",
@@ -24,24 +38,10 @@
   },
   {
    "topic": "5G",
-   "title": "Optus' network takes home most awards in new Opensignal report",
-   "source": "WhistleOut",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQVdLZlNTRGY5Nk1wQU0tdHZ6ZkV5R1hMWEc4NVhrSEJWM2haLS1GaHVHdy1WZEx2T3pBTERqVW1IaVRhbUdWU0FvVWVCUUNxMy1ZcVB6U1VXeTBNbWZmVmJvQ3hRTXVfUVY0bzRXRXJ1cVJpMU5CemNTYl9BX3JYX0h4R0YtV292SVlnZ19MQ3VMOVFO?oc=5",
-   "date": "2026-11-12T08:35:14.000Z"
-  },
-  {
-   "topic": "5G",
-   "title": "2026 network outage report and internet health check",
-   "source": "Network World",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQV0JCRjM1ZUF6c2NhUDJ4LTFrVEl4blBFb0dFRk9paE5tZnc2ZUNaU28xdnJ3bVhjYzg4WFEteWl2NUIyRkFCd1diTWJxeHhDQUFNOXpDc2NWUC0wSHkwOUVfT2Rma2pxNzZsUUJ4LWhwc1h1MjJpQkxzbUdXTzc1SXhidU9PVVNtYUNtbTFHWHpBeUxQYnVpWGJZUWdJRm9fSllCMg?oc=5",
-   "date": "2026-11-12T08:00:00.000Z"
-  },
-  {
-   "topic": "5G",
-   "title": "Optus and Nokia demonstrate asymmetric 5G configuration using 900 MHz",
-   "source": "Telecompaper",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZFd2N1FKdHJ2Y05hMkxoRGxsQVlSVXJWdVVubGxhOUN4akVUNWhUOXU0am0zc094eW9XS1ZkdUx6bnVsckZrVEVVZElZQjZlX3k3MF9IWEVKUEs0dkZQSHVXMWR5NUtiLTB6TTduZXdNNDRzTnE1c3ZhSnRBNHlzZEdhRERqeWYtS29vTmZOR0YyQmZmcW9oekQwX0V6dXlvbEpZc1lBRFh5ZlYzUEpYMVFn?oc=5",
-   "date": "2026-11-11T05:34:02.000Z"
+   "title": "Airtel Chairmans Take on Mobile Recharge Costs",
+   "source": "Udaipur Kiran",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFByNlAxdnJpZ3RTSWw3dUJST0F1LWxEdWZPdjNrbDIzdUtsc3pUaE53d0RONjdFclRIQVhjYVVkV05POC1wei1XWDBQV0dkektlaXdtbVdXb0pzZ1Rab1lvd1oyekxTZUlZeDZnMGFwdV9uMzk2TW54WV82dzg?oc=5",
+   "date": "2026-11-14T03:36:48.000Z"
   },
   {
    "topic": "4G",
@@ -129,10 +129,10 @@
   },
   {
    "topic": "DWDM",
-   "title": "How Are 800G, 1.6T and Coherent Optical Technologies Transforming the Terabit Optical Networking Market?",
-   "source": "openPR.com",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYjRMb3Y2UDU1LUU3cWlEeDlSaGhBamM2R0NlR2hCdEtZd1NWTXI3Wm42blNlOW1VeHNtZnY5RTFrWWhZcFJReGEwcE9oZGtCNmpoa0l0RU50MWxDdlpfalBaaVBRLWpQTU9xVWVFemlKVkpRMGp2clhsVl9yc3lSdm9tdTJNaTVpbi1JWFRRSUQ?oc=5",
-   "date": "2026-11-16T07:28:44.000Z"
+   "title": "Oasis Networks Selects PacketLight for Burstable Wavelength Services",
+   "source": "AFP.com",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONGNROFhieGc2VXpDU3E0WU9xazQtQkJ5aGVCS1RFck9vOW1oRGxzU3F4NGQ0MWtHWld6S3dxVE0zV1lLQWM3eUhtVkljeXRVRXFBS2lmYWJpR3U5OTJ0Z25vek1ja3cxU3RaZUVla0lwQmh2LXBlN3VlYl91UktPZjluQW44a0EwS3h1U0dUdWRCRHY4MTlBMHl0NUxqNVRiSlgxUG43UldENlpYaXFhbzE2cTJBWkIwbXlaUQ?oc=5",
+   "date": "2026-11-17T08:35:00.000Z"
   },
   {
    "topic": "DWDM",
@@ -147,6 +147,13 @@
    "source": "Electronic Engineering Journal",
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNY2YyYnFIQlNReVVqLXJwTWhBUmduV3h4Ykl0T1dRUEpWOTRJZGlmbDh1SFNWZkNzQl9ubDRYMzFuYS05Y2M3YmlsSVU2UXY4aWlLZGI4NlFfclJhR0lmSGc2OFp2YzQ4cEloRWk1ZUN1TGNsS3VDeHRXY1dLRklmd1R0UlhsVGZGVUd5Nkh4dGQ1UVAxVTJpcFlEUXgzZWtIWEs4WnUtRnBaTWd3TXNBUm1wTjlPVEFVUXhicmNEMzIwRDVYQ0Z4ZDRjMzJRWlJ4Y1pv?oc=5",
    "date": "2026-11-03T14:12:35.000Z"
+  },
+  {
+   "topic": "Innovation",
+   "title": "Samsung positions India as a launchpad for AI-native 6G and connected living",
+   "source": "Wocult",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB4bWhma3dPREJNLWF4RDFjSkZlNVNwTkFKbkNmMmdFbzlnQlJ4ay1wYU02M3dUbE9mZnpDc0ZpTXVUYW1oRVYzWXIxaE4wX09WRVM3a0F4VWE3TTVQb3RGZXBMTndDS2plNS15R0drazcwNl9oa09SblktUQ?oc=5",
+   "date": "2026-11-17T08:24:01.000Z"
   },
   {
    "topic": "Innovation",
@@ -192,6 +199,13 @@
   },
   {
    "topic": "Innovation",
+   "title": "From 6G to Aerospace, New Tech Takes the Stage at CIIE",
+   "source": "Sixth Tone",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTHBzeGN4bllWTVRud29nNThkU2tHV0hHRXRBczUyVE1XTm1jdnJXX0o5R1ZCNVhLWmIyZG5YeF9GMy1qakFvTDlnWjNxdVpZUkFWQ2JwbW1sSERqdTYxVVNyQk5LOXlwdUZEaHRUQmc0RjVrdUdBMDM1bFBuenhkaFV4VklxbHExRnpiUXh1YmthVVZnUy1BZDRxdw?oc=5",
+   "date": "2026-11-10T09:15:17.000Z"
+  },
+  {
+   "topic": "Innovation",
    "title": "Verizon CTO assesses 7GHz band for 6G after first call in the field",
    "source": "Light Reading",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbTlEN2lMbmw2RG5xYjJydENCYjVMSzRTQzR2aWpJMTBvVTI0WUNPQmVpWE1od3JpZGJLRHVyNTloNGcwcXI4UHBzR3pwejB5azdTSG9RV1BxcHpIcUFZRU9MVlB1b3UyWVljM0NSbFQ5TkJfNlFHRkpTUm95SnF2Zjhuc2o3N1h6bU9rSE5FdTFObHFPLWRCNWl1TU84UHdD?oc=5",
@@ -203,20 +217,6 @@
    "source": "ARNnet",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRWNYNDFZXzlySE1iZ1VPMi1xbXdQUHpxcS15T0pKSWZjb0xtZk5rTUt6YlpyOFhtdTN3T2NXVklCZmRocWFXZDI4UFdlZ1JZbmdudDlTcnpYdm9kUzc2VFBNbmZMWHRmajQ0YW45ZUt2THpRRDd1eGN0bmFKREJqa3VPNkZBMnZGRy1nMlVjeXQ5TzRaTVgtSnUyX3BsWlFVcU9pRmx2OU9lc0k?oc=5",
    "date": "2026-11-08T22:25:11.000Z"
-  },
-  {
-   "topic": "Innovation",
-   "title": "6G phones arrive in 2030. The fight over the airwaves has already begun",
-   "source": "SMH.com.au",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVzZDQS14WXNKdmU3Ykc3akNKOTdpYnpLV1B3YjYweXJEdERsT0E3eHA2YXRsSVhPRHJpZVJodF93aWsta2RUNkdFVWhmNUNpNFdfYXc4VzYzdnR0WnZHM1IxSUNzRkRCY3d1c1dsZnpZemRPbE9vTmM0T0YxNVkzZGoyWG1GbkhhSk42WlhWaEgydWZ4VHNpM0VOY2NKRWVPdFZsaU1WZXpOTms0TFhfQmozbklIVG4xMEtWVk96TnNjWG8?oc=5",
-   "date": "2026-11-08T08:00:00.000Z"
-  },
-  {
-   "topic": "Innovation",
-   "title": "JNCASR silicon chip enables 100 Gbps transmission for 6G over terahertz frequencies",
-   "source": "electronics.economictimes.indiatimes.com",
-   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQSDdTVFY5TkJHdmh2QXI4YjA2Nm1sdXk0R2E0QjZOTEFkMXduVHhXQ1JsQjdiOEZtNllQeVFPajg2eGs0ZkNLOHRxYmQ5LThwamdCbmRwYV9OMVJ3dEpSMFdIZU0wS0o0T0J3OGVRSkw4X2FTRTJ2d0pFbnpRdWgxdVh2aDZpck9WNHhtaEFPY2gxR3BreFZYc29XcU1iX2pPdnlFZjNFa2pZLVNmaE5HLTh3bm1JZ3QxZzUtMVpuN2g2b1VtaTYzakc5WkJYRDROMnFXenlvRTNucHF2ZW9NTVNCS0lpUHE2YnVqNmcxVXk2eFNLWGdaN0ZUMNIB_wFBVV95cUxQVEs3R1lxUXA3NW5sLV9YS0JiQ0huRVVUNkhqbkY4a2xvbHdfb1Z0cU9fS2lveTB3SWxoWDRac1YzS1l5WkFpRHIxdHRudjVjZXNneF9USk9KOXhDU3dLSGgwS29CaHpHR2tyYUFJYTY5NFRrWTFHN2N5NmRlOXllR085Y1dJbUNLTzM1bG5KNlEzVWJlM1VDLVJ2cHlpLVV3eXZaMGY5RDZUM3l1Qm5SSzhWSmVJY29uaEl3S3dPSlBTZDNDOV9DcU92S0x1Nk9weVNnRHRWSkgwS0RGSFdoSEd4U3VDV2FlNkZxZjFtMGp5VE1faW5VaXNzVmVGazQ?oc=5",
-   "date": "2026-11-07T08:00:00.000Z"
   }
  ]
 }
