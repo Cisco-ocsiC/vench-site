@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T23:30:19.672Z",
+ "updated": "2026-11-17T00:34:55.355Z",
  "items": [
   {
    "topic": "5G",
@@ -45,6 +45,13 @@
   },
   {
    "topic": "4G",
+   "title": "Simulated Reinforcement Learning Model Improves 4G LTE Handover Success and Reliability",
+   "source": "Bioengineer.org",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORE9ET0g3TWRVTmU4SDdfckdFcmRsaUc1U0lKNlV4NEh2Tjc4SnVSY0stTk41YTRuNy1SQk13YUR3QlNQXzFqNnVnV3NlT2JSTVFfMjNBVWRJXzMzNDROTTBMNFVNRlhnZmdqMjlXTzRZRlhmOWFwZHpxRmdHRF91eWNtZUl4LU9xR0VoVFNzNXFYaTdOQkNGNVZhNmJwN0d0SE9fai1WbXNQeXRraU9Za3J3?oc=5",
+   "date": "2026-11-17T00:07:13.000Z"
+  },
+  {
+   "topic": "4G",
    "title": "Mexico trims mobile spectrum fees by 12%, freezes 600MHz and 700MHz",
    "source": "BNamericas",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVkFqczdDVG1XbnVfZEpvYWI2UnVLd0dPdTZTeWIzdldabmJUYXVNN08zbHYwU3UxQUpBNHFWNXFZUHRTSnZNdm5qdjhna1lINU95VEdwOVhvTGRudFVEdjVNMFFsaWhIZ0prMDF6WUtSVkhNSlFYSWJ3OHB1dHhUZklLRmdYUTBmMmt2Qzl4MlRlNzVJREZ4NVZkTnZPS0I0VGc?oc=5",
@@ -79,13 +86,6 @@
    "date": "2026-11-16T09:32:49.000Z"
   },
   {
-   "topic": "4G",
-   "title": "Docomo's 5G SA network goes down a third time in 11 days, for six hours",
-   "source": "Pasquale Pillitteri",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVVJtSHl0Vk1pX0kwVDU1dmJjTUVRaWM0RVZYOHpGLXdZTkpqTHJNbGNJRlhyejVIU1pvbW5BNWF0YVV0cHZEczhEMkd4LUx1ODdsM1FyUlZQTFFEYzJfSmlOZDVnemJDUERhQnZHYVUzM2VhS2JLNDRBcm9ZemVpaDZWclZ2WHlXeGU3OTJhQVhyYTgyaHBr?oc=5",
-   "date": "2026-11-16T09:29:20.000Z"
-  },
-  {
    "topic": "Optical fibre",
    "title": "Connecting the World: JURRY, a China Certified Telecom Conduit Extrusion Line Producer at Work",
    "source": "openPR.com",
@@ -98,6 +98,13 @@
    "source": "Telecompaper",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSWt6ekk5TExDYmtra21YRkRiZkZ1b1pySEdJNFdnUGJqNFhXYVQtaW1TODlWYzZCZUtuVFJuZXA0dkN5Sk1zSEU5SUc3UmV2RHdjZjkwTjJOb2t3WGVGVUNYa0h6WnRiN0ZWb3FkMFBteHpkX1h1eEdGdkVzemVhc3ZKQkNlVWg4Zkh0S0pmSnByLXVHbGJaYlVkR2lxMzduS1NfMVpCa05zODhPN2FBbnp6bFdzSm9yQ1pTdXN5RDBGQQ?oc=5",
    "date": "2026-11-16T09:32:49.000Z"
+  },
+  {
+   "topic": "Optical fibre",
+   "title": "NBI expands fibre network roll-out in Carlow, Donegal counties",
+   "source": "Telecompaper",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWUZ2Y1JPbVZFZ0FTOURlWFdhOU14aUtjMHhWY3paXzBUQXVNN0E4Ym1oQk5XWW5qRVc2SmhoN2N2dEdUZHRKamVQVThBT3RvMG05RDl2akpoWnBsYkZaS3N3dkFVOUlsZmV1THRPM3NTdXB0MXZIaDlyWUNYeFpFLVdOLUtKSGJJLW9fV214SnBPZkJneVozb011cS1JNFV5TzdFUVpSQQ?oc=5",
+   "date": "2026-11-16T08:14:20.000Z"
   },
   {
    "topic": "Optical fibre",
@@ -119,13 +126,6 @@
    "source": "Dawan Africa",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdVV5Z0lqSksyeFl6dU54LTdXbHBfSmRPUEo2QzdYQmRUNGN3Zjlaeml0WkhRam5NMy1MUGhCRVM3R25pNEZtSEJCV1hkNkNrQ3NMY3RvbHJQd0MzczFZb2R4S1drdklSaXh5R0x2aFNoTTJ4anAzQm9TSVQ5SVR6ZXFQXzVKUkUzYXZKOC1qVER5UVc4d3ZNYw?oc=5",
    "date": "2026-11-15T20:56:12.000Z"
-  },
-  {
-   "topic": "Optical fibre",
-   "title": "Telecom Egypt's Net Profit Rises 44% to EGP 24.4 Billion",
-   "source": "CairoScene",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdWItUjRpdExYTlZPaDhiT1kzX1dpQkRkVndZNWtvM3lZMlBuTHdUY2RWVXpQLXE5VWU0YjlOTzQtRFhYX3dsNFVETkhQejJmV3lSVXNyMURWLV9uWlFuc1RaNTFodWlZbU1ReHBwRG91QjJQajlENlFTeWdrQXNyN3JiMGREWWNjTTBr?oc=5",
-   "date": "2026-11-15T04:06:51.000Z"
   },
   {
    "topic": "DWDM",
