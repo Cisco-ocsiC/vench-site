@@ -1,20 +1,6 @@
 {
- "updated": "2026-11-17T09:48:37.023Z",
+ "updated": "2026-11-17T10:48:41.176Z",
  "items": [
-  {
-   "topic": "5G",
-   "title": "Australia opens telecom research institute focused on network resilience",
-   "source": "Telecompaper",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUjRLSDFXWldJQVBGREpEa1A4cTgwUjRxbEppMktzekE4cl96T3kxUzQ3VWJuUmt4OVNHcWlNS1Z3blVjMGtjZ29zejFLeEdXT3BUenMzVjlPUUp5Zk9PYUdRR3VoMnFTSWJ3S3BCMU9uZDAtRGdCdjV5cUNuR09PeFJneTJkQWpwYWxjYS1OTkJlLUdNbW1xckNiT29rZFh4OWEtSW0zMzRSRWZEemtKR0hLaTNmdw?oc=5",
-   "date": "2026-11-17T06:23:59.000Z"
-  },
-  {
-   "topic": "5G",
-   "title": "One NZ Completes First 5G Standalone Test Call in New Zealand",
-   "source": "The Fast Mode",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUUNobWhuYnZtU05QNlpEUlVvWW82S21EQUV4dTdBY3FwaHJya0JsUkNnaXdqZnhkVGNMbGUtUUd6TlI3Y0UwOXBmN3RoMXR6TXpCZ2VYc0x0SDFCcFI3MjE5Q3FubVhVdGVSRXZ0S1locWh6U01oS0ZVTWRWSUFUX0c5alV3UWRTVm1BVDAyY1FKVEQzWlhSMS1wT2t3ZUlES1UzR0x3ODFqdWI5RjBYblZFM2FBSlBwX1BMVA?oc=5",
-   "date": "2026-11-17T01:28:35.000Z"
-  },
   {
    "topic": "5G",
    "title": "Australian Watchdog Rejects Albanese Claim on Mobile Phone Heart Risks",
@@ -42,6 +28,20 @@
    "source": "Udaipur Kiran",
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFByNlAxdnJpZ3RTSWw3dUJST0F1LWxEdWZPdjNrbDIzdUtsc3pUaE53d0RONjdFclRIQVhjYVVkV05POC1wei1XWDBQV0dkektlaXdtbVdXb0pzZ1Rab1lvd1oyekxTZUlZeDZnMGFwdV9uMzk2TW54WV82dzg?oc=5",
    "date": "2026-11-14T03:36:48.000Z"
+  },
+  {
+   "topic": "5G",
+   "title": "Optus' network takes home most awards in new Opensignal report",
+   "source": "WhistleOut",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQVdLZlNTRGY5Nk1wQU0tdHZ6ZkV5R1hMWEc4NVhrSEJWM2haLS1GaHVHdy1WZEx2T3pBTERqVW1IaVRhbUdWU0FvVWVCUUNxMy1ZcVB6U1VXeTBNbWZmVmJvQ3hRTXVfUVY0bzRXRXJ1cVJpMU5CemNTYl9BX3JYX0h4R0YtV292SVlnZ19MQ3VMOVFO?oc=5",
+   "date": "2026-11-12T08:35:14.000Z"
+  },
+  {
+   "topic": "5G",
+   "title": "2026 network outage report and internet health check",
+   "source": "Network World",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQV0JCRjM1ZUF6c2NhUDJ4LTFrVEl4blBFb0dFRk9paE5tZnc2ZUNaU28xdnJ3bVhjYzg4WFEteWl2NUIyRkFCd1diTWJxeHhDQUFNOXpDc2NWUC0wSHkwOUVfT2Rma2pxNzZsUUJ4LWhwc1h1MjJpQkxzbUdXTzc1SXhidU9PVVNtYUNtbTFHWHpBeUxQYnVpWGJZUWdJRm9fSllCMg?oc=5",
+   "date": "2026-11-12T08:00:00.000Z"
   },
   {
    "topic": "4G",
@@ -87,6 +87,27 @@
   },
   {
    "topic": "Optical fibre",
+   "title": "Camtel Unveils CFA148 Billion Fiber Network Project, With Funding Details Still Unclear",
+   "source": "Business in Cameroon",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNN0s1UHRZXzlXVkpOcGlfN2RjR2RxeE5NMXlReDQtd3FUYzFmXzlXemVhenQ3ZFc3TjlobzRESTlYMndtNmZPLXNZZFBid0tmTjk0VVJ3WEdlQ1huQnUzaTBEY0RIZmFveWg0ckIzZUdiRy01Q1VEV3NFTmxpbHdyQ3RVTDdQSnVTYTBxT28wZ1lhbTdRdzZBZTNPYm96bHhKbVQtRVFMVzlWLXJlZW15OWlCX2tpTHlfd3JxdGJ3d0RyaWItWlpZWjg4ZmgwN2lYc2lrcnhHdw?oc=5",
+   "date": "2026-11-17T10:29:59.000Z"
+  },
+  {
+   "topic": "Optical fibre",
+   "title": "NCC Offers Spectrum Incentives To Tackle Poor Telecoms Services",
+   "source": "The Whistler Newspaper",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRjVkSUxycjdKUF9DN0F4VlpjNTJ4M1RFcVRTTEl4SDU3QjdvU0JHSEtIRVFuSWZGR2VHZWVzWFJFV2N4NVRtZEZ4aW5RWW11UHhEOEk1UmN0UGd1NDJubHRCc2ZDUzZpOXRKOXc2TDR3UTBESHVocEZrM0NEMWdrNlJ5YzVrZ1B6clpqeEQwVHk?oc=5",
+   "date": "2026-11-17T10:04:14.000Z"
+  },
+  {
+   "topic": "Optical fibre",
+   "title": "India Ratings Downgrades STL Networks (NSE:STLNETWORK) Credit Rating Amid Financial Challenges",
+   "source": "Kalkine Media",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVVExUVBiSXRzdFY2d21DOExtekp3WFlNaW0xLUN3OWlEZmlXQ0NCcDMyUDRKSTM3eV90UFhuTmhsNGJRUHlJbS1YQWZ4aHBRTjVuWUpvM3JGSjJoVnp1M3VzZFJZcWlyTHdBbUJJb2hkNXJHQTl2VjQ3UFlsY1h4QUxZaWdmYkphLU4xaVlOY3VKX2FxSFpXLTl4cXNOdjBMdXBkNnE1RGUwb1dZNmxwamlVLTdhbzg1VjQ3d29kUFo0OHFpNHBkdGtSQnRRRS1QSWNWQw?oc=5",
+   "date": "2026-11-17T09:47:00.000Z"
+  },
+  {
+   "topic": "Optical fibre",
    "title": "Fibre optic cables have no resale value, Fahmi warns would-be thieves",
    "source": "The Star",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQN0tocTRJaHNtTTNpMmh4VWo3Z1VMZTVySGxjMmotM3ltVHA5RUZVc0huWmtCenl4TmVveFhfaW9jdFNsU25mNUQwR2prX1hEeEpSb1pxSXlKamVmVTRjeVpXcEEyTUl6LXJPNjFXbVBBVFlnRzNRdm5BZ2Y4VVVpX1Nvc3c2MV9fMmx0QzAtQm9LdlR4T3ROQk41MkdiQmoySGhuek5OT1VldE1VNW1yZ1dDTWhzZkkyaXc?oc=5",
@@ -107,31 +128,10 @@
    "date": "2026-11-16T09:32:49.000Z"
   },
   {
-   "topic": "Optical fibre",
-   "title": "Telecom operators bemoan vandalism, restrictions",
-   "source": "The Nation Newspaper",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdjNxQ0dyMVpmNG5wQXJTNGZibGVKQ1BTdWx6VVdxaEN3V2dZYWludU1mUGlHdl85T0pidWdzMEhZb05nZGl2YkJmMy03N3JSbnNKUkdrZ2w3X0lGYkJmT0lCNDFMSVhoMVQxTTJhblRhM2doc2FVcVZtRnZqR3B6NVBQQ3rSAYoBQVVfeXFMTUk5Y2NlU1hqM01IdlJDUl9DQTE1VENWTEw0eC00bzNCVGdkR1JpWlpfUktveEMzYU80TkZPVzE1TEc2aF9ybTNIZlhmcFU5V2o5MGFWYmFqTzNPZnIyQzVocTVKX3JqUUF1bGVyaUVnWWtZUmsyVlYzWkctRUFuZzNnQ2taeVFibHN3?oc=5",
-   "date": "2026-11-16T07:52:39.000Z"
-  },
-  {
-   "topic": "Optical fibre",
-   "title": "How Are 800G, 1.6T and Coherent Optical Technologies Transforming the Terabit Optical Networking Market?",
-   "source": "openPR.com",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYjRMb3Y2UDU1LUU3cWlEeDlSaGhBamM2R0NlR2hCdEtZd1NWTXI3Wm42blNlOW1VeHNtZnY5RTFrWWhZcFJReGEwcE9oZGtCNmpoa0l0RU50MWxDdlpfalBaaVBRLWpQTU9xVWVFemlKVkpRMGp2clhsVl9yc3lSdm9tdTJNaTVpbi1JWFRRSUQ?oc=5",
-   "date": "2026-11-16T07:28:44.000Z"
-  },
-  {
-   "topic": "Optical fibre",
-   "title": "Somali Telecom Firms Form Consortium to Lay Shared Fibre Routes",
-   "source": "Dawan Africa",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdVV5Z0lqSksyeFl6dU54LTdXbHBfSmRPUEo2QzdYQmRUNGN3Zjlaeml0WkhRam5NMy1MUGhCRVM3R25pNEZtSEJCV1hkNkNrQ3NMY3RvbHJQd0MzczFZb2R4S1drdklSaXh5R0x2aFNoTTJ4anAzQm9TSVQ5SVR6ZXFQXzVKUkUzYXZKOC1qVER5UVc4d3ZNYw?oc=5",
-   "date": "2026-11-15T20:56:12.000Z"
-  },
-  {
    "topic": "DWDM",
    "title": "Oasis Networks Selects PacketLight for Burstable Wavelength Services",
-   "source": "AFP.com",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONGNROFhieGc2VXpDU3E0WU9xazQtQkJ5aGVCS1RFck9vOW1oRGxzU3F4NGQ0MWtHWld6S3dxVE0zV1lLQWM3eUhtVkljeXRVRXFBS2lmYWJpR3U5OTJ0Z25vek1ja3cxU3RaZUVla0lwQmh2LXBlN3VlYl91UktPZjluQW44a0EwS3h1U0dUdWRCRHY4MTlBMHl0NUxqNVRiSlgxUG43UldENlpYaXFhbzE2cTJBWkIwbXlaUQ?oc=5",
+   "source": "Via Ritzau",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdHFwSG9QbS1OSUItT1BZU1liSXRIaUdrYjh3UWowVmx4V0x6SG5NOThHWFkyTEFCR0VpUi1EeTlnYXo4Rzg3UGRKUTdEa3ZITTdkWkozeHdySUJnOWNraUNwQjZieGZKWmZLR1hwOGtiWDJteXI1STVJSmlFRDEyY2JFRkdKQ0Y0U1BwWUN4LVVkeG0tZ2NZV2lydWhLekxWNnFYVzY4dHFGc2JTZXF4YVNwR2tDa0dyb1NtQXUySHZ4ZTF2dmUyX09HamxRMmpyamM1ZGxCSTZodw?oc=5",
    "date": "2026-11-17T08:35:00.000Z"
   },
   {
@@ -142,18 +142,11 @@
    "date": "2026-11-08T13:10:37.000Z"
   },
   {
-   "topic": "DWDM",
-   "title": "Bluebird Fiber Announces Tera-Core™ as Customer Demand Accelerates Beyond Single 400G Connections",
-   "source": "Electronic Engineering Journal",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNY2YyYnFIQlNReVVqLXJwTWhBUmduV3h4Ykl0T1dRUEpWOTRJZGlmbDh1SFNWZkNzQl9ubDRYMzFuYS05Y2M3YmlsSVU2UXY4aWlLZGI4NlFfclJhR0lmSGc2OFp2YzQ4cEloRWk1ZUN1TGNsS3VDeHRXY1dLRklmd1R0UlhsVGZGVUd5Nkh4dGQ1UVAxVTJpcFlEUXgzZWtIWEs4WnUtRnBaTWd3TXNBUm1wTjlPVEFVUXhicmNEMzIwRDVYQ0Z4ZDRjMzJRWlJ4Y1pv?oc=5",
-   "date": "2026-11-03T14:12:35.000Z"
-  },
-  {
    "topic": "Innovation",
-   "title": "Samsung positions India as a launchpad for AI-native 6G and connected living",
-   "source": "Wocult",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB4bWhma3dPREJNLWF4RDFjSkZlNVNwTkFKbkNmMmdFbzlnQlJ4ay1wYU02M3dUbE9mZnpDc0ZpTXVUYW1oRVYzWXIxaE4wX09WRVM3a0F4VWE3TTVQb3RGZXBMTndDS2plNS15R0drazcwNl9oa09SblktUQ?oc=5",
-   "date": "2026-11-17T08:24:01.000Z"
+   "title": "Altnets adds Corning optical fibre technology to its portfolio to support high-performance UK networks",
+   "source": "SussexWorld",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNYi15ZkJpQlF1TDBnNTFjQjdYd0FHVGlYdTRMekFrajlTdWRnUjJfd1pYbE1KOVVVVlJFcURxZXhmX213UDh3Z1I4eC1QdERhMTJMQjhoN3U1M05uWTA1UU1xNEl4azFUdzNQdktod3R5cjVmVi1meEdUVE5zamhlQ1lRZm8waFhvenI0OTJIY19zcHBkR0RLaGNKRGtoT0gzdVFvNlY1U2xEYTFtSmJwdjRYb0dYTnIwZ3FtU3ZhVkMzSXlSRWd6bzRjNy1yTzVEcElnWWZHVGhRMmV6T0k5VHhLQzJSbVds?oc=5",
+   "date": "2026-11-17T09:59:00.000Z"
   },
   {
    "topic": "Innovation",
@@ -206,17 +199,17 @@
   },
   {
    "topic": "Innovation",
-   "title": "Verizon CTO assesses 7GHz band for 6G after first call in the field",
-   "source": "Light Reading",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbTlEN2lMbmw2RG5xYjJydENCYjVMSzRTQzR2aWpJMTBvVTI0WUNPQmVpWE1od3JpZGJLRHVyNTloNGcwcXI4UHBzR3pwejB5azdTSG9RV1BxcHpIcUFZRU9MVlB1b3UyWVljM0NSbFQ5TkJfNlFHRkpTUm95SnF2Zjhuc2o3N1h6bU9rSE5FdTFObHFPLWRCNWl1TU84UHdD?oc=5",
-   "date": "2026-11-09T16:02:52.000Z"
+   "title": "Early results on using 7 GHz for 6G indoor coverage not 'encouraging', says Verizon CTO: Report",
+   "source": "Indiatimes",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUTlaVl8ySVFIcE1BYW96WmczelRidk5xcFJrNHdXOFBKVFowQTNIN3UyTlhTcWIzTUlYdUwwZzFmbl9Ob3JuS1VPMkx5ZUlmZ1dCNHJ6ZUFrdzdQeUJjUlFxRWdjTGg2Z2kwTWNtdExQR1AzTFBxQ2Y2VUlTdjNzV1FyNzhYQWpoTElERE9adUU2V1g0SFpQUi1vVW5ybk9EclVLVHMza2hzOFFCbXlXWlFzR2JDQXFoSFhTeC1VQ1c3YW16NllyNkRHQnlFQ2tPVVJCYXBwcmlTUnZSdFVOYllLZW1zOElnc1JYTGxPVDI1d9IB9wFBVV95cUxQemlaTi1QV2VDT1JfaVZRSEhxajB0QzVzcXhjWjBVNUNPTExYaG0tbnBZcTZld013WTczZ0d3RXVNbmZzaVlQVkExd09FR1Ezc3EtaF9rbVc3aFJvZ0F4a1dCRTd6amNPVHFVdmgxQlJpLW9OZ3FQNEdqSEhLM2xJXzREZXphSWdsUHBjYm05ZGR3UzF3WVZFN0ZOZkM5clNuaFNlekJJeFVqaERPd0RzajdTajRJZXRUaks5V1B2dzVsRFBVaXVxUXdSRWdrd0xaQjVRNkNzb2N0cy1ZYzJGaHdEUlRfdzFpN3ROVUtIRjZKU25uYTZF?oc=5",
+   "date": "2026-11-10T02:39:58.000Z"
   },
   {
    "topic": "Innovation",
-   "title": "Optus completes world-first validation of Cisco Live Protect",
-   "source": "ARNnet",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRWNYNDFZXzlySE1iZ1VPMi1xbXdQUHpxcS15T0pKSWZjb0xtZk5rTUt6YlpyOFhtdTN3T2NXVklCZmRocWFXZDI4UFdlZ1JZbmdudDlTcnpYdm9kUzc2VFBNbmZMWHRmajQ0YW45ZUt2THpRRDd1eGN0bmFKREJqa3VPNkZBMnZGRy1nMlVjeXQ5TzRaTVgtSnUyX3BsWlFVcU9pRmx2OU9lc0k?oc=5",
-   "date": "2026-11-08T22:25:11.000Z"
+   "title": "Verizon CTO assesses 7GHz band for 6G after first call in the field",
+   "source": "Light Reading",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbTlEN2lMbmw2RG5xYjJydENCYjVMSzRTQzR2aWpJMTBvVTI0WUNPQmVpWE1od3JpZGJLRHVyNTloNGcwcXI4UHBzR3pwejB5azdTSG9RV1BxcHpIcUFZRU9MVlB1b3UyWVljM0NSbFQ5TkJfNlFHRkpTUm95SnF2Zjhuc2o3N1h6bU9rSE5FdTFObHFPLWRCNWl1TU84UHdD?oc=5",
+   "date": "2026-11-09T08:00:00.000Z"
   }
  ]
 }
