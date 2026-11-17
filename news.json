@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-17T18:43:26.345Z",
+ "updated": "2026-11-17T19:52:41.051Z",
  "items": [
+  {
+   "topic": "5G",
+   "title": "Simba director Richard Tan resigns after telco admits to unauthorised spectrum use, Singapore News",
+   "source": "AsiaOne.com",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcVBfUmtEQW52NnFHb0lXMkp3cDIyckZnOGJqeFFvemZGTGpubmhsSUhXbWhmZnB4YmpmZHRyUVBiZXZ1RFZTMnhoTHpFNWtVdmdvb250d3I1QmM4azBUT2lxVEdGZGQ0dzFIRHJ4WHlvaENOMy1GM3BVdURPcVA4dy1wdmdEdEJLRnJz?oc=5",
+   "date": "2026-11-17T02:01:00.000Z"
+  },
   {
    "topic": "5G",
    "title": "Australia's Tuas says Singapore unit does not contest unathorised spectrum use notice",
@@ -28,13 +35,6 @@
    "source": "Finder.com.au",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAxZC1na0NkT1N4YnZVcXhIVnBnYUdQQVl3eUc4VC03VnpwUkg3U2VoYmp4ckVBTVJ5ODA1TmJ1amVwSXRkdG9NdkNHSXp0QXFfQ3ktcDRuUi1VWDNTNkxzak02OGpJOHZMVnF5eGxMT214elR3?oc=5",
    "date": "2026-11-16T04:00:00.000Z"
-  },
-  {
-   "topic": "5G",
-   "title": "One NZ, Ericsson Completes First 5G SA Test Call, Advancing Network Modernisation",
-   "source": "The Fast Mode",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQS2tDRFZ3MDNnQkp5aExaMmJqbVNjaTMzMXVzT2tTc1hpcjVEMDVvVm1mdWwzNU5FTTB0YWVNSmdud0FRTmVPWjRrN3lfM3BuTFdHM1pBSlROSUpTTEl2OWZYOE53Vk51R2RTemQxWDllUGZrN2I2b1NYYW1GZFhXcUNNWHp5VHFMVmJwTXhnVWItVm02WG1oUGVfaGRURTZxMEdKdEI3Wjhob3oyTzJreXlHenF4Z1BMTTRCck9vNm9MbXU2SU9CZDRWeWxfV1VaYzl5dw?oc=5",
-   "date": "2026-11-15T22:56:55.000Z"
   },
   {
    "topic": "5G",
@@ -87,6 +87,20 @@
   },
   {
    "topic": "Optical fibre",
+   "title": "Savanna Fibre sets 2027 target of one million more homes as subscribers hit 250,000",
+   "source": "The Independent Uganda",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN1ktampKMEpkLV83OXRISlI1bTNTYktUclROM1ZvRkpTX09IZGhKdHAwbERqZTJXUlN3bWtLMkpuTERkeTk3WFhSaHVidy1TbWlfRGhfVjhybUYyV2lrdkl5YkRQQUpVQ3NYWUU1NUlTVDNtTFFDSU5Cd1RqMkVrSzhLNHl2ZUdPclQtYkMyUlpucU1lN2VJT0FoMi1wUENjLTVkOVBwMUN5RlFwQ25Gc2Eybw?oc=5",
+   "date": "2026-11-17T19:26:32.000Z"
+  },
+  {
+   "topic": "Optical fibre",
+   "title": "Savanna Fibre subscriber base surpasses 250,000, targets 1 Million in 2027",
+   "source": "Bizna Kenya",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE11a0h6bTdsVllLOGo4ZFJ3eFdlSW5GbUNzZ0xmQnptQjBBZWhuSGp5M3NsSm1LUjFiM2VaelVNR2hhTElWSEstb3laLVUwb096WmN4bkZIWXNEcTNYYmk5SUgwT0tuTU5uNWotaldKVUZ2ME5KM2dnRWlB?oc=5",
+   "date": "2026-11-17T18:38:39.000Z"
+  },
+  {
+   "topic": "Optical fibre",
    "title": "Cameroon’s Camtel Demands Higher Fiber Rental Rates, Citing CFA311 Billion in Lost Revenue",
    "source": "Business in Cameroon",
    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOaUVtWUo0dENoN2ZfYVVIdnN4X2Q0Tm5uZzZMVGFFUk1oWWZZV0U1WUkwaktMVHpSc0M0VW52dVpXN2tUNUxtQlp4V0hyLWdQam5zVXdraUxFQkJuU2IydFA3a1ZiU1ZneVdWNHFhR0pEdWxXSFMwakdXOWtPcU5BM0FRZW9ERGh0VGtMTjc3Vm8tZ3pKS1U3TkVpcVFIQ2w5bDJRdGdkQklFLUpfd3A4TlBfcFJpV3lTVkY3UmdMMFE4eWEwUG04ZGtmTlltRGNPWEdJbzJ4aDAtMWNIYk04QmRLYzAzaGRV?oc=5",
@@ -112,20 +126,6 @@
    "source": "SoftPower News",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOalhOekNrSkM0RjNheUE4RmFJZTFla3RuZmg3WFhMZmYwaFlUd1BZWHhOeHRjYk9lblFvQmFuWDBqbHpqTkFnTVJod3ZqLTJlVExkdWlDVGpzRHd2cHh4NDhOWjU3U1RNSkhsUUV4bUZxc2lDZWpPdjdBenZ1WnpSUFYwN0lDNFZyZTVGVmFVVF9qRWc?oc=5",
    "date": "2026-11-17T14:13:38.000Z"
-  },
-  {
-   "topic": "Optical fibre",
-   "title": "From Fibre-Optic Technician to Senior Manager: Kodou Jeng Breaking Barriers in Telecommunications and STEM",
-   "source": "The Point Newspaper",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRzVEeW9hc28yZmRPRFBfd3VtNmFxR1BlRXp0LUJkTzNuYy1JWDB1QUR3RjhRR3dSN0xBQy1iWkg1YXo5SElMQmdKVlRiNWhWdVp5cjNDaDZXX1pVbTdFQmNBMi1RVW9mSWtnQVBHblcxa0RuQlRBZ0xxRFFiZlRjNWFyeUZPc0x3aG9PbHB0cmVfOXM5V2IyZl93ZDc2VlVFa2p2eDZFT2wwU1hnTUVJLVJaZnlZUEdEc2R5MS1oNUp3TWdCalhxV2taTFdfbVFDc3A1SWc0ZGlvMTg?oc=5",
-   "date": "2026-11-17T12:22:32.000Z"
-  },
-  {
-   "topic": "Optical fibre",
-   "title": "Savanna Targets One Million New Fibre Connections in East Africa",
-   "source": "Nilepost",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOS2lVZ0Y1SG56dEE1ZUVUWVhUV3U2ZEYyY1NEYXlSZ05WczRodXFVSUxONXRvNXRLc1ZoOVgteFZMZWt1R2xEMEhQUFJTcnMtcms1YUhpdjFVc0hHajExR29YMEtuOVk2Nk0xTkx4dFlZVEFvNWFGUVlzcEFZMVVmREQ3MDVRck5VVlBnQjZJUDRRQTIxbUpWTlJCbzFJcVQyQmYxZEhTVlM?oc=5",
-   "date": "2026-11-17T12:15:18.000Z"
   },
   {
    "topic": "DWDM",
@@ -178,6 +178,13 @@
   },
   {
    "topic": "Innovation",
+   "title": "Telstra (ASX:TLS) Shares in Focus: Why Is the Dividend Record Drawing Attention?",
+   "source": "Kalkine Media",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNclloSm9fODRJNUxBSGhwc1dEU194a1hFbFhLTDJLWXF1RUtoNTN3ZllZZlR4MUpzWkhBN0ljZmh5WnA0c085V181dVZCcExVcXRQbnBiYXVRTnptMDREYmVPME1HY296dHdqZkNZMElvQjlpTXhZbktfRThoZDhTcS0wVnlTZUtvOXJBb1FxLWk1My1rT2JLaGVvN01UbE5SYWQ3aFVJNUpGVjhzcHVGNXJIM2M1bEFBUk9RSWxoeXg0QQ?oc=5",
+   "date": "2026-11-16T23:48:00.000Z"
+  },
+  {
+   "topic": "Innovation",
    "title": "The strowger switch: One invention that changed telecommunications forever",
    "source": "Daily News",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObWdXM0RtVHdYdzEwR0txOUV3UU1jNGl5MFBzcDBuc09aQWlIM1pUTWdENWZmVXhBSFJjbG12N1lYQkdkUHNvUFF1VDFmOVQ2blFUV0w1RjZlWWRhSm5DTVlqck5jcmUwTnhobjk4RjNRZk9vRzhQejVYekJrenZ2QVBZbmY4MzEzLXBLYVFvc2h5djVkQWk1MWRpd1RZdGc?oc=5",
@@ -203,13 +210,6 @@
    "source": "The Business Journals",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdDN4T1R3VTU3Slk4dlo2QzllYjZUNTZYc1A4Rkp4ZGo5WGVMSjBIV0J2QjRuMjNrQlNOMllCWFRVUThIT3hDT1pBMGZTWXlPU3loZEhpVm1CZkVYSzJmZVRCMktLZDRCM2tZeExveWxaOXdERzJtUUVlMWk4TGtPYXpTck9EODNUajZ3ZkdxZ2IyX2FwNkZ2REZuQkkwUE1kQnZz?oc=5",
    "date": "2026-11-11T12:00:00.000Z"
-  },
-  {
-   "topic": "Innovation",
-   "title": "From 6G to Aerospace, New Tech Takes the Stage at CIIE",
-   "source": "Sixth Tone",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTHBzeGN4bllWTVRud29nNThkU2tHV0hHRXRBczUyVE1XTm1jdnJXX0o5R1ZCNVhLWmIyZG5YeF9GMy1qakFvTDlnWjNxdVpZUkFWQ2JwbW1sSERqdTYxVVNyQk5LOXlwdUZEaHRUQmc0RjVrdUdBMDM1bFBuenhkaFV4VklxbHExRnpiUXh1YmthVVZnUy1BZDRxdw?oc=5",
-   "date": "2026-11-10T09:15:17.000Z"
   }
  ]
 }
