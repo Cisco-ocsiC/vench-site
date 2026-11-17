@@ -1,13 +1,6 @@
 {
- "updated": "2026-11-17T05:47:26.448Z",
+ "updated": "2026-11-17T06:53:47.108Z",
  "items": [
-  {
-   "topic": "5G",
-   "title": "Simba director Richard Tan resigns after telco admits unauthorised spectrum use, Singapore News",
-   "source": "AsiaOne.com",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcE5kNllUWDBkMlpqVEpMVnE3VW92bW1xSGRZZzdJTVJaYTRZLVJpaFFuRThJTkFWOWZkWHFMR2JlUzY1SlQxNkNvRnBneWlTWTdWRzR1QXJNY1JISkFxWkhGUHNNZVhWMTd6WnlWRFBsT2FpcGJRQ0RuLWQ5ak5pa3FpLUpsbkdLYy1jTkYyQ013ZUU?oc=5",
-   "date": "2026-11-17T02:01:00.000Z"
-  },
   {
    "topic": "5G",
    "title": "Australian Watchdog Rejects Albanese Claim on Mobile Phone Heart Risks",
@@ -42,6 +35,13 @@
    "source": "Network World",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQV0JCRjM1ZUF6c2NhUDJ4LTFrVEl4blBFb0dFRk9paE5tZnc2ZUNaU28xdnJ3bVhjYzg4WFEteWl2NUIyRkFCd1diTWJxeHhDQUFNOXpDc2NWUC0wSHkwOUVfT2Rma2pxNzZsUUJ4LWhwc1h1MjJpQkxzbUdXTzc1SXhidU9PVVNtYUNtbTFHWHpBeUxQYnVpWGJZUWdJRm9fSllCMg?oc=5",
    "date": "2026-11-12T08:00:00.000Z"
+  },
+  {
+   "topic": "5G",
+   "title": "Optus and Nokia demonstrate asymmetric 5G configuration using 900 MHz",
+   "source": "Telecompaper",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZFd2N1FKdHJ2Y05hMkxoRGxsQVlSVXJWdVVubGxhOUN4akVUNWhUOXU0am0zc094eW9XS1ZkdUx6bnVsckZrVEVVZElZQjZlX3k3MF9IWEVKUEs0dkZQSHVXMWR5NUtiLTB6TTduZXdNNDRzTnE1c3ZhSnRBNHlzZEdhRERqeWYtS29vTmZOR0YyQmZmcW9oekQwX0V6dXlvbEpZc1lBRFh5ZlYzUEpYMVFn?oc=5",
+   "date": "2026-11-11T05:34:02.000Z"
   },
   {
    "topic": "4G",
@@ -87,6 +87,13 @@
   },
   {
    "topic": "Optical fibre",
+   "title": "Fibre optic cables have no resale value, Fahmi warns would-be thieves",
+   "source": "The Star",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQN0tocTRJaHNtTTNpMmh4VWo3Z1VMZTVySGxjMmotM3ltVHA5RUZVc0huWmtCenl4TmVveFhfaW9jdFNsU25mNUQwR2prX1hEeEpSb1pxSXlKamVmVTRjeVpXcEEyTUl6LXJPNjFXbVBBVFlnRzNRdm5BZ2Y4VVVpX1Nvc3c2MV9fMmx0QzAtQm9LdlR4T3ROQk41MkdiQmoySGhuek5OT1VldE1VNW1yZ1dDTWhzZkkyaXc?oc=5",
+   "date": "2026-11-17T05:09:00.000Z"
+  },
+  {
+   "topic": "Optical fibre",
    "title": "Connecting the World: JURRY, a China Certified Telecom Conduit Extrusion Line Producer at Work",
    "source": "openPR.com",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPd2QxcmVySE1aeUZ6aUQxQWU1dkw0cHFPYk10OE5pMkEzRU5Tem53ZEUtR2Z1Wk42WEo5RFp5ZFVNRmlqc1ZmMzdjTDJ3MnlCVTdHTlMwcDhNQ3VpMHZXZkw5STNPSEFRVGEweVVGODdrRkszNWMxYnNOZWt0b08zQTZrZllkcTY2cVdCRVFKeVJGemRVQnNRcHRoZ3g?oc=5",
@@ -115,17 +122,10 @@
   },
   {
    "topic": "Optical fibre",
-   "title": "Telecom Egypt's Net Profit Rises 44% to EGP 24.4 Billion",
-   "source": "CairoScene",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdWItUjRpdExYTlZPaDhiT1kzX1dpQkRkVndZNWtvM3lZMlBuTHdUY2RWVXpQLXE5VWU0YjlOTzQtRFhYX3dsNFVETkhQejJmV3lSVXNyMURWLV9uWlFuc1RaNTFodWlZbU1ReHBwRG91QjJQajlENlFTeWdrQXNyN3JiMGREWWNjTTBr?oc=5",
-   "date": "2026-11-15T04:06:51.000Z"
-  },
-  {
-   "topic": "Optical fibre",
-   "title": "US flight shutdown exposes deepening air traffic network crisis",
-   "source": "CNA",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNM2txUmNvOWFTNC1rTU1tNWN3elJPZzh5bDVnZEhpYm5TNDlicUVZZmotN3J3UEVqLU1FSWFSdlBKbFpjT0xUeEdsdHVOSFBVQmo4SFBjVlU4a2Z3bEYyVXRGSVh1OVNJdGlJRzNsVlUzMFdKejZNRTlnYWtQaU9aY0dpTUxhLTE1WjNyaDZMYjJoSVE0dXVpQjRROVc?oc=5",
-   "date": "2026-11-14T03:56:01.000Z"
+   "title": "Somali Telecom Firms Form Consortium to Lay Shared Fibre Routes",
+   "source": "Dawan Africa",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdVV5Z0lqSksyeFl6dU54LTdXbHBfSmRPUEo2QzdYQmRUNGN3Zjlaeml0WkhRam5NMy1MUGhCRVM3R25pNEZtSEJCV1hkNkNrQ3NMY3RvbHJQd0MzczFZb2R4S1drdklSaXh5R0x2aFNoTTJ4anAzQm9TSVQ5SVR6ZXFQXzVKUkUzYXZKOC1qVER5UVc4d3ZNYw?oc=5",
+   "date": "2026-11-15T20:56:12.000Z"
   },
   {
    "topic": "DWDM",
@@ -147,6 +147,13 @@
    "source": "Electronic Engineering Journal",
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNY2YyYnFIQlNReVVqLXJwTWhBUmduV3h4Ykl0T1dRUEpWOTRJZGlmbDh1SFNWZkNzQl9ubDRYMzFuYS05Y2M3YmlsSVU2UXY4aWlLZGI4NlFfclJhR0lmSGc2OFp2YzQ4cEloRWk1ZUN1TGNsS3VDeHRXY1dLRklmd1R0UlhsVGZGVUd5Nkh4dGQ1UVAxVTJpcFlEUXgzZWtIWEs4WnUtRnBaTWd3TXNBUm1wTjlPVEFVUXhicmNEMzIwRDVYQ0Z4ZDRjMzJRWlJ4Y1pv?oc=5",
    "date": "2026-11-03T14:12:35.000Z"
+  },
+  {
+   "topic": "Innovation",
+   "title": "Telstra (ASX:TLS) Shares in Focus: Why Is the Dividend Record Drawing Attention?",
+   "source": "Kalkine Media",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNclloSm9fODRJNUxBSGhwc1dEU194a1hFbFhLTDJLWXF1RUtoNTN3ZllZZlR4MUpzWkhBN0ljZmh5WnA0c085V181dVZCcExVcXRQbnBiYXVRTnptMDREYmVPME1HY296dHdqZkNZMElvQjlpTXhZbktfRThoZDhTcS0wVnlTZUtvOXJBb1FxLWk1My1rT2JLaGVvN01UbE5SYWQ3aFVJNUpGVjhzcHVGNXJIM2M1bEFBUk9RSWxoeXg0QQ?oc=5",
+   "date": "2026-11-16T23:48:00.000Z"
   },
   {
    "topic": "Innovation",
@@ -210,13 +217,6 @@
    "source": "electronics.economictimes.indiatimes.com",
    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQSDdTVFY5TkJHdmh2QXI4YjA2Nm1sdXk0R2E0QjZOTEFkMXduVHhXQ1JsQjdiOEZtNllQeVFPajg2eGs0ZkNLOHRxYmQ5LThwamdCbmRwYV9OMVJ3dEpSMFdIZU0wS0o0T0J3OGVRSkw4X2FTRTJ2d0pFbnpRdWgxdVh2aDZpck9WNHhtaEFPY2gxR3BreFZYc29XcU1iX2pPdnlFZjNFa2pZLVNmaE5HLTh3bm1JZ3QxZzUtMVpuN2g2b1VtaTYzakc5WkJYRDROMnFXenlvRTNucHF2ZW9NTVNCS0lpUHE2YnVqNmcxVXk2eFNLWGdaN0ZUMNIB_wFBVV95cUxQVEs3R1lxUXA3NW5sLV9YS0JiQ0huRVVUNkhqbkY4a2xvbHdfb1Z0cU9fS2lveTB3SWxoWDRac1YzS1l5WkFpRHIxdHRudjVjZXNneF9USk9KOXhDU3dLSGgwS29CaHpHR2tyYUFJYTY5NFRrWTFHN2N5NmRlOXllR085Y1dJbUNLTzM1bG5KNlEzVWJlM1VDLVJ2cHlpLVV3eXZaMGY5RDZUM3l1Qm5SSzhWSmVJY29uaEl3S3dPSlBTZDNDOV9DcU92S0x1Nk9weVNnRHRWSkgwS0RGSFdoSEd4U3VDV2FlNkZxZjFtMGp5VE1faW5VaXNzVmVGazQ?oc=5",
    "date": "2026-11-07T08:00:00.000Z"
-  },
-  {
-   "topic": "Innovation",
-   "title": "NTT Unveils Tech to Enhance AI Performance for 6G and Next-Gen Computing",
-   "source": "HPCwire",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcnUzcnNWYXRRSTFDZzQzNU9LSWNEeV83TXYtUEtNYng0STVzdEhMdDZxQkNDRkNhUWdBa0lPWHA4cG9pU2J4QnlVWDhfeDh0X2tHWW55NG9WNWVJbWFlS0lDbnBYZmtnT2F3NHNETTNKdHhadzFWQTJNa1Rad3BFTG1tOFlKYTB1RGtYY1ZjV2xwd3QxMGtPS3VrYlJObnVwWXAtcU1PeFd2aGU3S0EyVnZncW1fTGstVWZSaVQ5aw?oc=5",
-   "date": "2026-11-06T08:00:00.000Z"
   }
  ]
 }
