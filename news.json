@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T11:37:41.267Z",
+ "updated": "2026-11-17T12:44:11.996Z",
  "items": [
   {
    "topic": "5G",
@@ -14,13 +14,6 @@
    "source": "https://streamlinefeed.co.ke/",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMnd3T3pIVVdoVTBqMmZmS0pnWHpIaEN6NUlEUGFuenZfNWltN2Fxa2NMaWdNLWVlMy1oUjNmZHRfZnM0SGNyTWpkWTZaS2VyYlNVcl9BX0RtcDNjWGJrUzFzU0NjNUxDREJKQWticVBqcE4wYWJEMXdsY21OVGdzdVh6dVR2LVlpMk5OUmd4cXI0NG9DLWpQWXpVU21ZYW1hQ0xMOEk3aw?oc=5",
    "date": "2026-11-16T07:38:00.000Z"
-  },
-  {
-   "topic": "5G",
-   "title": "Optus reports 13.7% EBIT growth despite lower revenue",
-   "source": "Telecompaper",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPX2FncW1ZUnNVU1E4c2tILXFrTGtUb3NtUmdtY2pRbThmTUtwaG1NeG9oemJTLVNobks4c20xeS1TR3JzWC1CNmdWdzJaZlhycE8yVDE1MWVWTjN1ZUhtYTJRX2x0cF82YUZyNE1YelcwTi1ERnRhNmhqbXZ1bGRzZWRVckJrV0pnVmZxb0VMZVV4UW03THlmYmNn?oc=5",
-   "date": "2026-11-16T05:32:24.000Z"
   },
   {
    "topic": "5G",
@@ -42,6 +35,13 @@
    "source": "WhistleOut",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQVdLZlNTRGY5Nk1wQU0tdHZ6ZkV5R1hMWEc4NVhrSEJWM2haLS1GaHVHdy1WZEx2T3pBTERqVW1IaVRhbUdWU0FvVWVCUUNxMy1ZcVB6U1VXeTBNbWZmVmJvQ3hRTXVfUVY0bzRXRXJ1cVJpMU5CemNTYl9BX3JYX0h4R0YtV292SVlnZ19MQ3VMOVFO?oc=5",
    "date": "2026-11-12T08:35:14.000Z"
+  },
+  {
+   "topic": "5G",
+   "title": "2026 network outage report and internet health check",
+   "source": "Network World",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQV0JCRjM1ZUF6c2NhUDJ4LTFrVEl4blBFb0dFRk9paE5tZnc2ZUNaU28xdnJ3bVhjYzg4WFEteWl2NUIyRkFCd1diTWJxeHhDQUFNOXpDc2NWUC0wSHkwOUVfT2Rma2pxNzZsUUJ4LWhwc1h1MjJpQkxzbUdXTzc1SXhidU9PVVNtYUNtbTFHWHpBeUxQYnVpWGJZUWdJRm9fSllCMg?oc=5",
+   "date": "2026-11-12T08:00:00.000Z"
   },
   {
    "topic": "4G",
@@ -73,17 +73,38 @@
   },
   {
    "topic": "4G",
+   "title": "HMD 2320 Flip 4G Leaked: Specs, Features, and Enterprise Upgrades",
+   "source": "Nokiamob",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQN01nRU9vMEl0b01VMGYwcU84VDVMaS1VaGlQN1h2ODJBUUNLWlR3LVNoLTBya21EcFBkczJpamszSnp1SDI4SHdGMk5Yc0NycVhFdmdWRUhuUHc3MHg2d0tVZ2tRNXNjVlVWT09LaGI0cm9zb243eXF0ay11S3VJdU9ZVm54eUw2RmowdXFUajQ2T1lVVV9nbmtMbmlMek9NSlFsSHhR?oc=5",
+   "date": "2026-11-16T10:44:12.000Z"
+  },
+  {
+   "topic": "4G",
    "title": "SA’s 5G expansion fails to deliver faster networks",
    "source": "ITWeb",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdzZiTTVzeWs5N3FPbGtPc2YzQ05ZYUt1ZXRNTmtwWHhMcmtZLTIzMkdrMkc4MkpxbWhRMS0tS2hQQ25MTEZMcEstUjladHBtR0F1b3czMWNxelh3clJtRHZTcFgwRk5wb1pGQUs0dWIzWXJ0bFktTy1rZWxzMThmNEl4UzhVWGFFMUlTRzMwLVZnUXlYbFd1ZU03XzEtbGM?oc=5",
    "date": "2026-11-16T10:30:40.000Z"
   },
   {
-   "topic": "4G",
-   "title": "German government plans over EUR 2.7 bln spending on fibre, mobile networks in 2027",
-   "source": "Telecompaper",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSWt6ekk5TExDYmtra21YRkRiZkZ1b1pySEdJNFdnUGJqNFhXYVQtaW1TODlWYzZCZUtuVFJuZXA0dkN5Sk1zSEU5SUc3UmV2RHdjZjkwTjJOb2t3WGVGVUNYa0h6WnRiN0ZWb3FkMFBteHpkX1h1eEdGdkVzemVhc3ZKQkNlVWg4Zkh0S0pmSnByLXVHbGJaYlVkR2lxMzduS1NfMVpCa05zODhPN2FBbnp6bFdzSm9yQ1pTdXN5RDBGQQ?oc=5",
-   "date": "2026-11-16T09:32:49.000Z"
+   "topic": "Optical fibre",
+   "title": "From Fibre-Optic Technician to Senior Manager: Kodou Jeng Breaking Barriers in Telecommunications and STEM",
+   "source": "The Point Newspaper",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRzVEeW9hc28yZmRPRFBfd3VtNmFxR1BlRXp0LUJkTzNuYy1JWDB1QUR3RjhRR3dSN0xBQy1iWkg1YXo5SElMQmdKVlRiNWhWdVp5cjNDaDZXX1pVbTdFQmNBMi1RVW9mSWtnQVBHblcxa0RuQlRBZ0xxRFFiZlRjNWFyeUZPc0x3aG9PbHB0cmVfOXM5V2IyZl93ZDc2VlVFa2p2eDZFT2wwU1hnTUVJLVJaZnlZUEdEc2R5MS1oNUp3TWdCalhxV2taTFdfbVFDc3A1SWc0ZGlvMTg?oc=5",
+   "date": "2026-11-17T12:22:23.000Z"
+  },
+  {
+   "topic": "Optical fibre",
+   "title": "Savanna Targets One Million New Fibre Connections in East Africa",
+   "source": "Nilepost",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS3ZVNDZyV2NsYUVsOG0zQ0hUYzNfQ09adkszN3dfV0VCZXZVWEstYWIwcUxqUmh2R05sM2FlTEJJT1V6QlAxNXhFQ3IzMmJzNHhTbk05ck01bnFOVGY2eEN5cEJwMlFDMXBMcnV4Q2hKNjR5azBGM0dXUWVxcjlsaWJGX3Nqd1IwT090Wm9odmdKUDk4YTlJTXo3VXRSM0l5V193dlFB0gGwAUFVX3lxTE5pU1BWSlhjMEpSTU9JVXlDTlpFOG5SWm41TVdscktnMzdUbjNXdjVVVGF5QTgxUnZxQjVGa1dEVGNyTTRIUEVPbmJscUxvYXJkYTd2M01iQlBWREdRX0o2VHE5MzVTV2RBV1dKREJ3d0pVZHVwOWxUb3dLT2JOeFNkT0hsbFpHMDF4RDh4NHJockxfbDliTXhfb3kzUWwwcklsb0UwOWJ2ODVYWWdiT21l?oc=5",
+   "date": "2026-11-17T12:15:18.000Z"
+  },
+  {
+   "topic": "Optical fibre",
+   "title": "Savanna Fibre to Double its Network as Subscribers Pass 250,000",
+   "source": "ChimpReports",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSk82V3FIWDZ1czFURHM1Rk5uSmNFSmZ3U0NKTDFpdXBaMzlxVGdZY2xtZzdBeWp6RUwyX21fa09mSm5jcGZWazR2NlljT3A5VFplYmFsS09OakRFdmNSYzRaVXMxUm5RYmNSRENVekh0YVNwb1NyblZZWE9oUzV1V250OWYxQmtLc1pveHp5b3p1UQ?oc=5",
+   "date": "2026-11-17T11:58:58.000Z"
   },
   {
    "topic": "Optical fibre",
@@ -107,27 +128,6 @@
    "date": "2026-11-17T09:47:00.000Z"
   },
   {
-   "topic": "Optical fibre",
-   "title": "Fibre optic cables have no resale value, Fahmi warns would-be thieves",
-   "source": "The Star",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQN0tocTRJaHNtTTNpMmh4VWo3Z1VMZTVySGxjMmotM3ltVHA5RUZVc0huWmtCenl4TmVveFhfaW9jdFNsU25mNUQwR2prX1hEeEpSb1pxSXlKamVmVTRjeVpXcEEyTUl6LXJPNjFXbVBBVFlnRzNRdm5BZ2Y4VVVpX1Nvc3c2MV9fMmx0QzAtQm9LdlR4T3ROQk41MkdiQmoySGhuek5OT1VldE1VNW1yZ1dDTWhzZkkyaXc?oc=5",
-   "date": "2026-11-17T05:09:00.000Z"
-  },
-  {
-   "topic": "Optical fibre",
-   "title": "Connecting the World: JURRY, a China Certified Telecom Conduit Extrusion Line Producer at Work",
-   "source": "openPR.com",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPd2QxcmVySE1aeUZ6aUQxQWU1dkw0cHFPYk10OE5pMkEzRU5Tem53ZEUtR2Z1Wk42WEo5RFp5ZFVNRmlqc1ZmMzdjTDJ3MnlCVTdHTlMwcDhNQ3VpMHZXZkw5STNPSEFRVGEweVVGODdrRkszNWMxYnNOZWt0b08zQTZrZllkcTY2cVdCRVFKeVJGemRVQnNRcHRoZ3g?oc=5",
-   "date": "2026-11-16T09:41:52.000Z"
-  },
-  {
-   "topic": "Optical fibre",
-   "title": "German government plans over EUR 2.7 bln spending on fibre, mobile networks in 2027",
-   "source": "Telecompaper",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSWt6ekk5TExDYmtra21YRkRiZkZ1b1pySEdJNFdnUGJqNFhXYVQtaW1TODlWYzZCZUtuVFJuZXA0dkN5Sk1zSEU5SUc3UmV2RHdjZjkwTjJOb2t3WGVGVUNYa0h6WnRiN0ZWb3FkMFBteHpkX1h1eEdGdkVzemVhc3ZKQkNlVWg4Zkh0S0pmSnByLXVHbGJaYlVkR2lxMzduS1NfMVpCa05zODhPN2FBbnp6bFdzSm9yQ1pTdXN5RDBGQQ?oc=5",
-   "date": "2026-11-16T09:32:49.000Z"
-  },
-  {
    "topic": "DWDM",
    "title": "Oasis Networks Selects PacketLight for Burstable Wavelength Services",
    "source": "Via Ritzau",
@@ -140,6 +140,13 @@
    "source": "TelecomLead",
    "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQM0Q4RzRkUEJ5NHpwX2dFNWhZSGQ4NVVBNXlmeVJCb3RiU0dYRmMzWkxKZ01fQkpaVzdvM3ViRWl6QXBnTGJnT0FjNTVadjdLQXA2SWlVYTdlbFptS2ctRTU2M0l6dzRRY3lhT2VxQ3BXdUlYSFRqWW1FYVY0b0I2d291OHZKc3ktNVZXUG9nZndjOG0yYVNOMHVycndlT000bE1ycTdRVE5TNllyWU9NNkU4ZXBHVndRUy02OXZxRDlONnprZEZIdG5tSUNDejF4NFUyMEZBRmhjTERyQUM3cDVKcFV6dTFNRV9aOHQ4WVBSd0JXQU1lQUVPRDlObk9vU1VPekVUcS3SAZACQVVfeXFMTTNPRHFIVk1fNkZCbTdVcEVyOUJTUVJVMWNPM3BnLWhPQlVBWV9JcFVDdkc5RUxVdUd2bHNEcEtFaG9KZlc0dTdNS2hFemhrbmlwRWo4UG5yMy02RFVMRUs2WFh2LWV0eFJQak1CbXFwVkNudEJRc0t2RUdxOWxnNnIzdTNOSUNTOXZlWTZNZFltaThOZUROVDRTc0Eya1RfZmswVEFaWk9nVGRmdG1FUk1zcFBZWTZDVjZaS1dHcmFEbHMyamhPa21QMmRKaWR5eXMwdDM5d0ktOHNqVDF1Z0ZOUEtrem5FMDhPQ2pJV2xpbzdubEJIZ1NoMDU4QUZOelhmb0NpRURxcmdtajdlX2o?oc=5",
    "date": "2026-11-08T13:10:37.000Z"
+  },
+  {
+   "topic": "Innovation",
+   "title": "India joins 24 countries in global initiative on 6G technology | Akashvani News",
+   "source": "News On AIR",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObjY4NnRCMUVMSXlxeDVpbmdWTC1kZktvakxQSkNpUDBpVEFlOG1PdVAwcmhmMzR1MjEwcDRpYTluaDczV1VvYWpvNm9DUE5YSV9YaXUxSDR4Wmg0WDYyUkZSX2pHRGlpSTNIaVhaUGRqaE5lblhYTHJxOW1ySWpjQl9ncERtd29NQ2tzNWFPVGs0dw?oc=5",
+   "date": "2026-11-17T10:10:38.000Z"
   },
   {
    "topic": "Innovation",
@@ -161,13 +168,6 @@
    "source": "Kalkine Media",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNclloSm9fODRJNUxBSGhwc1dEU194a1hFbFhLTDJLWXF1RUtoNTN3ZllZZlR4MUpzWkhBN0ljZmh5WnA0c085V181dVZCcExVcXRQbnBiYXVRTnptMDREYmVPME1HY296dHdqZkNZMElvQjlpTXhZbktfRThoZDhTcS0wVnlTZUtvOXJBb1FxLWk1My1rT2JLaGVvN01UbE5SYWQ3aFVJNUpGVjhzcHVGNXJIM2M1bEFBUk9RSWxoeXg0QQ?oc=5",
    "date": "2026-11-16T23:48:00.000Z"
-  },
-  {
-   "topic": "Innovation",
-   "title": "India joins 24 countries in global initiative on 6G technology | Akashvani News",
-   "source": "News On AIR",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObjY4NnRCMUVMSXlxeDVpbmdWTC1kZktvakxQSkNpUDBpVEFlOG1PdVAwcmhmMzR1MjEwcDRpYTluaDczV1VvYWpvNm9DUE5YSV9YaXUxSDR4Wmg0WDYyUkZSX2pHRGlpSTNIaVhaUGRqaE5lblhYTHJxOW1ySWpjQl9ncERtd29NQ2tzNWFPVGs0dw?oc=5",
-   "date": "2026-11-16T12:02:23.000Z"
   },
   {
    "topic": "Innovation",
@@ -206,10 +206,10 @@
   },
   {
    "topic": "Innovation",
-   "title": "Verizon CTO assesses 7GHz band for 6G after first call in the field",
-   "source": "Light Reading",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbTlEN2lMbmw2RG5xYjJydENCYjVMSzRTQzR2aWpJMTBvVTI0WUNPQmVpWE1od3JpZGJLRHVyNTloNGcwcXI4UHBzR3pwejB5azdTSG9RV1BxcHpIcUFZRU9MVlB1b3UyWVljM0NSbFQ5TkJfNlFHRkpTUm95SnF2Zjhuc2o3N1h6bU9rSE5FdTFObHFPLWRCNWl1TU84UHdD?oc=5",
-   "date": "2026-11-09T08:00:00.000Z"
+   "title": "Early results on using 7 GHz for 6G indoor coverage not 'encouraging', says Verizon CTO: Report",
+   "source": "Indiatimes",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUTlaVl8ySVFIcE1BYW96WmczelRidk5xcFJrNHdXOFBKVFowQTNIN3UyTlhTcWIzTUlYdUwwZzFmbl9Ob3JuS1VPMkx5ZUlmZ1dCNHJ6ZUFrdzdQeUJjUlFxRWdjTGg2Z2kwTWNtdExQR1AzTFBxQ2Y2VUlTdjNzV1FyNzhYQWpoTElERE9adUU2V1g0SFpQUi1vVW5ybk9EclVLVHMza2hzOFFCbXlXWlFzR2JDQXFoSFhTeC1VQ1c3YW16NllyNkRHQnlFQ2tPVVJCYXBwcmlTUnZSdFVOYllLZW1zOElnc1JYTGxPVDI1d9IB9wFBVV95cUxQemlaTi1QV2VDT1JfaVZRSEhxajB0QzVzcXhjWjBVNUNPTExYaG0tbnBZcTZld013WTczZ0d3RXVNbmZzaVlQVkExd09FR1Ezc3EtaF9rbVc3aFJvZ0F4a1dCRTd6amNPVHFVdmgxQlJpLW9OZ3FQNEdqSEhLM2xJXzREZXphSWdsUHBjYm05ZGR3UzF3WVZFN0ZOZkM5clNuaFNlekJJeFVqaERPd0RzajdTajRJZXRUaks5V1B2dzVsRFBVaXVxUXdSRWdrd0xaQjVRNkNzb2N0cy1ZYzJGaHdEUlRfdzFpN3ROVUtIRjZKU25uYTZF?oc=5",
+   "date": "2026-11-10T02:39:58.000Z"
   }
  ]
 }
