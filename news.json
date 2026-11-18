@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T05:51:11.345Z",
+ "updated": "2026-11-18T06:52:20.245Z",
  "items": [
   {
    "topic": "5G",
@@ -24,10 +24,10 @@
   },
   {
    "topic": "5G",
-   "title": "One NZ Completes First 5G Standalone Test Call in New Zealand",
-   "source": "The Fast Mode",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUUNobWhuYnZtU05QNlpEUlVvWW82S21EQUV4dTdBY3FwaHJya0JsUkNnaXdqZnhkVGNMbGUtUUd6TlI3Y0UwOXBmN3RoMXR6TXpCZ2VYc0x0SDFCcFI3MjE5Q3FubVhVdGVSRXZ0S1locWh6U01oS0ZVTWRWSUFUX0c5alV3UWRTVm1BVDAyY1FKVEQzWlhSMS1wT2t3ZUlES1UzR0x3ODFqdWI5RjBYblZFM2FBSlBwX1BMVA?oc=5",
-   "date": "2026-11-17T01:28:35.000Z"
+   "title": "Vodacom beats MTN and Telkom in 5G performance in South Africa’s tourism capital",
+   "source": "MyBroadband",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPT2dlcU1jRjVJcDNBcWZ5c2pPSGljcGdIel92akJwMXB6RGVoNzg3TExlMlhzRlBINU9GQUgwUGFiOFItS1hmVnRzT2ZuV0ltVC14ZXFwWjdaa0F5cHBtdTdkOW1sR2FGZWpnb25kQlFzdjNXWHI1Zm5JemhTX0dBU2RndGs3WTdaWE1JNW9DY1dkbmxJalZyVWpoWWRPVHgteWRobnlSX0l6RlR5NTNJYkdRR0RtMnNidmZCaFItZnY3Z3FvQ29lM0szcw?oc=5",
+   "date": "2026-11-16T12:00:15.000Z"
   },
   {
    "topic": "5G",
@@ -87,6 +87,20 @@
   },
   {
    "topic": "Optical fibre",
+   "title": "Telecom news: DNB, Ericsson, Tucows, Ting Fiber Networks, Clearwave, KGPCo, Transcelestial",
+   "source": "TelecomLead",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRC1jVVFSTy1lbG1FMy14Z1NZT0hXRTZCMXMyMWxvQzF6RmpTdVQ2UFJrTi01RGVWeVN2aFpWVnZyWWlMZWx1bzF5NEw2VV8tYXJSbnVVY1diSmdYWWloczNfRmN6SXJrTzFySG9VTUEtRktpazR2TF9oOEpJRlQwN3B1T2llQ19OU3RzZzdsSHhROV80LXVOU2REU0RXXzRjNVlUOVhMUXo0cUN0TVozSUJhODNkVGVjTDZz0gHDAUFVX3lxTE1OWnJ2THdVLVc0WXhyYTRsbktQWHlfQ3J6Q0JZMjBTSnZ6VG5FcVJteUhGeHRBM2xGc2JZN2F6S2lyNVgyYWRHckpocGNPV0xnNnNUbzNtQkFoREw2ZEFscTIya1hUVDBOazdqOXU4SnhOMUw5TFlPR2FKQ3FDcmY2REszV3FVeEt4MFptd1hmYUVGNXQzS3BtSVA2Yjg1cFl3YUctNVBIbnZmcXZFYVpsM1JfRW91WTQ1U2ZNSklHTWFNcw?oc=5",
+   "date": "2026-11-18T06:30:47.000Z"
+  },
+  {
+   "topic": "Optical fibre",
+   "title": "Telecom news: Amazon, Google, Meta, Microsoft, Cisco, Telkom Group, Herotel, AIS, Huawei",
+   "source": "TelecomLead",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYTdKV0s3aENxWXdwOGdoQUI5SXBpczViVmFRa2c3WVZOQTRMdTFQRFEyMFYtRzJiT0EyYjduSE1WUFVXaC1pU09ZaVlrYThGVlNlVzg2QVpGbW1OVk9YMjFVX2dnN0tObjJSZEltOFlZcUtTZkJicHRPOGMxM3JLY3BUdFlsNXF2a2VTaVhadmpHOEQyLU50bXFVUnFLYmdqZWt6Z2tnTFRqa192OHdOOHJFcUgzUdIBvgFBVV95cUxOYzhlREljdnVmTUZtRUdLTF9pQ08xc3JBa3cteUkxM2JnaFk4U2tFTDc0aWVnTWY2dDdhaDIxWHFiVEdMUUNHWWN1OWFueXg2NmlUb3YyWEN2WVFVaVlUZE83ZHVIN2JfWklaYy0yWktzaDRqc0U2XzJ6a0Z3amtDa2pEaE1ra2xGMDRNbGJYUDh5YWFpQ2pwYjRJazZfbzlfc1NhNTByX2xaV01LZXBxU0tkWE0xMW5fa25yQ2Z3?oc=5",
+   "date": "2026-11-18T06:10:47.000Z"
+  },
+  {
+   "topic": "Optical fibre",
    "title": "M&A tracker - Fiber network consolidation",
    "source": "Fierce Network",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qLUJnd3FxNm9oaFF3cTZ5Rl9HTXlMWnhfTHJUOEd6MkxYNXVreGJDYjNiWDJJVXdEdnV1dFNiNFVxSUhMVGMwa3h0VW1Wcm90QlRiOXljQ1hwZmhPY2ZzWS1WNEJFTWc?oc=5",
@@ -108,24 +122,10 @@
   },
   {
    "topic": "Optical fibre",
-   "title": "Cameroon’s Camtel Demands Higher Fiber Rental Rates, Citing CFA311 Billion in Lost Revenue",
-   "source": "Business in Cameroon",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOaUVtWUo0dENoN2ZfYVVIdnN4X2Q0Tm5uZzZMVGFFUk1oWWZZV0U1WUkwaktMVHpSc0M0VW52dVpXN2tUNUxtQlp4V0hyLWdQam5zVXdraUxFQkJuU2IydFA3a1ZiU1ZneVdWNHFhR0pEdWxXSFMwakdXOWtPcU5BM0FRZW9ERGh0VGtMTjc3Vm8tZ3pKS1U3TkVpcVFIQ2w5bDJRdGdkQklFLUpfd3A4TlBfcFJpV3lTVkY3UmdMMFE4eWEwUG04ZGtmTlltRGNPWEdJbzJ4aDAtMWNIYk04QmRLYzAzaGRV?oc=5",
-   "date": "2026-11-17T17:36:42.000Z"
-  },
-  {
-   "topic": "Optical fibre",
    "title": "Savanna Fibre Surpasses 250,000 Home Internet Subscribers, Targets 1 Million More Homes in 2027",
    "source": "PC Tech Magazine",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNb1YtWVBqWWNTdnRpN1dqX0F2emJKd3ZoX2gyRVdRaXFEbTUyOEh5dHFYdXlpUURfM1VHdUpZT2R2RmNZOWxCZVRCUktreVNJMk9lb1FreURITGtNdkJlRjZheVBXWnJueUkwbVdOdlVzX3FTc0VYUzhhMFpsbkhrOHhwV3FFcF85TkdiNWpGLUM?oc=5",
    "date": "2026-11-17T15:45:10.000Z"
-  },
-  {
-   "topic": "Optical fibre",
-   "title": "Savanna Fibre Plans to Double Network as Subscribers Surpass 250,000",
-   "source": "SoftPower News",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOalhOekNrSkM0RjNheUE4RmFJZTFla3RuZmg3WFhMZmYwaFlUd1BZWHhOeHRjYk9lblFvQmFuWDBqbHpqTkFnTVJod3ZqLTJlVExkdWlDVGpzRHd2cHh4NDhOWjU3U1RNSkhsUUV4bUZxc2lDZWpPdjdBenZ1WnpSUFYwN0lDNFZyZTVGVmFVVF9qRWc?oc=5",
-   "date": "2026-11-17T14:13:38.000Z"
   },
   {
    "topic": "DWDM",
