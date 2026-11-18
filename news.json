@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T04:47:52.184Z",
+ "updated": "2026-11-18T05:51:11.345Z",
  "items": [
   {
    "topic": "5G",
@@ -7,6 +7,13 @@
    "source": "TelcoNews Australia",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbGpJeU9rbW1udWdlaFVzZ0lqSHZkTU1TV1ZFV1JEMjdsUjE1NDNaaEZZNl82Y01zeUctM2JjSEZqTHVCbnhodm1iTjd5NUM1RDRBUC1KR3A5UXphVzAwQVlveE9UaXBrTzU0dDFxa3dybXRMWjdxOWREd2xvY1NaVmVVV3V1N1Fjd3A0?oc=5",
    "date": "2026-11-17T21:00:00.000Z"
+  },
+  {
+   "topic": "5G",
+   "title": "Simba director Richard Tan resigns after telco admits to unauthorised spectrum use, Singapore News",
+   "source": "AsiaOne.com",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcVBfUmtEQW52NnFHb0lXMkp3cDIyckZnOGJqeFFvemZGTGpubmhsSUhXbWhmZnB4YmpmZHRyUVBiZXZ1RFZTMnhoTHpFNWtVdmdvb250d3I1QmM4azBUT2lxVEdGZGQ0dzFIRHJ4WHlvaENOMy1GM3BVdURPcVA4dy1wdmdEdEJLRnJz?oc=5",
+   "date": "2026-11-17T02:01:00.000Z"
   },
   {
    "topic": "5G",
@@ -24,10 +31,10 @@
   },
   {
    "topic": "5G",
-   "title": "Vodacom beats MTN and Telkom in 5G performance in South Africa’s tourism capital",
-   "source": "MyBroadband",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPT2dlcU1jRjVJcDNBcWZ5c2pPSGljcGdIel92akJwMXB6RGVoNzg3TExlMlhzRlBINU9GQUgwUGFiOFItS1hmVnRzT2ZuV0ltVC14ZXFwWjdaa0F5cHBtdTdkOW1sR2FGZWpnb25kQlFzdjNXWHI1Zm5JemhTX0dBU2RndGs3WTdaWE1JNW9DY1dkbmxJalZyVWpoWWRPVHgteWRobnlSX0l6RlR5NTNJYkdRR0RtMnNidmZCaFItZnY3Z3FvQ29lM0szcw?oc=5",
-   "date": "2026-11-16T12:00:15.000Z"
+   "title": "Telstra integrates network-based number verification with IPification platform",
+   "source": "Telecompaper",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa2VhemtaQ0puWE5ZTW1pbHlHUzdMYmlnWWRjeTFHT0lLVDVqV3JnT2hYM083Y0xGYm5CWG5jTVhfeGttWEtOU2lCQmx0U3JQak5XSDNXa2Fsdm1PT2hoSGpmeFFXU0RfSHp6S1o0UHBZNlZLZ08tamRadGRKT2ZxSlpCOHhyT3ZVZklxa3JGUngwcjZXbEhESnhfRTByeHp0N2JUR1JZZE15WmVjYTJ4bjJreUZCaU5ZaFN0Q2Zn?oc=5",
+   "date": "2026-11-16T08:00:00.000Z"
   },
   {
    "topic": "5G",
@@ -35,13 +42,6 @@
    "source": "https://streamlinefeed.co.ke/",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMnd3T3pIVVdoVTBqMmZmS0pnWHpIaEN6NUlEUGFuenZfNWltN2Fxa2NMaWdNLWVlMy1oUjNmZHRfZnM0SGNyTWpkWTZaS2VyYlNVcl9BX0RtcDNjWGJrUzFzU0NjNUxDREJKQWticVBqcE4wYWJEMXdsY21OVGdzdVh6dVR2LVlpMk5OUmd4cXI0NG9DLWpQWXpVU21ZYW1hQ0xMOEk3aw?oc=5",
    "date": "2026-11-16T07:38:00.000Z"
-  },
-  {
-   "topic": "5G",
-   "title": "Optus, Vodafone users miss out as Telstra launches RCS",
-   "source": "Information Age | ACS",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPX2haZWFBVWt2WjFPZG5WV0s5QlpDN1N3YlNaRV9OcWZGY051Rmg5cVVuWGJuUUt0bGEyYUhoTVY5TW5JZzl3OVdJenhLVkFOdHpua1FINHhOUy1kbVZUMmYxdUI4X2tMbzEwbWVMdE5iZHZ5eHp2R3hRd0swNzVMei1IdDBGMWhmNnhOU2NpWjh6UFdLMmM2Y2Z3?oc=5",
-   "date": "2026-11-16T05:18:52.000Z"
   },
   {
    "topic": "4G",
@@ -165,8 +165,8 @@
   {
    "topic": "Innovation",
    "title": "China approves 8 provincial-level regions for 6G innovation pilot program",
-   "source": "China Daily Global Edition",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMjVlRlV5OWlOQVliRmprNlg4LTZrUTRuTXBHWVc1OGc1bzNJMFJaNGx1c2FRSWhmcUdHNFl1UFpxSkhNVVJWZ005TFUyQ01GekZpYzlsU1RZU3o3d0Q1NmtEaklGRU5mVWZPNzllWHRaN09KelVTU1Bab1pJZHRhc09B?oc=5",
+   "source": "China Daily",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1VSnZpZU5MMTYtRVA0TERHd2FrbGp6aURlQWlBTFBCb1NRVk1wWVVVeEs0Q3JTYU9TRFBudXZVZ0d6OGhWQ28zM01QbGdNTUUtS05xd2xPd2FibnVfSXhEWjBLMWNHbkY4OGotcDAxZmxuZWlkdnBKWXlJWnhuUQ?oc=5",
    "date": "2026-11-18T03:20:00.000Z"
   },
   {
