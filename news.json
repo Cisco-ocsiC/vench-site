@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T11:47:09.211Z",
+ "updated": "2026-11-18T12:50:04.846Z",
  "items": [
   {
    "topic": "5G",
@@ -45,6 +45,13 @@
   },
   {
    "topic": "4G",
+   "title": "Dutch mobile antenna sites dip slightly in October",
+   "source": "Telecompaper",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSHJhVXRLTUlFNE14SGF1VWtMb1Z2OFRQNjNIVFJYQjNtTmo5U1VKM0dINWJCYmpScFcwenU3alpsV2lGNFM1WTFUQ2JrbExMVms4a2pZNTVSQ1IwSWpPRGh4OF9QU0RVWF9vSmNycDlONi1jNGhjbzd2eUxHdUhRVmw5WUFXUEhrU2s1enA3bldHMlZBRTRrQQ?oc=5",
+   "date": "2026-11-18T11:59:27.000Z"
+  },
+  {
+   "topic": "4G",
    "title": "C Spire eyes 5G standalone, with VoNR trials set for 2027",
    "source": "Fierce Network",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNM193c1ZRVFZCUmlEQ2VtQkpTSHRBdHN0VGVXOUxyTl8yMWhJNVc3RnNRSkNpVm5nazlsTHptcnl3MTZiMFIzaWRTREdkakRHLTBCcHZvYy1Fd1NOMU0yNEJwSHJlOFEzSzVnOExXT0Z2bkE1OWk2NXZPNzBjTUlFMTdBcEF4bktJemF3dXVaa0s?oc=5",
@@ -77,13 +84,6 @@
    "source": "Nokiamob",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQN01nRU9vMEl0b01VMGYwcU84VDVMaS1VaGlQN1h2ODJBUUNLWlR3LVNoLTBya21EcFBkczJpamszSnp1SDI4SHdGMk5Yc0NycVhFdmdWRUhuUHc3MHg2d0tVZ2tRNXNjVlVWT09LaGI0cm9zb243eXF0ay11S3VJdU9ZVm54eUw2RmowdXFUajQ2T1lVVV9nbmtMbmlMek9NSlFsSHhR?oc=5",
    "date": "2026-11-16T10:44:12.000Z"
-  },
-  {
-   "topic": "4G",
-   "title": "SA’s 5G expansion fails to deliver faster networks",
-   "source": "ITWeb",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdzZiTTVzeWs5N3FPbGtPc2YzQ05ZYUt1ZXRNTmtwWHhMcmtZLTIzMkdrMkc4MkpxbWhRMS0tS2hQQ25MTEZMcEstUjladHBtR0F1b3czMWNxelh3clJtRHZTcFgwRk5wb1pGQUs0dWIzWXJ0bFktTy1rZWxzMThmNEl4UzhVWGFFMUlTRzMwLVZnUXlYbFd1ZU03XzEtbGM?oc=5",
-   "date": "2026-11-16T10:30:40.000Z"
   },
   {
    "topic": "Optical fibre",
@@ -199,17 +199,17 @@
   },
   {
    "topic": "Innovation",
-   "title": "Samsung positions India as a launchpad for AI-native 6G and connected living",
-   "source": "Wocult",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB4bWhma3dPREJNLWF4RDFjSkZlNVNwTkFKbkNmMmdFbzlnQlJ4ay1wYU02M3dUbE9mZnpDc0ZpTXVUYW1oRVYzWXIxaE4wX09WRVM3a0F4VWE3TTVQb3RGZXBMTndDS2plNS15R0drazcwNl9oa09SblktUQ?oc=5",
-   "date": "2026-11-17T08:24:01.000Z"
+   "title": "Telstra (ASX:TLS) Shares in Focus: Why Is the Dividend Record Drawing Attention?",
+   "source": "Kalkine Media",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNclloSm9fODRJNUxBSGhwc1dEU194a1hFbFhLTDJLWXF1RUtoNTN3ZllZZlR4MUpzWkhBN0ljZmh5WnA0c085V181dVZCcExVcXRQbnBiYXVRTnptMDREYmVPME1HY296dHdqZkNZMElvQjlpTXhZbktfRThoZDhTcS0wVnlTZUtvOXJBb1FxLWk1My1rT2JLaGVvN01UbE5SYWQ3aFVJNUpGVjhzcHVGNXJIM2M1bEFBUk9RSWxoeXg0QQ?oc=5",
+   "date": "2026-11-16T23:48:00.000Z"
   },
   {
    "topic": "Innovation",
-   "title": "Keysight Brings Multi-Unmanned Aerial Vehicle 6G Sensing into the Lab with Cohere Technologies",
-   "source": "The Mobile Network",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdzdza1JaOXppN1QwazNVbEU3ZTRWczBxd3BVTzBUWDBheWdMOU1WUlAwVDh5MlpScjlZVnhrNUpsSTBCMWtfTjU3Q3BMbWxkdEhkN3Q1TXpVZTdESmt2VC05U2tzakNQbmxIWndBOHg0ZXhlSl8tMlg5bXhfU0VweXRHV2hTRkdfQzB4YzUtcUlkNXR4emJaVDEwTEgyTE9xYmNrb2k2UTZHODNtNFl5VWw1SlFWTktjTTVock1LWUVMNEowM1d5OGhxV2Mza2c?oc=5",
-   "date": "2026-11-16T13:00:21.000Z"
+   "title": "GlobalFoundries posts record gross margin as optical networking takes center stage",
+   "source": "Crypto Briefing",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWlpGOW1ldmZYMjZFQXNPQldaeDlXVnNlNWF0bUU0bjJWem96Vl80T1R4MmtqUDFnMTVzM3ZZOUo4Z2dyMmpGWVZ3Yk92SzVjRWVHbEpvTUtMd1FuM284N1JQNU1YOXZKcnlzLUgwWjJ5NWxMN0hhaXhLZEtvRlFZUXFR?oc=5",
+   "date": "2026-11-14T02:19:57.000Z"
   }
  ]
 }
