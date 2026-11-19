@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T20:41:33.384Z",
+ "updated": "2026-11-19T21:38:24.533Z",
  "items": [
   {
    "topic": "5G",
@@ -17,17 +17,17 @@
   },
   {
    "topic": "5G",
-   "title": "Vision Network adds 14 wholesale interconnection points across Australia",
-   "source": "Telecompaper",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSVVFbllTUS0xZnFGMkQ0dEJkQUx6azRfU2F4VEs3Vnl2R1dsUnBJVndpTXZCU3RscTB5aUdwZUlnak1kMjlKUjRhRTF2VkptYkxQVU1jRkwxT0JBYk0zNnJneUV1d0xtLURlc256ekkxaDdycUhZUDhzM0NNRnN5M0Nib2hjQzBBSENydmhMR2hDT0lpS3VYdGxQbjJ3N2ZtX3RxUzNNYmtwWTVwNHVQSHU4c0QzQQ?oc=5",
-   "date": "2026-11-19T05:44:07.000Z"
-  },
-  {
-   "topic": "5G",
    "title": "5G Networks (ASX:5GN): FY26 Revenue, AUCyber and the Integration Review",
    "source": "Kalkine",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVDNRRkFQTExNSXJIbDAyUHo4aGRKaHFlMnlVUHllMmgyZUtRd3ZzblotTjlmVU1OSlRQVDhSckU4M3E5ZW1MNU4xSXdJcmNrMjNIYzV6TUllR2I4VTN5bWpSME5oRGlMMUppeXJUckJlcUgwcjdJR0E4RFdJbTBlN2xYZWxTWFl3YjVsQy1DdXBqM2tXWktTUWNzcF94SE53M19YWk00cW8?oc=5",
    "date": "2026-11-19T04:33:00.000Z"
+  },
+  {
+   "topic": "5G",
+   "title": "D-Link Smart Office Series Brings Multi-Gigabit Networking and Simpler Management to Australian Businesses",
+   "source": "Digital Reviews Network",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdlBYOE9jWTNmOEpUS09saDIyRE9qZzI3RnVIUzhSR3o4RnhDRmVIZ29mQy1uNEVXWTZEUEhfbURWMl9sb3pmYmw5TGxSZmdfcGU5LU5fNVpZVEdlZldleTN6cGdoRVlGMUNYdVNWR04xTld3R2s1MTRBSnhUSldfYTk1NVMzMXNUQ1E?oc=5",
+   "date": "2026-11-19T01:05:27.000Z"
   },
   {
    "topic": "5G",
@@ -108,10 +108,17 @@
   },
   {
    "topic": "Optical fibre",
-   "title": "Power Outages, Vandalism, Fibre Cuts Worsen Telecoms Quality – ALTON",
-   "source": "Independent Newspaper Nigeria",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSXBwX1hQa095VUZsWU10WjI2d19ja01uelBuTGtfV1BVQXNwdHNyOFp5TlRLTTAzYUJaM2JRbDZWRmxYNzBqWDNCUHdiaHNjdjl1SUdIWm9VcHpsemZja1ZLQktwc1dGX0tzMUZRNXBDNUVXbW50Zi1RenRSQTI1YUZ5VTg0ZWFyZTMzVTByaWJjQQ?oc=5",
-   "date": "2026-11-19T02:08:32.000Z"
+   "title": "Mila wholesale fibre lease price proposal goes to ESA for approval",
+   "source": "Telecompaper",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOHZKSnlSNmgzdEhzY3JweXA1WWd6X2ZKa291MkVqOGJEOGh2YklteDRscnNKcnN0bWhGX1daUWFvcjM1enRLenVEdVdpbnVaNUg5dl9ETWdmT0VNQ0FQYk40MklCRGZnOFFKMUxlOXZ6NHFueXJsMHU3aGZxbHo5c1lLREg0UFFKRFFfeFpCY05WUTAxZEZZODRqOV85dndSa25tWVFKVzlsSkxfWkE?oc=5",
+   "date": "2026-11-18T19:57:46.000Z"
+  },
+  {
+   "topic": "Optical fibre",
+   "title": "Cassava announces strategic partnership with Mauritius Telecom",
+   "source": "Developing Telecoms",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOLTBMSEN6RVpfNGw0ZFhNT3IwbTJBR2oxdm1ueXV6ZHRmWGlMZnVKcE5vRS1JMzhsTnBFYUFIalcxdUE1RnJ0Vy1GWl9GUjJneGtaNkc1WW5SZ2VVX2llcWRISTMyM2VoVVdUQjBNeE9kdXFMMkJEOTVzYlVZUWdXWnlnX2NlQ1lHbU9zM1VqZVozZk9nUXU1aU9GdDlJakstVG1MQXNzc2RLWmxkZmY1LUFHdEs4a2tLaUVEUnlRTC1uNllCeDZqSlA3dk8xUHkzM3RSUG5MbEpsODZPZlFHSEUwSQ?oc=5",
+   "date": "2026-11-18T18:31:15.000Z"
   },
   {
    "topic": "Optical fibre",
@@ -119,13 +126,6 @@
    "source": "Prop News Time",
    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQU1LYXpXV0Z2LThYdFFlVFpiT2syS0VIQWN3b3hGRFNFaXZvMmJPcHQ4aE13Z0dXd0lsWlhIbXBkdFVGbEhibmE3SG1EQlFHRXFWMkVUbWF6Z1VSZ2ZEczM4akk2SXBxQnB5cERYM3NoZ21WS0pmdjRMUm8xek9Wbi1Id055NUR2a1JxWnYtSEc2S1BQUFk4WER6TDd0TDJBVEtMN2dMQlpBRERKV0hNd1gyVlBLdl9fdlpTRGxTc1hmUGtKS3p1Znp0cDJqQTlQNzZXX3ZpTC15djEybzBJNQ?oc=5",
    "date": "2026-11-18T14:45:56.000Z"
-  },
-  {
-   "topic": "Optical fibre",
-   "title": "Liquidator offers RCI fibre network in Greater Poland region for sale",
-   "source": "Telecompaper",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbG5iQTFtUktBR3lYRW1CamdNQ2YwZkZudmNqdjFBamliTTlmRXNlQmRycmVwa20yeUltNncwclpDUjh5ck02eHN2WU9Oc1VGWkJFRThnelNWWHdkcy12a285MHVNS2N2X0tJbjIxYVpQd2l3aGJxRXpmSXlKR3pRQ1p0NzdQZXQ3T0ZkQm9hYmhCTUg1a2pzQXc2X3hRRzgxUkNDU1VGcjcwZTJkaUstVWpR?oc=5",
-   "date": "2026-11-18T13:16:51.000Z"
   },
   {
    "topic": "DWDM",
