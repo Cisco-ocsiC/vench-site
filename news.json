@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T02:03:38.410Z",
+ "updated": "2026-11-19T03:43:35.073Z",
  "items": [
   {
    "topic": "5G",
@@ -38,10 +38,10 @@
   },
   {
    "topic": "5G",
-   "title": "Best Black Friday mobile plan deals: 50% off, bonus data offers and gift cards",
-   "source": "Finder.com.au",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAxZC1na0NkT1N4YnZVcXhIVnBnYUdQQVl3eUc4VC03VnpwUkg3U2VoYmp4ckVBTVJ5ODA1TmJ1amVwSXRkdG9NdkNHSXp0QXFfQ3ktcDRuUi1VWDNTNkxzak02OGpJOHZMVnF5eGxMT214elR3?oc=5",
-   "date": "2026-11-18T04:30:00.000Z"
+   "title": "Optus & Nokia test 5G boost on live smartphone network",
+   "source": "TelcoNews Australia",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbGpJeU9rbW1udWdlaFVzZ0lqSHZkTU1TV1ZFV1JEMjdsUjE1NDNaaEZZNl82Y01zeUctM2JjSEZqTHVCbnhodm1iTjd5NUM1RDRBUC1KR3A5UXphVzAwQVlveE9UaXBrTzU0dDFxa3dybXRMWjdxOWREd2xvY1NaVmVVV3V1N1Fjd3A0?oc=5",
+   "date": "2026-11-17T21:00:00.000Z"
   },
   {
    "topic": "4G",
@@ -87,6 +87,13 @@
   },
   {
    "topic": "Optical fibre",
+   "title": "Power Outages, Vandalism, Fibre Cuts Worsen Telecoms Quality – ALTON",
+   "source": "Independent Newspaper Nigeria",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSXBwX1hQa095VUZsWU10WjI2d19ja01uelBuTGtfV1BVQXNwdHNyOFp5TlRLTTAzYUJaM2JRbDZWRmxYNzBqWDNCUHdiaHNjdjl1SUdIWm9VcHpsemZja1ZLQktwc1dGX0tzMUZRNXBDNUVXbW50Zi1RenRSQTI1YUZ5VTg0ZWFyZTMzVTByaWJjQQ?oc=5",
+   "date": "2026-11-19T02:08:32.000Z"
+  },
+  {
+   "topic": "Optical fibre",
    "title": "Ahmedabad plans smart upgrade of two lakh streetlight poles with 2,000-km optical fibre network",
    "source": "Prop News Time",
    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQU1LYXpXV0Z2LThYdFFlVFpiT2syS0VIQWN3b3hGRFNFaXZvMmJPcHQ4aE13Z0dXd0lsWlhIbXBkdFVGbEhibmE3SG1EQlFHRXFWMkVUbWF6Z1VSZ2ZEczM4akk2SXBxQnB5cERYM3NoZ21WS0pmdjRMUm8xek9Wbi1Id055NUR2a1JxWnYtSEc2S1BQUFk4WER6TDd0TDJBVEtMN2dMQlpBRERKV0hNd1gyVlBLdl9fdlpTRGxTc1hmUGtKS3p1Znp0cDJqQTlQNzZXX3ZpTC15djEybzBJNQ?oc=5",
@@ -119,13 +126,6 @@
    "source": "TelecomLead",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYTdKV0s3aENxWXdwOGdoQUI5SXBpczViVmFRa2c3WVZOQTRMdTFQRFEyMFYtRzJiT0EyYjduSE1WUFVXaC1pU09ZaVlrYThGVlNlVzg2QVpGbW1OVk9YMjFVX2dnN0tObjJSZEltOFlZcUtTZkJicHRPOGMxM3JLY3BUdFlsNXF2a2VTaVhadmpHOEQyLU50bXFVUnFLYmdqZWt6Z2tnTFRqa192OHdOOHJFcUgzUdIBvgFBVV95cUxOYzhlREljdnVmTUZtRUdLTF9pQ08xc3JBa3cteUkxM2JnaFk4U2tFTDc0aWVnTWY2dDdhaDIxWHFiVEdMUUNHWWN1OWFueXg2NmlUb3YyWEN2WVFVaVlUZE83ZHVIN2JfWklaYy0yWktzaDRqc0U2XzJ6a0Z3amtDa2pEaE1ra2xGMDRNbGJYUDh5YWFpQ2pwYjRJazZfbzlfc1NhNTByX2xaV01LZXBxU0tkWE0xMW5fa25yQ2Z3?oc=5",
    "date": "2026-11-18T06:10:47.000Z"
-  },
-  {
-   "topic": "Optical fibre",
-   "title": "Savanna Fibre sets 2027 target of one million more homes as subscribers hit 250,000",
-   "source": "The Independent Uganda",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN1ktampKMEpkLV83OXRISlI1bTNTYktUclROM1ZvRkpTX09IZGhKdHAwbERqZTJXUlN3bWtLMkpuTERkeTk3WFhSaHVidy1TbWlfRGhfVjhybUYyV2lrdkl5YkRQQUpVQ3NYWUU1NUlTVDNtTFFDSU5Cd1RqMkVrSzhLNHl2ZUdPclQtYkMyUlpucU1lN2VJT0FoMi1wUENjLTVkOVBwMUN5RlFwQ25Gc2Eybw?oc=5",
-   "date": "2026-11-17T19:26:32.000Z"
   },
   {
    "topic": "DWDM",
@@ -192,13 +192,6 @@
   },
   {
    "topic": "Innovation",
-   "title": "Viettel secures telecommunications licence to enter Dominican Republic market",
-   "source": "Vietnam Economic Times",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZDhvbTVOMk5ONmJXRkxhSGk3N2I3TDZOMlNFLW9laXBkLVlaUV9nRy11M0VkeEhRZDdhMU1aemxJd2tNWVBJTk8xaXRDNFRMdlRUeGszVnZGeUh5V0FyX2NRSGdTM1JIaWhvcmtJREl4c0dfRnBJNDhnWUtfNXZpZmg1dFpmQXdFVEMwVUk0ZThHNkZxRnREWURWcFAxcGUtNTdoemVYemc?oc=5",
-   "date": "2026-11-18T04:00:00.000Z"
-  },
-  {
-   "topic": "Innovation",
    "title": "Samsung Leaders Discuss AI, 6G and Human-Centred Innovation",
    "source": "Passionate In Marketing",
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYUpFdjFjQ3VYajVpUHlRSEpVNFZhTmRVUVJIdUpQZk9yTkpGR1NYVm9aQnAtSVMwcEVOQXJSTnZtbWJCV1pMMWxhSk9GbUdDaVQ5d2pVYlhFMm0xYkYtRGhrMnhkOExieTNmemI2aE9MN0UyMDhXSGFsdFVKSXpOd2FtVzZfVFJ4RmpoM241ZUQ0RHMxdUVNdjNOOHAzaUVORWRGYk1ZZUNqaG51VDNZZXIxX2ZXUVlsdlAwMmJESFFZQlhHYTdPVkctOFlMUkstRmc?oc=5",
@@ -217,6 +210,13 @@
    "source": "India Business Trade",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPT2tnSHJReHREYzdkTk0ySDNQN2szU2xabXJUZng2eFU1XzV1aTdSRjY5OFZOTnBrTlU5MVZuWkNKcHNOd2lYU2dKUlBRRzN4dElYUFZYdWtTaWczNWdCUHByaVpadU1Dal8yREttMUFXWUlvVTVHZnp0ZFJIYXRQWEl4Q3hDZ2c1N2JmVE5RS016a1IwZS1DVy13?oc=5",
    "date": "2026-11-17T16:39:27.000Z"
+  },
+  {
+   "topic": "Innovation",
+   "title": "MIIT approves 8 regions for 6G innovation, development pilot program",
+   "source": "Global Times",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBqVW5Scl94TXFkS0NQYkNNYW9YV21yNnRQbTBUalljTk8tT0RlcVZ3WW51aWJ6YTlKZEFYRndzZ0tsX0Zzb1FmOFFLZlVqX1gxWFZHT1U5NlA1Sm5KSHJ4X1dn?oc=5",
+   "date": "2026-11-17T15:26:00.000Z"
   }
  ]
 }
