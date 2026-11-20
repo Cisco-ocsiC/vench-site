@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T03:40:37.662Z",
+ "updated": "2026-11-20T04:46:57.867Z",
  "items": [
   {
    "topic": "5G",
@@ -52,27 +52,6 @@
   },
   {
    "topic": "4G",
-   "title": "NuRAN Wireless completes first two towers in Benin as Cameroon and Cote d'Ivoire 4G roll-outs exceed expectations",
-   "source": "Telecompaper",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNY3p2VDRHV2lLTHB5VXFERk5aSldycnpLMlFmM0xEeEtuY3VHTjRidFM0d096LThscUtPdWlCU2NZM0ZmTE50cjBqdzF2XzdmSVNUdUE4ZlVycnlmUWQ2d2dwbi1ieEZOZkE0dGtHWnJFbTVlak8xNVdGMzdHRS1vWXBvYkRzOHBuM1JkWUpEVU9femhGQS1yS3dwVy1TZ08tUWdSWnh0LWZnQm9obkRjcnhHWHdDOFZNM0JlemdBUVZHek5lM2MtMUw1bHUtblg0dmJxcjhXbm9BVEhGTkxwOEF5emhrc0Ftemdz?oc=5",
-   "date": "2026-11-19T08:31:34.000Z"
-  },
-  {
-   "topic": "4G",
-   "title": "Honduras, DomRep move with spectrum auctions, concessions",
-   "source": "BNamericas",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ1ZENW1Jc1ZqSTRjazRJbElYSllyVmtiaEFYY2FlaTBqclVOdmF1WTljdjZRcVc3Z1h5ZDg2UlNvc3c3NjhlWmpUVXgyVk9Vamt1VEl6V1BySkZmR1p5RHBucGVjemt6OG5RX0pFS0szUFlzd1ZVZi1lVWdtQUJVUWZWNVR5Q2N2TllGTndPd1lsREY1MWNiaWZR?oc=5",
-   "date": "2026-11-18T17:20:08.000Z"
-  },
-  {
-   "topic": "4G",
-   "title": "Portable WiFi Showdown: Why The Gap Between 10-Yuan Budget Models and 1000-Yuan Premium Devices Goes Far Beyond Network Speed",
-   "source": "36Kr",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqMVEyV3d1eVM1SEV6Q1d2YzJXalZkZVdaUFlVaGRycTMzQmh4WTVnLTNKTDNSRUcxemJHeHdnOXBjNE9NaEcyWXZoRlZkVmE5Y1lz?oc=5",
-   "date": "2026-11-18T16:12:51.000Z"
-  },
-  {
-   "topic": "4G",
    "title": "NuRAN Wireless Raises First Two Towers in Benin as 4G Rollout Beats Expectations in Cameroon and Ivory Coast",
    "source": "FinancialContent",
    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOMHdVV0NCMWpGMUZSRFlBdmhoek1UUW1XMG9RQW5QS1NwUER3ZS1fZGt2T3JxVGdlbXF0TkpUSmFHNTZGMTBGZk5LeHdEVDhFbVA1X0xORS1wY0UxQi1WOU5NZ0pWV0hNVklpOVlxRDNPekh1NlppQ2s4WUczV0MwNENyWVl5ZnpQVktZdEt5ckNQNjllcjNqS3MxNS1nbWpsaHNfSmxNamlMX21ROXQtbi1icHp0VVNBb3g5ODVhVDV3RzJHZURWM1M0NG90eWJFLUgzRlN3dnVZU1BaX0Z5U05xVFdlQm5XUHNISWZhR1loV3lmVXl1X19NUlBRVm8?oc=5",
@@ -80,10 +59,31 @@
   },
   {
    "topic": "4G",
-   "title": "AMN launches multi-band, multi-technology radio nodes to boost low-cost rural network roll-outs",
+   "title": "C Spire eyes 5G standalone, with VoNR trials set for 2027",
+   "source": "Fierce Network",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNM193c1ZRVFZCUmlEQ2VtQkpTSHRBdHN0VGVXOUxyTl8yMWhJNVc3RnNRSkNpVm5nazlsTHptcnl3MTZiMFIzaWRTREdkakRHLTBCcHZvYy1Fd1NOMU0yNEJwSHJlOFEzSzVnOExXT0Z2bkE1OWk2NXZPNzBjTUlFMTdBcEF4bktJemF3dXVaa0s?oc=5",
+   "date": "2026-11-17T19:15:35.000Z"
+  },
+  {
+   "topic": "4G",
+   "title": "Simulated Reinforcement Learning Model Improves 4G LTE Handover Success and Reliability",
+   "source": "Bioengineer.org",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORE9ET0g3TWRVTmU4SDdfckdFcmRsaUc1U0lKNlV4NEh2Tjc4SnVSY0stTk41YTRuNy1SQk13YUR3QlNQXzFqNnVnV3NlT2JSTVFfMjNBVWRJXzMzNDROTTBMNFVNRlhnZmdqMjlXTzRZRlhmOWFwZHpxRmdHRF91eWNtZUl4LU9xR0VoVFNzNXFYaTdOQkNGNVZhNmJwN0d0SE9fai1WbXNQeXRraU9Za3J3?oc=5",
+   "date": "2026-11-17T00:07:13.000Z"
+  },
+  {
+   "topic": "4G",
+   "title": "How Telecom Operators Can Improve Indoor 4G and 5G Coverage: 10 Strategies to Enhance Customer Experience",
+   "source": "TelecomLead",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPalBQSHI4QldYWlFBdTh6WHNSNHhpa1pWaW1JWVI1eF9WUzVSMHo5ME5jS0lOYUZSckotb3QtcmpDeE9sT1g3OTd2UWlnVDJZeGFGV2V3V1lZYVh3RmFvc1QxZlpOMm0zdE9sV2Y3TDhwZUtKX0VfS3Jyd0dBRWZ0NHQ3blU2azd0YlE1ZmlTTFZ1M2xLd1JIQk05VEpfRGVBUEdreUtNa05aUHRGcnJ5Z2h0N0hkcmluTDJMa3NRQV96Mlg4dlhBdnRHYnNlVWcwRjkwQ1dzZTd4UdIB4gFBVV95cUxQd0w1Nm8tVjRLSENjS1FJdVpGOFBzbWtmdEhlVmpvU3NxWk40ZkJEU1NOQnZfb0N6bFJGZXcybEx4UWxrRDFFUXRJbDVGak5LamxSTG5QSUZzZW4zQlB6Y2xGZ1NfMmtmS2dPMWVCMG9qdUVmYnRrQU5lUWpMb0JjNXpzNGNyNG9GbXF1dlV0ZU94RlFyRG1OUlM1OFpZRDVsSVRjdHJjZnBPVzZ0SlFXNVBMR3Y3Ymk5QVJMSkRQeFp5TzZZV3VmN2NwMzR5VERoUi1zMEl6U0ZiVDFfaU9wYlN3?oc=5",
+   "date": "2026-11-16T17:55:41.000Z"
+  },
+  {
+   "topic": "4G",
+   "title": "Ookla study shows large indoor mobile coverage divide in global cities",
    "source": "Telecompaper",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVjFWS2RraFpUQUpTNS0wRktfa1BhRUpJLTlxS2Yyc1FTdl9jUmoxQmFhUUo4VzB5VkRNbHJ6d1VTNkhPWFNwYzNwSTlYbXBOLXpqQTF1ampLRzVEb3JxZjRPdGttLWFGRHZWV1BhbUtjSWV5dVFnMWpqS01ncVpQcW45X1d4eDI1emZXTzVtOGx2VU11Y1BZcllySlJta0xjREZnbkJMUm54OXBHX1ZmM0tldDFRWlVybldwcDlKREg0V19NdDZxMUxTMm1DSWhqZXlJ?oc=5",
-   "date": "2026-11-18T11:29:58.000Z"
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTmRDbjIyb05RSDFtb28yVExTYjNJd2FLZ0VfSng0TW5PdFd4R1ctcTQ2aE1XSFBacXE4bFdIaTF1eV90OTRMejBxUDFhVV93VTJfYWJ5NFR5clZocGZtUEIwbGhIaFBqY3BnNDhCWlFDMk5KNF9qS0pZZktpZFM3dmR3blJqN2lFc3RCTml0bmRTbFoyWmdSTVMyWldtZjhRTFl4WXc5Rk03MEVjU3N0UVFvZw?oc=5",
+   "date": "2026-11-16T12:36:50.000Z"
   },
   {
    "topic": "Optical fibre",
@@ -115,17 +115,17 @@
   },
   {
    "topic": "Optical fibre",
+   "title": "Savanna, FiberHome expand fibre network across East Africa",
+   "source": "thecitizen.co.tz",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTWcyYm8zTU84MUFGNHdxRXJjU0NyYWNLbjdTWFB6OWtRMDc5WDEtZlhMNnRWQUwxQkNaMXNtbnVfRkdxNjR4aUFLVVU0VXRPWDNxZ09KRVFoNm01X1c1UHk0NEJiZXEzUDQ1UTBJcFlDR2JDSndzMGptN3MwS2ZVNTVUYlkyZTNYQ3ZUcHFYZkxYSU95SWszb18tcF9oaU44cERzYTdiZ3NRbFVRLUxrZ1lmSTA5Vm9I?oc=5",
+   "date": "2026-11-19T03:00:00.000Z"
+  },
+  {
+   "topic": "Optical fibre",
    "title": "Mila wholesale fibre lease price proposal goes to ESA for approval",
    "source": "Telecompaper",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOHZKSnlSNmgzdEhzY3JweXA1WWd6X2ZKa291MkVqOGJEOGh2YklteDRscnNKcnN0bWhGX1daUWFvcjM1enRLenVEdVdpbnVaNUg5dl9ETWdmT0VNQ0FQYk40MklCRGZnOFFKMUxlOXZ6NHFueXJsMHU3aGZxbHo5c1lLREg0UFFKRFFfeFpCY05WUTAxZEZZODRqOV85dndSa25tWVFKVzlsSkxfWkE?oc=5",
    "date": "2026-11-18T19:57:46.000Z"
-  },
-  {
-   "topic": "Optical fibre",
-   "title": "Ahmedabad plans smart upgrade of two lakh streetlight poles with 2,000-km optical fibre network",
-   "source": "Prop News Time",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQU1LYXpXV0Z2LThYdFFlVFpiT2syS0VIQWN3b3hGRFNFaXZvMmJPcHQ4aE13Z0dXd0lsWlhIbXBkdFVGbEhibmE3SG1EQlFHRXFWMkVUbWF6Z1VSZ2ZEczM4akk2SXBxQnB5cERYM3NoZ21WS0pmdjRMUm8xek9Wbi1Id055NUR2a1JxWnYtSEc2S1BQUFk4WER6TDd0TDJBVEtMN2dMQlpBRERKV0hNd1gyVlBLdl9fdlpTRGxTc1hmUGtKS3p1Znp0cDJqQTlQNzZXX3ZpTC15djEybzBJNQ?oc=5",
-   "date": "2026-11-18T14:45:56.000Z"
   },
   {
    "topic": "DWDM",
