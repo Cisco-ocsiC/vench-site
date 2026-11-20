@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T23:32:05.602Z",
+ "updated": "2026-11-20T00:35:44.457Z",
  "items": [
   {
    "topic": "5G",
@@ -24,13 +24,6 @@
   },
   {
    "topic": "5G",
-   "title": "D-Link Smart Office Series Brings Multi-Gigabit Networking and Simpler Management to Australian Businesses",
-   "source": "Digital Reviews Network",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdlBYOE9jWTNmOEpUS09saDIyRE9qZzI3RnVIUzhSR3o4RnhDRmVIZ29mQy1uNEVXWTZEUEhfbURWMl9sb3pmYmw5TGxSZmdfcGU5LU5fNVpZVEdlZldleTN6cGdoRVlGMUNYdVNWR04xTld3R2s1MTRBSnhUSldfYTk1NVMzMXNUQ1E?oc=5",
-   "date": "2026-11-19T01:05:27.000Z"
-  },
-  {
-   "topic": "5G",
    "title": "GTA 6 Launches in Australia After PlayStation Network Disruption",
    "source": "ChannelNews.com.au",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUVBHM1lfc1ZIXzBPM3RmRW56dFRub2NsZ2Y2Sy0zeHNwazNheUdWSXl6T0QwdmFxMVBpN1RTQ0RobUNkMUVOc0tCQnFJUjJ1elRPSUFBdFhZQ3JhTDVuT2pRUUR1WGtpc0kxYVJWTTVQMzJtbmxtNlhyVl9nY0hHdVMwOHBBU0tTbkRZNjlMQ0hHMFFXMGJxWVJ0RmU?oc=5",
@@ -42,6 +35,13 @@
    "source": "Telecompaper",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPampZbjlMelhMeThEZzM5VjQ3dkxYcDU3TDNjOVc5NlFhYjJ0bG5YZTEwb1pGVHJpb0ZXbmFSVVRtcDBMcnk5bnRFUDlHNVRpcG5tTFhsQ3VfWU9RTVRQQXNOZXZvZ1hZUGFVTG1DTlFVLW1nb0cycmhzNTlWVXFGajMzQjhuVEpUcnI0M1RSV1dtZ3ZxdzZnZDBiT2xkV0NoMlhJUDlWdzVrUnM?oc=5",
    "date": "2026-11-18T05:28:11.000Z"
+  },
+  {
+   "topic": "5G",
+   "title": "Optus & Nokia test 5G boost on live smartphone network",
+   "source": "TelcoNews Australia",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbGpJeU9rbW1udWdlaFVzZ0lqSHZkTU1TV1ZFV1JEMjdsUjE1NDNaaEZZNl82Y01zeUctM2JjSEZqTHVCbnhodm1iTjd5NUM1RDRBUC1KR3A5UXphVzAwQVlveE9UaXBrTzU0dDFxa3dybXRMWjdxOWREd2xvY1NaVmVVV3V1N1Fjd3A0?oc=5",
+   "date": "2026-11-17T21:00:00.000Z"
   },
   {
    "topic": "4G",
@@ -115,17 +115,17 @@
   },
   {
    "topic": "Optical fibre",
+   "title": "Cassava announces strategic partnership with Mauritius Telecom",
+   "source": "Developing Telecoms",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOLTBMSEN6RVpfNGw0ZFhNT3IwbTJBR2oxdm1ueXV6ZHRmWGlMZnVKcE5vRS1JMzhsTnBFYUFIalcxdUE1RnJ0Vy1GWl9GUjJneGtaNkc1WW5SZ2VVX2llcWRISTMyM2VoVVdUQjBNeE9kdXFMMkJEOTVzYlVZUWdXWnlnX2NlQ1lHbU9zM1VqZVozZk9nUXU1aU9GdDlJakstVG1MQXNzc2RLWmxkZmY1LUFHdEs4a2tLaUVEUnlRTC1uNllCeDZqSlA3dk8xUHkzM3RSUG5MbEpsODZPZlFHSEUwSQ?oc=5",
+   "date": "2026-11-18T18:31:15.000Z"
+  },
+  {
+   "topic": "Optical fibre",
    "title": "Ahmedabad plans smart upgrade of two lakh streetlight poles with 2,000-km optical fibre network",
    "source": "Prop News Time",
    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQU1LYXpXV0Z2LThYdFFlVFpiT2syS0VIQWN3b3hGRFNFaXZvMmJPcHQ4aE13Z0dXd0lsWlhIbXBkdFVGbEhibmE3SG1EQlFHRXFWMkVUbWF6Z1VSZ2ZEczM4akk2SXBxQnB5cERYM3NoZ21WS0pmdjRMUm8xek9Wbi1Id055NUR2a1JxWnYtSEc2S1BQUFk4WER6TDd0TDJBVEtMN2dMQlpBRERKV0hNd1gyVlBLdl9fdlpTRGxTc1hmUGtKS3p1Znp0cDJqQTlQNzZXX3ZpTC15djEybzBJNQ?oc=5",
    "date": "2026-11-18T14:45:56.000Z"
-  },
-  {
-   "topic": "Optical fibre",
-   "title": "Why preventative design is key for network resilience",
-   "source": "Silicon Republic",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTm9QSk4zeWNIcHpuZFc0OXFIVnhfNmxIWF94VWVrVWhXaG9vY0ZvNTNid3Zvc1ZkendfaTJFbHdzTmZicW15d0JRMWdHWVBjdkg3X21jcEdRMHZVY1Bjd3luSXFUQlRqYVpDV1NJdUpsR3MyUFhmYkE3UnhrX2RDNE9aT3ZxRXFPMzU1UHdNSmhEZDU3Y2c?oc=5",
-   "date": "2026-11-18T14:27:09.000Z"
   },
   {
    "topic": "DWDM",
@@ -144,8 +144,8 @@
   {
    "topic": "DWDM",
    "title": "Oasis Networks Selects PacketLight for Burstable Wavelength Services",
-   "source": "Via Ritzau",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdHFwSG9QbS1OSUItT1BZU1liSXRIaUdrYjh3UWowVmx4V0x6SG5NOThHWFkyTEFCR0VpUi1EeTlnYXo4Rzg3UGRKUTdEa3ZITTdkWkozeHdySUJnOWNraUNwQjZieGZKWmZLR1hwOGtiWDJteXI1STVJSmlFRDEyY2JFRkdKQ0Y0U1BwWUN4LVVkeG0tZ2NZV2lydWhLekxWNnFYVzY4dHFGc2JTZXF4YVNwR2tDa0dyb1NtQXUySHZ4ZTF2dmUyX09HamxRMmpyamM1ZGxCSTZodw?oc=5",
+   "source": "Via TT",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZkt6ejhxOXA1VnRuazJtX19tY1R5QndfNnF1Ni1qOHhKaHpPS3o0Vmw3WmZNR0JGdFhwWENEcXVMd0VZMW9VS3FFUXhGdnRORDFqbkp6MmJjcmd1RFktRkV0LTVVNmMyREN6TjljSkVhc1g3ZHpJdzFGSTJwZ0hRZmVaTkRBNUF5azRaYjg1aUlFT1FwMjVBYTB0VFFHRFB3bGwzWFZIc1NUWXloZjVJY3luUThGeDlkMVExUFlVU3JTdFpFUko2TlRoUHRxZlplWXc4?oc=5",
    "date": "2026-11-17T08:35:00.000Z"
   },
   {
@@ -154,6 +154,13 @@
    "source": "TelecomLead",
    "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQM0Q4RzRkUEJ5NHpwX2dFNWhZSGQ4NVVBNXlmeVJCb3RiU0dYRmMzWkxKZ01fQkpaVzdvM3ViRWl6QXBnTGJnT0FjNTVadjdLQXA2SWlVYTdlbFptS2ctRTU2M0l6dzRRY3lhT2VxQ3BXdUlYSFRqWW1FYVY0b0I2d291OHZKc3ktNVZXUG9nZndjOG0yYVNOMHVycndlT000bE1ycTdRVE5TNllyWU9NNkU4ZXBHVndRUy02OXZxRDlONnprZEZIdG5tSUNDejF4NFUyMEZBRmhjTERyQUM3cDVKcFV6dTFNRV9aOHQ4WVBSd0JXQU1lQUVPRDlObk9vU1VPekVUcS3SAZACQVVfeXFMTTNPRHFIVk1fNkZCbTdVcEVyOUJTUVJVMWNPM3BnLWhPQlVBWV9JcFVDdkc5RUxVdUd2bHNEcEtFaG9KZlc0dTdNS2hFemhrbmlwRWo4UG5yMy02RFVMRUs2WFh2LWV0eFJQak1CbXFwVkNudEJRc0t2RUdxOWxnNnIzdTNOSUNTOXZlWTZNZFltaThOZUROVDRTc0Eya1RfZmswVEFaWk9nVGRmdG1FUk1zcFBZWTZDVjZaS1dHcmFEbHMyamhPa21QMmRKaWR5eXMwdDM5d0ktOHNqVDF1Z0ZOUEtrem5FMDhPQ2pJV2xpbzdubEJIZ1NoMDU4QUZOelhmb0NpRURxcmdtajdlX2o?oc=5",
    "date": "2026-11-08T08:00:00.000Z"
+  },
+  {
+   "topic": "Innovation",
+   "title": "India joins 24 countries in global initiative on 6G technology | Akashvani News",
+   "source": "News On AIR",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObjY4NnRCMUVMSXlxeDVpbmdWTC1kZktvakxQSkNpUDBpVEFlOG1PdVAwcmhmMzR1MjEwcDRpYTluaDczV1VvYWpvNm9DUE5YSV9YaXUxSDR4Wmg0WDYyUkZSX2pHRGlpSTNIaVhaUGRqaE5lblhYTHJxOW1ySWpjQl9ncERtd29NQ2tzNWFPVGs0dw?oc=5",
+   "date": "2026-11-19T23:06:21.000Z"
   },
   {
    "topic": "Innovation",
@@ -203,13 +210,6 @@
    "source": "PrimaMedia.ru",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE44bDFWSDVBdHJOXzkyXzA0dzZDVFFScDBqZWVNcjAyQy0zd2JDWWZkdE84OFZ2eHNPRy00SExrZm10dndRa2paRko1SQ?oc=5",
    "date": "2026-11-18T04:02:00.000Z"
-  },
-  {
-   "topic": "Innovation",
-   "title": "Viettel secures telecommunications licence to enter Dominican Republic market",
-   "source": "Vietnam Economic Times",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZDhvbTVOMk5ONmJXRkxhSGk3N2I3TDZOMlNFLW9laXBkLVlaUV9nRy11M0VkeEhRZDdhMU1aemxJd2tNWVBJTk8xaXRDNFRMdlRUeGszVnZGeUh5V0FyX2NRSGdTM1JIaWhvcmtJREl4c0dfRnBJNDhnWUtfNXZpZmg1dFpmQXdFVEMwVUk0ZThHNkZxRnREWURWcFAxcGUtNTdoemVYemc?oc=5",
-   "date": "2026-11-18T04:00:00.000Z"
   },
   {
    "topic": "Innovation",
