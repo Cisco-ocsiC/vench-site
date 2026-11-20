@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T09:46:47.291Z",
+ "updated": "2026-11-20T10:48:52.617Z",
  "items": [
   {
    "topic": "5G",
@@ -52,20 +52,6 @@
   },
   {
    "topic": "4G",
-   "title": "Ahmedabad plans smart upgrade of two lakh streetlight poles with 2,000-km optical fibre network",
-   "source": "Prop News Time",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQU1LYXpXV0Z2LThYdFFlVFpiT2syS0VIQWN3b3hGRFNFaXZvMmJPcHQ4aE13Z0dXd0lsWlhIbXBkdFVGbEhibmE3SG1EQlFHRXFWMkVUbWF6Z1VSZ2ZEczM4akk2SXBxQnB5cERYM3NoZ21WS0pmdjRMUm8xek9Wbi1Id055NUR2a1JxWnYtSEc2S1BQUFk4WER6TDd0TDJBVEtMN2dMQlpBRERKV0hNd1gyVlBLdl9fdlpTRGxTc1hmUGtKS3p1Znp0cDJqQTlQNzZXX3ZpTC15djEybzBJNQ?oc=5",
-   "date": "2026-11-18T14:45:56.000Z"
-  },
-  {
-   "topic": "4G",
-   "title": "NuRAN Wireless Raises First Two Towers in Benin as 4G Rollout Beats Expectations in Cameroon and Ivory Coast",
-   "source": "FinancialContent",
-   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOMHdVV0NCMWpGMUZSRFlBdmhoek1UUW1XMG9RQW5QS1NwUER3ZS1fZGt2T3JxVGdlbXF0TkpUSmFHNTZGMTBGZk5LeHdEVDhFbVA1X0xORS1wY0UxQi1WOU5NZ0pWV0hNVklpOVlxRDNPekh1NlppQ2s4WUczV0MwNENyWVl5ZnpQVktZdEt5ckNQNjllcjNqS3MxNS1nbWpsaHNfSmxNamlMX21ROXQtbi1icHp0VVNBb3g5ODVhVDV3RzJHZURWM1M0NG90eWJFLUgzRlN3dnVZU1BaX0Z5U05xVFdlQm5XUHNISWZhR1loV3lmVXl1X19NUlBRVm8?oc=5",
-   "date": "2026-11-18T12:30:00.000Z"
-  },
-  {
-   "topic": "4G",
    "title": "C Spire eyes 5G standalone, with VoNR trials set for 2027",
    "source": "Fierce Network",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNM193c1ZRVFZCUmlEQ2VtQkpTSHRBdHN0VGVXOUxyTl8yMWhJNVc3RnNRSkNpVm5nazlsTHptcnl3MTZiMFIzaWRTREdkakRHLTBCcHZvYy1Fd1NOMU0yNEJwSHJlOFEzSzVnOExXT0Z2bkE1OWk2NXZPNzBjTUlFMTdBcEF4bktJemF3dXVaa0s?oc=5",
@@ -86,10 +72,24 @@
    "date": "2026-11-16T20:56:12.000Z"
   },
   {
+   "topic": "4G",
+   "title": "How Telecom Operators Can Improve Indoor 4G and 5G Coverage: 10 Strategies to Enhance Customer Experience",
+   "source": "TelecomLead",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPalBQSHI4QldYWlFBdTh6WHNSNHhpa1pWaW1JWVI1eF9WUzVSMHo5ME5jS0lOYUZSckotb3QtcmpDeE9sT1g3OTd2UWlnVDJZeGFGV2V3V1lZYVh3RmFvc1QxZlpOMm0zdE9sV2Y3TDhwZUtKX0VfS3Jyd0dBRWZ0NHQ3blU2azd0YlE1ZmlTTFZ1M2xLd1JIQk05VEpfRGVBUEdreUtNa05aUHRGcnJ5Z2h0N0hkcmluTDJMa3NRQV96Mlg4dlhBdnRHYnNlVWcwRjkwQ1dzZTd4UdIB4gFBVV95cUxQd0w1Nm8tVjRLSENjS1FJdVpGOFBzbWtmdEhlVmpvU3NxWk40ZkJEU1NOQnZfb0N6bFJGZXcybEx4UWxrRDFFUXRJbDVGak5LamxSTG5QSUZzZW4zQlB6Y2xGZ1NfMmtmS2dPMWVCMG9qdUVmYnRrQU5lUWpMb0JjNXpzNGNyNG9GbXF1dlV0ZU94RlFyRG1OUlM1OFpZRDVsSVRjdHJjZnBPVzZ0SlFXNVBMR3Y3Ymk5QVJMSkRQeFp5TzZZV3VmN2NwMzR5VERoUi1zMEl6U0ZiVDFfaU9wYlN3?oc=5",
+   "date": "2026-11-16T17:55:41.000Z"
+  },
+  {
+   "topic": "4G",
+   "title": "Ookla study shows large indoor mobile coverage divide in global cities",
+   "source": "Telecompaper",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTmRDbjIyb05RSDFtb28yVExTYjNJd2FLZ0VfSng0TW5PdFd4R1ctcTQ2aE1XSFBacXE4bFdIaTF1eV90OTRMejBxUDFhVV93VTJfYWJ5NFR5clZocGZtUEIwbGhIaFBqY3BnNDhCWlFDMk5KNF9qS0pZZktpZFM3dmR3blJqN2lFc3RCTml0bmRTbFoyWmdSTVMyWldtZjhRTFl4WXc5Rk03MEVjU3N0UVFvZw?oc=5",
+   "date": "2026-11-16T12:36:50.000Z"
+  },
+  {
    "topic": "Optical fibre",
    "title": "BharatNet to move beyond BSNL-led model as govt seeks private ISP, telco participation",
    "source": "Moneycontrol.com",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcC0tYjdLcVR2QjlSQWtxR3kzOE1hem9seURmOV9pdW04dExqaTlKNENod0U4WGhKU0QtOEh2dklvOEtHejk2RTdsd1RReS0yd3lmRjhBM2xOWUZOY1NCWVk3YkZzZHJmQmEwZ0VCMklzeWlUclB3azBqb1R5emxPUWJJSEhzbElTcEFUX3czUm1KQVduaU9yMnhZdUJrc2preHBJVXRIbGJ0bkx3NzBDTGJVc1UzUHk1MTZHQVNZRjg1c1I2VUdybTRjRWM3UG5XNktNT1RGRkNkUdIB3wFBVV95cUxQMTRUM0d4MmczOEFueUZNX0FjdkRsWVJ6bVNLQjVuSzVERlhkMHNVdUloQmhINlkyU1FGaURsa2xXT2FhR1hvQ1VzNjJ4S3JzMlFBNXlGUldBYm82eHFZOTFUVUtxaVhUWHlwNGtWbTcycFpXbzVYamFMcEh3WWt5cXZpRjZiWmhBbW40clJUeWx3V2tVb3ZUaU9VbjVBUi1MNTdrVkh4UEpwZDFLRGRYa01jeWV4Z3ZTTmVaYWw2QXNNNm9BdkRaWU5leGZYTTJOaDB3ODlVd3hhNUQ0WDd3?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMTRUM0d4MmczOEFueUZNX0FjdkRsWVJ6bVNLQjVuSzVERlhkMHNVdUloQmhINlkyU1FGaURsa2xXT2FhR1hvQ1VzNjJ4S3JzMlFBNXlGUldBYm82eHFZOTFUVUtxaVhUWHlwNGtWbTcycFpXbzVYamFMcEh3WWt5cXZpRjZiWmhBbW40clJUeWx3V2tVb3ZUaU9VbjVBUi1MNTdrVkh4UEpwZDFLRGRYa01jeWV4Z3ZTTmVaYWw2QXNNNm9BdkRaWU5leGZYTTJOaDB3ODlVd3hhNUQ0WDd30gHfAUFVX3lxTFAxNFQzR3gyZzM4QW55Rk1fQWN2RGxZUnptU0tCNW5LNURGWGQwc1V1SWhCaEg2WTJTUUZpRGxrbFdPYWFHWG9DVXM2MnhLcnMyUUE1eUZSV0FibzZ4cVk5MVRVS3FpWFRYeXA0a1ZtNzJwWldvNVhqYUxwSHdZa3lxdmlGNmJaaEFtbjRyUlR5bHdXa1VvdlRpT1VuNUFSLUw1N2tWSHhQSnBkMUtEZFhrTWN5ZXhndlNOZVphbDZBc002b0F2RFpZTmV4ZlhNMk5oMHc4OVV3eGE1RDRYN3c?oc=5",
    "date": "2026-11-20T08:20:56.000Z"
   },
   {
@@ -115,17 +115,17 @@
   },
   {
    "topic": "Optical fibre",
-   "title": "Telecom Equipment Stocks in India 2026",
-   "source": "HDFC Sky",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBqUi0tclBHRndYWS13T3NBUHZWb3BqRHpVVUx4VnFJSzhkdGhyT1ZiLVhKRUhUcG52TlJ4OUVOSFBuOWp5bzZKdnhfSi1SN0d2bGdiN3ptOUhpOUJlYnB2X1p3UmZqRGdlc1NF?oc=5",
-   "date": "2026-11-19T16:43:45.000Z"
+   "title": "Savanna, FiberHome expand fibre network across East Africa",
+   "source": "thecitizen.co.tz",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTWcyYm8zTU84MUFGNHdxRXJjU0NyYWNLbjdTWFB6OWtRMDc5WDEtZlhMNnRWQUwxQkNaMXNtbnVfRkdxNjR4aUFLVVU0VXRPWDNxZ09KRVFoNm01X1c1UHk0NEJiZXEzUDQ1UTBJcFlDR2JDSndzMGptN3MwS2ZVNTVUYlkyZTNYQ3ZUcHFYZkxYSU95SWszb18tcF9oaU44cERzYTdiZ3NRbFVRLUxrZ1lmSTA5Vm9I?oc=5",
+   "date": "2026-11-19T03:00:00.000Z"
   },
   {
    "topic": "Optical fibre",
-   "title": "Vision Network adds 14 wholesale interconnection points across Australia",
-   "source": "Telecompaper",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSVVFbllTUS0xZnFGMkQ0dEJkQUx6azRfU2F4VEs3Vnl2R1dsUnBJVndpTXZCU3RscTB5aUdwZUlnak1kMjlKUjRhRTF2VkptYkxQVU1jRkwxT0JBYk0zNnJneUV1d0xtLURlc256ekkxaDdycUhZUDhzM0NNRnN5M0Nib2hjQzBBSENydmhMR2hDT0lpS3VYdGxQbjJ3N2ZtX3RxUzNNYmtwWTVwNHVQSHU4c0QzQQ?oc=5",
-   "date": "2026-11-19T05:44:07.000Z"
+   "title": "Ahmedabad plans smart upgrade of two lakh streetlight poles with 2,000-km optical fibre network",
+   "source": "Prop News Time",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQU1LYXpXV0Z2LThYdFFlVFpiT2syS0VIQWN3b3hGRFNFaXZvMmJPcHQ4aE13Z0dXd0lsWlhIbXBkdFVGbEhibmE3SG1EQlFHRXFWMkVUbWF6Z1VSZ2ZEczM4akk2SXBxQnB5cERYM3NoZ21WS0pmdjRMUm8xek9Wbi1Id055NUR2a1JxWnYtSEc2S1BQUFk4WER6TDd0TDJBVEtMN2dMQlpBRERKV0hNd1gyVlBLdl9fdlpTRGxTc1hmUGtKS3p1Znp0cDJqQTlQNzZXX3ZpTC15djEybzBJNQ?oc=5",
+   "date": "2026-11-18T14:45:56.000Z"
   },
   {
    "topic": "DWDM",
