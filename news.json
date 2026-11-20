@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T20:37:43.187Z",
+ "updated": "2026-11-20T21:35:12.831Z",
  "items": [
   {
    "topic": "5G",
@@ -52,6 +52,13 @@
   },
   {
    "topic": "4G",
+   "title": "NuRAN Wireless Raises First Two Towers in Benin as 4G Rollout Beats Expectations in Cameroon and Ivory Coast",
+   "source": "FinancialContent",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOMHdVV0NCMWpGMUZSRFlBdmhoek1UUW1XMG9RQW5QS1NwUER3ZS1fZGt2T3JxVGdlbXF0TkpUSmFHNTZGMTBGZk5LeHdEVDhFbVA1X0xORS1wY0UxQi1WOU5NZ0pWV0hNVklpOVlxRDNPekh1NlppQ2s4WUczV0MwNENyWVl5ZnpQVktZdEt5ckNQNjllcjNqS3MxNS1nbWpsaHNfSmxNamlMX21ROXQtbi1icHp0VVNBb3g5ODVhVDV3RzJHZURWM1M0NG90eWJFLUgzRlN3dnVZU1BaX0Z5U05xVFdlQm5XUHNISWZhR1loV3lmVXl1X19NUlBRVm8?oc=5",
+   "date": "2026-11-18T12:30:00.000Z"
+  },
+  {
+   "topic": "4G",
    "title": "C Spire eyes 5G standalone, with VoNR trials set for 2027",
    "source": "Fierce Network",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNM193c1ZRVFZCUmlEQ2VtQkpTSHRBdHN0VGVXOUxyTl8yMWhJNVc3RnNRSkNpVm5nazlsTHptcnl3MTZiMFIzaWRTREdkakRHLTBCcHZvYy1Fd1NOMU0yNEJwSHJlOFEzSzVnOExXT0Z2bkE1OWk2NXZPNzBjTUlFMTdBcEF4bktJemF3dXVaa0s?oc=5",
@@ -63,13 +70,6 @@
    "source": "Bioengineer.org",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORE9ET0g3TWRVTmU4SDdfckdFcmRsaUc1U0lKNlV4NEh2Tjc4SnVSY0stTk41YTRuNy1SQk13YUR3QlNQXzFqNnVnV3NlT2JSTVFfMjNBVWRJXzMzNDROTTBMNFVNRlhnZmdqMjlXTzRZRlhmOWFwZHpxRmdHRF91eWNtZUl4LU9xR0VoVFNzNXFYaTdOQkNGNVZhNmJwN0d0SE9fai1WbXNQeXRraU9Za3J3?oc=5",
    "date": "2026-11-17T00:07:13.000Z"
-  },
-  {
-   "topic": "4G",
-   "title": "Mexico trims mobile spectrum fees by 12%, freezes 600MHz and 700MHz",
-   "source": "BNamericas",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVkFqczdDVG1XbnVfZEpvYWI2UnVLd0dPdTZTeWIzdldabmJUYXVNN08zbHYwU3UxQUpBNHFWNXFZUHRTSnZNdm5qdjhna1lINU95VEdwOVhvTGRudFVEdjVNMFFsaWhIZ0prMDF6WUtSVkhNSlFYSWJ3OHB1dHhUZklLRmdYUTBmMmt2Qzl4MlRlNzVJREZ4NVZkTnZPS0I0VGc?oc=5",
-   "date": "2026-11-16T20:56:12.000Z"
   },
   {
    "topic": "4G",
@@ -115,17 +115,17 @@
   },
   {
    "topic": "Optical fibre",
+   "title": "Gwalior Telecom Manufacturing Zone secures Rs 3,600 crore investment commitments, to create 15,600 jobs: Scindia",
+   "source": "Big News Network.com",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQX29uaU91UmFlS1IzVEo4d0hRendHd2Z4djZBV01oVzczS2JfUm5TZHp1SWRhbGp0Zkh6cXRhNlRZVzVqOGNXWlYtNTJNUEgtZHliTFAxd3U1Q255Q0R3R3ItVzJHQ0ZCOWcwV3FrMkxYcnpDVG1HQW5zOHFMakNhZThYN3lJS1FydjJQV1pUUHpMQWhQYzBiNk84NkppTlQzS3ZfZVhHRURaZkFQTlZPUUQyaHh6Z0xhMGlmelRlUy0tbV9ROEdqcG5BN0MyZHQyZ1FKdzhuVEZHekpLZzlqODdRZDdkQlJRaHc?oc=5",
+   "date": "2026-11-19T13:34:00.000Z"
+  },
+  {
+   "topic": "Optical fibre",
    "title": "Savanna, FiberHome expand fibre network across East Africa",
    "source": "thecitizen.co.tz",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTWcyYm8zTU84MUFGNHdxRXJjU0NyYWNLbjdTWFB6OWtRMDc5WDEtZlhMNnRWQUwxQkNaMXNtbnVfRkdxNjR4aUFLVVU0VXRPWDNxZ09KRVFoNm01X1c1UHk0NEJiZXEzUDQ1UTBJcFlDR2JDSndzMGptN3MwS2ZVNTVUYlkyZTNYQ3ZUcHFYZkxYSU95SWszb18tcF9oaU44cERzYTdiZ3NRbFVRLUxrZ1lmSTA5Vm9I?oc=5",
    "date": "2026-11-19T03:00:00.000Z"
-  },
-  {
-   "topic": "Optical fibre",
-   "title": "Ahmedabad plans smart upgrade of two lakh streetlight poles with 2,000-km optical fibre network",
-   "source": "Prop News Time",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQU1LYXpXV0Z2LThYdFFlVFpiT2syS0VIQWN3b3hGRFNFaXZvMmJPcHQ4aE13Z0dXd0lsWlhIbXBkdFVGbEhibmE3SG1EQlFHRXFWMkVUbWF6Z1VSZ2ZEczM4akk2SXBxQnB5cERYM3NoZ21WS0pmdjRMUm8xek9Wbi1Id055NUR2a1JxWnYtSEc2S1BQUFk4WER6TDd0TDJBVEtMN2dMQlpBRERKV0hNd1gyVlBLdl9fdlpTRGxTc1hmUGtKS3p1Znp0cDJqQTlQNzZXX3ZpTC15djEybzBJNQ?oc=5",
-   "date": "2026-11-18T14:45:56.000Z"
   },
   {
    "topic": "DWDM",
