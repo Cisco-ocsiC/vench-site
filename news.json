@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T20:28:52.594Z",
+ "updated": "2026-11-21T21:26:45.624Z",
  "items": [
   {
    "topic": "5G",
@@ -80,10 +80,17 @@
   },
   {
    "topic": "4G",
-   "title": "Docomo's 5G SA network goes down a third time in 11 days, for six hours",
-   "source": "Pasquale Pillitteri",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVVJtSHl0Vk1pX0kwVDU1dmJjTUVRaWM0RVZYOHpGLXdZTkpqTHJNbGNJRlhyejVIU1pvbW5BNWF0YVV0cHZEczhEMkd4LUx1ODdsM1FyUlZQTFFEYzJfSmlOZDVnemJDUERhQnZHYVUzM2VhS2JLNDRBcm9ZemVpaDZWclZ2WHlXeGU3OTJhQVhyYTgyaHBr?oc=5",
-   "date": "2026-11-16T09:29:20.000Z"
+   "title": "German government plans over EUR 2.7 bln spending on fibre, mobile networks in 2027",
+   "source": "Telecompaper",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSWt6ekk5TExDYmtra21YRkRiZkZ1b1pySEdJNFdnUGJqNFhXYVQtaW1TODlWYzZCZUtuVFJuZXA0dkN5Sk1zSEU5SUc3UmV2RHdjZjkwTjJOb2t3WGVGVUNYa0h6WnRiN0ZWb3FkMFBteHpkX1h1eEdGdkVzemVhc3ZKQkNlVWg4Zkh0S0pmSnByLXVHbGJaYlVkR2lxMzduS1NfMVpCa05zODhPN2FBbnp6bFdzSm9yQ1pTdXN5RDBGQQ?oc=5",
+   "date": "2026-11-16T09:32:49.000Z"
+  },
+  {
+   "topic": "Optical fibre",
+   "title": "Tellabs - Fiber Networks, Fewer Rooms",
+   "source": "yespress.io",
+   "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1Jclh0bHJMZkN6R0wtYzlkblpvYmwwUWpWcUx4STFteEVpYkhwN0NrUl9lU0FqNGpwU0RGWUZTNzc?oc=5",
+   "date": "2026-11-21T03:39:30.000Z"
   },
   {
    "topic": "Optical fibre",
@@ -119,13 +126,6 @@
    "source": "Prop News Time",
    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQU1LYXpXV0Z2LThYdFFlVFpiT2syS0VIQWN3b3hGRFNFaXZvMmJPcHQ4aE13Z0dXd0lsWlhIbXBkdFVGbEhibmE3SG1EQlFHRXFWMkVUbWF6Z1VSZ2ZEczM4akk2SXBxQnB5cERYM3NoZ21WS0pmdjRMUm8xek9Wbi1Id055NUR2a1JxWnYtSEc2S1BQUFk4WER6TDd0TDJBVEtMN2dMQlpBRERKV0hNd1gyVlBLdl9fdlpTRGxTc1hmUGtKS3p1Znp0cDJqQTlQNzZXX3ZpTC15djEybzBJNQ?oc=5",
    "date": "2026-11-18T14:45:56.000Z"
-  },
-  {
-   "topic": "Optical fibre",
-   "title": "UK network specialist Altnets offers Corning optical fibre poducts",
-   "source": "Telecompaper",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOXhGX0htaHBZZHZ3WDdWR1JLYzFBOTdabHcwajBwdmZHd2JrUmc3bGZtLWJkaXdhT1pjR21LX1FKRXNxRVZCYUNvZm5XdUtfRk5ydkpBLWRFUDNLU2YxS0FBR0ZoTjc1M203cWNjUGxBNzd0YUo1SU4tYWlCMFIwTXNnREE2NjNKbUtuYVZ4RFJiLW9xYnpqUlgxRmxFTDlxbDNoa1phNGIxVklDeXc?oc=5",
-   "date": "2026-11-18T10:25:18.000Z"
   },
   {
    "topic": "DWDM",
