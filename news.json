@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T12:36:05.627Z",
+ "updated": "2026-11-21T13:47:11.450Z",
  "items": [
   {
    "topic": "5G",
@@ -45,6 +45,13 @@
   },
   {
    "topic": "4G",
+   "title": "Ufone Activates 4G+ in Karachi Following Ufone-Telenor Network Integration",
+   "source": "TechJuice",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdUZTNUF4OF9lTC1QeGtWWFR1MzNjbUt1dGJGalJhTkdwOFpaZHpXZlphb0N2OVYtLXdEWUtCYVNuSU9vY1I0T0UzUEREYV9yVDBjVWlFMXY4c2pNaWd1YlNSSEM3UFdhS3FKYlpLNTlGNGpMUzNjQl9Xbms2TkxYRVVYYkcwTjFGRXJIX3l2S29wSVUwbFNERWpfQm1LUURv?oc=5",
+   "date": "2026-11-20T09:50:39.000Z"
+  },
+  {
+   "topic": "4G",
    "title": "Private 5G at ports: Spectrum access and coordination put to the test",
    "source": "RCR Wireless News",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1fN04yNHdpb3RCZWpyT1RpNEtoYmZVVktlTUdoNE1QZWdDVjNYS2pPdXJIZ1hkTG9IcURjcUhGbkhVUXdfeUFkTXpObUV0UUJSbEI0aFFad3NJSFRkMVhmazlwa18wVWpSUWhmempHUkRrX2NXa2tpYw?oc=5",
@@ -52,38 +59,45 @@
   },
   {
    "topic": "4G",
-   "title": "C Spire eyes 5G standalone, with VoNR trials set for 2027",
-   "source": "Fierce Network",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNM193c1ZRVFZCUmlEQ2VtQkpTSHRBdHN0VGVXOUxyTl8yMWhJNVc3RnNRSkNpVm5nazlsTHptcnl3MTZiMFIzaWRTREdkakRHLTBCcHZvYy1Fd1NOMU0yNEJwSHJlOFEzSzVnOExXT0Z2bkE1OWk2NXZPNzBjTUlFMTdBcEF4bktJemF3dXVaa0s?oc=5",
-   "date": "2026-11-17T19:15:35.000Z"
-  },
-  {
-   "topic": "4G",
-   "title": "How Telecom Operators Can Improve Indoor 4G and 5G Coverage: 10 Strategies to Enhance Customer Experience",
-   "source": "TelecomLead",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPalBQSHI4QldYWlFBdTh6WHNSNHhpa1pWaW1JWVI1eF9WUzVSMHo5ME5jS0lOYUZSckotb3QtcmpDeE9sT1g3OTd2UWlnVDJZeGFGV2V3V1lZYVh3RmFvc1QxZlpOMm0zdE9sV2Y3TDhwZUtKX0VfS3Jyd0dBRWZ0NHQ3blU2azd0YlE1ZmlTTFZ1M2xLd1JIQk05VEpfRGVBUEdreUtNa05aUHRGcnJ5Z2h0N0hkcmluTDJMa3NRQV96Mlg4dlhBdnRHYnNlVWcwRjkwQ1dzZTd4UdIB4gFBVV95cUxQd0w1Nm8tVjRLSENjS1FJdVpGOFBzbWtmdEhlVmpvU3NxWk40ZkJEU1NOQnZfb0N6bFJGZXcybEx4UWxrRDFFUXRJbDVGak5LamxSTG5QSUZzZW4zQlB6Y2xGZ1NfMmtmS2dPMWVCMG9qdUVmYnRrQU5lUWpMb0JjNXpzNGNyNG9GbXF1dlV0ZU94RlFyRG1OUlM1OFpZRDVsSVRjdHJjZnBPVzZ0SlFXNVBMR3Y3Ymk5QVJMSkRQeFp5TzZZV3VmN2NwMzR5VERoUi1zMEl6U0ZiVDFfaU9wYlN3?oc=5",
-   "date": "2026-11-16T17:55:41.000Z"
-  },
-  {
-   "topic": "4G",
-   "title": "Ookla study shows large indoor mobile coverage divide in global cities",
+   "title": "NuRAN Wireless completes first two towers in Benin as Cameroon and Cote d'Ivoire 4G roll-outs exceed expectations",
    "source": "Telecompaper",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTmRDbjIyb05RSDFtb28yVExTYjNJd2FLZ0VfSng0TW5PdFd4R1ctcTQ2aE1XSFBacXE4bFdIaTF1eV90OTRMejBxUDFhVV93VTJfYWJ5NFR5clZocGZtUEIwbGhIaFBqY3BnNDhCWlFDMk5KNF9qS0pZZktpZFM3dmR3blJqN2lFc3RCTml0bmRTbFoyWmdSTVMyWldtZjhRTFl4WXc5Rk03MEVjU3N0UVFvZw?oc=5",
-   "date": "2026-11-16T12:36:50.000Z"
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNY3p2VDRHV2lLTHB5VXFERk5aSldycnpLMlFmM0xEeEtuY3VHTjRidFM0d096LThscUtPdWlCU2NZM0ZmTE50cjBqdzF2XzdmSVNUdUE4ZlVycnlmUWQ2d2dwbi1ieEZOZkE0dGtHWnJFbTVlak8xNVdGMzdHRS1vWXBvYkRzOHBuM1JkWUpEVU9femhGQS1yS3dwVy1TZ08tUWdSWnh0LWZnQm9obkRjcnhHWHdDOFZNM0JlemdBUVZHek5lM2MtMUw1bHUtblg0dmJxcjhXbm9BVEhGTkxwOEF5emhrc0Ftemdz?oc=5",
+   "date": "2026-11-19T08:31:34.000Z"
   },
   {
    "topic": "4G",
-   "title": "HMD 2320 Flip 4G Leaked: Specs, Features, and Enterprise Upgrades",
-   "source": "Nokiamob",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQN01nRU9vMEl0b01VMGYwcU84VDVMaS1VaGlQN1h2ODJBUUNLWlR3LVNoLTBya21EcFBkczJpamszSnp1SDI4SHdGMk5Yc0NycVhFdmdWRUhuUHc3MHg2d0tVZ2tRNXNjVlVWT09LaGI0cm9zb243eXF0ay11S3VJdU9ZVm54eUw2RmowdXFUajQ2T1lVVV9nbmtMbmlMek9NSlFsSHhR?oc=5",
-   "date": "2026-11-16T10:44:12.000Z"
+   "title": "Honduras, DomRep move with spectrum auctions, concessions",
+   "source": "BNamericas",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ1ZENW1Jc1ZqSTRjazRJbElYSllyVmtiaEFYY2FlaTBqclVOdmF1WTljdjZRcVc3Z1h5ZDg2UlNvc3c3NjhlWmpUVXgyVk9Vamt1VEl6V1BySkZmR1p5RHBucGVjemt6OG5RX0pFS0szUFlzd1ZVZi1lVWdtQUJVUWZWNVR5Q2N2TllGTndPd1lsREY1MWNiaWZR?oc=5",
+   "date": "2026-11-18T17:20:08.000Z"
   },
   {
    "topic": "4G",
-   "title": "SA’s 5G expansion fails to deliver faster networks",
-   "source": "ITWeb",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdzZiTTVzeWs5N3FPbGtPc2YzQ05ZYUt1ZXRNTmtwWHhMcmtZLTIzMkdrMkc4MkpxbWhRMS0tS2hQQ25MTEZMcEstUjladHBtR0F1b3czMWNxelh3clJtRHZTcFgwRk5wb1pGQUs0dWIzWXJ0bFktTy1rZWxzMThmNEl4UzhVWGFFMUlTRzMwLVZnUXlYbFd1ZU03XzEtbGM?oc=5",
-   "date": "2026-11-16T10:30:40.000Z"
+   "title": "srsRAN: Open-Source 4G and 5G Software Radio Architecture and Lab Deployment",
+   "source": "CASRAI",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1MVG1BVkdCamdZOVgyU2pianZaRzhscEE5R0g2UjFuRzlqSGZTbDFMTG9ZUlpIZVVmSTcyMUxCTHZCaUdCTGxN?oc=5",
+   "date": "2026-11-18T16:45:00.000Z"
+  },
+  {
+   "topic": "4G",
+   "title": "Ahmedabad plans smart upgrade of two lakh streetlight poles with 2,000-km optical fibre network",
+   "source": "Prop News Time",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQU1LYXpXV0Z2LThYdFFlVFpiT2syS0VIQWN3b3hGRFNFaXZvMmJPcHQ4aE13Z0dXd0lsWlhIbXBkdFVGbEhibmE3SG1EQlFHRXFWMkVUbWF6Z1VSZ2ZEczM4akk2SXBxQnB5cERYM3NoZ21WS0pmdjRMUm8xek9Wbi1Id055NUR2a1JxWnYtSEc2S1BQUFk4WER6TDd0TDJBVEtMN2dMQlpBRERKV0hNd1gyVlBLdl9fdlpTRGxTc1hmUGtKS3p1Znp0cDJqQTlQNzZXX3ZpTC15djEybzBJNQ?oc=5",
+   "date": "2026-11-18T14:45:56.000Z"
+  },
+  {
+   "topic": "Optical fibre",
+   "title": "Egypt Plans 1.5 Million Kilometres of Fibre-Optic Networks by 2030",
+   "source": "Sada Elbalad English",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSzI5TC0zcENrLUN1bU9RR0ZFRXdraEZ2eHZjMzBXN0RNbTg4SnF5dWhpN0RBRnNFdUVUVEhNa2xDNFJXZ0RnaWFMcTdnMV9QSjNrckZmbFhySDVBcHpGZEZwMFhqSUVoSTZSX3J5V2R0cExoMmJ4cXlva0RxckpHNjQ4WVRkU2xCaXc?oc=5",
+   "date": "2026-11-20T18:05:24.000Z"
+  },
+  {
+   "topic": "Optical fibre",
+   "title": "Du joins Singapore-India-Gulf submarine cable system",
+   "source": "DD News",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZFRodmNxX09iRnBjd3dObDQ0eDVNZ3Qzdzdidk1EdUlITEJKUHgyUFFGdjhmTi1wQ2EwaHd2YU5yNXU4WElTMG5UOHRkTFNnOHpzU1BMZmdrcnRrM1l3YnZxWUgzNGs0WUJyXzN2Xzh4MFJqTUlRWHVEWUhYbmN4QW5PT3Q?oc=5",
+   "date": "2026-11-20T09:56:03.000Z"
   },
   {
    "topic": "Optical fibre",
@@ -108,24 +122,10 @@
   },
   {
    "topic": "Optical fibre",
-   "title": "Tejas Networks, VVDN, Optiemus, others to offer 10,000 new jobs at Gwalior TMZ",
-   "source": "Indiatimes",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZ3pndjdvb2pneUtZMzhVcGtoWW5iUkRYa3ZqaHhldV9UTlBNdlhOZGQtdGt4MTc0dVFRd2J3RmVhZUR2cld4M3FJNkRSYWVFT3lqZDJLRmd0WHl1anIzOHppYk54YjJseThNZkYtV3RLNFpIdEVBZS1CeUxKLU16RC1oYzVITlhPUjdBTnBER1l3encxWE9wQUNrNzhub0JMdmVSZlBRYzJQZlBfbl9SMFhrRTExY0VCMmdQLU1yWnZma2Zfc0U2TXVUNElVd3ViNFVSUkg4UUhsVkhPYlNiNE95RkVCM1lnYlVv0gHwAUFVX3lxTE5Ddy0xYUZ0Tm1hTmxjR25SZkt5V28wWk1scGRXUlgyVDdJNndWakIwaUgxTGQzMzlCSnhublpZUG92Rk5hbDV1SE9PRS1iemxwUWM5dDBOd3czZ1BiM0lOS0loV0RQaDVsamV5ZU1KSjhDOHM2OWpMQmNld1U4Y1dSaDIwaWpsdV96ZnlsaTF4aVRHV043QXpLbGZGRlpnRnRmWVJDZGp3S2dIUXpITmJkSWljc0w2bmtjSmxia1hSNXFWQzBMQW5YbHpvVkE4bFA4WWdBbjBpdE1KVWhHQWpEZ3VfdTFXLXZXLUkxQU5nWg?oc=5",
-   "date": "2026-11-20T01:49:00.000Z"
-  },
-  {
-   "topic": "Optical fibre",
-   "title": "Gwalior Telecom Manufacturing Zone secures Rs 3,600 crore investment commitments, to create 15,600 jobs: Scindia",
-   "source": "Big News Network.com",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQX29uaU91UmFlS1IzVEo4d0hRendHd2Z4djZBV01oVzczS2JfUm5TZHp1SWRhbGp0Zkh6cXRhNlRZVzVqOGNXWlYtNTJNUEgtZHliTFAxd3U1Q255Q0R3R3ItVzJHQ0ZCOWcwV3FrMkxYcnpDVG1HQW5zOHFMakNhZThYN3lJS1FydjJQV1pUUHpMQWhQYzBiNk84NkppTlQzS3ZfZVhHRURaZkFQTlZPUUQyaHh6Z0xhMGlmelRlUy0tbV9ROEdqcG5BN0MyZHQyZ1FKdzhuVEZHekpLZzlqODdRZDdkQlJRaHc?oc=5",
-   "date": "2026-11-19T13:34:00.000Z"
-  },
-  {
-   "topic": "Optical fibre",
-   "title": "Savanna, FiberHome expand fibre network across East Africa",
-   "source": "thecitizen.co.tz",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTWcyYm8zTU84MUFGNHdxRXJjU0NyYWNLbjdTWFB6OWtRMDc5WDEtZlhMNnRWQUwxQkNaMXNtbnVfRkdxNjR4aUFLVVU0VXRPWDNxZ09KRVFoNm01X1c1UHk0NEJiZXEzUDQ1UTBJcFlDR2JDSndzMGptN3MwS2ZVNTVUYlkyZTNYQ3ZUcHFYZkxYSU95SWszb18tcF9oaU44cERzYTdiZ3NRbFVRLUxrZ1lmSTA5Vm9I?oc=5",
-   "date": "2026-11-19T03:00:00.000Z"
+   "title": "KPTCL Completes Tender to Lease Surplus Dark Fibre",
+   "source": "GK Today",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XWFhRQnh1R1F1OVJUckRCY0F5ZnpzU0w0X2FWd09zSjZTbUpSWjZiSnNpUXB6TU5ZQUdTc0Z3YTBrZ2YxTlhsd0JOLXV2RjlYOEpteDJlOXdEcElWdzlNVUxERjluUnY4QV82Z05IMjFDUWtPWmp2ek42VGNFZEk?oc=5",
+   "date": "2026-11-20T04:57:02.000Z"
   },
   {
    "topic": "DWDM",
@@ -171,6 +171,13 @@
   },
   {
    "topic": "Innovation",
+   "title": "India Endorses Global Call to Action for 6G Leadership and Security",
+   "source": "DD News",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVVc1ZTlwQURSTEdmVWpTNmIyRzR5MGczaUNRQmRrdjB4QmVTdVh6MGlBX2hQc21oc0N2Y1F3cTd0XzhJd2hOLXUzcEZEUVVDUGpHbW1MQ1VIM0c1WlVQVFQ1N3VhcVItSEJfczhKOXRSV2o1U20yOVNobUF3QjRVM3FmUGRnbzhmUllnQjZleGpydjZ0UzZ3aA?oc=5",
+   "date": "2026-11-20T09:44:24.000Z"
+  },
+  {
+   "topic": "Innovation",
    "title": "PNG Moves Closer to 5G Era as Digicel Receives 15-Year Spectrum Licence",
    "source": "Papua New Guinea Today",
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQV1RiUUN4bi1oODdJeVNITlBUR2JUOGswZF9oMC1yU0UtQUM5VUJKenRheUFKQ19fY2pnTEVBaFJwOXpxdWVRT1lpZ3pqZFg0MzVYNVh2bjNZVWRCYTFMbkdpeFZEUnRua0NWaC1vYU01MEdWZW0wb1ZPUG9NakRpaDV3?oc=5",
@@ -182,6 +189,20 @@
    "source": "China Daily",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9uRWhQS1NZX1EyYkRqVEZFNFV5WFg1cmJheW1fOV80X3hfWHVmaW15TWNQTE5RbEtfbkpYQVNQZ0dYMnBUNFprZEhtZ0JTLUtDS0dnd2F2ZkV0ZmNPMTR1bFFLYlpzXzJ4c1hnSVoyWlJqWlNnV3hXbE5ObUN1Zw?oc=5",
    "date": "2026-11-19T14:51:12.000Z"
+  },
+  {
+   "topic": "Innovation",
+   "title": "AIS Sets Global Benchmark in Network Innovation with Four Consecutive Years of TM Forum Recognition",
+   "source": "kaohoon international",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBWeXJnS1FtVmdmS1RVVHI2ZXNxUnZQMlVHbTJhcmpFWk8za2k0dHJPRDM0WmFxVEVNM1BSVUtldDdwQzVnN2pVTUVDNmJIZ2JLMVB2al9UT05kbHlZbzFsX2J6WEE?oc=5",
+   "date": "2026-11-19T14:20:44.000Z"
+  },
+  {
+   "topic": "Innovation",
+   "title": "How Does Ciena (CIEN) Change The Optical Networking Race With 800 Gb/s?",
+   "source": "Yahoo Finance Singapore",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcXJYbzV0bHNYaE5aTm5OY0dqUHR2OURUSmt1YzFwa19SSXlIZU5Wd0FoTHZCMVBEZ3cyRUItaGRLNTlSaV80VmoxUkNlUVZyNHBCY2d3c3RqTVhWTmRrLWZzdjBLRzFLV1A1eFZwUVJQZGpfOXFFQkYzQXlSbTRuaHRfUU1UZw?oc=5",
+   "date": "2026-11-19T06:15:30.000Z"
   },
   {
    "topic": "Innovation",
@@ -199,31 +220,10 @@
   },
   {
    "topic": "Innovation",
-   "title": "China approves 6G ministry-province pilot program in eight provinces and municipalities, aiming for proprietary technology plan by 2029",
-   "source": "BigGo Finance",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBkSUljWVFFQzhGREZMSUs1aHJaUEdkcWhUeGtoMUF0U2t0Vzk1X3lnQkZlZFlNZHJibmZMNVBvbGZOMjlONFAwWk5EX19aWEcybnc3Z00xUFQwWjZWMkNSWnVZdElLLXlEaXFJQ1FqOWFqbGdGWmc?oc=5",
-   "date": "2026-11-18T10:15:00.000Z"
-  },
-  {
-   "topic": "Innovation",
-   "title": "Inside Singapore Telecommunications Limited’s win at the Asian Innovation Excellence Awards 2026",
-   "source": "Asian Business Review",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONXJ5RklEQlc2ZE10eUwyVGhpTEpEdDdXVHprVkdhMEM4NHFURmpvV1pFYkhqZTZ2YkJSV1VsWHlMNm5ueEdYQXFXaXJneEN4Und2MmJ0V3hLSWpXaUNoT2hwRFM5ZnJ1Z3FCUzg1WW1vYXpvSEdOdEZjZmhndE5sdXRxYjdubzBnUGhNWk1RYm9LeVduckpfenhhVG5SbGRudHpHSmwzRHRWREdMUzJfQjVfLTNDVXlqMHY4d2cxU0NReWFsYmc?oc=5",
-   "date": "2026-11-18T04:31:11.000Z"
-  },
-  {
-   "topic": "Innovation",
-   "title": "China launches 6G pilot program across eight key regions",
-   "source": "PrimaMedia.ru",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE44bDFWSDVBdHJOXzkyXzA0dzZDVFFScDBqZWVNcjAyQy0zd2JDWWZkdE84OFZ2eHNPRy00SExrZm10dndRa2paRko1SQ?oc=5",
-   "date": "2026-11-18T04:02:00.000Z"
-  },
-  {
-   "topic": "Innovation",
-   "title": "China approves 8 provincial-level regions for 6G innovation pilot program",
-   "source": "China Daily",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1VSnZpZU5MMTYtRVA0TERHd2FrbGp6aURlQWlBTFBCb1NRVk1wWVVVeEs0Q3JTYU9TRFBudXZVZ0d6OGhWQ28zM01QbGdNTUUtS05xd2xPd2FibnVfSXhEWjBLMWNHbkY4OGotcDAxZmxuZWlkdnBKWXlJWnhuUQ?oc=5",
-   "date": "2026-11-18T03:20:00.000Z"
+   "title": "Teac unveils new Reference 700 components with optical networking and 260W amplifier",
+   "source": "Mezha.net",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNzBNREdCVkhSa3FpZjFIYXAwNmdFNlpGRlk2eTg1QU9LZ2JHV3dXTzhPdm5fbzNQTEQ5ZnYxbHk5bFBGTU1WcGJ5RmN4cnNWSHVVbWd3S0lZX3UxQ080RjhHZ1VqRE41aUs1ajljZlpJd1hvQU5XVDl3b2VMZzlZeg?oc=5",
+   "date": "2026-11-18T13:56:47.000Z"
   }
  ]
 }
