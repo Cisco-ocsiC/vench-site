@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T20:31:41.937Z",
+ "updated": "2026-11-22T21:29:55.599Z",
  "items": [
   {
    "topic": "5G",
@@ -97,7 +97,7 @@
    "title": "Kyivstar and Ukrtelecom expand fibre network-sharing nationwide",
    "source": "Telecompaper",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVk9lMXM5eGJ0dlhWUk81WFkzMlZVLUVXZEswc09IZDVwbkptTVRNR2lRaWhPa2hnMHJCOGdYa1JYRWNxRHZWN25ZMXQxd0xSQk5nNDJGM20xekRxd3Vkd20xLVNHQXpIV3dwSUJVZ2hBczRLdHBiSkdJSHlJUnFKZ2s3SV82WTZhZGp6TENoMUFiS2tsZ1VTeHZlRmpwaVpJZm9kZ2pzaHVKUQ?oc=5",
-   "date": "2026-11-22T16:02:36.000Z"
+   "date": "2026-11-22T16:04:49.000Z"
   },
   {
    "topic": "Optical fibre",
@@ -171,20 +171,6 @@
   },
   {
    "topic": "Innovation",
-   "title": "Rohde & Schwarz Prepares for the 6G Era with Advanced Test and Measurement Solutions",
-   "source": "Bisinfotech",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcEhDSzF6UXBNcFZQS0NnWWV6cEdqMWZOSHdhYmNzNS02TEtOQ1BmbXFzcXplVXp4YUhCOTEydWQ1S0xQSlc0Q0JVaVdxbkQ1SFpDR3pmYkZybGJ0QUthUklMLW5YbFNUV3Vudzl1aUtPNHVxV0FkenQtUXltZ3FEb1BaVV9seXphWEVST3dvaUV3UHM0MEFhc2RhTVZZMUUwYVE3ZnJZRGpJTlJlYllmSw?oc=5",
-   "date": "2026-11-20T14:24:35.000Z"
-  },
-  {
-   "topic": "Innovation",
-   "title": "India Endorses Global Call to Action for 6G Leadership and Security",
-   "source": "DD News",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVVc1ZTlwQURSTEdmVWpTNmIyRzR5MGczaUNRQmRrdjB4QmVTdVh6MGlBX2hQc21oc0N2Y1F3cTd0XzhJd2hOLXUzcEZEUVVDUGpHbW1MQ1VIM0c1WlVQVFQ1N3VhcVItSEJfczhKOXRSV2o1U20yOVNobUF3QjRVM3FmUGRnbzhmUllnQjZleGpydjZ0UzZ3aA?oc=5",
-   "date": "2026-11-20T09:44:24.000Z"
-  },
-  {
-   "topic": "Innovation",
    "title": "PNG Moves Closer to 5G Era as Digicel Receives 15-Year Spectrum Licence",
    "source": "Papua New Guinea Today",
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQV1RiUUN4bi1oODdJeVNITlBUR2JUOGswZF9oMC1yU0UtQUM5VUJKenRheUFKQ19fY2pnTEVBaFJwOXpxdWVRT1lpZ3pqZFg0MzVYNVh2bjNZVWRCYTFMbkdpeFZEUnRua0NWaC1vYU01MEdWZW0wb1ZPUG9NakRpaDV3?oc=5",
@@ -199,24 +185,38 @@
   },
   {
    "topic": "Innovation",
-   "title": "AIS sets the Global Benchmark in Network Innovation with Four Consecutive Years of TM Forum Recognition",
-   "source": "Nation Thailand",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8xYldiUHRNdVNKLW5tRUQ1YWZseDlaQ2JSNW9RWDBpU1NldTJ4TUdnX21tMU1qT3dFVnIwc2l2TUk3VlA1NkhaTGk5bTBMMVlVWTZTM1E5T2pZdGJrdTAxMk5pdGNfZw?oc=5",
-   "date": "2026-11-19T13:01:00.000Z"
-  },
-  {
-   "topic": "Innovation",
-   "title": "How Does Ciena (CIEN) Change The Optical Networking Race With 800 Gb/s?",
-   "source": "Yahoo Finance Singapore",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcXJYbzV0bHNYaE5aTm5OY0dqUHR2OURUSmt1YzFwa19SSXlIZU5Wd0FoTHZCMVBEZ3cyRUItaGRLNTlSaV80VmoxUkNlUVZyNHBCY2d3c3RqTVhWTmRrLWZzdjBLRzFLV1A1eFZwUVJQZGpfOXFFQkYzQXlSbTRuaHRfUU1UZw?oc=5",
-   "date": "2026-11-19T06:15:30.000Z"
-  },
-  {
-   "topic": "Innovation",
    "title": "Comtech Telecommunications (CMTL) Achieves Record 187-Mile Tropo",
    "source": "GuruFocus",
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQb2RGU2lldGxLdDBKUzc1Y0JJMzBid3dyWWM5ZXVPNlZ4NnhQaXhFd1pPYlNVclJZTzJqRHZJNUltU2VfbURjU2hSQmppWFgxZUNtTXQwWVFQNGJBTndyNjNsYnJzSkkxcFUyOG5XTHFYVUctYkFQR2JhMFczY0FVcTlVc2ZVSmJ0VjRqZXN1QXRYZ1RDREkyUkMtRlBWb1daZzNES3dmTjhkbUU0N1Y3MkZzdW9EUlgwUWFEcU8xNWJLY1FZRmg5Tkd2YzdYa01MSHc?oc=5",
    "date": "2026-11-18T15:02:19.000Z"
+  },
+  {
+   "topic": "Innovation",
+   "title": "Comtech Telecommunications sets record for longest low power troposcatter link with U.S. Marine Corps in Hawaii",
+   "source": "Traders Union",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPa1F0d2QwVWduNFBhNjJESFRBUGVLTThIQlJjVVdZbktROGY2MlNLOEFWaW5EUjFKUFJxVEJEbWlHSDdXeERNSjVTRzMzZUNrMWNmMk9GQUo0OE1HaXJrbVAxbTU4RGNidVI2TlN5NDBCZUNydFFNSkY1S0U2TjBnWS15Q09yT05fektPZGU0OXNGQQ?oc=5",
+   "date": "2026-11-18T14:50:47.000Z"
+  },
+  {
+   "topic": "Innovation",
+   "title": "China approves 6G ministry-province pilot program in eight provinces and municipalities, aiming for proprietary technology plan by 2029",
+   "source": "BigGo Finance",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBkSUljWVFFQzhGREZMSUs1aHJaUEdkcWhUeGtoMUF0U2t0Vzk1X3lnQkZlZFlNZHJibmZMNVBvbGZOMjlONFAwWk5EX19aWEcybnc3Z00xUFQwWjZWMkNSWnVZdElLLXlEaXFJQ1FqOWFqbGdGWmc?oc=5",
+   "date": "2026-11-18T10:15:00.000Z"
+  },
+  {
+   "topic": "Innovation",
+   "title": "Inside Singapore Telecommunications Limited’s win at the Asian Innovation Excellence Awards 2026",
+   "source": "Asian Business Review",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONXJ5RklEQlc2ZE10eUwyVGhpTEpEdDdXVHprVkdhMEM4NHFURmpvV1pFYkhqZTZ2YkJSV1VsWHlMNm5ueEdYQXFXaXJneEN4Und2MmJ0V3hLSWpXaUNoT2hwRFM5ZnJ1Z3FCUzg1WW1vYXpvSEdOdEZjZmhndE5sdXRxYjdubzBnUGhNWk1RYm9LeVduckpfenhhVG5SbGRudHpHSmwzRHRWREdMUzJfQjVfLTNDVXlqMHY4d2cxU0NReWFsYmc?oc=5",
+   "date": "2026-11-18T04:31:11.000Z"
+  },
+  {
+   "topic": "Innovation",
+   "title": "China launches 6G pilot program across eight key regions",
+   "source": "PrimaMedia.ru",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE44bDFWSDVBdHJOXzkyXzA0dzZDVFFScDBqZWVNcjAyQy0zd2JDWWZkdE84OFZ2eHNPRy00SExrZm10dndRa2paRko1SQ?oc=5",
+   "date": "2026-11-18T04:02:00.000Z"
   }
  ]
 }
