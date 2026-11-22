@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T13:46:27.515Z",
+ "updated": "2026-11-22T14:38:29.017Z",
  "items": [
   {
    "topic": "5G",
@@ -136,10 +136,17 @@
   },
   {
    "topic": "DWDM",
+   "title": "Oasis Networks choisit PacketLight pour ses services de longueurs d’onde à capacité modulable",
+   "source": "Eagle-Tribune",
+   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNN2ZUTHFJZnlPTlFRRk0waGpHSkF0WlVFdVRSRkw2RXdQQ0s0czNZUWptLU53d1IzX203UFNYZ05UUDlMMUx3U1pYWVNVZVM3OG8yMUF3MFlWd290dDhZSmp5WG9KMjBxR280LVR3eGpqQTh3UHlCa0VLbmNhR1M3TTg4RWdWOURhWnZJYWYtTmQ2NmsyeUZtWmlEeTBBRGRZV183YjYzc1pFcjlYQnVwNUVNczduYmQ2OHp2bGJIeDdlV3BBeWtVRnp0UEVURzZMbXhmUFE1WkFudy1DSFpLclBIV1ZrRXh1VmFTNExaLTJTQk5TTXRfUVZtcUJ2NU9oQUo1Q0hnVQ?oc=5",
+   "date": "2026-11-17T19:52:24.000Z"
+  },
+  {
+   "topic": "DWDM",
    "title": "Oasis Networks Selects PacketLight for Burstable Wavelength Services",
-   "source": "巴士的報",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRVFkckxMeXhRQU10WVlvcHBaNnFTa0c4MDR4aExvam81cVMtWUVJN0NsRGpWbTlyS0ZXS3BPdzY4RnM0UDk4YkR4LTcyX2ZPM3l1WnJhR2MtSk9ucVVhTVFoX2JuVWFzc2hEVGlfb2RwWUZyMlBvZUhHZWV2ZDRMUmtsdGhlUEdfemdjNE01VGZpS2tna0hkN3FFUC04RmNLWkFtbjJaeTIxX1loU3JtSkloblFTcjl3YnBUZQ?oc=5",
-   "date": "2026-11-17T08:35:08.000Z"
+   "source": "Via TT",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZkt6ejhxOXA1VnRuazJtX19tY1R5QndfNnF1Ni1qOHhKaHpPS3o0Vmw3WmZNR0JGdFhwWENEcXVMd0VZMW9VS3FFUXhGdnRORDFqbkp6MmJjcmd1RFktRkV0LTVVNmMyREN6TjljSkVhc1g3ZHpJdzFGSTJwZ0hRZmVaTkRBNUF5azRaYjg1aUlFT1FwMjVBYTB0VFFHRFB3bGwzWFZIc1NUWXloZjVJY3luUThGeDlkMVExUFlVU3JTdFpFUko2TlRoUHRxZlplWXc4?oc=5",
+   "date": "2026-11-17T08:35:00.000Z"
   },
   {
    "topic": "Innovation",
@@ -147,6 +154,13 @@
    "source": "ARKA-Telecom",
    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPOUNiNFJHMFZsWEVrNVV1YjVKVVRaWjRpckcyeXpYOVFQcmJPY3c3MXE5SUhmVEZnNm9QRGtfM01jSlVnMU9VTVBUQ3gzQVA4Tk1zb1dvQkxycmFGaVdwN21fLXRsS3BzblBJblFCdTJhZUN6aWlKcEtkdV9hOVFrcnBWRzZmVXBhOG5kdnVPazlRYXdNNTlfU1pJTkxuWFQwVTltc0FuMDVLWHpQdFlYVE9FOUdIUUtzMTlhRnlIOTVWYXg0RXQzZ0hjTzQtWlFuUXlWMGJ4Ri1XUGNORHRvY0daaEUxX240aXo0NVZzYndfaG8tNXJheXJNUS0?oc=5",
    "date": "2026-11-21T11:17:50.000Z"
+  },
+  {
+   "topic": "Innovation",
+   "title": "PNG Moves Closer to 5G Era as Digicel Receives 15-Year Spectrum Licence",
+   "source": "Papua New Guinea Today",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQV1RiUUN4bi1oODdJeVNITlBUR2JUOGswZF9oMC1yU0UtQUM5VUJKenRheUFKQ19fY2pnTEVBaFJwOXpxdWVRT1lpZ3pqZFg0MzVYNVh2bjNZVWRCYTFMbkdpeFZEUnRua0NWaC1vYU01MEdWZW0wb1ZPUG9NakRpaDV3?oc=5",
+   "date": "2026-11-20T09:06:00.000Z"
   },
   {
    "topic": "Innovation",
@@ -203,13 +217,6 @@
    "source": "China Daily",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1VSnZpZU5MMTYtRVA0TERHd2FrbGp6aURlQWlBTFBCb1NRVk1wWVVVeEs0Q3JTYU9TRFBudXZVZ0d6OGhWQ28zM01QbGdNTUUtS05xd2xPd2FibnVfSXhEWjBLMWNHbkY4OGotcDAxZmxuZWlkdnBKWXlJWnhuUQ?oc=5",
    "date": "2026-11-18T03:20:00.000Z"
-  },
-  {
-   "topic": "Innovation",
-   "title": "MIIT approves 8 regions for 6G innovation, development pilot program",
-   "source": "Global Times",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBqVW5Scl94TXFkS0NQYkNNYW9YV21yNnRQbTBUalljTk8tT0RlcVZ3WW51aWJ6YTlKZEFYRndzZ0tsX0Zzb1FmOFFLZlVqX1gxWFZHT1U5NlA1Sm5KSHJ4X1dn?oc=5",
-   "date": "2026-11-17T15:26:00.000Z"
   }
  ]
 }
