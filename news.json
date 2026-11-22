@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T02:42:27.563Z",
+ "updated": "2026-11-22T03:40:35.923Z",
  "items": [
   {
    "topic": "5G",
@@ -31,17 +31,17 @@
   },
   {
    "topic": "5G",
+   "title": "Compare mobile plans with international calls",
+   "source": "WhistleOut Australia",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRGdUQVlSem5UZV9EYlNGNGVVaWxhaVdxT09RLS0zSDRwcXFiaXRsY3JYTVk5ckdXcVAzN21xQk84WUhsRXFCS0ZLTVQ3X0o2Q2c0dl81d21lWVNDWE05TWdUd05fMUpTUFVHdEZqbERHTlg5WkxTY0k2VV9Va2xVQVhyeFRnMW5ZUmpTQW83Yw?oc=5",
+   "date": "2026-11-18T08:00:00.000Z"
+  },
+  {
+   "topic": "5G",
    "title": "Best Black Friday mobile plan deals: 50% off, bonus data offers and gift cards",
    "source": "Finder.com.au",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAxZC1na0NkT1N4YnZVcXhIVnBnYUdQQVl3eUc4VC03VnpwUkg3U2VoYmp4ckVBTVJ5ODA1TmJ1amVwSXRkdG9NdkNHSXp0QXFfQ3ktcDRuUi1VWDNTNkxzak02OGpJOHZMVnF5eGxMT214elR3?oc=5",
    "date": "2026-11-18T04:30:00.000Z"
-  },
-  {
-   "topic": "5G",
-   "title": "Optus & Nokia test 5G boost on live smartphone network",
-   "source": "TelcoNews Australia",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbGpJeU9rbW1udWdlaFVzZ0lqSHZkTU1TV1ZFV1JEMjdsUjE1NDNaaEZZNl82Y01zeUctM2JjSEZqTHVCbnhodm1iTjd5NUM1RDRBUC1KR3A5UXphVzAwQVlveE9UaXBrTzU0dDFxa3dybXRMWjdxOWREd2xvY1NaVmVVV3V1N1Fjd3A0?oc=5",
-   "date": "2026-11-17T21:00:00.000Z"
   },
   {
    "topic": "4G",
@@ -52,10 +52,24 @@
   },
   {
    "topic": "4G",
+   "title": "Ufone Activates 4G+ in Karachi Following Ufone-Telenor Network Integration",
+   "source": "TechJuice",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdUZTNUF4OF9lTC1QeGtWWFR1MzNjbUt1dGJGalJhTkdwOFpaZHpXZlphb0N2OVYtLXdEWUtCYVNuSU9vY1I0T0UzUEREYV9yVDBjVWlFMXY4c2pNaWd1YlNSSEM3UFdhS3FKYlpLNTlGNGpMUzNjQl9Xbms2TkxYRVVYYkcwTjFGRXJIX3l2S29wSVUwbFNERWpfQm1LUURv?oc=5",
+   "date": "2026-11-20T09:50:39.000Z"
+  },
+  {
+   "topic": "4G",
    "title": "5G vs LTE, What Is the Difference?",
    "source": "Technobezz",
    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBtX1A3eEJTZi1vdDlLVVdIVlhpV2k2Zzd6N290eEEtWXQ2eXVxWDdzMDBPY28xMC1ZdVdKT1hOdFVlZHVfMkpMd1RCRDc?oc=5",
    "date": "2026-11-20T08:00:00.000Z"
+  },
+  {
+   "topic": "4G",
+   "title": "NuRAN Wireless completes first two towers in Benin as Cameroon and Cote d'Ivoire 4G roll-outs exceed expectations",
+   "source": "Telecompaper",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNY3p2VDRHV2lLTHB5VXFERk5aSldycnpLMlFmM0xEeEtuY3VHTjRidFM0d096LThscUtPdWlCU2NZM0ZmTE50cjBqdzF2XzdmSVNUdUE4ZlVycnlmUWQ2d2dwbi1ieEZOZkE0dGtHWnJFbTVlak8xNVdGMzdHRS1vWXBvYkRzOHBuM1JkWUpEVU9femhGQS1yS3dwVy1TZ08tUWdSWnh0LWZnQm9obkRjcnhHWHdDOFZNM0JlemdBUVZHek5lM2MtMUw1bHUtblg0dmJxcjhXbm9BVEhGTkxwOEF5emhrc0Ftemdz?oc=5",
+   "date": "2026-11-19T08:31:34.000Z"
   },
   {
    "topic": "4G",
@@ -66,24 +80,10 @@
   },
   {
    "topic": "4G",
-   "title": "How Telecom Operators Can Improve Indoor 4G and 5G Coverage: 10 Strategies to Enhance Customer Experience",
-   "source": "TelecomLead",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPalBQSHI4QldYWlFBdTh6WHNSNHhpa1pWaW1JWVI1eF9WUzVSMHo5ME5jS0lOYUZSckotb3QtcmpDeE9sT1g3OTd2UWlnVDJZeGFGV2V3V1lZYVh3RmFvc1QxZlpOMm0zdE9sV2Y3TDhwZUtKX0VfS3Jyd0dBRWZ0NHQ3blU2azd0YlE1ZmlTTFZ1M2xLd1JIQk05VEpfRGVBUEdreUtNa05aUHRGcnJ5Z2h0N0hkcmluTDJMa3NRQV96Mlg4dlhBdnRHYnNlVWcwRjkwQ1dzZTd4UdIB4gFBVV95cUxQd0w1Nm8tVjRLSENjS1FJdVpGOFBzbWtmdEhlVmpvU3NxWk40ZkJEU1NOQnZfb0N6bFJGZXcybEx4UWxrRDFFUXRJbDVGak5LamxSTG5QSUZzZW4zQlB6Y2xGZ1NfMmtmS2dPMWVCMG9qdUVmYnRrQU5lUWpMb0JjNXpzNGNyNG9GbXF1dlV0ZU94RlFyRG1OUlM1OFpZRDVsSVRjdHJjZnBPVzZ0SlFXNVBMR3Y3Ymk5QVJMSkRQeFp5TzZZV3VmN2NwMzR5VERoUi1zMEl6U0ZiVDFfaU9wYlN3?oc=5",
-   "date": "2026-11-16T17:55:41.000Z"
-  },
-  {
-   "topic": "4G",
-   "title": "Ookla study shows large indoor mobile coverage divide in global cities",
-   "source": "Telecompaper",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTmRDbjIyb05RSDFtb28yVExTYjNJd2FLZ0VfSng0TW5PdFd4R1ctcTQ2aE1XSFBacXE4bFdIaTF1eV90OTRMejBxUDFhVV93VTJfYWJ5NFR5clZocGZtUEIwbGhIaFBqY3BnNDhCWlFDMk5KNF9qS0pZZktpZFM3dmR3blJqN2lFc3RCTml0bmRTbFoyWmdSTVMyWldtZjhRTFl4WXc5Rk03MEVjU3N0UVFvZw?oc=5",
-   "date": "2026-11-16T12:36:50.000Z"
-  },
-  {
-   "topic": "4G",
-   "title": "HMD 2320 Flip 4G Leaked: Specs, Features, and Enterprise Upgrades",
-   "source": "Nokiamob",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQN01nRU9vMEl0b01VMGYwcU84VDVMaS1VaGlQN1h2ODJBUUNLWlR3LVNoLTBya21EcFBkczJpamszSnp1SDI4SHdGMk5Yc0NycVhFdmdWRUhuUHc3MHg2d0tVZ2tRNXNjVlVWT09LaGI0cm9zb243eXF0ay11S3VJdU9ZVm54eUw2RmowdXFUajQ2T1lVVV9nbmtMbmlMek9NSlFsSHhR?oc=5",
-   "date": "2026-11-16T10:44:12.000Z"
+   "title": "Honduras, DomRep move with spectrum auctions, concessions",
+   "source": "BNamericas",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ1ZENW1Jc1ZqSTRjazRJbElYSllyVmtiaEFYY2FlaTBqclVOdmF1WTljdjZRcVc3Z1h5ZDg2UlNvc3c3NjhlWmpUVXgyVk9Vamt1VEl6V1BySkZmR1p5RHBucGVjemt6OG5RX0pFS0szUFlzd1ZVZi1lVWdtQUJVUWZWNVR5Q2N2TllGTndPd1lsREY1MWNiaWZR?oc=5",
+   "date": "2026-11-18T17:20:08.000Z"
   },
   {
    "topic": "Optical fibre",
@@ -164,10 +164,45 @@
   },
   {
    "topic": "Innovation",
+   "title": "Rohde & Schwarz Prepares for the 6G Era with Advanced Test and Measurement Solutions",
+   "source": "Bisinfotech",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcEhDSzF6UXBNcFZQS0NnWWV6cEdqMWZOSHdhYmNzNS02TEtOQ1BmbXFzcXplVXp4YUhCOTEydWQ1S0xQSlc0Q0JVaVdxbkQ1SFpDR3pmYkZybGJ0QUthUklMLW5YbFNUV3Vudzl1aUtPNHVxV0FkenQtUXltZ3FEb1BaVV9seXphWEVST3dvaUV3UHM0MEFhc2RhTVZZMUUwYVE3ZnJZRGpJTlJlYllmSw?oc=5",
+   "date": "2026-11-20T14:24:35.000Z"
+  },
+  {
+   "topic": "Innovation",
+   "title": "India Endorses Global Call to Action for 6G Leadership and Security",
+   "source": "DD News",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVVc1ZTlwQURSTEdmVWpTNmIyRzR5MGczaUNRQmRrdjB4QmVTdVh6MGlBX2hQc21oc0N2Y1F3cTd0XzhJd2hOLXUzcEZEUVVDUGpHbW1MQ1VIM0c1WlVQVFQ1N3VhcVItSEJfczhKOXRSV2o1U20yOVNobUF3QjRVM3FmUGRnbzhmUllnQjZleGpydjZ0UzZ3aA?oc=5",
+   "date": "2026-11-20T09:44:24.000Z"
+  },
+  {
+   "topic": "Innovation",
+   "title": "PNG Moves Closer to 5G Era as Digicel Receives 15-Year Spectrum Licence",
+   "source": "Papua New Guinea Today",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQV1RiUUN4bi1oODdJeVNITlBUR2JUOGswZF9oMC1yU0UtQUM5VUJKenRheUFKQ19fY2pnTEVBaFJwOXpxdWVRT1lpZ3pqZFg0MzVYNVh2bjNZVWRCYTFMbkdpeFZEUnRua0NWaC1vYU01MEdWZW0wb1ZPUG9NakRpaDV3?oc=5",
+   "date": "2026-11-20T09:06:00.000Z"
+  },
+  {
+   "topic": "Innovation",
    "title": "Pilot program of 6G aims to bridge innovation and results",
    "source": "China Daily",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9uRWhQS1NZX1EyYkRqVEZFNFV5WFg1cmJheW1fOV80X3hfWHVmaW15TWNQTE5RbEtfbkpYQVNQZ0dYMnBUNFprZEhtZ0JTLUtDS0dnd2F2ZkV0ZmNPMTR1bFFLYlpzXzJ4c1hnSVoyWlJqWlNnV3hXbE5ObUN1Zw?oc=5",
    "date": "2026-11-19T14:51:12.000Z"
+  },
+  {
+   "topic": "Innovation",
+   "title": "AIS sets the Global Benchmark in Network Innovation with Four Consecutive Years of TM Forum Recognition",
+   "source": "Nation Thailand",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8xYldiUHRNdVNKLW5tRUQ1YWZseDlaQ2JSNW9RWDBpU1NldTJ4TUdnX21tMU1qT3dFVnIwc2l2TUk3VlA1NkhaTGk5bTBMMVlVWTZTM1E5T2pZdGJrdTAxMk5pdGNfZw?oc=5",
+   "date": "2026-11-19T13:01:00.000Z"
+  },
+  {
+   "topic": "Innovation",
+   "title": "How Does Ciena (CIEN) Change The Optical Networking Race With 800 Gb/s?",
+   "source": "Yahoo Finance Singapore",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcXJYbzV0bHNYaE5aTm5OY0dqUHR2OURUSmt1YzFwa19SSXlIZU5Wd0FoTHZCMVBEZ3cyRUItaGRLNTlSaV80VmoxUkNlUVZyNHBCY2d3c3RqTVhWTmRrLWZzdjBLRzFLV1A1eFZwUVJQZGpfOXFFQkYzQXlSbTRuaHRfUU1UZw?oc=5",
+   "date": "2026-11-19T06:15:30.000Z"
   },
   {
    "topic": "Innovation",
@@ -185,45 +220,10 @@
   },
   {
    "topic": "Innovation",
-   "title": "China approves 6G ministry-province pilot program in eight provinces and municipalities, aiming for proprietary technology plan by 2029",
-   "source": "BigGo Finance",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBkSUljWVFFQzhGREZMSUs1aHJaUEdkcWhUeGtoMUF0U2t0Vzk1X3lnQkZlZFlNZHJibmZMNVBvbGZOMjlONFAwWk5EX19aWEcybnc3Z00xUFQwWjZWMkNSWnVZdElLLXlEaXFJQ1FqOWFqbGdGWmc?oc=5",
-   "date": "2026-11-18T10:15:00.000Z"
-  },
-  {
-   "topic": "Innovation",
-   "title": "Inside Singapore Telecommunications Limited’s win at the Asian Innovation Excellence Awards 2026",
-   "source": "Asian Business Review",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONXJ5RklEQlc2ZE10eUwyVGhpTEpEdDdXVHprVkdhMEM4NHFURmpvV1pFYkhqZTZ2YkJSV1VsWHlMNm5ueEdYQXFXaXJneEN4Und2MmJ0V3hLSWpXaUNoT2hwRFM5ZnJ1Z3FCUzg1WW1vYXpvSEdOdEZjZmhndE5sdXRxYjdubzBnUGhNWk1RYm9LeVduckpfenhhVG5SbGRudHpHSmwzRHRWREdMUzJfQjVfLTNDVXlqMHY4d2cxU0NReWFsYmc?oc=5",
-   "date": "2026-11-18T04:31:11.000Z"
-  },
-  {
-   "topic": "Innovation",
-   "title": "China launches 6G pilot program across eight key regions",
-   "source": "PrimaMedia.ru",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE44bDFWSDVBdHJOXzkyXzA0dzZDVFFScDBqZWVNcjAyQy0zd2JDWWZkdE84OFZ2eHNPRy00SExrZm10dndRa2paRko1SQ?oc=5",
-   "date": "2026-11-18T04:02:00.000Z"
-  },
-  {
-   "topic": "Innovation",
-   "title": "China approves 8 provincial-level regions for 6G innovation pilot program",
-   "source": "China Daily",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1VSnZpZU5MMTYtRVA0TERHd2FrbGp6aURlQWlBTFBCb1NRVk1wWVVVeEs0Q3JTYU9TRFBudXZVZ0d6OGhWQ28zM01QbGdNTUUtS05xd2xPd2FibnVfSXhEWjBLMWNHbkY4OGotcDAxZmxuZWlkdnBKWXlJWnhuUQ?oc=5",
-   "date": "2026-11-18T03:20:00.000Z"
-  },
-  {
-   "topic": "Innovation",
-   "title": "MIIT approves 8 regions for 6G innovation, development pilot program",
-   "source": "Global Times",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBqVW5Scl94TXFkS0NQYkNNYW9YV21yNnRQbTBUalljTk8tT0RlcVZ3WW51aWJ6YTlKZEFYRndzZ0tsX0Zzb1FmOFFLZlVqX1gxWFZHT1U5NlA1Sm5KSHJ4X1dn?oc=5",
-   "date": "2026-11-17T15:26:00.000Z"
-  },
-  {
-   "topic": "Innovation",
-   "title": "China's MIIT approves 8 provinces and municipalities for 6G ministry-province pilot program; commercial use requires licenses first",
-   "source": "BigGo Finance",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LYWtwN1NRTDd0ZkQ2TmRxaC03OTFvQ212MnFEcEZUOXN1c0wyWnpmcm53YU4xaWlyTGNjUUZXdTRKU2Q2VGJpTTJtMmk4cTJRcVA3Q0dyakpnM0JCNTVqLW1MVjZtVUp5RUx1WTlFUVhjQjlldWc?oc=5",
-   "date": "2026-11-17T12:55:00.000Z"
+   "title": "Teac unveils new Reference 700 components with optical networking and 260W amplifier",
+   "source": "Mezha.net",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNzBNREdCVkhSa3FpZjFIYXAwNmdFNlpGRlk2eTg1QU9LZ2JHV3dXTzhPdm5fbzNQTEQ5ZnYxbHk5bFBGTU1WcGJ5RmN4cnNWSHVVbWd3S0lZX3UxQ080RjhHZ1VqRE41aUs1ajljZlpJd1hvQU5XVDl3b2VMZzlZeg?oc=5",
+   "date": "2026-11-18T13:56:47.000Z"
   }
  ]
 }
