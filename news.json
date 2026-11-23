@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T09:06:24.659Z",
+ "updated": "2026-11-23T10:52:18.342Z",
  "items": [
   {
    "topic": "5G",
@@ -45,6 +45,13 @@
   },
   {
    "topic": "4G",
+   "title": "5G Not Showing? Fix a Phone Stuck on 4G in India",
+   "source": "Gizmo Times",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNd2pLT3lFN0RsV2gwYkxXMVp6ZnhJaXJoY1YyS25pMU1wMTFfbE53V3R6WGJFOVF5cGlRVUkyTUJkNDFaZWM4WmhkelpPbUR4SmJKbThUczl5clhBUWhySVFDQUdYUk9WTmNSR2FtYUQ4VXh2c3hLRHpzMzRoRUhwcEFtMVVvTjRiZXdV?oc=5",
+   "date": "2026-11-23T08:33:24.000Z"
+  },
+  {
+   "topic": "4G",
    "title": "Switch 2 Gets Battery-Free 4G Adapter at ¥16,980",
    "source": "shattered.io",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOU3ZCS0J6QjQtdmNNSmVmUV9UNm5Ea2xJVEgzaUU1TUVYQW9lQjhScWFPRlQtTW5aWE9ObTVKQnpjMFVLOFE3aER4T1dvTlJSR3FpWHE3WFBLZi0yWFRtb2c4VlZEeW5rZUVpYnF5Smx3bkpnSWtDSDQzNHdkaV9YbzhaZHRXUENEQTVNb1dldG8tMFQ1dlhoWA?oc=5",
@@ -79,11 +86,25 @@
    "date": "2026-11-21T22:00:21.000Z"
   },
   {
-   "topic": "4G",
-   "title": "Verizon vs AT&T: plan prices, phones, and network coverage",
-   "source": "PhoneArena",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1LMXoxYXh5Z3FQTk5qS3dvQnJFeUhHbkN5M2Zuc2dMTkttNWJXbmd0cXoxMTB4ZkJmM2lDY2gzMFhuWFJ5UXBxMk9Sck5aTHE1c3dyRjBUNkZwWHhlUWdSLWRJUG5yZw?oc=5",
-   "date": "2026-11-20T09:39:45.000Z"
+   "topic": "Optical fibre",
+   "title": "Distributed Fiber Optic Sensor Market Growth, Trends & Demand",
+   "source": "SNS Insider",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5xRUk0bFNLVHFYemN0T1ZVYzVkMlBSdFdLa2dKZ2xDTXRXaTNMYTdSdE5ha3BCZWJyVkNiTlljMFUxbUJ1Y1pZTFJJZUpyNVp4cUFTSkNOTjV3dGsza2wwWEhiRTl3QUFhUXpXOXRNT3pKVDdidmpwS3VsN2M?oc=5",
+   "date": "2026-11-23T10:17:47.000Z"
+  },
+  {
+   "topic": "Optical fibre",
+   "title": "Savanna Fibre plans to reach 1 mln more East African homes in 2027",
+   "source": "Telecompaper",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSDBZXzZxTEJXUVlJSzhuMDJGa3I1WmFSTTZPYk5ZWUZXa0laVVk4SkVLMkIxTnVXajdQQ1ctemVuSlhnS0d6NU5sVmlsV2ZaOFB1aVVleWN5eV9xYVVQYUYzU0JOTWh3RWZsOHQzYkdFYzNGS29mM2s0Y3ZYS0JUdHAxRjFHOXZVTnBVRkRHWVQzMUE1VW5tUUhrQzUwLXBOelVrNnI1dEdaSFdhdXc?oc=5",
+   "date": "2026-11-23T09:52:28.000Z"
+  },
+  {
+   "topic": "Optical fibre",
+   "title": "Omani mobile networks cover 99% of population, fibre networks reach 72% of homes",
+   "source": "Telecompaper",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeEh6VktTMzB3OFc0Ykc2Q1RHaG1MM1FkV2tMQWZQWnduSXFkYTU1N2ZwV0dRNGV4aUdKWVhCMG9ibWRESFpNUzYyeFFDZnVUUEVFUU1ZZDFubWhiTVJSNzA1bU9ITURrb29YQ1VNME10bFB0Y0ZnYTRyX0txbklLQUsxUjMyR04tSlY3Q3BJbVFzUUdSbFdrUTZ4SkI2TXpXMnlmOTF1Tk1FV001VzlvdzZaekg5QllKVWJweA?oc=5",
+   "date": "2026-11-23T09:42:26.000Z"
   },
   {
    "topic": "Optical fibre",
@@ -101,31 +122,10 @@
   },
   {
    "topic": "Optical fibre",
-   "title": "Optical Fiber Protective Coatings Market To 2035: Demand Accelerates on Fiber Cable Output and Bandwidth Upgrades - News and Statistics",
-   "source": "IndexBox",
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNbWZ4b0ZSWXg1MmJkWnhmcnlPb0tXT2hKWVhhS01RRFhsVk1qVkxkcDduTWpMV2E0ODFvVzVnOHlxTDdlTmFLREZZNTZPMGx4WWtRbTdIay1TQmFHR3NXb2tPVk9ZTUt0dm9CYVlacjRiUmhCVS1HWUNUQ08ySFd5TGgzeHN4WFN3d0p2RFlTU1EwSHNuVnJHNGROWDE5V2Q4UXc2MTFycC1GT0EyM2hrMVFrd0lsVHY1U0JaTHkwTVprMTVkemNQZjBfRndLcUZvTWU5LWNHMnBlSW9NTy1DcGZTcGVGdlFmOGlybFJiR1J4QjZER1k1aEJfMjY?oc=5",
-   "date": "2026-11-22T17:46:04.000Z"
-  },
-  {
-   "topic": "Optical fibre",
-   "title": "Kyivstar and Ukrtelecom expand fibre network-sharing nationwide",
-   "source": "Telecompaper",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVk9lMXM5eGJ0dlhWUk81WFkzMlZVLUVXZEswc09IZDVwbkptTVRNR2lRaWhPa2hnMHJCOGdYa1JYRWNxRHZWN25ZMXQxd0xSQk5nNDJGM20xekRxd3Vkd20xLVNHQXpIV3dwSUJVZ2hBczRLdHBiSkdJSHlJUnFKZ2s3SV82WTZhZGp6TENoMUFiS2tsZ1VTeHZlRmpwaVpJZm9kZ2pzaHVKUQ?oc=5",
-   "date": "2026-11-22T16:02:36.000Z"
-  },
-  {
-   "topic": "Optical fibre",
-   "title": "BharatNet to move beyond BSNL-led model as govt seeks private ISP, telco participation",
-   "source": "Moneycontrol.com",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcC0tYjdLcVR2QjlSQWtxR3kzOE1hem9seURmOV9pdW04dExqaTlKNENod0U4WGhKU0QtOEh2dklvOEtHejk2RTdsd1RReS0yd3lmRjhBM2xOWUZOY1NCWVk3YkZzZHJmQmEwZ0VCMklzeWlUclB3azBqb1R5emxPUWJJSEhzbElTcEFUX3czUm1KQVduaU9yMnhZdUJrc2preHBJVXRIbGJ0bkx3NzBDTGJVc1UzUHk1MTZHQVNZRjg1c1I2VUdybTRjRWM3UG5XNktNT1RGRkNkUdIB3wFBVV95cUxQMTRUM0d4MmczOEFueUZNX0FjdkRsWVJ6bVNLQjVuSzVERlhkMHNVdUloQmhINlkyU1FGaURsa2xXT2FhR1hvQ1VzNjJ4S3JzMlFBNXlGUldBYm82eHFZOTFUVUtxaVhUWHlwNGtWbTcycFpXbzVYamFMcEh3WWt5cXZpRjZiWmhBbW40clJUeWx3V2tVb3ZUaU9VbjVBUi1MNTdrVkh4UEpwZDFLRGRYa01jeWV4Z3ZTTmVaYWw2QXNNNm9BdkRaWU5leGZYTTJOaDB3ODlVd3hhNUQ0WDd3?oc=5",
-   "date": "2026-11-20T08:20:56.000Z"
-  },
-  {
-   "topic": "Optical fibre",
-   "title": "Fiber Optic Patch Panel Market Evolution: Powering High-Density Connectivity and Next-Generation Networks",
-   "source": "openPR.com",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQanNReWg4a3Nqblp1ZXFvNUNjWlpWYzZ5Y0RfOU1xMTBpWE93d01jQ2RmSkg5dDVDWk9WclBNcldNQ3NMUEtkeTRhR3VzVmh2eFFsQXFVNFgyOE9FQlZiOVhsWnNwZmZyWUhqMm9jZG9FbUNBN3hvWUs3VUQ5V2ZjTkNySnc3Ny02WEwtaWV3?oc=5",
-   "date": "2026-11-20T05:57:23.000Z"
+   "title": "PANI project to connect Andaman's eight islands through undersea cable network",
+   "source": "ET Telecom",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQjViSkpaRldFX3U1RFJUTUpBLTczbENzSzlyeU1VeFAwU0Q0NElUY0xEWkFaZk9VanFuaWFyVlB4ZEJPcU1XSU13blJQS2N1QUF6NnBQX3JYLXFLVHl4QjhaRFBpbjRhVUZWdjA0M2M5c3paeUR1d0g0WFNIbXRnYl93VDBkOVRwcS11a3EzNE9zTmk4MW1Yb19aVDFSRFhOb2YteEdlSEpCcjJKallVQnFNcFctR2EtTDhJWndueXZIalotUEF5NWY0WWtxekNsVHlIQXdsV1NCaTEt0gHiAUFVX3lxTFBodWdxNjVITmFyNFFNTnZab1BDZlJ4cndnUF9YbDdDUVpHQmkwUHdCaWZrUXJQT2RKYloxUGNqZm1LVFNKSWJpZEhCX0NqakRMU3dLS2ZnNVBsaHZSWVZhcVdJME9sN3MwbS12eDNqUlFoVEVtX0ZXUndwNjRLVlNMMHloS29WSmxHeDJXVzExWHl3TXZ1bkpTNms5R0piN0JWd05YVUJYbndHNkNWbFFVaVRLR1lPQ251NTdqd0NoNFNnNXJuUzVMMjFCVTl5WFRuN2lKY01EbW10dnNUZVIweUE?oc=5",
+   "date": "2026-11-23T02:39:43.000Z"
   },
   {
    "topic": "DWDM",
@@ -147,6 +147,13 @@
    "source": "Via TT",
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZkt6ejhxOXA1VnRuazJtX19tY1R5QndfNnF1Ni1qOHhKaHpPS3o0Vmw3WmZNR0JGdFhwWENEcXVMd0VZMW9VS3FFUXhGdnRORDFqbkp6MmJjcmd1RFktRkV0LTVVNmMyREN6TjljSkVhc1g3ZHpJdzFGSTJwZ0hRZmVaTkRBNUF5azRaYjg1aUlFT1FwMjVBYTB0VFFHRFB3bGwzWFZIc1NUWXloZjVJY3luUThGeDlkMVExUFlVU3JTdFpFUko2TlRoUHRxZlplWXc4?oc=5",
    "date": "2026-11-17T08:35:00.000Z"
+  },
+  {
+   "topic": "Innovation",
+   "title": "AI, Quantum and 6G to Shape India's Next Technology Growth Wave",
+   "source": "varindia",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMDIwVDBBX0FpUmRuYjVBWjU3eVJ0NzVZV093dTQxUy10WnlfVXFiOG9Pd0RBWW15X3FST3F5VXpERXEwa2h4ZTh4OXZEVi01T2hxMFdBM3phS296aDM5emRxdEkta2k2b2Rtc3ZPSTNTR0w5S2dKN2JPdGd5UWs0bE55UVRtVEVVUjRVYWw4cjJYbWVBYVlr?oc=5",
+   "date": "2026-11-23T10:40:30.000Z"
   },
   {
    "topic": "Innovation",
@@ -182,13 +189,6 @@
    "source": "PR Newswire",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNM29RYTJxcWdJTXVhaGd6TnE5TUJxNVR5b1VvX1BCN2FYOXRDanRBaXVZeGhQb004UnptVkV3VWd4ZkQ5Z0gzU0tNdjR4OTRZdzNjVVNZM3hvT19ydy1NbGxQdzBQY1dlRDQxNjhNZXhzQVdGRE9pczFfT1VnZzlDLTMwbFZPRy04ZW1JMGFLOEd1d2ZpYTJ4NTlMX2tVaE9KRy1RMkRXR1pXY3VtbFpXTzZPZw?oc=5",
    "date": "2026-11-20T15:00:00.000Z"
-  },
-  {
-   "topic": "Innovation",
-   "title": "PNG Moves Closer to 5G Era as Digicel Receives 15-Year Spectrum Licence",
-   "source": "Papua New Guinea Today",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQV1RiUUN4bi1oODdJeVNITlBUR2JUOGswZF9oMC1yU0UtQUM5VUJKenRheUFKQ19fY2pnTEVBaFJwOXpxdWVRT1lpZ3pqZFg0MzVYNVh2bjNZVWRCYTFMbkdpeFZEUnRua0NWaC1vYU01MEdWZW0wb1ZPUG9NakRpaDV3?oc=5",
-   "date": "2026-11-20T09:06:00.000Z"
   },
   {
    "topic": "Innovation",
