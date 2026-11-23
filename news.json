@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-23T04:59:14.832Z",
+ "updated": "2026-11-23T05:57:55.114Z",
  "items": [
+  {
+   "topic": "5G",
+   "title": "Telstra begins RCS messaging rollout across Australian network",
+   "source": "Telecompaper",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSGEyVmdDUHk5SFBaX0xfbDBzcFItTzFTclVUMjR5OTlqZ2tHOGc2a1dtc3ljM0ZUd1FuaTJ4Mm5YVVdtdmZBS0dzM1pWVUVqTVlfMHlya0hzUTlwWjFoQXJqZU5sdlJJZHVNcHFqeE9EaHNQTDI0bjQ1eEJUTTZfSFJhTmViRFFMWUJaNDVKN2h2TDRMREh0bzh6V3g3bjIwTWRkTGdNazk?oc=5",
+   "date": "2026-11-23T05:42:42.000Z"
+  },
+  {
+   "topic": "5G",
+   "title": "Australia finalises interim 1800 MHz licensing arrangements for rail networks",
+   "source": "Telecompaper",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQazV5SUFnR3h3SUZESHdSUzh2azc2TWFlaHhsN2Z3OENRYnZ1MlhCS3pOUy00NUN0V2I0RGhDR1Bqa1ptaEU2d2prTEZmRU84TFhhRUd4dktSSFlsYS1pajR5THJtdUhlcUdHMUxISnhoVkxBZEJiaTJDUEhtWUwwenRrZGJJSFZqbjMwbTRMUkN4U3ZGdXpNSjlkU3hsM0FJWk1nemdqWmNmeGV0eDRGbmsyV1lHem1kWTd5Sw?oc=5",
+   "date": "2026-11-23T05:17:40.000Z"
+  },
   {
    "topic": "5G",
    "title": "5G Networks (ASX:5GN) Shares Edge Up as Enterprise Infrastructure Remains in View",
@@ -28,20 +42,6 @@
    "source": "TelcoNews Australia",
    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1yaU1TcHZSNTJRTUNUbDd1QVBUUzFXVzlIMlFNT2oyd3oyVFE0UlZWN0VVQ281UGo4RzNXcFA2N1Z6Mk14QWtZajY4aW5qbHc?oc=5",
    "date": "2026-11-19T08:00:00.000Z"
-  },
-  {
-   "topic": "5G",
-   "title": "Grand Theft Auto VI sets NBN download record",
-   "source": "WhistleOut Australia",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRkt4MWtCUnJyUklZeFRuenRmQkJQQXZ4bE1LNjJXMWNGUEdIVlZTdi1Dc2FDOWp2cU8zajVvYW5ibHJHQ1JaX3A2SlJVOFBFcC1wNm45Sm9rdDlOTUJtNk0xaXFoZ1dtb3lGdHR2T2FsSXh6YTZ4VEhlNndIVElEdjdfeXZIZWc1NHpJ?oc=5",
-   "date": "2026-11-19T07:10:34.000Z"
-  },
-  {
-   "topic": "5G",
-   "title": "5G Networks (ASX:5GN): FY26 Revenue, AUCyber and the Integration Review",
-   "source": "Kalkine",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVDNRRkFQTExNSXJIbDAyUHo4aGRKaHFlMnlVUHllMmgyZUtRd3ZzblotTjlmVU1OSlRQVDhSckU4M3E5ZW1MNU4xSXdJcmNrMjNIYzV6TUllR2I4VTN5bWpSME5oRGlMMUppeXJUckJlcUgwcjdJR0E4RFdJbTBlN2xYZWxTWFl3YjVsQy1DdXBqM2tXWktTUWNzcF94SE53M19YWk00cW8?oc=5",
-   "date": "2026-11-19T04:33:00.000Z"
   },
   {
    "topic": "4G",
@@ -136,10 +136,10 @@
   },
   {
    "topic": "DWDM",
-   "title": "Oasis Networks choisit PacketLight pour ses services de longueurs d’onde à capacité modulable",
-   "source": "Eagle-Tribune",
-   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNN2ZUTHFJZnlPTlFRRk0waGpHSkF0WlVFdVRSRkw2RXdQQ0s0czNZUWptLU53d1IzX203UFNYZ05UUDlMMUx3U1pYWVNVZVM3OG8yMUF3MFlWd290dDhZSmp5WG9KMjBxR280LVR3eGpqQTh3UHlCa0VLbmNhR1M3TTg4RWdWOURhWnZJYWYtTmQ2NmsyeUZtWmlEeTBBRGRZV183YjYzc1pFcjlYQnVwNUVNczduYmQ2OHp2bGJIeDdlV3BBeWtVRnp0UEVURzZMbXhmUFE1WkFudy1DSFpLclBIV1ZrRXh1VmFTNExaLTJTQk5TTXRfUVZtcUJ2NU9oQUo1Q0hnVQ?oc=5",
-   "date": "2026-11-17T19:52:24.000Z"
+   "title": "PACKETLIGHT-NETWORKS",
+   "source": "The Facts",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNd1JDeDBMMTUxY1pKd1IzSF9QOVRyUXlnbXFzdmtRV3pqaGhsUl9uUDJkYkZtckpuanlqX2JXei10c1ZiazEzSVdfQ0hpX2c3UGF4ck55T1lVcGliUGtiTVV2Uzh3ZmFlVUpkY2RWUG5IS3YxRzFwekFGNVh5czlORlh0a0tZN3pGVnZFaDhkUFA4V19kR2drMjhPQ3Ztdw?oc=5",
+   "date": "2026-11-17T08:35:06.000Z"
   },
   {
    "topic": "DWDM",
@@ -154,13 +154,6 @@
    "source": "News of Bahrain",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeE1YX2xZWF82dFpLNmxzUXBqZE9EbEFsVGxJNERhbW1FcjhsU2l5bjIyV0Q1dXVIZC0zYlktSFAyZGZPclVnaWdxS1VCWG9IVG9RWHJzTWY2bjU2TmpLWWo2REhDWlZHVHgxSkE3VGxHR0tNSVdSZUliQkF4OHBZdFowUG42anE2TzJjSzBEa1lRcmJidnBlMGc2MEQ?oc=5",
    "date": "2026-11-22T16:14:14.000Z"
-  },
-  {
-   "topic": "Innovation",
-   "title": "India joins 24 countries in global initiative on 6G technology | Akashvani News",
-   "source": "News On AIR",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObjY4NnRCMUVMSXlxeDVpbmdWTC1kZktvakxQSkNpUDBpVEFlOG1PdVAwcmhmMzR1MjEwcDRpYTluaDczV1VvYWpvNm9DUE5YSV9YaXUxSDR4Wmg0WDYyUkZSX2pHRGlpSTNIaVhaUGRqaE5lblhYTHJxOW1ySWpjQl9ncERtd29NQ2tzNWFPVGs0dw?oc=5",
-   "date": "2026-11-22T15:23:03.000Z"
   },
   {
    "topic": "Innovation",
@@ -217,6 +210,13 @@
    "source": "PrimaMedia.ru",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE44bDFWSDVBdHJOXzkyXzA0dzZDVFFScDBqZWVNcjAyQy0zd2JDWWZkdE84OFZ2eHNPRy00SExrZm10dndRa2paRko1SQ?oc=5",
    "date": "2026-11-18T04:02:00.000Z"
+  },
+  {
+   "topic": "Innovation",
+   "title": "Viettel secures telecommunications licence to enter Dominican Republic market",
+   "source": "Vietnam Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZDhvbTVOMk5ONmJXRkxhSGk3N2I3TDZOMlNFLW9laXBkLVlaUV9nRy11M0VkeEhRZDdhMU1aemxJd2tNWVBJTk8xaXRDNFRMdlRUeGszVnZGeUh5V0FyX2NRSGdTM1JIaWhvcmtJREl4c0dfRnBJNDhnWUtfNXZpZmg1dFpmQXdFVEMwVUk0ZThHNkZxRnREWURWcFAxcGUtNTdoemVYemc?oc=5",
+   "date": "2026-11-18T04:00:00.000Z"
   }
  ]
 }
