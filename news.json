@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T00:36:04.371Z",
+ "updated": "2026-11-23T02:04:30.430Z",
  "items": [
   {
    "topic": "5G",
@@ -66,6 +66,13 @@
   },
   {
    "topic": "4G",
+   "title": "Verizon vs AT&T: plan prices, phones, and network coverage",
+   "source": "PhoneArena",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1LMXoxYXh5Z3FQTk5qS3dvQnJFeUhHbkN5M2Zuc2dMTkttNWJXbmd0cXoxMTB4ZkJmM2lDY2gzMFhuWFJ5UXBxMk9Sck5aTHE1c3dyRjBUNkZwWHhlUWdSLWRJUG5yZw?oc=5",
+   "date": "2026-11-20T09:39:45.000Z"
+  },
+  {
+   "topic": "4G",
    "title": "The Best Mobile Hotspots We've Tested for 2026",
    "source": "PCMag",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8zLThOXzNVU2JUaEQ3MWJnai1sVy1oM1F6UDBIRVMyTC1aMTU0bVJWNkdib2F5X2licl8yNXlHY2pqZERTbmdTbkhiYVF3X09JZDJfZGVmOHNFbmNQaDl6dTN3?oc=5",
@@ -77,13 +84,6 @@
    "source": "Technobezz",
    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBtX1A3eEJTZi1vdDlLVVdIVlhpV2k2Zzd6N290eEEtWXQ2eXVxWDdzMDBPY28xMC1ZdVdKT1hOdFVlZHVfMkpMd1RCRDc?oc=5",
    "date": "2026-11-20T08:00:00.000Z"
-  },
-  {
-   "topic": "4G",
-   "title": "Unlimited 5G in India: Eligibility, Caps and What Happens on 4G",
-   "source": "Gizmo Times",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOX1Z1U3RHbUR5Um1qZ0ZNTkJ5bjJwT084NWJ6azI2cldKUG1HT0FsT1RtRDNHUzA3Wno5SXhhMzlwLTJNV0ZmcmxZNmVoUDREaG5vM2k0S29GRy12MFNkX3Exc2J1TDZMZldubXBHZTEtUXJrMU9PS0haclJmZ1ZENmszM244elAwc3VsWlRsQk11bEk?oc=5",
-   "date": "2026-11-19T19:22:08.000Z"
   },
   {
    "topic": "Optical fibre",
@@ -108,13 +108,6 @@
   },
   {
    "topic": "Optical fibre",
-   "title": "Egypt Plans 1.5 Million Kilometres of Fibre-Optic Networks by 2030",
-   "source": "Sada Elbalad English",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSzI5TC0zcENrLUN1bU9RR0ZFRXdraEZ2eHZjMzBXN0RNbTg4SnF5dWhpN0RBRnNFdUVUVEhNa2xDNFJXZ0RnaWFMcTdnMV9QSjNrckZmbFhySDVBcHpGZEZwMFhqSUVoSTZSX3J5V2R0cExoMmJ4cXlva0RxckpHNjQ4WVRkU2xCaXc?oc=5",
-   "date": "2026-11-20T18:05:24.000Z"
-  },
-  {
-   "topic": "Optical fibre",
    "title": "BharatNet to move beyond BSNL-led model as govt seeks private ISP, telco participation",
    "source": "Moneycontrol.com",
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcC0tYjdLcVR2QjlSQWtxR3kzOE1hem9seURmOV9pdW04dExqaTlKNENod0U4WGhKU0QtOEh2dklvOEtHejk2RTdsd1RReS0yd3lmRjhBM2xOWUZOY1NCWVk3YkZzZHJmQmEwZ0VCMklzeWlUclB3azBqb1R5emxPUWJJSEhzbElTcEFUX3czUm1KQVduaU9yMnhZdUJrc2preHBJVXRIbGJ0bkx3NzBDTGJVc1UzUHk1MTZHQVNZRjg1c1I2VUdybTRjRWM3UG5XNktNT1RGRkNkUdIB3wFBVV95cUxQMTRUM0d4MmczOEFueUZNX0FjdkRsWVJ6bVNLQjVuSzVERlhkMHNVdUloQmhINlkyU1FGaURsa2xXT2FhR1hvQ1VzNjJ4S3JzMlFBNXlGUldBYm82eHFZOTFUVUtxaVhUWHlwNGtWbTcycFpXbzVYamFMcEh3WWt5cXZpRjZiWmhBbW40clJUeWx3V2tVb3ZUaU9VbjVBUi1MNTdrVkh4UEpwZDFLRGRYa01jeWV4Z3ZTTmVaYWw2QXNNNm9BdkRaWU5leGZYTTJOaDB3ODlVd3hhNUQ0WDd3?oc=5",
@@ -122,10 +115,17 @@
   },
   {
    "topic": "Optical fibre",
-   "title": "Fiber Optic Media Converter Market Dynamics: Powering High-Speed Connectivity and Network Reliability",
+   "title": "Fiber Optic Patch Panel Market Evolution: Powering High-Density Connectivity and Next-Generation Networks",
    "source": "openPR.com",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOU3V2Tzd2bnhIV1FLOVMtUFdFRy1EUjU4bXByTE5zWXRoZU5FRW9XRjl0NkZZNUJDOE1aeko0NDFfNXZ3VzVsaUhOMzdJYjhYSWN0TFl1YTlPRXBhOGNPREVJdGdCcGQ5SGZXRlBHaTVVN3VCX0ZYRXNqR0hMZy0wRExjcUNFUWpIejFMLVhaYi03UQ?oc=5",
-   "date": "2026-11-20T07:33:18.000Z"
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQanNReWg4a3Nqblp1ZXFvNUNjWlpWYzZ5Y0RfOU1xMTBpWE93d01jQ2RmSkg5dDVDWk9WclBNcldNQ3NMUEtkeTRhR3VzVmh2eFFsQXFVNFgyOE9FQlZiOVhsWnNwZmZyWUhqMm9jZG9FbUNBN3hvWUs3VUQ5V2ZjTkNySnc3Ny02WEwtaWV3?oc=5",
+   "date": "2026-11-20T05:57:23.000Z"
+  },
+  {
+   "topic": "Optical fibre",
+   "title": "NTT and SSC Space explore global network of optical ground stations",
+   "source": "Telecompaper",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYmloSDJPLWN1ekpvWW5EMmUxaVJSN04wQnZnWGRGUFdUWllwREN4Vmc0MmdfckRnRkt0aFphYVpxV2MwOUZ1dldhVWNocW9Ha3hxMmtKbjJOSW45RWlJLXBqeWZmTnJmekk2TmtFc0ZDVFNJa05MbDVDNXp4M2h4T0FGSlJvSThiWkgxa3ZvbUdjcFQxQ1pFbzJfX3VGdGlERXZaYW50OEQyWU1Dc2tB?oc=5",
+   "date": "2026-11-20T05:29:21.000Z"
   },
   {
    "topic": "DWDM",
@@ -133,6 +133,13 @@
    "source": "The Fast Mode",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQnk1Tno5VU1DalNjR0pIQkhYTEtobGJNWm1oc1BvYWhoRVVOeTVBVmlpc2NnNWd0amtmcV9Ick5Gc3hYN09fWlRkZjkya25Ec2E1cjNEdDNrMXVFZGROa2R6NEh3c2Exb0daRVRMc0Z6ZkF1cG5SNnc5RDNybmxoU0JKcWJCTGNHbEhLVTRLVkNhTHFCajR6RVZ2ejZqNTlER2pONEczNm9NVmJwT2xjQi02OHE5UkxoN0VQUlYxN2RqNnhHQ0NRVXRjTlBiRWk0?oc=5",
    "date": "2026-11-19T23:29:32.000Z"
+  },
+  {
+   "topic": "DWDM",
+   "title": "Oasis Networks choisit PacketLight pour ses services de longueurs d’onde à capacité modulable",
+   "source": "Eagle-Tribune",
+   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNN2ZUTHFJZnlPTlFRRk0waGpHSkF0WlVFdVRSRkw2RXdQQ0s0czNZUWptLU53d1IzX203UFNYZ05UUDlMMUx3U1pYWVNVZVM3OG8yMUF3MFlWd290dDhZSmp5WG9KMjBxR280LVR3eGpqQTh3UHlCa0VLbmNhR1M3TTg4RWdWOURhWnZJYWYtTmQ2NmsyeUZtWmlEeTBBRGRZV183YjYzc1pFcjlYQnVwNUVNczduYmQ2OHp2bGJIeDdlV3BBeWtVRnp0UEVURzZMbXhmUFE1WkFudy1DSFpLclBIV1ZrRXh1VmFTNExaLTJTQk5TTXRfUVZtcUJ2NU9oQUo1Q0hnVQ?oc=5",
+   "date": "2026-11-17T19:52:24.000Z"
   },
   {
    "topic": "DWDM",
