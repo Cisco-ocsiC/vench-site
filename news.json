@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T10:44:34.025Z",
+ "updated": "2026-11-24T11:44:53.418Z",
  "items": [
   {
    "topic": "5G",
@@ -31,17 +31,24 @@
   },
   {
    "topic": "5G",
-   "title": "Australia finalises interim 1800 MHz licensing arrangements for rail networks",
-   "source": "Telecompaper",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQazV5SUFnR3h3SUZESHdSUzh2azc2TWFlaHhsN2Z3OENRYnZ1MlhCS3pOUy00NUN0V2I0RGhDR1Bqa1ptaEU2d2prTEZmRU84TFhhRUd4dktSSFlsYS1pajR5THJtdUhlcUdHMUxISnhoVkxBZEJiaTJDUEhtWUwwenRrZGJJSFZqbjMwbTRMUkN4U3ZGdXpNSjlkU3hsM0FJWk1nemdqWmNmeGV0eDRGbmsyV1lHem1kWTd5Sw?oc=5",
-   "date": "2026-11-23T05:19:33.000Z"
-  },
-  {
-   "topic": "5G",
    "title": "5G Networks (ASX:5GN) Shares Edge Up as Enterprise Infrastructure Remains in View",
    "source": "Kalkine",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQckZVUTk2Zkt1UTY4MnhoV2w0UGJfeklaU01ZQWZZMXo1bmJBSXZVVzdIWVo2VF9SUVRCRjdrOWNnV0tibVE5VGczd0V5aFRzaGFIUGxxNmRMNzQ1bWY3eDl1MmFsQkNMSEpIQ1lRWHlzMVVTb1ZKT181eHUweF9hRE1SVVNoTk1ZTGl0ck1LOGRyR1RKelBDOWp5dnNVRS1CcFZTWXZERk9rQkwzckgtaFZjMTdOZml1?oc=5",
    "date": "2026-11-23T02:58:00.000Z"
+  },
+  {
+   "topic": "5G",
+   "title": "‘Invest in redundancy’: Expert highlights Australian 5G and 4G networks at risk of attacks",
+   "source": "News24",
+   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQWWpySzVrRV85eTd3NDgwakRoMl9SQXhheUxZeGJBalU1RDlTZUx1U0RGcTNEaEE4bzBVSjAyQ1ZkZDNYVjJZamw1Rk15eGpCbGNHckZIWWdOWGRORWpEZDRSbHJSSWxpWl9XLTJMREJ4Tm1wM3h2SGp5UFAwaHhYV1dJdWhCTWJJRHlqUVBEREdTY01RZnNhbUc3TWl3bi1qV2xraFZyRm5TSEkzbU9mVm45djdxd1YzbWd0dWRRazMzZzNzTGtpWHV2ZnpacG4wcHMtaHhyS1E5bENYd3M5TEU0ZGVOUkJ0bk0yWFpHQmJPd2ZHeUN2djl5RnVqLUphME5vUkhwc3JSN09iYnfSAZMCQVVfeXFMTmdNeVFEQnF4dlpTR1FxVmJVcmZocHM3Ny1sRGRtU0daUUowVWZiQmplTWR0a3lzRC1aMlQ0VXZzQmZpdGQyMEUwNGt2WnhNMHFNU3l1VVVrbEFKTWNqY3dXV1kyYUQ5cGRTZkhNZ01NRnBhZUd2Q1JsYXlGZ3h2MnZZTER2Uk5qSHgtZ0ZCZWJObDYzam1SMDY3anlJOFd1WmNTbEgwcmZySFdiUVRLcmRjMHBGWWh4ODZ5OFdoSlZnSzF1OVZBbXYwd2hWTU5HZlp3VlNHUFlhdmpZeW9qWG5ObWp2eWZKSXNHcEVDZnNicHc0Z2c3bUt5Tlg2UndNSk04Y2J1cmlJMFZFdW1PbTdsZXM?oc=5",
+   "date": "2026-11-22T10:34:27.000Z"
+  },
+  {
+   "topic": "4G",
+   "title": "German industry groups urge network regulator president to adjust regulatory framework",
+   "source": "Telecompaper",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTkpsS0E3UWs1V0U3SE1aM01oZFUzUTRIUVNNOW9TQVdLd2syYU9vdG1VY3FlX0RNZGpVQ2FlODNtUUJVa2djMzlOQkNfUXlfMy1LSGJETmFiNHVjWDQ5aEVWNXBkN0d3aGQ1QnctMlhyRC1PT0Y2d0JPVHdyQi04aVBWdHltT25EQzVORFRsMm13Z2tTSGo3M2V4cllfTHkyUHc5UnBvSDlIOFpSZEVkZUxJc29QTks1c0hreWhOa2U3Ml9tMHMwSA?oc=5",
+   "date": "2026-11-24T09:51:19.000Z"
   },
   {
    "topic": "4G",
@@ -60,9 +67,16 @@
   {
    "topic": "4G",
    "title": "D-Link launches 4G LTE Wi-Fi 6 USB adapter for ANZ",
-   "source": "FutureFive Australia",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPd29LdFBrU1J5YTJqVVJINDdPdkpwbWJYZkZZTWd5TVhCaDRLX09LTzVzU0dnZ1B4aUt1UmJsOVF2MWlBbk0wUFcycmRGWERNUDd4bENEdlFISy1lLWgwdi14YXBZNUQ5LW1VaElBdW04am50MUMxNlU0VjF4dTdmMXFVTDQwZWNxa3c?oc=5",
+   "source": "futurefive.co.nz",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTkFxYXdjX3FScEE1ekR5Qk8wX3ROZkVseEFOMlhuNGgxTGpWODF6OVZzXzc4cUZfS0VoaHdnQXAzOUdKNVhHRVVnUDNEWjh5Z3FMaWxDbmNSck1NcE9fQXBwV1dHbjVRSFB4ajZ4d25SS1ZLQ2lMNG11ZXVKYjFKR0YtZEVwQ29w?oc=5",
    "date": "2026-11-23T22:52:00.000Z"
+  },
+  {
+   "topic": "4G",
+   "title": "NCC: 52% of 5G-capable device activity in Abuja ran on 5G in August, 44% in Lagos. What it means",
+   "source": "TheRadar",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdWNWazVQMDVXUjBONk5yWWpTYWJNNVhPME56a1JZT0Ezbmo3N2ZnclRrZVRCMGtzOXVQeW1vRnR4TF9fYU9FVElGX01nQTdDMDFIR2FKYWlCcTRHd2hCSlpZX29NNHBRdHJrMmVtcHJURnhLQzA4Rk4zSmltMzREM2ZGcEp2NUN5NlVrd1ZSVGJUV2d6X2N3cUFYNVFiSlF0MkNXWWdEQ3g2X2xjcHlOU1dza1NjeEdWdzExMkc1Q29jY1pocmNnSlF3?oc=5",
+   "date": "2026-11-23T18:30:01.000Z"
   },
   {
    "topic": "4G",
@@ -70,20 +84,6 @@
    "source": "TelecomLead",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcVFHS0hCMElBa1RYeGp4R2hjeUExajhNWFoxWXdLMndoYjI5TFFtcDdTSE50bkk5cmU0MWZ0UGhoOXZsUVlrUTNTaEdPQS1yRUluYjRoRnFDcF9QdHZNVXN6cDRYRWlpem94ZUJSeHhVdmIzOTljM2ExN1ZRUXBuandqMHU1RktJTXN6N9IBlAFBVV95cUxPWWpRZzhxVDBCd1k1Q3lyYjIwY05lcmUxSTZhc3Zlcm5qTE8tM3oyM3BSb1RGd0lsWjB1eXVhemRlUHlYZ2JsMTF1Y29jWk5QdjUxc3ZwX3lZTy1jcWhmTXpKc0NKZDZYd3dPYWFKSDFxYWtyaDdOVkZFSEVidkN6RGdnMVNrbEMyQjUwZHBwN3VKWWZi?oc=5",
    "date": "2026-11-23T18:25:31.000Z"
-  },
-  {
-   "topic": "4G",
-   "title": "5G Not Showing? Fix a Phone Stuck on 4G in India",
-   "source": "Gizmo Times",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNd2pLT3lFN0RsV2gwYkxXMVp6ZnhJaXJoY1YyS25pMU1wMTFfbE53V3R6WGJFOVF5cGlRVUkyTUJkNDFaZWM4WmhkelpPbUR4SmJKbThUczl5clhBUWhySVFDQUdYUk9WTmNSR2FtYUQ4VXh2c3hLRHpzMzRoRUhwcEFtMVVvTjRiZXdV?oc=5",
-   "date": "2026-11-23T08:39:40.000Z"
-  },
-  {
-   "topic": "4G",
-   "title": "Switch 2 Gets Battery-Free 4G Adapter at ¥16,980",
-   "source": "shattered.io",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOU3ZCS0J6QjQtdmNNSmVmUV9UNm5Ea2xJVEgzaUU1TUVYQW9lQjhScWFPRlQtTW5aWE9ObTVKQnpjMFVLOFE3aER4T1dvTlJSR3FpWHE3WFBLZi0yWFRtb2c4VlZEeW5rZUVpYnF5Smx3bkpnSWtDSDQzNHdkaV9YbzhaZHRXUENEQTVNb1dldG8tMFQ1dlhoWA?oc=5",
-   "date": "2026-11-23T05:47:40.000Z"
   },
   {
    "topic": "Optical fibre",
@@ -129,13 +129,6 @@
   },
   {
    "topic": "DWDM",
-   "title": "Optical Wavelength Services Market to Reach USD 4.81 Billion",
-   "source": "openPR.com",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaFJTRzlrYlFlbVZnLVZEZ3E0a0pHTS1oaGZXazR4SkxFenRIYVhnWF9Jb3V1N3VMZWpxUUZIREFKT0FYNHdDeXBvM3E1Z21WX3RlR0FTdElPZk1sT1kyQlFxakRwNm5JQUhuaEtWWkNjdWRrUVNsc2U1WXN1ODg1QmFIY3pjckRRUlV5UW1zZU1UZGRGaDJjLUEwLU8?oc=5",
-   "date": "2026-11-20T09:45:37.000Z"
-  },
-  {
-   "topic": "DWDM",
    "title": "PacketLight Powers Oasis Networks’ 800G Burstable Wavelength Services in Portugal",
    "source": "The Fast Mode",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQnk1Tno5VU1DalNjR0pIQkhYTEtobGJNWm1oc1BvYWhoRVVOeTVBVmlpc2NnNWd0amtmcV9Ick5Gc3hYN09fWlRkZjkya25Ec2E1cjNEdDNrMXVFZGROa2R6NEh3c2Exb0daRVRMc0Z6ZkF1cG5SNnc5RDNybmxoU0JKcWJCTGNHbEhLVTRLVkNhTHFCajR6RVZ2ejZqNTlER2pONEczNm9NVmJwT2xjQi02OHE5UkxoN0VQUlYxN2RqNnhHQ0NRVXRjTlBiRWk0?oc=5",
@@ -164,6 +157,27 @@
   },
   {
    "topic": "Innovation",
+   "title": "China launches 6G innovation pilot across eight provinces and municipalities",
+   "source": "China Daily",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1hb0pfbV9rWVktbVVqZXNhWXlPUkdWVms5bzlrX2tNNWRnQVhiWnJfemxsdjZRNnNBTVNfNmlZRzZZdC1SQmtCckZIUEl5ZEtCUUp3ZUZ4eXZXOGhNNDAzSlhZTjB4a0ctNEh3OVljV0NFZS1NODdPTkFwMF9VUQ?oc=5",
+   "date": "2026-11-24T11:40:12.000Z"
+  },
+  {
+   "topic": "Innovation",
+   "title": "China ranks among global leaders in 6G patent applications",
+   "source": "Xinhua",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5xbzN5QWlZbFNCZ3o4ZlhYVWM4alBpei14Ui1fc0UwQjMzRkdkTGhyWjJXQlZMdVYzdTktRHVTWnloRnBia2YzYk0xZVpFbzlkSUtnVkx1ZWlMZWJ2U2xDZHpjNVZ6Q1JiUV9tYWFUNUotdzZ2MUpMcVRsamI?oc=5",
+   "date": "2026-11-24T10:45:15.000Z"
+  },
+  {
+   "topic": "Innovation",
+   "title": "India joins 24 countries in global initiative on 6G technology | Akashvani News",
+   "source": "News On AIR",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObjY4NnRCMUVMSXlxeDVpbmdWTC1kZktvakxQSkNpUDBpVEFlOG1PdVAwcmhmMzR1MjEwcDRpYTluaDczV1VvYWpvNm9DUE5YSV9YaXUxSDR4Wmg0WDYyUkZSX2pHRGlpSTNIaVhaUGRqaE5lblhYTHJxOW1ySWpjQl9ncERtd29NQ2tzNWFPVGs0dw?oc=5",
+   "date": "2026-11-24T09:31:40.000Z"
+  },
+  {
+   "topic": "Innovation",
    "title": "6G declaration in Shanghai calls for unified global standards, open cooperation, sustainable innovation",
    "source": "Global Times",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE94YjdnbXAtdmhUTjR2Q2JXZnpUcHRoQnhBUTRyYUlKYy1PQmRmWE54Uk1SZ3YxV2NtcDg4RzRhbTVOSVNZTWNHRG8xemJZd2RkUDBHOFRCOVcwVEotVG9VVURB?oc=5",
@@ -185,20 +199,6 @@
   },
   {
    "topic": "Innovation",
-   "title": "India joins 24 countries in global initiative on 6G technology | Akashvani News",
-   "source": "News On AIR",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObjY4NnRCMUVMSXlxeDVpbmdWTC1kZktvakxQSkNpUDBpVEFlOG1PdVAwcmhmMzR1MjEwcDRpYTluaDczV1VvYWpvNm9DUE5YSV9YaXUxSDR4Wmg0WDYyUkZSX2pHRGlpSTNIaVhaUGRqaE5lblhYTHJxOW1ySWpjQl9ncERtd29NQ2tzNWFPVGs0dw?oc=5",
-   "date": "2026-11-23T22:23:04.000Z"
-  },
-  {
-   "topic": "Innovation",
-   "title": "Mobile Telecommunications Co KSC (KUW:ZAIN) (Q3 2026) Earnings C",
-   "source": "GuruFocus",
-   "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxOTTBjVkk3WVk5U2V6enRNY1ZMY2FTazBSMEJlNW5tQ2taMFc3VFZnYlVIbHI4UVUzb09zaWUwX3ljWDUyOFZqbUVSaC1NX1M4SElSYWdhLVBqOWtVUnZIbGFDR09tRWM0QUQybDlaNV9MRVVxMXRwdERFLUNwODUwVlU4dlZmbGxTVlpONVNDbDg1cVNtRGdmVHFPa3V2LW5MQjAwZG1uUVhyd1JUVEttc2Z3QTlqejdHTGZZX3J1eHprUFVhLVBqOXdDVDV1OGZ1WUItUGl1V1VoR2xaYjJPVkxPdWR0WFVVVFd6UVZkRXBRUlZjNXNOVDhOSGtaTEVMQy1MS1RIdnhiWEszcUozTndCOGlCY3RGZUdzYXRR?oc=5",
-   "date": "2026-11-23T18:30:04.000Z"
-  },
-  {
-   "topic": "Innovation",
    "title": "Chinese researchers hit record 27 Gbps speed in 6G satellite test",
    "source": "ARYnews.tv",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOR0VsSndweGtCdmJ3THNXai1xT2QxcUJuQ2RvUWlmZ0ZTSUx3M1BCUUc2bGJyWUt1Z3NXbGNYbGdoV3NxTHRqTEo3RDh5QTlpNXczNVpBUDlXcW5wQWpHOHVVaWVURXlnY2hQS05SX0NvRThEUm5abWhPQ2cydDNtT1RLMldQTnl3eE5IQw?oc=5",
@@ -210,13 +210,6 @@
    "source": "RCR Wireless",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LN1FsOTBBNklHZ1BvaDZ4azNjQnVLWF94N3QtZGd1bE5keHJ1eXFzMWJiME9JcHpHeTRjOUVqTVlZenlna29PM3ctR2NSNEx0NHVIZDR6aV9YazNoUE95TE1VTExsc0U?oc=5",
    "date": "2026-11-23T14:28:37.000Z"
-  },
-  {
-   "topic": "Innovation",
-   "title": "MTN Nigeria invests in network expansion to meet growing demand",
-   "source": "Innovation Village",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbzlsWUFjT2dnODJPeHQxckZ4SjItMGtmRFRlajQ3VnZWd1pBeXAtT3lDdy1wWWhKTnJveTMzRkdORXRzODNGVzJTenZGS0hiQkpDUzY4TWpjZHhqakp3UFFuZDEyRURaX2NDLXBEdVU1RV9xQktpblVZN0dJaFlqbFhZUEZqdmtKdWhCc3B3RlBDdzFZTDVjMllEbw?oc=5",
-   "date": "2026-11-23T13:23:02.000Z"
   },
   {
    "topic": "Innovation",
