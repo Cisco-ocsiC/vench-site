@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T05:47:36.230Z",
+ "updated": "2026-11-24T06:50:36.233Z",
  "items": [
   {
    "topic": "5G",
@@ -66,6 +66,13 @@
   },
   {
    "topic": "4G",
+   "title": "NCC: 52% of 5G-capable device activity in Abuja ran on 5G in August, 44% in Lagos. What it means",
+   "source": "TheRadar",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdWNWazVQMDVXUjBONk5yWWpTYWJNNVhPME56a1JZT0Ezbmo3N2ZnclRrZVRCMGtzOXVQeW1vRnR4TF9fYU9FVElGX01nQTdDMDFIR2FKYWlCcTRHd2hCSlpZX29NNHBRdHJrMmVtcHJURnhLQzA4Rk4zSmltMzREM2ZGcEp2NUN5NlVrd1ZSVGJUV2d6X2N3cUFYNVFiSlF0MkNXWWdEQ3g2X2xjcHlOU1dza1NjeEdWdzExMkc1Q29jY1pocmNnSlF3?oc=5",
+   "date": "2026-11-23T18:30:01.000Z"
+  },
+  {
+   "topic": "4G",
    "title": "Telecom news: MTC Namibia, NuRAN Wireles, MTN Benin",
    "source": "TelecomLead",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcVFHS0hCMElBa1RYeGp4R2hjeUExajhNWFoxWXdLMndoYjI5TFFtcDdTSE50bkk5cmU0MWZ0UGhoOXZsUVlrUTNTaEdPQS1yRUluYjRoRnFDcF9QdHZNVXN6cDRYRWlpem94ZUJSeHhVdmIzOTljM2ExN1ZRUXBuandqMHU1RktJTXN6N9IBlAFBVV95cUxPWWpRZzhxVDBCd1k1Q3lyYjIwY05lcmUxSTZhc3Zlcm5qTE8tM3oyM3BSb1RGd0lsWjB1eXVhemRlUHlYZ2JsMTF1Y29jWk5QdjUxc3ZwX3lZTy1jcWhmTXpKc0NKZDZYd3dPYWFKSDFxYWtyaDdOVkZFSEVidkN6RGdnMVNrbEMyQjUwZHBwN3VKWWZi?oc=5",
@@ -73,24 +80,17 @@
   },
   {
    "topic": "4G",
-   "title": "5G Not Showing? Fix a Phone Stuck on 4G in India",
-   "source": "Gizmo Times",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNd2pLT3lFN0RsV2gwYkxXMVp6ZnhJaXJoY1YyS25pMU1wMTFfbE53V3R6WGJFOVF5cGlRVUkyTUJkNDFaZWM4WmhkelpPbUR4SmJKbThUczl5clhBUWhySVFDQUdYUk9WTmNSR2FtYUQ4VXh2c3hLRHpzMzRoRUhwcEFtMVVvTjRiZXdV?oc=5",
-   "date": "2026-11-23T08:39:40.000Z"
-  },
-  {
-   "topic": "4G",
-   "title": "Switch 2 Gets Battery-Free 4G Adapter at ¥16,980",
-   "source": "shattered.io",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOU3ZCS0J6QjQtdmNNSmVmUV9UNm5Ea2xJVEgzaUU1TUVYQW9lQjhScWFPRlQtTW5aWE9ObTVKQnpjMFVLOFE3aER4T1dvTlJSR3FpWHE3WFBLZi0yWFRtb2c4VlZEeW5rZUVpYnF5Smx3bkpnSWtDSDQzNHdkaV9YbzhaZHRXUENEQTVNb1dldG8tMFQ1dlhoWA?oc=5",
-   "date": "2026-11-23T05:47:40.000Z"
+   "title": "Smart and Elveo Mobile Successfully Test Direct-to-Device Satellite Connectivity on Key Philippine Sea Route",
+   "source": "TMCnet",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wcUhpaFhvNkw3eWZsVmVRd1pNaUZxM21paFprOTEwbFNUaFd1NWgtcXp1UHhyWFRYeUE0YjUzaVJCeW5BTW82WDNTcGhCbURsS1U2VHRfNS1pTDFtZDY5WA?oc=5",
+   "date": "2026-11-23T15:03:49.000Z"
   },
   {
    "topic": "Optical fibre",
-   "title": "ATF 2026: La Réunion launches a new Africa-Asia subsea cable project",
-   "source": "Connecting Africa",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTkhNY2pJZzkyS24yLWVsbmM0ZkpuNi1vdlBwMDQzeE81Y2JrWFJfZ3JCNFlvd0FteS11LUlfeWRFeXhqSVJkYVN0dXpZdWpxT21ITkhudV91azBqUmpMelJkM1hxa095bGZaaTlBYXg5MlRxRXN5VzB0bDBtNzRXZlpiT0ZWSW9SMzZSRHVHbnRtWWRLYl8tNUtHZnIzZnE3T0JTbVN5bDdjMG5XQWxhZ1lkZVByUEJD?oc=5",
-   "date": "2026-11-23T15:09:00.000Z"
+   "title": "Du joins Singapore-India-Gulf submarine cable system",
+   "source": "DD News",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZFRodmNxX09iRnBjd3dObDQ0eDVNZ3Qzdzdidk1EdUlITEJKUHgyUFFGdjhmTi1wQ2EwaHd2YU5yNXU4WElTMG5UOHRkTFNnOHpzU1BMZmdrcnRrM1l3YnZxWUgzNGs0WUJyXzN2Xzh4MFJqTUlRWHVEWUhYbmN4QW5PT3Q?oc=5",
+   "date": "2026-11-23T12:20:07.000Z"
   },
   {
    "topic": "Optical fibre",
@@ -108,24 +108,31 @@
   },
   {
    "topic": "Optical fibre",
-   "title": "Savanna Fibre plans to reach 1 mln more East African homes in 2027",
-   "source": "Telecompaper",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSDBZXzZxTEJXUVlJSzhuMDJGa3I1WmFSTTZPYk5ZWUZXa0laVVk4SkVLMkIxTnVXajdQQ1ctemVuSlhnS0d6NU5sVmlsV2ZaOFB1aVVleWN5eV9xYVVQYUYzU0JOTWh3RWZsOHQzYkdFYzNGS29mM2s0Y3ZYS0JUdHAxRjFHOXZVTnBVRkRHWVQzMUE1VW5tUUhrQzUwLXBOelVrNnI1dEdaSFdhdXc?oc=5",
-   "date": "2026-11-23T09:52:28.000Z"
-  },
-  {
-   "topic": "Optical fibre",
-   "title": "Omani mobile networks cover 99% of population, fibre networks reach 72% of homes",
-   "source": "Telecompaper",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeEh6VktTMzB3OFc0Ykc2Q1RHaG1MM1FkV2tMQWZQWnduSXFkYTU1N2ZwV0dRNGV4aUdKWVhCMG9ibWRESFpNUzYyeFFDZnVUUEVFUU1ZZDFubWhiTVJSNzA1bU9ITURrb29YQ1VNME10bFB0Y0ZnYTRyX0txbklLQUsxUjMyR04tSlY3Q3BJbVFzUUdSbFdrUTZ4SkI2TXpXMnlmOTF1Tk1FV001VzlvdzZaekg5QllKVWJweA?oc=5",
-   "date": "2026-11-23T09:42:26.000Z"
-  },
-  {
-   "topic": "Optical fibre",
    "title": "FiberCop deploys hollow core fibre in Turin network",
    "source": "Telecompaper",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORVJOMHdySWxYUDVHaUdWbGJ1anFydmZmMFJmMU1mRXlfV0xyZTJjRkNXNlJzcXg2aGF0V0g3SGFSMWp5N2ZYNUxySlQ2b0x3NTdJU09ZZmtGdkRtdTdEdDljbHF4Qms5bnpEWVQ5X1k4MFZPcGVicDBuRFd0ZFpxVGlJMzMwcWptR2xOZTRHeFFiQnIzbkU3Zjl3?oc=5",
    "date": "2026-11-23T07:49:47.000Z"
+  },
+  {
+   "topic": "Optical fibre",
+   "title": "Top 10 Outdoor Armored Optical Fiber Cable Manufacturers: Ranked Comparison",
+   "source": "EIN News",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeUdmaUVudURKUkF3MjR4dk1SRko5WExyUzgzNEpJdEd2UjJIR21BZGhqa2x0NzEtYVhFOGRKTjM4bWlYVExOSjctX3d6b1p2X0M2YlZ1T2p1andOR1FKRUQtUzRxTnp0ZUlSa1EteE1PVWhJZzNvU3J5eDZnMzYzd1Z3ZlVPMGRHejBpN2FKOEJCaWcxM0NpQjJmamhLSkNDN0NUZThOOTVIS19yRmRDbzF0Z0J5eG8?oc=5",
+   "date": "2026-11-23T02:48:00.000Z"
+  },
+  {
+   "topic": "Optical fibre",
+   "title": "PANI project to connect Andaman's eight islands through undersea cable network",
+   "source": "ET Telecom",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaHVncTY1SE5hcjRRTU52Wm9QQ2ZSeHJ3Z1BfWGw3Q1FaR0JpMFB3Qmlma1FyUE9kSmJaMVBjamZtS1RTSkliaWRIQl9DampETFN3S0tmZzVQbGh2UllWYXFXSTBPbDdzMG0tdngzalJRaFRFbV9GV1J3cDY0S1ZTTDB5aEtvVkpsR3gyV1cxMVh5d012dW5KUzZrOUdKYjdCVndOWFVCWG53RzZDVmxRVWlUS0dZT0NudTU3andDaDRTZzVyblM1TDIxQlU5eVhUbjdpSmNNRG1tdHZzVGVSMHlB0gHiAUFVX3lxTFBodWdxNjVITmFyNFFNTnZab1BDZlJ4cndnUF9YbDdDUVpHQmkwUHdCaWZrUXJQT2RKYloxUGNqZm1LVFNKSWJpZEhCX0NqakRMU3dLS2ZnNVBsaHZSWVZhcVdJME9sN3MwbS12eDNqUlFoVEVtX0ZXUndwNjRLVlNMMHloS29WSmxHeDJXVzExWHl3TXZ1bkpTNms5R0piN0JWd05YVUJYbndHNkNWbFFVaVRLR1lPQ251NTdqd0NoNFNnNXJuUzVMMjFCVTl5WFRuN2lKY01EbW10dnNUZVIweUE?oc=5",
+   "date": "2026-11-23T02:39:43.000Z"
+  },
+  {
+   "topic": "DWDM",
+   "title": "Optical Wavelength Services Market to Reach USD 4.81 Billion",
+   "source": "openPR.com",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaFJTRzlrYlFlbVZnLVZEZ3E0a0pHTS1oaGZXazR4SkxFenRIYVhnWF9Jb3V1N3VMZWpxUUZIREFKT0FYNHdDeXBvM3E1Z21WX3RlR0FTdElPZk1sT1kyQlFxakRwNm5JQUhuaEtWWkNjdWRrUVNsc2U1WXN1ODg1QmFIY3pjckRRUlV5UW1zZU1UZGRGaDJjLUEwLU8?oc=5",
+   "date": "2026-11-20T09:45:37.000Z"
   },
   {
    "topic": "DWDM",
@@ -143,9 +150,16 @@
   },
   {
    "topic": "DWDM",
+   "title": "PACKETLIGHT-NETWORKS",
+   "source": "The Facts",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNd1JDeDBMMTUxY1pKd1IzSF9QOVRyUXlnbXFzdmtRV3pqaGhsUl9uUDJkYkZtckpuanlqX2JXei10c1ZiazEzSVdfQ0hpX2c3UGF4ck55T1lVcGliUGtiTVV2Uzh3ZmFlVUpkY2RWUG5IS3YxRzFwekFGNVh5czlORlh0a0tZN3pGVnZFaDhkUFA4V19kR2drMjhPQ3Ztdw?oc=5",
+   "date": "2026-11-17T08:35:06.000Z"
+  },
+  {
+   "topic": "DWDM",
    "title": "Oasis Networks Selects PacketLight for Burstable Wavelength Services",
-   "source": "Via TT",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZkt6ejhxOXA1VnRuazJtX19tY1R5QndfNnF1Ni1qOHhKaHpPS3o0Vmw3WmZNR0JGdFhwWENEcXVMd0VZMW9VS3FFUXhGdnRORDFqbkp6MmJjcmd1RFktRkV0LTVVNmMyREN6TjljSkVhc1g3ZHpJdzFGSTJwZ0hRZmVaTkRBNUF5azRaYjg1aUlFT1FwMjVBYTB0VFFHRFB3bGwzWFZIc1NUWXloZjVJY3luUThGeDlkMVExUFlVU3JTdFpFUko2TlRoUHRxZlplWXc4?oc=5",
+   "source": "AFP.com",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONGNROFhieGc2VXpDU3E0WU9xazQtQkJ5aGVCS1RFck9vOW1oRGxzU3F4NGQ0MWtHWld6S3dxVE0zV1lLQWM3eUhtVkljeXRVRXFBS2lmYWJpR3U5OTJ0Z25vek1ja3cxU3RaZUVla0lwQmh2LXBlN3VlYl91UktPZjluQW44a0EwS3h1U0dUdWRCRHY4MTlBMHl0NUxqNVRiSlgxUG43UldENlpYaXFhbzE2cTJBWkIwbXlaUQ?oc=5",
    "date": "2026-11-17T08:35:00.000Z"
   },
   {
@@ -164,13 +178,6 @@
   },
   {
    "topic": "Innovation",
-   "title": "Keysight Orders Surge on 6G and Satellite Demand",
-   "source": "Wisevoter",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPXzlIYkNMcEQ2WjNzZ2FjTGozaUFCZkhIbXJCdV9JRE91MGEyck5RdHFVQWVUNktfeHlVckVYWTlJTU1ZdkJVRjdJMDF0bWJ1bkRyeVplYVFWRUV0aHNnQ29XaEdWaEpaUF9DVXdpbHNELTRMRjQySk5rT2syRmZRSV81bnNjb0d2OHhR?oc=5",
-   "date": "2026-11-24T00:44:06.000Z"
-  },
-  {
-   "topic": "Innovation",
    "title": "India joins 24 countries in global initiative on 6G technology | Akashvani News",
    "source": "News On AIR",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObjY4NnRCMUVMSXlxeDVpbmdWTC1kZktvakxQSkNpUDBpVEFlOG1PdVAwcmhmMzR1MjEwcDRpYTluaDczV1VvYWpvNm9DUE5YSV9YaXUxSDR4Wmg0WDYyUkZSX2pHRGlpSTNIaVhaUGRqaE5lblhYTHJxOW1ySWpjQl9ncERtd29NQ2tzNWFPVGs0dw?oc=5",
@@ -178,17 +185,17 @@
   },
   {
    "topic": "Innovation",
+   "title": "Mobile Telecommunications Co KSC (KUW:ZAIN) (Q3 2026) Earnings C",
+   "source": "GuruFocus",
+   "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxOTTBjVkk3WVk5U2V6enRNY1ZMY2FTazBSMEJlNW5tQ2taMFc3VFZnYlVIbHI4UVUzb09zaWUwX3ljWDUyOFZqbUVSaC1NX1M4SElSYWdhLVBqOWtVUnZIbGFDR09tRWM0QUQybDlaNV9MRVVxMXRwdERFLUNwODUwVlU4dlZmbGxTVlpONVNDbDg1cVNtRGdmVHFPa3V2LW5MQjAwZG1uUVhyd1JUVEttc2Z3QTlqejdHTGZZX3J1eHprUFVhLVBqOXdDVDV1OGZ1WUItUGl1V1VoR2xaYjJPVkxPdWR0WFVVVFd6UVZkRXBRUlZjNXNOVDhOSGtaTEVMQy1MS1RIdnhiWEszcUozTndCOGlCY3RGZUdzYXRR?oc=5",
+   "date": "2026-11-23T18:30:04.000Z"
+  },
+  {
+   "topic": "Innovation",
    "title": "Chinese researchers hit record 27 Gbps speed in 6G satellite test",
    "source": "ARYnews.tv",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOR0VsSndweGtCdmJ3THNXai1xT2QxcUJuQ2RvUWlmZ0ZTSUx3M1BCUUc2bGJyWUt1Z3NXbGNYbGdoV3NxTHRqTEo3RDh5QTlpNXczNVpBUDlXcW5wQWpHOHVVaWVURXlnY2hQS05SX0NvRThEUm5abWhPQ2cydDNtT1RLMldQTnl3eE5IQw?oc=5",
    "date": "2026-11-23T16:36:22.000Z"
-  },
-  {
-   "topic": "Innovation",
-   "title": "Malawi partners Aton Path to develop national energy and telecommunications infrastructure master plan",
-   "source": "Tech Review Africa",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOOFBKcFJVeEs4Sm1vTi1ZR2xXcllwVXVzbHhQeTc0bFJVbS1Ka0w5MGdGSXBYbUxjN2sxRmZkc1VVUmVyQ0k3eUtaYXhrWjd2NFlVTHVSTWp5YzBJUzF2anBNSFRvOGsyMWItQ1hSYjdKWEU0VWt1Wlg4Ri1ydE4wNnltcTVacUdOZTYwcWs3R2diakZuekhsa0swQUFZb0gteEdMSWQzeWhEeUlrR1ZuUnFHLTFPd2NhWTliVC1PdTRPSUZRaER4RVZzUEZCYmYtUFlRbzlZMXQ?oc=5",
-   "date": "2026-11-23T15:06:39.000Z"
   },
   {
    "topic": "Innovation",
@@ -206,10 +213,10 @@
   },
   {
    "topic": "Innovation",
-   "title": "Bahrain ranks fourth globally in telecom infrastructure",
-   "source": "News of Bahrain",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeE1YX2xZWF82dFpLNmxzUXBqZE9EbEFsVGxJNERhbW1FcjhsU2l5bjIyV0Q1dXVIZC0zYlktSFAyZGZPclVnaWdxS1VCWG9IVG9RWHJzTWY2bjU2TmpLWWo2REhDWlZHVHgxSkE3VGxHR0tNSVdSZUliQkF4OHBZdFowUG42anE2TzJjSzBEa1lRcmJidnBlMGc2MEQ?oc=5",
-   "date": "2026-11-22T16:14:14.000Z"
+   "title": "Ciena vs. Cisco: Which Optical Networking Stock is the Better Buy?",
+   "source": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWTR2eTFGTldYS2dZRVd4R3hxeVZPRnN4ZzdfdzljZDhCcF8zeGt1djBoMnE2N2FtRW9RVDJoQnV5OFotdzRESnN3Z01BeHl1YVZqZ1ZaRUk2UU0ySzVrcUhYTjBvaXpTLXYtSzFiRU1odzNaUGVab2o4eENBOGJzOTduNXVueGpES216UmxuanFFUGMxbXBmLUpQa3BqemVKd0dnSlFfN1pMcG1qNThlSXZ4VG8wR0ZkS3A4?oc=5",
+   "date": "2026-11-23T13:03:00.000Z"
   },
   {
    "topic": "Innovation",
@@ -217,6 +224,13 @@
    "source": "ARKA-Telecom",
    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPOUNiNFJHMFZsWEVrNVV1YjVKVVRaWjRpckcyeXpYOVFQcmJPY3c3MXE5SUhmVEZnNm9QRGtfM01jSlVnMU9VTVBUQ3gzQVA4Tk1zb1dvQkxycmFGaVdwN21fLXRsS3BzblBJblFCdTJhZUN6aWlKcEtkdV9hOVFrcnBWRzZmVXBhOG5kdnVPazlRYXdNNTlfU1pJTkxuWFQwVTltc0FuMDVLWHpQdFlYVE9FOUdIUUtzMTlhRnlIOTVWYXg0RXQzZ0hjTzQtWlFuUXlWMGJ4Ri1XUGNORHRvY0daaEUxX240aXo0NVZzYndfaG8tNXJheXJNUS0?oc=5",
    "date": "2026-11-21T11:17:50.000Z"
+  },
+  {
+   "topic": "Innovation",
+   "title": "Pilot program of 6G aims to bridge innovation and results",
+   "source": "China Daily",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9uRWhQS1NZX1EyYkRqVEZFNFV5WFg1cmJheW1fOV80X3hfWHVmaW15TWNQTE5RbEtfbkpYQVNQZ0dYMnBUNFprZEhtZ0JTLUtDS0dnd2F2ZkV0ZmNPMTR1bFFLYlpzXzJ4c1hnSVoyWlJqWlNnV3hXbE5ObUN1Zw?oc=5",
+   "date": "2026-11-19T14:51:12.000Z"
   }
  ]
 }
