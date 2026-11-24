@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T08:16:56.484Z",
+ "updated": "2026-11-24T09:55:07.955Z",
  "items": [
   {
    "topic": "5G",
@@ -45,6 +45,13 @@
   },
   {
    "topic": "4G",
+   "title": "German industry groups urge network regulator president to adjust regulatory framework",
+   "source": "Telecompaper",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTkpsS0E3UWs1V0U3SE1aM01oZFUzUTRIUVNNOW9TQVdLd2syYU9vdG1VY3FlX0RNZGpVQ2FlODNtUUJVa2djMzlOQkNfUXlfMy1LSGJETmFiNHVjWDQ5aEVWNXBkN0d3aGQ1QnctMlhyRC1PT0Y2d0JPVHdyQi04aVBWdHltT25EQzVORFRsMm13Z2tTSGo3M2V4cllfTHkyUHc5UnBvSDlIOFpSZEVkZUxJc29QTks1c0hreWhOa2U3Ml9tMHMwSA?oc=5",
+   "date": "2026-11-24T09:51:01.000Z"
+  },
+  {
+   "topic": "4G",
    "title": "D-Link A/NZ launches DWM-222W 4G LTE AX300 Wi-Fi 6 USB Adapter",
    "source": "Adventure Magazine",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTGt2WkxxRUtvZzhITW9MajJhZDkzWGYtdXZKNlVzNlZsSGtEZ2dqeUVvVm9sTlNoOFBuN2NUM1I4eTEtWG11M0NVNlI4ZkczZHVTVnpvck9RTFJyOEdoRUd2ZllUMHdSX1FBcEQ4SzBJZkhCMkpORXFPaFBmcXhBREZMMVdJcldRZ2liNHNfTnUtaXdhMUhxMUNPaw?oc=5",
@@ -79,25 +86,18 @@
    "date": "2026-11-23T18:25:31.000Z"
   },
   {
-   "topic": "4G",
-   "title": "Smart and Elveo Mobile Successfully Test Direct-to-Device Satellite Connectivity on Key Philippine Sea Route",
-   "source": "Morningstar",
-   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQOUNCYU8yOXg1bkhkeUpHT05PWm1Wc0RiUG5WOEc1VV9BVzZSSXFWakJ6TVV5cS1hZXFkakdPSlEtcDlfc3l0a0tEVmpWNV9qemFMNXpsNl9xMlptYW04T3BEcmNoczZQMVZGelhQM0FxaURJRDFYZTNHemFPcjItOFZLMVNaQV9zR2JUUG01c0pqSVdTOGc5czhmSjZFNGxldllRSXdZelQyNUxvT0ZrRkpXbi13TGRVbnU1Mld5VEt4V3pYakpoVUR3eGU1cVRWb0ZNazE5SUxQWm1UOTVDeVBNeVVaaUlGV1A3NzNzNUdmN3lNWUdOSHROaW1OUQ?oc=5",
-   "date": "2026-11-23T13:31:00.000Z"
+   "topic": "Optical fibre",
+   "title": "Syria and Egypt explore telecom cooperation and digital infrastructure projects",
+   "source": "Telecompaper",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVVM2Z05nc2NtVmhWT2d6eE1HUWhFcHhjM1lHMU14ZDJWaE1ETTZvU19HdW9LVTJveVhXNHJsUjZ6V3BZM3N5NUJiTGpZQktZTDl1YzJlSzM2dUZZMTBEbW13ZFVZNHR3SHRNa0JCWTNLTVhZTHVRNGthLUlPRlE5MFZNb2daSE1UVEFKZ0tVNjZsU1VFbnAxcFd1X1l0cmJwaDRKSHFXemY2WFJFMjl5OWI4NW8zTUhUVmQtS0ZBcw?oc=5",
+   "date": "2026-11-24T08:45:13.000Z"
   },
   {
    "topic": "Optical fibre",
-   "title": "China Telecom Sets 1,000-Kilometer Hollow-Core Fiber Record",
-   "source": "Wisevoter",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbURrWDUwU0RkVVBIYXBNX1ZqeEVUeXlqakxwUklHejE4QzB0dnNFUEdNRjYxOW9EV3Mzblh3VVVtakpIOTRyeDJLT0hQbjFnUVZNcFhUdnF0Zmgwb3V2em5MRUo3VzFPUVBycGw1NzRsc3Jwd3NEXzR6NHJYYVdhUnVWbw?oc=5",
-   "date": "2026-11-24T06:10:35.000Z"
-  },
-  {
-   "topic": "Optical fibre",
-   "title": "Du joins Singapore-India-Gulf submarine cable system",
-   "source": "DD News",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZFRodmNxX09iRnBjd3dObDQ0eDVNZ3Qzdzdidk1EdUlITEJKUHgyUFFGdjhmTi1wQ2EwaHd2YU5yNXU4WElTMG5UOHRkTFNnOHpzU1BMZmdrcnRrM1l3YnZxWUgzNGs0WUJyXzN2Xzh4MFJqTUlRWHVEWUhYbmN4QW5PT3Q?oc=5",
-   "date": "2026-11-23T12:20:07.000Z"
+   "title": "ATF 2026: La Réunion launches a new Africa-Asia subsea cable project",
+   "source": "Connecting Africa",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTkhNY2pJZzkyS24yLWVsbmM0ZkpuNi1vdlBwMDQzeE81Y2JrWFJfZ3JCNFlvd0FteS11LUlfeWRFeXhqSVJkYVN0dXpZdWpxT21ITkhudV91azBqUmpMelJkM1hxa095bGZaaTlBYXg5MlRxRXN5VzB0bDBtNzRXZlpiT0ZWSW9SMzZSRHVHbnRtWWRLYl8tNUtHZnIzZnE3T0JTbVN5bDdjMG5XQWxhZ1lkZVByUEJD?oc=5",
+   "date": "2026-11-23T15:09:00.000Z"
   },
   {
    "topic": "Optical fibre",
@@ -115,17 +115,24 @@
   },
   {
    "topic": "Optical fibre",
-   "title": "FiberCop deploys hollow core fibre in Turin network",
+   "title": "Savanna Fibre plans to reach 1 mln more East African homes in 2027",
    "source": "Telecompaper",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORVJOMHdySWxYUDVHaUdWbGJ1anFydmZmMFJmMU1mRXlfV0xyZTJjRkNXNlJzcXg2aGF0V0g3SGFSMWp5N2ZYNUxySlQ2b0x3NTdJU09ZZmtGdkRtdTdEdDljbHF4Qms5bnpEWVQ5X1k4MFZPcGVicDBuRFd0ZFpxVGlJMzMwcWptR2xOZTRHeFFiQnIzbkU3Zjl3?oc=5",
-   "date": "2026-11-23T07:49:47.000Z"
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSDBZXzZxTEJXUVlJSzhuMDJGa3I1WmFSTTZPYk5ZWUZXa0laVVk4SkVLMkIxTnVXajdQQ1ctemVuSlhnS0d6NU5sVmlsV2ZaOFB1aVVleWN5eV9xYVVQYUYzU0JOTWh3RWZsOHQzYkdFYzNGS29mM2s0Y3ZYS0JUdHAxRjFHOXZVTnBVRkRHWVQzMUE1VW5tUUhrQzUwLXBOelVrNnI1dEdaSFdhdXc?oc=5",
+   "date": "2026-11-23T09:52:28.000Z"
   },
   {
    "topic": "Optical fibre",
-   "title": "Top 10 Outdoor Armored Optical Fiber Cable Manufacturers: Ranked Comparison",
-   "source": "EIN News",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeUdmaUVudURKUkF3MjR4dk1SRko5WExyUzgzNEpJdEd2UjJIR21BZGhqa2x0NzEtYVhFOGRKTjM4bWlYVExOSjctX3d6b1p2X0M2YlZ1T2p1andOR1FKRUQtUzRxTnp0ZUlSa1EteE1PVWhJZzNvU3J5eDZnMzYzd1Z3ZlVPMGRHejBpN2FKOEJCaWcxM0NpQjJmamhLSkNDN0NUZThOOTVIS19yRmRDbzF0Z0J5eG8?oc=5",
-   "date": "2026-11-23T02:48:00.000Z"
+   "title": "Omani mobile networks cover 99% of population, fibre networks reach 72% of homes",
+   "source": "Telecompaper",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeEh6VktTMzB3OFc0Ykc2Q1RHaG1MM1FkV2tMQWZQWnduSXFkYTU1N2ZwV0dRNGV4aUdKWVhCMG9ibWRESFpNUzYyeFFDZnVUUEVFUU1ZZDFubWhiTVJSNzA1bU9ITURrb29YQ1VNME10bFB0Y0ZnYTRyX0txbklLQUsxUjMyR04tSlY3Q3BJbVFzUUdSbFdrUTZ4SkI2TXpXMnlmOTF1Tk1FV001VzlvdzZaekg5QllKVWJweA?oc=5",
+   "date": "2026-11-23T09:42:26.000Z"
+  },
+  {
+   "topic": "DWDM",
+   "title": "Optical Wavelength Services Market to Reach USD 4.81 Billion",
+   "source": "openPR.com",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaFJTRzlrYlFlbVZnLVZEZ3E0a0pHTS1oaGZXazR4SkxFenRIYVhnWF9Jb3V1N3VMZWpxUUZIREFKT0FYNHdDeXBvM3E1Z21WX3RlR0FTdElPZk1sT1kyQlFxakRwNm5JQUhuaEtWWkNjdWRrUVNsc2U1WXN1ODg1QmFIY3pjckRRUlV5UW1zZU1UZGRGaDJjLUEwLU8?oc=5",
+   "date": "2026-11-20T09:45:37.000Z"
   },
   {
    "topic": "DWDM",
@@ -143,9 +150,16 @@
   },
   {
    "topic": "DWDM",
+   "title": "PACKETLIGHT-NETWORKS",
+   "source": "The Facts",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNd1JDeDBMMTUxY1pKd1IzSF9QOVRyUXlnbXFzdmtRV3pqaGhsUl9uUDJkYkZtckpuanlqX2JXei10c1ZiazEzSVdfQ0hpX2c3UGF4ck55T1lVcGliUGtiTVV2Uzh3ZmFlVUpkY2RWUG5IS3YxRzFwekFGNVh5czlORlh0a0tZN3pGVnZFaDhkUFA4V19kR2drMjhPQ3Ztdw?oc=5",
+   "date": "2026-11-17T08:35:06.000Z"
+  },
+  {
+   "topic": "DWDM",
    "title": "Oasis Networks Selects PacketLight for Burstable Wavelength Services",
-   "source": "Via Ritzau",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdHFwSG9QbS1OSUItT1BZU1liSXRIaUdrYjh3UWowVmx4V0x6SG5NOThHWFkyTEFCR0VpUi1EeTlnYXo4Rzg3UGRKUTdEa3ZITTdkWkozeHdySUJnOWNraUNwQjZieGZKWmZLR1hwOGtiWDJteXI1STVJSmlFRDEyY2JFRkdKQ0Y0U1BwWUN4LVVkeG0tZ2NZV2lydWhLekxWNnFYVzY4dHFGc2JTZXF4YVNwR2tDa0dyb1NtQXUySHZ4ZTF2dmUyX09HamxRMmpyamM1ZGxCSTZodw?oc=5",
+   "source": "AFP.com",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONGNROFhieGc2VXpDU3E0WU9xazQtQkJ5aGVCS1RFck9vOW1oRGxzU3F4NGQ0MWtHWld6S3dxVE0zV1lLQWM3eUhtVkljeXRVRXFBS2lmYWJpR3U5OTJ0Z25vek1ja3cxU3RaZUVla0lwQmh2LXBlN3VlYl91UktPZjluQW44a0EwS3h1U0dUdWRCRHY4MTlBMHl0NUxqNVRiSlgxUG43UldENlpYaXFhbzE2cTJBWkIwbXlaUQ?oc=5",
    "date": "2026-11-17T08:35:00.000Z"
   },
   {
