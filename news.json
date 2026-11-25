@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T11:46:33.620Z",
+ "updated": "2026-11-25T12:56:18.485Z",
  "items": [
   {
    "topic": "5G",
@@ -45,31 +45,17 @@
   },
   {
    "topic": "4G",
+   "title": "Danish operators renew deal to give emergency response organisations priority mobile network access",
+   "source": "Telecompaper",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTS1mU1k5SW9VVGNsMGlYQXNnYWFGTlkzbGxxNlFkU3pybEgzeGVlNEpvd01aQlItYjh6b1p0anJNdlBRQTZmOTlkOVFGYVhrUTczODVicERjR2lDWFZfQkRzM1M0dlZPOVpaS3dRM3J2eDhDNjNJUlp1aUxmcmtfYVhnNGRFbG54SjNiQ2NHWlU0QnVvRUdmWG9Xc3RIZllFdWF5UkFHelNpQlUxSG0wUDR2TzBEODVMWnRSUXVSd29YODk0bGZFSldOanUzQVhCOUZMOWRkNzk2dw?oc=5",
+   "date": "2026-11-25T11:40:35.000Z"
+  },
+  {
+   "topic": "4G",
    "title": "Report: 9,600 private 5G/4G network projects worldwide",
    "source": "Advanced Television",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORENuaS1fRFBXSlMtbGh5a0xGR1NmeTQxWHF0clpVUzM1VEpDYnhRdlZ5YzYyMWY0VzBrdzZ2ZjVFNzdHSnJjbzRNVmlibmk5Z0hETEtLLUlPZGJ6Y1Q5WEI1bU9qQ25iWjd1aU9rUHVEQTdHZkdhM0xqb3dCSWFKUkhVeWlOYXpLcVVBblVZWDZPM2s5RUF4UGdEd3B1Z2dxUVE?oc=5",
    "date": "2026-11-25T10:21:40.000Z"
-  },
-  {
-   "topic": "4G",
-   "title": "Tagtel Communications to expand network to major cities, towns in Q1 2027",
-   "source": "Herald.co.zw",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTVg1S0xlV2lMd2hmbTlLcGRjaXZOdFhMci05enM1bXdIVjZKVTNmWkN1SFhkM2Vsb3FMWHdFNmg3enp4ZUt2ZndaTnZGTl9IRlJNbTdDNy1YZURqaWl4cXh0NFhTOHk1cEFHT1RaTnhQa01MZDAzS051YTRPU09RaTVWbUZLOU1mUWhHTVI0ZGFsaXNCUFowWFJ0N1NMVnBSWkdZZC16RQ?oc=5",
-   "date": "2026-11-25T10:21:11.000Z"
-  },
-  {
-   "topic": "4G",
-   "title": "Infratel and Vanu expand rural mobile coverage in Nigeria after successful trial",
-   "source": "Telecompaper",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdGkydzJMd1c4ZG9LbEFwY2RPU0VLUWdjUG9oRGRwVG11QVBEeVl4M1FxQ1hnWTR2MUpLdzk1eF81NU5UTGpTREhPMmRWUExUeTNWb21YOFBna2Fwb01fSFN3OVlJd19CWEpuUGVHTDhRdUQ0RVpPMmtPWVlYSDFyQk9GZkNsbk93RTNEeHpnMThnRVJ3Qk8zV2pFNDBPeV9qRXdiNklxd2NDV1pWNFpsbHlnRUlKT29JalFDeVp5RVo?oc=5",
-   "date": "2026-11-25T09:48:39.000Z"
-  },
-  {
-   "topic": "4G",
-   "title": "TPG deploys first C.U. Phosco connected urban pole in Australia",
-   "source": "Telecompaper",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOGtRR2hURU5WRjJHakRGMjlkRzVQUE01TzlPRDJoVjhhTTNkUXhjNkkwM1AyeXpCUFhDRDg5Z1hwOXRwSEJHTUxWeXphcjB6V2RqVkZGVkxaNDBzU2RGbzZpSWtidlgwSmdrbkszYTdFNUxFWFdER0E0TjBBQjRXQkQ3NFlJUXlnTEpnckd0enJjT2VoSFUwTTFWS3h4NzZiQ1pXakV5MA?oc=5",
-   "date": "2026-11-25T06:13:22.000Z"
   },
   {
    "topic": "4G",
@@ -80,17 +66,31 @@
   },
   {
    "topic": "4G",
-   "title": "Telecom news: Airtel, DoT, Reliance Jio, Private 5G and LTE Network",
-   "source": "TelecomLead",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObHpYWDZLQ1NrcmpNSWx0TnFZLXVBam90a0xNLWJmbWp0ZGdVY1JyZjBHdU03UHFxUThGa2NsYTlKbGU2RDBodV9NdFZhLTR3NjdGTzdkWTNsbnNFYzBQVWF2X0tBUzBOeTFfZll6Mld3dlpLVHpZVWNpWDdHSjRJR29xejhRSTBjRlZ1d1RVd3NRbzRDN1M5cW5Ud0J3VV9p0gGoAUFVX3lxTE80aGFKb1FkUlJjSVlnY041OHA4WkVLRzhib1FaYnhuOFNQQXpnRTJuODBmSUhEVjg5OEtXY1ExV2pBOERWOV9GNlhtZVVGMzlLTlhRQk9VcmtWNGJtRzlmYjFzY25keUxLY1l6NlRpZ0w4R2lGd0huOU5lLUVrcUd0TkFkVjBqcGU0LUFGWWpQLU1YSEM5a0xJS2l2aEpPWkVpVmtTYkM1bw?oc=5",
-   "date": "2026-11-25T05:07:56.000Z"
+   "title": "D-Link DWM-222W turns a USB port into a portable 4G Wi-Fi 6 hotspot for A$79.95",
+   "source": "Craving Tech",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYlV2dmVONk9mcHhwaV9fTE1zeE9YNkMtZFhQd2k0akI1OHhGNHRxQ0pJQjEyLWlkYk1Qd05wLTg4c3Z1MDhOaVM4X3pzQzR6WUxUWHFxa0Z3RzVpamo0TnZHcUlRb3hBUk4tcHVCdlA1Q0UtbnZZMkZtMV9NVEF4ancyZEhfUDhRT016SHlKZUNKMTE2aVlSVTZkS1VPYzNiYmtGMnhjNVpoQ0FaYVFEcA?oc=5",
+   "date": "2026-11-25T05:05:35.000Z"
+  },
+  {
+   "topic": "4G",
+   "title": "Nepal Telecom Moves Cell Broadcast Testing from 2G to 4G Network",
+   "source": "NepaliTelecom",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaE5TbHhRRXdCWVplbmY4aVZPM0E4VHVuT0N5ZTZISUxQdm12cWxQLWRxekM1V0IzZEZtQzRfQXF4dzFZd1RwWVBJamoyTFM5TWZDdzFtUS00eFMxTFVkeXlDSjk5UXFLd1hSa21IbEtIdTJ6MkFhWmprVUItdkQxV1NWMnEzNXNCTHBHc1JhWkR0R2pVVVY2VzdwczZrdXVYQ1YxRjhqNDBhN3dlZm8xTg?oc=5",
+   "date": "2026-11-24T13:26:31.000Z"
+  },
+  {
+   "topic": "4G",
+   "title": "D-Link DWM-222W Brings Portable 4G Wi-Fi 6 to Australia for A$79.95",
+   "source": "Digital Reviews Network",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYjEyNGFzY2Y0Q0w5V3N5dzBRX2U3V296SkJ0Wm5ldUprUS1ScDVOaUFRTy1KenV1enRRU3AyNW9kMGx3aXV3OUhJanFzeUdoQlBJR1VWSVNObHJyb0ttN1BVSHJfQk5YWGExeXljTEo2UXlmR1hsUWk1WlotQkdYX1JNQWtzUGRRSXNDRExSTXg0aHM?oc=5",
+   "date": "2026-11-24T02:04:21.000Z"
   },
   {
    "topic": "Optical fibre",
    "title": "Comsol Networks selects managed optical fiber network solution from Adtran and NEC XON",
    "source": "TelecomTV",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQV09od1dGZEhBTFV5Nkxza0NUSWdYU25kSEh0dWgzM1JRNm9xWi1aREVISjBLMGVxLVVpZkdaU1ktWmFrRFkzLUdJdmNhM1FVNW1FTFdvVUVrWDM3ZG1kS0dxUDZCajd6TFpSNHlaRFk1bmladjNCcGtGOEp5SGFpOTFvNHRCeF9fY0t1bXdRMmRCYmZTMmhDem5JSGF5QkV1MlNPMkVBMUJMYUFrVjVaeDlIUWtfTXZGMm9rcndKNG9seDRuYkNwSWt6OEkyUXphRHFqQ2lOUUpzNk5VVS1KcGZ30gHiAUFVX3lxTFBXT2h3V0ZkSEFMVXk2THNrQ1RJZ1hTbmRISHR1aDMzUlE2b3FaLVpERUhKMEswZXEtVWlmR1pTWS1aYWtEWTMtR0l2Y2EzUVU1bUVMV29VRWtYMzdkbWRLR3FQNkJqN3pMWlI0eVpEWTVuaVp2M0Jwa0Y4SnlIYWk5MW80dEJ4X19jS3Vtd1EyZEJiZlMyaEN6bklIYXlCRXUyU08yRUExQkxhQWtWNVp4OUhRa19NdkYyb2tyd0o0b2x4NG5iQ3BJa3o4STJRemFEcWpDaU5RSnM2TlVVLUpwZnc?oc=5",
-   "date": "2026-11-25T09:57:02.000Z"
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObzl0NVpndmVpUkl3OEQ0U25RTmYzc3pfR25vSjl1WmF1Q2I3MkRpT3NhQVBuNjM5RVZzTnFBckdwNzhHSmd6TTFMUVZ2NmZPZk41dU52S3ZQX3lkYTQ0SDhrc29hbnZac3JWRWNTNFNSU2U4elFic2NjQTg3SzBJZDctX1NEYW1tVk91MXVJQ2ZSTkRRdHZvZWVVb3cyNTRFdU1DcFNCSE9vdE10UURxelRvaGZZQXZBSDZCcjduaEowTXM2VFA3NmJ5WWR5eFE4Z1ZINU5KaEZJd3pY0gHiAUFVX3lxTFBXT2h3V0ZkSEFMVXk2THNrQ1RJZ1hTbmRISHR1aDMzUlE2b3FaLVpERUhKMEswZXEtVWlmR1pTWS1aYWtEWTMtR0l2Y2EzUVU1bUVMV29VRWtYMzdkbWRLR3FQNkJqN3pMWlI0eVpEWTVuaVp2M0Jwa0Y4SnlIYWk5MW80dEJ4X19jS3Vtd1EyZEJiZlMyaEN6bklIYXlCRXUyU08yRUExQkxhQWtWNVp4OUhRa19NdkYyb2tyd0o0b2x4NG5iQ3BJa3o4STJRemFEcWpDaU5RSnM2TlVVLUpwZnc?oc=5",
+   "date": "2026-11-25T08:51:47.000Z"
   },
   {
    "topic": "Optical fibre",
@@ -115,17 +115,24 @@
   },
   {
    "topic": "Optical fibre",
+   "title": "asia-pacific Fiber Optic Components Market Size, Share,Trends, Growth Analysis Report, 2030",
+   "source": "MarketsandMarkets",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYmZZNEdkTjRGSWZlX0RSTDVDM3QxbUhBUHBjNmtuTmRDQ1QzUkk4ZTEyOFNoaHJHQThyWjZxVTlsQjB5U0p4S04ySy1ibUxuQjBSbVhjaF8xVk54d2tSUHpRby1oTDlLQUdVWDFReEJheVlsNTUtOWctWldqbUoxYXlvVlZwVnl0M1E2Tno2NkpwYmpuOHVoOXlsaWJfaHBoWVE?oc=5",
+   "date": "2026-11-25T01:40:56.000Z"
+  },
+  {
+   "topic": "Optical fibre",
    "title": "Kazakh government plans expansion of mobile, fibre-optic networks",
    "source": "Telecompaper",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOGtYeTVnZTJoZnN1SElHYmtydUhhTGVSYlRwckJ3Z0ltWGxLSnVrQ3JjbFBIaXpsSVp5aGJnVml6NWNSRVdjNGRlcW1XYTFQcDBaTkxxRm1QbjA5a2hES3Z2TmNOZ2NjVnZlWXg3VDFlcnRkTHhJcFhZX0ZHcmJnWHlMTGpSanlJRGdjTXc1SUdoQ2hFakN6c3M1YXBuRnhHUHA0cFd0MzRwdXc?oc=5",
    "date": "2026-11-24T16:21:04.000Z"
   },
   {
-   "topic": "Optical fibre",
-   "title": "Tunisia Allocates TND76 Million to Extend Telecom Coverage to Underserved Areas",
-   "source": "TechAfrica News",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWW15SUhqNU1iamR5RGVhWV9GSmlxMXgwN0xJaXZpZEV0Q3BPd2k5d1JCNm0tNm02S1VoZXFES1NJWG0wVnItb3JiVFpkZmt5S0dRcXQ1TDl1LV9rS1Y1U01BV0pWVlV4aUZlMzhTeHF0dXNBNWdLWGFiUTJ1WkxuSXgtYW9JX2w3Zk42UzczMV9GUzFOSVNJeGp1Wl9LaVhIWTFMN3ZiVHBsM1d5WWtuaHEzcVlBLTdrbUE?oc=5",
-   "date": "2026-11-24T15:48:08.000Z"
+   "topic": "DWDM",
+   "title": "Optical Wavelength Services Market to Reach USD 4.81 Billion",
+   "source": "openPR.com",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaFJTRzlrYlFlbVZnLVZEZ3E0a0pHTS1oaGZXazR4SkxFenRIYVhnWF9Jb3V1N3VMZWpxUUZIREFKT0FYNHdDeXBvM3E1Z21WX3RlR0FTdElPZk1sT1kyQlFxakRwNm5JQUhuaEtWWkNjdWRrUVNsc2U1WXN1ODg1QmFIY3pjckRRUlV5UW1zZU1UZGRGaDJjLUEwLU8?oc=5",
+   "date": "2026-11-20T09:45:37.000Z"
   },
   {
    "topic": "DWDM",
@@ -143,6 +150,13 @@
   },
   {
    "topic": "DWDM",
+   "title": "PACKETLIGHT-NETWORKS",
+   "source": "The Facts",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNd1JDeDBMMTUxY1pKd1IzSF9QOVRyUXlnbXFzdmtRV3pqaGhsUl9uUDJkYkZtckpuanlqX2JXei10c1ZiazEzSVdfQ0hpX2c3UGF4ck55T1lVcGliUGtiTVV2Uzh3ZmFlVUpkY2RWUG5IS3YxRzFwekFGNVh5czlORlh0a0tZN3pGVnZFaDhkUFA4V19kR2drMjhPQ3Ztdw?oc=5",
+   "date": "2026-11-17T08:35:06.000Z"
+  },
+  {
+   "topic": "DWDM",
    "title": "Oasis Networks Selects PacketLight for Burstable Wavelength Services",
    "source": "AFP.com",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONGNROFhieGc2VXpDU3E0WU9xazQtQkJ5aGVCS1RFck9vOW1oRGxzU3F4NGQ0MWtHWld6S3dxVE0zV1lLQWM3eUhtVkljeXRVRXFBS2lmYWJpR3U5OTJ0Z25vek1ja3cxU3RaZUVla0lwQmh2LXBlN3VlYl91UktPZjluQW44a0EwS3h1U0dUdWRCRHY4MTlBMHl0NUxqNVRiSlgxUG43UldENlpYaXFhbzE2cTJBWkIwbXlaUQ?oc=5",
@@ -150,17 +164,31 @@
   },
   {
    "topic": "Innovation",
-   "title": "China starts coordinated 6G testing across 8 regions",
-   "source": "Telecompaper",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYjRWWWx4Z0xkSVdJS3RVeXdMUjl5Y1lvNjBNSnAxN1dvU3dKUE05Q3l4X1RHQmJvdmdRWWcyQVp0cGxKWnhsT25RS09qdURLVWU1TGxuUlIzbEZKN3Y4WHVrb2JmSDhCQUhuYzhBTFZRcy1tRXo4U29Jdndrck1ERHV4ZWNDYUtFUFRfZXpkWksxdlUyam9HUTFzVQ?oc=5",
-   "date": "2026-11-25T06:47:30.000Z"
-  },
-  {
-   "topic": "Innovation",
    "title": "India joins 24 countries in global initiative on 6G technology | Akashvani News",
    "source": "News On AIR",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObjY4NnRCMUVMSXlxeDVpbmdWTC1kZktvakxQSkNpUDBpVEFlOG1PdVAwcmhmMzR1MjEwcDRpYTluaDczV1VvYWpvNm9DUE5YSV9YaXUxSDR4Wmg0WDYyUkZSX2pHRGlpSTNIaVhaUGRqaE5lblhYTHJxOW1ySWpjQl9ncERtd29NQ2tzNWFPVGs0dw?oc=5",
-   "date": "2026-11-24T23:19:14.000Z"
+   "date": "2026-11-25T10:31:33.000Z"
+  },
+  {
+   "topic": "Innovation",
+   "title": "China starts coordinated 6G testing across 8 regions",
+   "source": "Telecompaper",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYjRWWWx4Z0xkSVdJS3RVeXdMUjl5Y1lvNjBNSnAxN1dvU3dKUE05Q3l4X1RHQmJvdmdRWWcyQVp0cGxKWnhsT25RS09qdURLVWU1TGxuUlIzbEZKN3Y4WHVrb2JmSDhCQUhuYzhBTFZRcy1tRXo4U29Jdndrck1ERHV4ZWNDYUtFUFRfZXpkWksxdlUyam9HUTFzVQ?oc=5",
+   "date": "2026-11-25T06:48:23.000Z"
+  },
+  {
+   "topic": "Innovation",
+   "title": "ITRI Launches 6G-FORMOSA to Advance Global 6G Testing",
+   "source": "PR Newswire",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWERCdzUtYkJ2QlBfbjJaQWdVQlBabEhNN2pxOXJWU1B4TmdYcTFmSFJ0R0F2VlZhSjg4ZlFFcFI1WFFlM21wNWEyZnItX2JTdVhoM0FSVVBMS3F3LTlVVWRLZk9yamhaSEVGaW1uTnJldDR2VFNDQkVSamVmTzN1cmxSYnJpRVphODJkd2x5S2h2RVJTRjF1MEp4RHFXWlB0SjBzQjNvYm9UOGNCQ1E?oc=5",
+   "date": "2026-11-25T03:24:00.000Z"
+  },
+  {
+   "topic": "Innovation",
+   "title": "India Plans Advisory Panel for Telecom Startups and MSMEs; Push for Indigenous Technology Gains Momentum",
+   "source": "www.nationpathindia.com",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPLXpVclhuem00cGQxc3dKcjBleHVtSDhBYWx2NHRaVHQ3aUNnU0lzZW9wb2ZFMXV2eFRFekFIcEFxeVk0U3NtTjlnN0hEcV9JUGNXTkc1WHU2WTJlZWpSUUoxZ0k2WFlpNkptV09oZ0VKZ2REZTlaSEdSdTZaMVhkNnZOVkJ5Y1lpRzU2elRYcW96bDdtSld4enV6aVBtTXgzdDVobVB1VjBYQQ?oc=5",
+   "date": "2026-11-24T21:17:18.000Z"
   },
   {
    "topic": "Innovation",
@@ -171,10 +199,24 @@
   },
   {
    "topic": "Innovation",
+   "title": "China Hits 27 Gbps Wireless Speeds in Q/V-Band Test for 6G and Satellite Internet",
+   "source": "Andro-News",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSlFTSWMxSGFqdDFCNFNvUU4tYnJxdk9XbTZUMnhwVVlVdjVBT2g3eWhfeS1ycVZPSGFMbk1zOFp4Z3hXTXpSRkR0ZW8zVFZyV0FzZXVvR0FfOEZySTZRSElJUVhKZTBxSzZSNlV6ZXpiaXZTWFl5ek1IbFYtOU9yWXlOdTBTQ2VqelRNYjRoMXdUN1hLX3lWMmVrbUhQaHg5Nm5lNEJrV2VGMl92?oc=5",
+   "date": "2026-11-24T14:38:38.000Z"
+  },
+  {
+   "topic": "Innovation",
    "title": "FG Commissions Innovation Hub, Plans 89 Telecoms Towers In Borno",
    "source": "TVC News",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQWJNSEhBeHJZSURjZnhVZk1oSW9qcnVMV3pMRGdWb0VYYjZaRmFlbUNnTmpBWkZYUk5XcjdibUF2aXllQm9kX1BNWFlFZ0Q3N0dVblg3UmEwQVJ1cEFlOTk4R0Q0TWVnZTJqLWo1RmtUSXVCc204bEFpanE4cU16RjgydmY0RE5PM3MyU3Y1Q2c?oc=5",
    "date": "2026-11-24T13:39:00.000Z"
+  },
+  {
+   "topic": "Innovation",
+   "title": "Scindia Calls for Indigenous Telecom Innovation at Startups and MSME Conclave 2026",
+   "source": "Content Media Solution",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZkZ0TFBHdWt0T0UtRkFRYlRLc05oZ2xTSGdyMjRZY1dqSDYwUzBoU1lLSjRSVms1WnpIX2JINzdZYVRVZWMxdDhpVkRoMGI2Zk13QVpHWlljVUNDX1UzZG5Ibl9QRGFFbVRFc0R6MUdXekR5c3lhMUYzYW9NczNXbFZoNy1xNUtxczNSdGZSenIzTHc4NG1RcDdSQjdHTTBacl9CX2IxbHU1ZzM2YUQ3M1dMekpMYTJpTWpZdW9kM2ZMcWfSAcMBQVVfeXFMT2ZGdExQR3VrdE9FLUZBUWJUS3NOaGdsU0hncjI0WWNXakg2MFMwaFNZS0o0UlZrNVp6SF9iSDc3WWFUVWVjMXQ4aVZEaDBiNmZNd0FaR1pZY1VDQ19VM2RuSG5fUERhRW1URXNEejFHV3pEeXN5YTFGM2FvTXMzV2xWaDctcTVLcXMzUnRmUnpyM0x3ODRtUXA3UkI3R00wWnJfQl9iMWx1NWczNmFENzNXTHpKTGEyaU1qWXVvZDNmTHFn?oc=5",
+   "date": "2026-11-24T12:02:08.000Z"
   },
   {
    "topic": "Innovation",
@@ -189,34 +231,6 @@
    "source": "Xinhua",
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5xbzN5QWlZbFNCZ3o4ZlhYVWM4alBpei14Ui1fc0UwQjMzRkdkTGhyWjJXQlZMdVYzdTktRHVTWnloRnBia2YzYk0xZVpFbzlkSUtnVkx1ZWlMZWJ2U2xDZHpjNVZ6Q1JiUV9tYWFUNUotdzZ2MUpMcVRsamI?oc=5",
    "date": "2026-11-24T10:45:15.000Z"
-  },
-  {
-   "topic": "Innovation",
-   "title": "China launches 6G ministry-province pilot with eight regions on board, three-tier organizational model takes shape",
-   "source": "BigGo Finance",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KUDhrcEttckRFYlhjNmF2TTdZMW5JSW81Rll6TlFCQ0U3TEFZZ3c5ZHBkakxBVjRlRm13elJIUGU2Ykdxc3pZWEk3ZlhzU29LVmQ4S1FFTnlxWEJyQnVZTlA0UF9MWUU1LU9UZnZCU19XWHJ3Ymc?oc=5",
-   "date": "2026-11-24T07:55:00.000Z"
-  },
-  {
-   "topic": "Innovation",
-   "title": "China launches 6G pilot testing in eight provincial regions as global standards race accelerates",
-   "source": "Global Times",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE94YjdnbXAtdmhUTjR2Q2JXZnpUcHRoQnhBUTRyYUlKYy1PQmRmWE54Uk1SZ3YxV2NtcDg4RzRhbTVOSVNZTWNHRG8xemJZd2RkUDBHOFRCOVcwVEotVG9VVURB?oc=5",
-   "date": "2026-11-24T06:48:00.000Z"
-  },
-  {
-   "topic": "Innovation",
-   "title": "China Approves 6G Innovation Pilot Covers Eight Regions",
-   "source": "Chiang Rai Times",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0td3lqWi1obnB0WjJ0ZzhHVUhpVzYwdWdGRjg5T183M2F4U2V0ZTFNdlJQbHNYLWVDbmhYWU8xZTYtTXhoRU9UTks4MHhZdnprSS0zcUlhLV95Q040b2lUMjZZRjg2M0x6ZmpqXw?oc=5",
-   "date": "2026-11-24T02:21:17.000Z"
-  },
-  {
-   "topic": "Innovation",
-   "title": "Chinese researchers hit record 27 Gbps speed in 6G satellite test",
-   "source": "ARYnews.tv",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOR0VsSndweGtCdmJ3THNXai1xT2QxcUJuQ2RvUWlmZ0ZTSUx3M1BCUUc2bGJyWUt1Z3NXbGNYbGdoV3NxTHRqTEo3RDh5QTlpNXczNVpBUDlXcW5wQWpHOHVVaWVURXlnY2hQS05SX0NvRThEUm5abWhPQ2cydDNtT1RLMldQTnl3eE5IQw?oc=5",
-   "date": "2026-11-23T16:36:22.000Z"
   }
  ]
 }
