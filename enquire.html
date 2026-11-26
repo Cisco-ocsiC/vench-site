@@ -140,11 +140,12 @@
         status.textContent = "Thank you! We have received your enquiry.";
         f.reset();
       } else {
-        throw new Error("Could not send.");
+        status.className = "note err";
+        status.innerHTML = "Error " + r.status + " from the form service. Please email us directly at <a href=\"mailto:hello@vench.cc\">hello@vench.cc</a>.";
       }
     }).catch(function() {
       status.className = "note err";
-      status.textContent = "There was an error sending your enquiry. Please email us directly.";
+      status.innerHTML = "Could not reach the form service (blocked by an ad-blocker or network issue?). Please email us directly at <a href=\"mailto:hello@vench.cc\">hello@vench.cc</a>.";
     });
   });
 </script>
