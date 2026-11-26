@@ -70,6 +70,10 @@
       "published": true,
       "navLabel": "Fibre design"
     },
+    "rf-check.html": {
+      "published": true,
+      "navLabel": "RF Check"
+    },
     "privacy.html": {
       "published": true,
       "navLabel": "Privacy Policy"

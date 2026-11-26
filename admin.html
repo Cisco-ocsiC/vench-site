@@ -120,6 +120,7 @@ input:checked + .slider:before { transform: translateX(20px); }
       <div class="tab" onclick="showTab('profile')">Profile</div>
       <div class="tab" onclick="showTab('security')">Security</div>
       <div class="tab" onclick="showTab('stocks')">Stock Agents</div>
+      <div class="tab" onclick="showTab('rf')">RF Check</div>
     </div>
 
     <!-- OVERVIEW TAB -->
@@ -242,6 +243,20 @@ input:checked + .slider:before { transform: translateX(20px); }
       </div>
     </div>
 
+    <!-- RF CHECK TAB -->
+    <div id="tab-rf" class="panel">
+      <div class="card">
+        <h3>RF Check — LoS Path Profiler &amp; Link Engineering</h3>
+        <p class="note" style="margin-bottom:12px">Multi-hop geodetic line-of-sight, Fresnel clearance &amp; terrain elevation engine (ITU-R P.526 / FSPL). Opens the standalone RF tool in an embedded view.</p>
+        <iframe id="rfFrame" title="RF Microwave LoS Path Profiler" src="about:blank"
+          style="width:100%;height:78vh;border:1px solid var(--line);border-radius:10px;background:#080d1a;"></iframe>
+        <div style="margin-top:12px;display:flex;gap:10px;align-items:center">
+          <button class="btn secondary" style="margin-top:0;padding:6px 12px;font-size:13px;" onclick="loadRfFrame()">Reload</button>
+          <button class="btn secondary" style="margin-top:0;padding:6px 12px;font-size:13px;" onclick="window.open('rf-check.html','_blank')">Open in new tab</button>
+        </div>
+      </div>
+    </div>
+
     <!-- STOCK AGENTS TAB -->
     <div id="tab-stocks" class="panel">
       <div class="card">
@@ -307,11 +322,20 @@ async function showDashboard() {
 }
 
 function showTab(name) {
-  var tabNames = ["overview","site settings","pages","profile","security","stocks"];
+  var tabNames = ["overview","site settings","pages","profile","security","stocks","rf"];
   document.querySelectorAll(".tab").forEach(function(t,i){ t.classList.toggle("active", tabNames[i]===name); });
   document.querySelectorAll(".panel").forEach(function(p){ p.classList.toggle("on", p.id === "tab-" + name); });
   if (name === "overview") loadStats();
   if (name === "pages") renderPageToggles();
+  if (name === "rf") loadRfFrame();
+}
+
+// ---- RF CHECK EMBED ----
+function loadRfFrame() {
+  var f = document.getElementById("rfFrame");
+  if (!f) return;
+  if (f.getAttribute("src") !== "rf-check.html") f.src = "rf-check.html";
+  else { f.src = "about:blank"; setTimeout(function(){ f.src = "rf-check.html"; }, 50); }
 }
 
 // ---- SETTINGS ----
@@ -435,6 +459,7 @@ async function renderPageToggles() {
     "survey.html":{"published":true,"navLabel":"Survey & as-built"},
     "enquire.html":{"published":true,"navLabel":"Enquire"},
     "fibre.html":{"published":true,"navLabel":"Fibre design"},
+    "rf-check.html":{"published":true,"navLabel":"RF Check"},
     "privacy.html":{"published":true,"navLabel":"Privacy Policy"},
     "terms.html":{"published":true,"navLabel":"Terms of Service"}
   };

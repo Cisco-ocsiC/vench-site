@@ -1,0 +1,2298 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>RF Microwave LoS Path Profile & Link Engineering Suite</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <!-- Leaflet CSS & JS for immediate zero-API-key Google Hybrid/Streets & Tactical Map rendering -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="" />
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <script>
+    tailwind.config = {
+      darkMode: 'class',
+      theme: {
+        extend: {
+          fontFamily: {
+            sans: ['Inter', 'sans-serif'],
+            mono: ['JetBrains Mono', 'monospace'],
+          },
+          colors: {
+            slate: {
+              850: '#151e32',
+              900: '#0f172a',
+              950: '#080d1a',
+            }
+          }
+        }
+      }
+    };
+  </script>
+  <style>
+    body {
+      background-color: #080d1a;
+      color: #e2e8f0;
+      font-family: 'Inter', sans-serif;
+    }
+    /* Custom scrollbar for dark telemetry aesthetic */
+    ::-webkit-scrollbar {
+      width: 6px;
+      height: 6px;
+    }
+    ::-webkit-scrollbar-track {
+      background: #0f172a;
+    }
+    ::-webkit-scrollbar-thumb {
+      background: #334155;
+      border-radius: 9999px;
+    }
+    ::-webkit-scrollbar-thumb:hover {
+      background: #475569;
+    }
+    input[type="datetime-local"]::-webkit-calendar-picker-indicator {
+      filter: invert(0.8);
+      cursor: pointer;
+    }
+    .glass-panel {
+      background: linear-gradient(180deg, rgba(15, 23, 42, 0.92) 0%, rgba(11, 18, 34, 0.96) 100%);
+      border: 1px solid rgba(51, 65, 85, 0.65);
+      box-shadow: 0 10px 30px -10px rgba(0, 0, 0, 0.6);
+    }
+    /* Custom Leaflet Dark Telemetry Theme & Marker Badges */
+    .leaflet-container {
+      background: #060b16 !important;
+      font-family: 'Inter', sans-serif !important;
+    }
+    .leaflet-popup-content-wrapper, .leaflet-popup-tip {
+      background: rgba(15, 23, 42, 0.96) !important;
+      color: #f1f5f9 !important;
+      border: 1px solid rgba(56, 189, 248, 0.4) !important;
+      box-shadow: 0 12px 28px rgba(0, 0, 0, 0.75) !important;
+    }
+    .leaflet-popup-content {
+      margin: 10px 12px !important;
+      font-size: 12px !important;
+    }
+    .rf-site-pin {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 28px;
+      height: 28px;
+      border-radius: 9999px;
+      font-family: 'JetBrains Mono', monospace;
+      font-weight: 700;
+      font-size: 12px;
+      color: #060b16;
+      border: 2.5px solid #ffffff;
+      box-shadow: 0 0 14px rgba(0, 240, 255, 0.75);
+      transition: transform 0.15s ease;
+    }
+    .rf-site-pin:hover {
+      transform: scale(1.15);
+    }
+  </style>
+</head>
+<body class="min-h-screen flex flex-col antialiased selection:bg-cyan-500/30 selection:text-cyan-200">
+
+  <!-- Toast Notification Banner -->
+  <div id="toast" class="fixed bottom-5 right-5 z-50 hidden transform transition-all duration-300 translate-y-2 opacity-0">
+    <div id="toastInner" class="flex items-center gap-3 px-4 py-3 rounded-xl border border-cyan-500/40 bg-slate-900/95 text-slate-100 shadow-2xl backdrop-blur-md text-sm font-medium">
+      <span id="toastIcon" class="w-2.5 h-2.5 rounded-full bg-cyan-400 animate-pulse"></span>
+      <span id="toastMsg">Notification</span>
+    </div>
+  </div>
+
+  <!-- Top Navigation / Telemetry Header -->
+  <header class="border-b border-slate-800/90 bg-slate-950/90 backdrop-blur-md sticky top-0 z-30">
+    <div class="max-w-[1600px] mx-auto px-4 sm:px-6 py-3.5 flex flex-wrap items-center justify-between gap-4">
+      <div class="flex items-center gap-3">
+        <div class="w-10 h-10 rounded-xl bg-gradient-to-br from-cyan-500/20 to-blue-600/20 border border-cyan-400/40 flex items-center justify-center shadow-inner">
+          <svg class="w-6 h-6 text-cyan-400" fill="none" stroke="currentColor" stroke-width="1.8" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M8.288 15.038a5.25 5.25 0 017.424 0M5.106 11.856c3.807-3.808 9.98-3.808 13.788 0M1.924 8.674c5.565-5.565 14.587-5.565 20.152 0M12.53 18.22l-.53.53-.53-.53a.75.75 0 011.06 0z" />
+          </svg>
+        </div>
+        <div>
+          <div class="flex items-center gap-2.5">
+            <h1 class="text-base sm:text-lg font-bold tracking-tight text-white">RF Microwave LoS Path Profiler</h1>
+            <span class="hidden sm:inline-flex items-center px-2 py-0.5 rounded-md text-[11px] font-mono font-semibold bg-cyan-500/10 text-cyan-300 border border-cyan-500/30">ITU-R P.526 / FSPL</span>
+          </div>
+          <p class="text-xs text-slate-400">Multi-Hop Geodetic Line-of-Sight, Fresnel Clearance & Terrain Elevation Engine</p>
+        </div>
+      </div>
+
+      <!-- Real-Time Date/Time Control -->
+      <div class="flex flex-wrap items-center gap-2.5 bg-slate-900/90 border border-slate-800 rounded-xl px-3 py-2">
+        <div class="flex items-center gap-2">
+          <span id="livePulse" class="w-2 h-2 rounded-full bg-emerald-400 animate-ping"></span>
+          <label for="surveyDateTime" class="text-xs font-medium text-slate-400 whitespace-nowrap">Survey Timestamp:</label>
+        </div>
+        <input
+          type="datetime-local"
+          id="surveyDateTime"
+          step="1"
+          class="bg-slate-950 border border-slate-700/80 rounded-lg px-2.5 py-1 text-xs font-mono text-cyan-300 focus:outline-none focus:border-cyan-400"
+        />
+        <button
+          id="toggleLiveClockBtn"
+          type="button"
+          class="px-2.5 py-1 rounded-lg text-xs font-medium bg-emerald-500/15 text-emerald-300 border border-emerald-500/30 hover:bg-emerald-500/25 transition"
+          title="Toggle live real-time clock sync"
+        >
+          LIVE
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Workspace -->
+  <main class="flex-1 max-w-[1600px] w-full mx-auto px-4 sm:px-6 py-6 grid grid-cols-1 xl:grid-cols-12 gap-6">
+
+    <!-- LEFT COLUMN: Site Chain & RF Link Parameters (5 cols on xl) -->
+    <section class="xl:col-span-5 flex flex-col gap-5">
+
+      <!-- Link Configuration Card -->
+      <div class="glass-panel rounded-2xl p-5">
+        <div class="flex items-center justify-between mb-4">
+          <h2 class="text-sm font-semibold uppercase tracking-wider text-slate-200 flex items-center gap-2">
+            <svg class="w-4 h-4 text-cyan-400" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M10.5 6h9.75M10.5 6a1.5 1.5 0 11-3 0m3 0a1.5 1.5 0 10-3 0M3.75 6H7.5m3 12h9.75m-9.75 0a1.5 1.5 0 01-3 0m3 0a1.5 1.5 0 00-3 0m-3.75 0H7.5m9-6h3.75m-3.75 0a1.5 1.5 0 01-3 0m3 0a1.5 1.5 0 00-3 0m-9.75 0h9.75" />
+            </svg>
+            Chain & Atmospheric Parameters
+          </h2>
+          <div class="flex items-center gap-1.5">
+            <button id="loadPresetBtn" type="button" class="text-xs px-2.5 py-1 rounded-lg bg-slate-800 hover:bg-slate-700 text-slate-300 border border-slate-700 transition">
+              Load Preset
+            </button>
+            <button id="clearSitesBtn" type="button" class="text-xs px-2.5 py-1 rounded-lg bg-slate-800 hover:bg-rose-950/60 text-slate-300 hover:text-rose-300 border border-slate-700 transition">
+              Clear
+            </button>
+          </div>
+        </div>
+
+        <div class="grid grid-cols-2 sm:grid-cols-4 gap-3">
+          <!-- Number of Sites Dropdown -->
+          <div class="col-span-2 sm:col-span-1">
+            <label for="numSitesSelect" class="block text-[11px] font-medium text-slate-400 mb-1">Number of Sites</label>
+            <select id="numSitesSelect" class="w-full bg-slate-950 border border-slate-700 rounded-xl px-3 py-2 text-xs font-mono text-white focus:outline-none focus:border-cyan-400">
+              <option value="2">2 Sites (1 Hop)</option>
+              <option value="3" selected>3 Sites (2 Hops)</option>
+              <option value="4">4 Sites (3 Hops)</option>
+              <option value="5">5 Sites (4 Hops)</option>
+            </select>
+          </div>
+
+          <!-- Carrier Frequency -->
+          <div>
+            <label for="freqInput" class="block text-[11px] font-medium text-slate-400 mb-1">Freq (GHz)</label>
+            <input type="number" id="freqInput" value="5.8" step="0.1" min="0.1" max="100"
+              class="w-full bg-slate-950 border border-slate-700 rounded-xl px-3 py-2 text-xs font-mono text-cyan-300 focus:outline-none focus:border-cyan-400" />
+          </div>
+
+          <!-- K-Factor -->
+          <div>
+            <label for="kFactorInput" class="block text-[11px] font-medium text-slate-400 mb-1">K-Factor</label>
+            <input type="number" id="kFactorInput" value="1.333" step="0.01" min="0.4" max="5"
+              class="w-full bg-slate-950 border border-slate-700 rounded-xl px-3 py-2 text-xs font-mono text-slate-200 focus:outline-none focus:border-cyan-400" />
+          </div>
+
+          <!-- Target Fresnel % -->
+          <div>
+            <label for="fresnelTargetInput" class="block text-[11px] font-medium text-slate-400 mb-1">Target F1 (%)</label>
+            <input type="number" id="fresnelTargetInput" value="60" step="5" min="10" max="100"
+              class="w-full bg-slate-950 border border-slate-700 rounded-xl px-3 py-2 text-xs font-mono text-amber-300 focus:outline-none focus:border-cyan-400" />
+          </div>
+        </div>
+
+        <!-- RF Link Budget & Clutter Simulation Controls -->
+        <div class="mt-3 pt-3 border-t border-slate-800/70 grid grid-cols-2 sm:grid-cols-4 gap-3">
+          <div>
+            <label for="txPowerInput" class="block text-[11px] font-medium text-slate-400 mb-1">TX Power (dBm)</label>
+            <input type="number" id="txPowerInput" value="23" step="1" min="-30" max="60"
+              class="w-full bg-slate-950 border border-slate-700 rounded-xl px-3 py-1.5 text-xs font-mono text-emerald-300 focus:outline-none focus:border-cyan-400" />
+          </div>
+          <div>
+            <label for="antGainInput" class="block text-[11px] font-medium text-slate-400 mb-1">Ant Gain (dBi)</label>
+            <input type="number" id="antGainInput" value="28" step="0.5" min="0" max="60"
+              class="w-full bg-slate-950 border border-slate-700 rounded-xl px-3 py-1.5 text-xs font-mono text-cyan-300 focus:outline-none focus:border-cyan-400" />
+          </div>
+          <div>
+            <label for="rxSensInput" class="block text-[11px] font-medium text-slate-400 mb-1">RX Sens (dBm)</label>
+            <input type="number" id="rxSensInput" value="-76" step="1" min="-120" max="-30"
+              class="w-full bg-slate-950 border border-slate-700 rounded-xl px-3 py-1.5 text-xs font-mono text-amber-300 focus:outline-none focus:border-cyan-400" />
+          </div>
+          <div>
+            <label for="clutterHeightInput" class="block text-[11px] font-medium text-slate-400 mb-1">Clutter (m)</label>
+            <input type="number" id="clutterHeightInput" value="10" step="1" min="0" max="80"
+              class="w-full bg-slate-950 border border-slate-700 rounded-xl px-3 py-1.5 text-xs font-mono text-orange-300 focus:outline-none focus:border-cyan-400" />
+          </div>
+        </div>
+
+        <div class="mt-2.5 flex flex-wrap items-center justify-between gap-2 text-[11px]">
+          <div class="flex flex-wrap items-center gap-1.5">
+            <span class="text-slate-500">Clutter Preset:</span>
+            <button type="button" data-clutter="0" class="clutter-preset-btn px-2 py-0.5 rounded bg-slate-800/90 hover:bg-slate-700 text-slate-300 border border-slate-700/80 transition">0m Open</button>
+            <button type="button" data-clutter="12" class="clutter-preset-btn px-2 py-0.5 rounded bg-slate-800/90 hover:bg-slate-700 text-slate-300 border border-slate-700/80 transition">12m Trees</button>
+            <button type="button" data-clutter="25" class="clutter-preset-btn px-2 py-0.5 rounded bg-slate-800/90 hover:bg-slate-700 text-slate-300 border border-slate-700/80 transition">25m Urban/Forest</button>
+          </div>
+          <div class="text-slate-400 font-mono">
+            Feed Loss: <input type="number" id="feedLossInput" value="2.5" step="0.5" min="0" max="30"
+              class="w-14 bg-slate-950 border border-slate-700 rounded px-1.5 py-0.5 text-[11px] font-mono text-slate-200 focus:outline-none focus:border-cyan-400" /> dB
+          </div>
+        </div>
+
+        <!-- Primary Action Bar -->
+        <div class="mt-4 pt-4 border-t border-slate-800/80 flex flex-wrap items-center gap-2.5">
+          <button
+            id="fetchElevationBtn"
+            type="button"
+            class="flex-1 min-w-[180px] inline-flex items-center justify-center gap-2 px-4 py-2.5 rounded-xl bg-slate-800 hover:bg-slate-700 text-cyan-300 border border-cyan-500/30 text-xs font-semibold transition shadow-sm"
+          >
+            <svg id="fetchSpinner" class="hidden w-4 h-4 animate-spin text-cyan-400" fill="none" viewBox="0 0 24 24">
+              <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
+              <path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8v4a4 4 0 00-4 4H4z"></path>
+            </svg>
+            <svg id="fetchIcon" class="w-4 h-4 text-cyan-400" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M3 15a4 4 0 004 4h9a5 5 0 10-.1-9.999 5.002 5.002 0 10-9.78 2.096A4.001 4.001 0 003 15z" />
+            </svg>
+            <span>Fetch Terrain Elevation</span>
+          </button>
+
+          <button
+            id="calculateLosBtn"
+            type="button"
+            class="flex-1 min-w-[180px] inline-flex items-center justify-center gap-2 px-4 py-2.5 rounded-xl bg-gradient-to-r from-cyan-500 to-blue-600 hover:from-cyan-400 hover:to-blue-500 text-slate-950 font-bold text-xs transition shadow-lg shadow-cyan-500/20"
+          >
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" stroke-width="2.2" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M3.75 13.5l10.5-11.25L12 10.5h8.25L9.75 21.75 12 13.5H3.75z" />
+            </svg>
+            <span>Analyze Path & LoS</span>
+          </button>
+
+          <button
+            id="optimizeTowersBtn"
+            type="button"
+            class="w-full inline-flex items-center justify-center gap-2 px-4 py-2 rounded-xl bg-amber-500/15 hover:bg-amber-500/25 text-amber-300 border border-amber-500/40 text-xs font-semibold transition"
+            title="Automatically raise tower heights where obstructions or Fresnel/clutter intrusions occur"
+          >
+            <svg class="w-4 h-4 text-amber-400" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M3 16.5l4.5-4.5 3 3L15 10.5l6 6M14 4h6m0 0v6m0-6l-6 6" />
+            </svg>
+            <span>Auto-Optimize Tower Heights (Clear Obstructions & Target F1)</span>
+          </button>
+        </div>
+      </div>
+
+      <!-- Sequential Site Input Cards -->
+      <div class="glass-panel rounded-2xl p-5 flex-1 flex flex-col">
+        <div class="flex items-center justify-between mb-3.5">
+          <h2 class="text-sm font-semibold uppercase tracking-wider text-slate-200">Sequential Site Coordinates</h2>
+          <span id="terrainSourceBadge" class="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-lg text-[11px] font-mono bg-slate-800/90 text-slate-300 border border-slate-700">
+            <span class="w-2 h-2 rounded-full bg-amber-400"></span>
+            Terrain: Synthetic Ridge Model
+          </span>
+        </div>
+
+        <div id="sitesContainer" class="space-y-3 overflow-y-auto max-h-[680px] pr-1">
+          <!-- Dynamically populated Site 1..N cards -->
+        </div>
+      </div>
+
+    </section>
+
+    <!-- RIGHT COLUMN: Interactive Map, Path Profile Canvas & Detailed Engineering Results (7 cols on xl) -->
+    <section class="xl:col-span-7 flex flex-col gap-5">
+
+      <!-- Interactive Google / Geodetic Link Map Card -->
+      <div class="glass-panel rounded-2xl p-5">
+        <div class="flex flex-wrap items-center justify-between gap-3 mb-3">
+          <div>
+            <h2 class="text-sm font-semibold uppercase tracking-wider text-slate-200 flex items-center gap-2">
+              <svg class="w-4 h-4 text-cyan-400" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M15 10.5a3 3 0 11-6 0 3 3 0 016 0z" />
+                <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 10.5c0 7.142-7.5 11.25-7.5 11.25S4.5 17.642 4.5 10.5a7.5 7.5 0 1115 0z" />
+              </svg>
+              Geodetic Site & RF Link Topology Map
+            </h2>
+            <p id="mapInteractionHint" class="text-xs text-slate-400 mt-0.5">Drag site pins to adjust coordinates, click a path to inspect hop, or use Pick Mode.</p>
+          </div>
+
+          <!-- Map Controls: Layer Switcher, Pick Mode & Recenter -->
+          <div class="flex flex-wrap items-center gap-2">
+            <select id="mapLayerSelect" class="bg-slate-950 border border-slate-700 rounded-xl px-2.5 py-1.5 text-xs font-medium text-slate-200 focus:outline-none focus:border-cyan-400">
+              <option value="googleHybrid" selected>Google Hybrid (Satellite)</option>
+              <option value="googleStreets">Google Streets</option>
+              <option value="osmStandard">OpenStreetMap</option>
+            </select>
+
+            <button id="togglePickModeBtn" type="button" class="px-2.5 py-1.5 rounded-xl text-xs font-semibold bg-slate-800 hover:bg-slate-700 text-cyan-300 border border-slate-700 transition flex items-center gap-1.5" title="Click on the map to place the next site coordinate">
+              <span class="w-2 h-2 rounded-full bg-cyan-400"></span>
+              <span id="pickModeLabel">Pick on Map: OFF</span>
+            </button>
+
+            <button id="recenterMapBtn" type="button" class="px-2.5 py-1.5 rounded-xl text-xs font-semibold bg-slate-800 hover:bg-slate-700 text-slate-200 border border-slate-700 transition" title="Fit all sites in map viewport">
+              Recenter
+            </button>
+
+            <button id="toggleGmapsKeyBtn" type="button" class="px-2.5 py-1.5 rounded-xl text-xs font-mono bg-slate-900 hover:bg-slate-800 text-slate-400 hover:text-cyan-300 border border-slate-800 transition" title="Configure optional Google Maps JS API Key">
+              API Key
+            </button>
+          </div>
+        </div>
+
+        <!-- Optional Native Google Maps JS SDK Bar (Hidden by default) -->
+        <div id="gmapsKeyBar" class="hidden mb-3 p-3 rounded-xl bg-slate-950/90 border border-slate-800 flex flex-wrap items-center gap-2">
+          <span class="text-xs font-medium text-slate-300">Optional Google Maps JS API Key:</span>
+          <input type="text" id="gmapsApiKeyInput" placeholder="AIzaSy... (Leave blank to use built-in Google Tile Layers)"
+            class="flex-1 min-w-[210px] bg-slate-900 border border-slate-700 rounded-lg px-2.5 py-1 text-xs font-mono text-cyan-300 focus:outline-none focus:border-cyan-400" />
+          <button id="applyGmapsKeyBtn" type="button" class="px-3 py-1 rounded-lg text-xs font-semibold bg-cyan-500 hover:bg-cyan-400 text-slate-950 transition">
+            Activate Native SDK
+          </button>
+          <button id="resetLeafletBtn" type="button" class="hidden px-2.5 py-1 rounded-lg text-xs font-medium bg-slate-800 hover:bg-slate-700 text-slate-300 border border-slate-700 transition">
+            Use Tile Mode
+          </button>
+        </div>
+
+        <!-- Map Legend & Pick Target Selector -->
+        <div class="flex flex-wrap items-center justify-between gap-2 mb-2.5 px-3 py-1.5 rounded-xl bg-slate-950/80 border border-slate-800/80 text-[11px]">
+          <div class="flex flex-wrap items-center gap-3.5">
+            <span class="flex items-center gap-1.5 text-slate-300">
+              <span class="w-3 h-1 bg-emerald-400 inline-block rounded"></span> Clear LoS
+            </span>
+            <span class="flex items-center gap-1.5 text-slate-300">
+              <span class="w-3 h-1 bg-amber-400 inline-block rounded"></span> Fresnel Intrusion
+            </span>
+            <span class="flex items-center gap-1.5 text-slate-300">
+              <span class="w-3 h-1 bg-rose-500 inline-block rounded"></span> Obstructed
+            </span>
+            <span class="flex items-center gap-1.5 text-cyan-300 font-mono">
+              <span class="w-3 h-1 bg-[#00f0ff] inline-block rounded shadow-[0_0_6px_#00f0ff]"></span> Selected Hop
+            </span>
+          </div>
+          <div id="pickSiteSelectorWrap" class="hidden flex items-center gap-1.5">
+            <label for="pickTargetSiteSelect" class="text-cyan-300 font-medium">Target Pin:</label>
+            <select id="pickTargetSiteSelect" class="bg-slate-900 border border-cyan-500/40 rounded px-2 py-0.5 text-[11px] font-mono text-cyan-200">
+              <!-- Populated dynamically -->
+            </select>
+          </div>
+        </div>
+
+        <!-- Map Viewport Container -->
+        <div class="relative w-full h-[300px] sm:h-[340px] rounded-xl overflow-hidden border border-slate-800 bg-[#060b16]">
+          <div id="leafletMap" class="w-full h-full z-10"></div>
+          <div id="nativeGoogleMap" class="w-full h-full hidden z-10"></div>
+        </div>
+      </div>
+
+      <!-- Canvas Path Profile Card -->
+      <div class="glass-panel rounded-2xl p-5">
+        <div class="flex flex-wrap items-center justify-between gap-3 mb-4">
+          <div>
+            <h2 class="text-sm font-semibold uppercase tracking-wider text-slate-200 flex items-center gap-2">
+              <span class="w-2.5 h-2.5 rounded-full bg-cyan-400"></span>
+              Path Profile & Fresnel Clearance Canvas
+            </h2>
+            <p id="activeHopSubtitle" class="text-xs text-slate-400 mt-0.5">Select a hop or inspect full multi-hop relay geometry</p>
+          </div>
+
+          <!-- Hop Tabs -->
+          <div id="hopTabsContainer" class="flex flex-wrap items-center gap-1.5 bg-slate-950 p-1 rounded-xl border border-slate-800">
+            <!-- Populated dynamically -->
+          </div>
+        </div>
+
+        <!-- Legend Bar -->
+        <div class="flex flex-wrap items-center justify-between gap-3 mb-3 px-3 py-2 rounded-xl bg-slate-950/80 border border-slate-800/80 text-xs">
+          <div class="flex flex-wrap items-center gap-4">
+            <span class="flex items-center gap-1.5 text-slate-300">
+              <span class="w-4 h-0.5 bg-[#00f0ff] inline-block shadow-[0_0_8px_#00f0ff]"></span>
+              Direct LoS Ray
+            </span>
+            <span class="flex items-center gap-1.5 text-slate-300">
+              <span class="w-3.5 h-3.5 rounded-sm bg-yellow-400/25 border border-yellow-400/70 inline-block"></span>
+              100% Fresnel (F1)
+            </span>
+            <span class="flex items-center gap-1.5 text-slate-300">
+              <span class="w-4 h-0 border-t-2 border-dashed border-amber-400 inline-block"></span>
+              <span id="legendTargetF1Label">60% Target F1</span>
+            </span>
+            <span class="flex items-center gap-1.5 text-slate-300">
+              <span class="w-3.5 h-3.5 rounded-sm bg-emerald-500/35 border border-emerald-400/70 inline-block"></span>
+              Terrain + Earth Bulge
+            </span>
+            <span class="flex items-center gap-1.5 text-orange-300">
+              <span class="w-3.5 h-3.5 rounded-sm bg-orange-500/30 border border-orange-400/70 inline-block"></span>
+              <span id="legendClutterLabel">Clutter (10m)</span>
+            </span>
+          </div>
+
+          <button id="downloadPngBtn" type="button" class="text-xs text-cyan-400 hover:text-cyan-300 font-medium flex items-center gap-1 transition">
+            <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M3 16.5v2.25A2.25 2.25 0 005.25 21h13.5A2.25 2.25 0 0021 18.75V16.5M16.5 12L12 16.5m0 0L7.5 12m4.5 4.5V3" />
+            </svg>
+            Save PNG
+          </button>
+        </div>
+
+        <!-- Responsive Canvas Container -->
+        <div id="canvasWrapper" class="relative w-full h-[360px] sm:h-[410px] rounded-xl overflow-hidden border border-slate-800 bg-[#060b16]">
+          <canvas id="profileCanvas" class="w-full h-full block cursor-crosshair"></canvas>
+        </div>
+
+        <!-- Live Cursor Telemetry Bar -->
+        <div id="cursorTelemetry" class="mt-3 grid grid-cols-2 sm:grid-cols-6 gap-2 bg-slate-950/90 border border-slate-800/90 rounded-xl px-3 py-2 text-[11px] font-mono">
+          <div>
+            <span class="text-slate-500 block">DIST (d1)</span>
+            <span id="telDist" class="text-slate-200 font-semibold">-- km</span>
+          </div>
+          <div>
+            <span class="text-slate-500 block">TERRAIN ASL</span>
+            <span id="telTerrain" class="text-emerald-300 font-semibold">-- m</span>
+          </div>
+          <div>
+            <span class="text-slate-500 block">EARTH BULGE</span>
+            <span id="telBulge" class="text-amber-300 font-semibold">-- m</span>
+          </div>
+          <div>
+            <span class="text-slate-500 block">LOS HEIGHT</span>
+            <span id="telLos" class="text-cyan-300 font-semibold">-- m</span>
+          </div>
+          <div>
+            <span class="text-slate-500 block">100% F1 RAD</span>
+            <span id="telF1" class="text-yellow-300 font-semibold">-- m</span>
+          </div>
+          <div>
+            <span class="text-slate-500 block">CLEARANCE</span>
+            <span id="telClearance" class="text-slate-200 font-semibold">-- m</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Detailed Engineering Analysis Results -->
+      <div class="glass-panel rounded-2xl p-5">
+        <div class="flex flex-wrap items-center justify-between gap-3 mb-4">
+          <div>
+            <h2 class="text-sm font-semibold uppercase tracking-wider text-slate-200">Detailed Link Budget & LoS Engineering Report</h2>
+            <p id="reportMetaTimestamp" class="text-xs font-mono text-slate-400 mt-0.5">Generated: --</p>
+          </div>
+          <div class="flex flex-wrap items-center gap-2">
+            <button id="exportKmlBtn" type="button" class="px-2.5 py-1.5 rounded-xl text-xs font-semibold bg-slate-800 hover:bg-slate-700 text-emerald-300 border border-slate-700 transition flex items-center gap-1.5" title="Download Google Earth KML with sites and 3D LoS rays">
+              <span>Export .KML</span>
+            </button>
+            <button id="exportCsvBtn" type="button" class="px-2.5 py-1.5 rounded-xl text-xs font-semibold bg-slate-800 hover:bg-slate-700 text-amber-300 border border-slate-700 transition flex items-center gap-1.5" title="Download path profile sample CSV">
+              <span>Export .CSV</span>
+            </button>
+            <button id="copyReportBtn" type="button" class="px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-800 hover:bg-slate-700 text-cyan-300 border border-slate-700 transition flex items-center gap-1.5">
+              <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" />
+              </svg>
+              Copy Full Report
+            </button>
+          </div>
+        </div>
+
+        <!-- Hop Summary Cards -->
+        <div id="hopCardsContainer" class="grid grid-cols-1 md:grid-cols-2 gap-3.5 mb-5">
+          <!-- Populated dynamically -->
+        </div>
+
+        <!-- Comprehensive Data Table -->
+        <div class="overflow-x-auto rounded-xl border border-slate-800">
+          <table class="w-full text-left border-collapse text-xs">
+            <thead>
+              <tr class="bg-slate-950 text-slate-400 font-mono uppercase text-[11px] border-b border-slate-800">
+                <th class="py-2.5 px-3">Hop / Path</th>
+                <th class="py-2.5 px-3">Distance</th>
+                <th class="py-2.5 px-3">Fwd / Rev Azimuth</th>
+                <th class="py-2.5 px-3">Tilt (A / B)</th>
+                <th class="py-2.5 px-3">Max Bulge / F1</th>
+                <th class="py-2.5 px-3">Min Margin</th>
+                <th class="py-2.5 px-3">FSPL / RSL</th>
+                <th class="py-2.5 px-3">Fade Margin</th>
+                <th class="py-2.5 px-3">Verdict</th>
+              </tr>
+            </thead>
+            <tbody id="resultsTableBody" class="divide-y divide-slate-800/70 font-mono text-slate-200 bg-slate-900/40">
+              <!-- Populated dynamically -->
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+    </section>
+  </main>
+
+  <script>
+    /**
+     * RF Microwave Line-of-Sight (LoS) Path Profile & Multi-Hop Link Calculator
+     * Handles real-time clock, dynamic 2-5 site state, Open-Elevation API queries with synthetic fallback,
+     * Geodetic Haversine/Azimuth/Tilt math, Earth Bulge, Fresnel Zone clearances, Clutter obstacles,
+     * RF Link Budget & Fade Margin, Auto Tower Height Solver, KML/CSV exports, and HD Canvas rendering.
+     */
+
+    // =========================================================================
+    // 1. APPLICATION STATE & PRESET DATA
+    // =========================================================================
+    const PRESET_SITES = [
+      { name: 'Site 1 - Sydney CBD Tower', lat: -33.8688, lon: 151.2093, elev: 28, ant: 85 },
+      { name: 'Site 2 - Prospect Ridge Relay', lat: -33.8015, lon: 150.9125, elev: 118, ant: 45 },
+      { name: 'Site 3 - Blue Mtns Kurrajong', lat: -33.5512, lon: 150.6642, elev: 542, ant: 40 },
+      { name: 'Site 4 - Mount Boyce Repeater', lat: -33.6194, lon: 150.2736, elev: 1095, ant: 35 },
+      { name: 'Site 5 - Bathurst Hub', lat: -33.4193, lon: 149.5775, elev: 675, ant: 50 }
+    ];
+
+    const state = {
+      numSites: 3,
+      freqGHz: 5.8,
+      kFactor: 1.333,
+      targetFresnelPct: 60,
+      txPowerDbm: 23,
+      antGainDbi: 28,
+      feedLossDb: 2.5,
+      rxSensDbm: -76,
+      clutterHeightM: 10,
+      liveClock: true,
+      sites: JSON.parse(JSON.stringify(PRESET_SITES)),
+      // Stores terrain elevation profiles per hop index: hopProfiles[hopIdx] = [{d1, lat, lon, elev}, ...]
+      hopProfiles: {},
+      terrainSource: 'simulated', // 'api' or 'simulated'
+      hopResults: [],
+      selectedView: 0, // 0, 1, ... for individual hops, or 'all' for full chain
+      hoverX: null,
+      // Interactive Map State
+      mapMode: 'leaflet', // 'leaflet' or 'nativeGoogle'
+      mapLayer: 'googleHybrid',
+      pickMode: false,
+      pickTargetIdx: 0
+    };
+
+    const SAMPLES_PER_HOP = 32;
+
+    // =========================================================================
+    // 2. DOM ELEMENT REFERENCES
+    // =========================================================================
+    const els = {
+      surveyDateTime: document.getElementById('surveyDateTime'),
+      toggleLiveClockBtn: document.getElementById('toggleLiveClockBtn'),
+      livePulse: document.getElementById('livePulse'),
+      numSitesSelect: document.getElementById('numSitesSelect'),
+      freqInput: document.getElementById('freqInput'),
+      kFactorInput: document.getElementById('kFactorInput'),
+      fresnelTargetInput: document.getElementById('fresnelTargetInput'),
+      txPowerInput: document.getElementById('txPowerInput'),
+      antGainInput: document.getElementById('antGainInput'),
+      feedLossInput: document.getElementById('feedLossInput'),
+      rxSensInput: document.getElementById('rxSensInput'),
+      clutterHeightInput: document.getElementById('clutterHeightInput'),
+      legendClutterLabel: document.getElementById('legendClutterLabel'),
+      fetchElevationBtn: document.getElementById('fetchElevationBtn'),
+      fetchSpinner: document.getElementById('fetchSpinner'),
+      fetchIcon: document.getElementById('fetchIcon'),
+      calculateLosBtn: document.getElementById('calculateLosBtn'),
+      optimizeTowersBtn: document.getElementById('optimizeTowersBtn'),
+      loadPresetBtn: document.getElementById('loadPresetBtn'),
+      clearSitesBtn: document.getElementById('clearSitesBtn'),
+      sitesContainer: document.getElementById('sitesContainer'),
+      terrainSourceBadge: document.getElementById('terrainSourceBadge'),
+      hopTabsContainer: document.getElementById('hopTabsContainer'),
+      activeHopSubtitle: document.getElementById('activeHopSubtitle'),
+      legendTargetF1Label: document.getElementById('legendTargetF1Label'),
+      canvasWrapper: document.getElementById('canvasWrapper'),
+      profileCanvas: document.getElementById('profileCanvas'),
+      downloadPngBtn: document.getElementById('downloadPngBtn'),
+      exportKmlBtn: document.getElementById('exportKmlBtn'),
+      exportCsvBtn: document.getElementById('exportCsvBtn'),
+      copyReportBtn: document.getElementById('copyReportBtn'),
+      reportMetaTimestamp: document.getElementById('reportMetaTimestamp'),
+      hopCardsContainer: document.getElementById('hopCardsContainer'),
+      resultsTableBody: document.getElementById('resultsTableBody'),
+      // Telemetry readouts
+      telDist: document.getElementById('telDist'),
+      telTerrain: document.getElementById('telTerrain'),
+      telBulge: document.getElementById('telBulge'),
+      telLos: document.getElementById('telLos'),
+      telF1: document.getElementById('telF1'),
+      telClearance: document.getElementById('telClearance'),
+      // Interactive Map Elements
+      leafletMap: document.getElementById('leafletMap'),
+      nativeGoogleMap: document.getElementById('nativeGoogleMap'),
+      mapLayerSelect: document.getElementById('mapLayerSelect'),
+      togglePickModeBtn: document.getElementById('togglePickModeBtn'),
+      pickModeLabel: document.getElementById('pickModeLabel'),
+      pickSiteSelectorWrap: document.getElementById('pickSiteSelectorWrap'),
+      pickTargetSiteSelect: document.getElementById('pickTargetSiteSelect'),
+      recenterMapBtn: document.getElementById('recenterMapBtn'),
+      toggleGmapsKeyBtn: document.getElementById('toggleGmapsKeyBtn'),
+      gmapsKeyBar: document.getElementById('gmapsKeyBar'),
+      gmapsApiKeyInput: document.getElementById('gmapsApiKeyInput'),
+      applyGmapsKeyBtn: document.getElementById('applyGmapsKeyBtn'),
+      resetLeafletBtn: document.getElementById('resetLeafletBtn'),
+      // Toast
+      toast: document.getElementById('toast'),
+      toastMsg: document.getElementById('toastMsg'),
+      toastIcon: document.getElementById('toastIcon')
+    };
+
+    // =========================================================================
+    // 3. UTILITIES & REAL-TIME CLOCK
+    // =========================================================================
+    let toastTimer = null;
+    function showToast(message, type = 'info') {
+      if (!els.toast) return;
+      els.toastMsg.textContent = message;
+      const colors = {
+        info: 'bg-cyan-400',
+        success: 'bg-emerald-400',
+        warn: 'bg-amber-400',
+        error: 'bg-rose-500'
+      };
+      els.toastIcon.className = `w-2.5 h-2.5 rounded-full ${colors[type] || colors.info} animate-pulse`;
+      els.toast.classList.remove('hidden');
+      requestAnimationFrame(() => {
+        els.toast.classList.remove('translate-y-2', 'opacity-0');
+      });
+      clearTimeout(toastTimer);
+      toastTimer = setTimeout(() => {
+        els.toast.classList.add('translate-y-2', 'opacity-0');
+        setTimeout(() => els.toast.classList.add('hidden'), 300);
+      }, 3200);
+    }
+
+    function formatLocalDateTimeInput(date) {
+      const pad = (n) => String(n).padStart(2, '0');
+      return `${date.getFullYear()}-${pad(date.getMonth() + 1)}-${pad(date.getDate())}T${pad(date.getHours())}:${pad(date.getMinutes())}:${pad(date.getSeconds())}`;
+    }
+
+    function updateLiveClock() {
+      if (!state.liveClock) return;
+      const now = new Date();
+      els.surveyDateTime.value = formatLocalDateTimeInput(now);
+      if (els.reportMetaTimestamp) {
+        els.reportMetaTimestamp.textContent = `Survey Timestamp: ${now.toLocaleString()} (LIVE SYNC)`;
+      }
+    }
+
+    setInterval(updateLiveClock, 1000);
+
+    els.toggleLiveClockBtn.addEventListener('click', () => {
+      state.liveClock = !state.liveClock;
+      if (state.liveClock) {
+        els.toggleLiveClockBtn.textContent = 'LIVE';
+        els.toggleLiveClockBtn.className = 'px-2.5 py-1 rounded-lg text-xs font-medium bg-emerald-500/15 text-emerald-300 border border-emerald-500/30 hover:bg-emerald-500/25 transition';
+        els.livePulse.classList.remove('hidden');
+        updateLiveClock();
+      } else {
+        els.toggleLiveClockBtn.textContent = 'MANUAL';
+        els.toggleLiveClockBtn.className = 'px-2.5 py-1 rounded-lg text-xs font-medium bg-amber-500/15 text-amber-300 border border-amber-500/30 hover:bg-amber-500/25 transition';
+        els.livePulse.classList.add('hidden');
+      }
+    });
+
+    els.surveyDateTime.addEventListener('input', () => {
+      state.liveClock = false;
+      els.toggleLiveClockBtn.textContent = 'MANUAL';
+      els.toggleLiveClockBtn.className = 'px-2.5 py-1 rounded-lg text-xs font-medium bg-amber-500/15 text-amber-300 border border-amber-500/30 hover:bg-amber-500/25 transition';
+      els.livePulse.classList.add('hidden');
+      els.reportMetaTimestamp.textContent = `Survey Timestamp: ${els.surveyDateTime.value.replace('T', ' ')} (MANUAL)`;
+    });
+
+    function updateTerrainBadge(source) {
+      state.terrainSource = source;
+      if (!els.terrainSourceBadge) return;
+      if (source === 'api') {
+        els.terrainSourceBadge.innerHTML = `<span class="w-2 h-2 rounded-full bg-emerald-400"></span>Terrain: Open-Elevation DEM`;
+      } else {
+        els.terrainSourceBadge.innerHTML = `<span class="w-2 h-2 rounded-full bg-amber-400"></span>Terrain: Synthetic Ridge Model`;
+      }
+    }
+
+    // =========================================================================
+    // 4. GEODETIC & RF MICROWAVE PHYSICS CALCULATIONS
+    // =========================================================================
+    const toRad = (deg) => (deg * Math.PI) / 180;
+    const toDeg = (rad) => (rad * 180) / Math.PI;
+    const EARTH_RADIUS_KM = 6371.0;
+
+    function haversineDistanceKm(lat1, lon1, lat2, lon2) {
+      const dLat = toRad(lat2 - lat1);
+      const dLon = toRad(lon2 - lon1);
+      const a =
+        Math.sin(dLat / 2) * Math.sin(dLat / 2) +
+        Math.cos(toRad(lat1)) * Math.cos(toRad(lat2)) * Math.sin(dLon / 2) * Math.sin(dLon / 2);
+      const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+      return EARTH_RADIUS_KM * c;
+    }
+
+    function calculateBearingDeg(lat1, lon1, lat2, lon2) {
+      const phi1 = toRad(lat1);
+      const phi2 = toRad(lat2);
+      const dLambda = toRad(lon2 - lon1);
+      const y = Math.sin(dLambda) * Math.cos(phi2);
+      const x = Math.cos(phi1) * Math.sin(phi2) - Math.sin(phi1) * Math.cos(phi2) * Math.cos(dLambda);
+      return (toDeg(Math.atan2(y, x)) + 360) % 360;
+    }
+
+    function interpolateGreatCircle(lat1, lon1, lat2, lon2, f) {
+      if (f <= 0) return { lat: lat1, lon: lon1 };
+      if (f >= 1) return { lat: lat2, lon: lon2 };
+      const phi1 = toRad(lat1);
+      const lam1 = toRad(lon1);
+      const phi2 = toRad(lat2);
+      const lam2 = toRad(lon2);
+
+      const d = 2 * Math.asin(Math.sqrt(
+        Math.pow(Math.sin((phi2 - phi1) / 2), 2) +
+        Math.cos(phi1) * Math.cos(phi2) * Math.pow(Math.sin((lam2 - lam1) / 2), 2)
+      ));
+
+      if (d < 1e-9) return { lat: lat1, lon: lon1 };
+
+      const A = Math.sin((1 - f) * d) / Math.sin(d);
+      const B = Math.sin(f * d) / Math.sin(d);
+      const x = A * Math.cos(phi1) * Math.cos(lam1) + B * Math.cos(phi2) * Math.cos(lam2);
+      const y = A * Math.cos(phi1) * Math.sin(lam1) + B * Math.cos(phi2) * Math.sin(lam2);
+      const z = A * Math.sin(phi1) + B * Math.sin(phi2);
+
+      return {
+        lat: toDeg(Math.atan2(z, Math.sqrt(x * x + y * y))),
+        lon: toDeg(Math.atan2(y, x))
+      };
+    }
+
+    // Earth Bulge Correction: h = (d1 * d2) / (12.74 * K) in meters (d1, d2 in km)
+    function computeEarthBulgeM(d1Km, d2Km, kFactor) {
+      return (d1Km * d2Km) / (12.74 * Math.max(0.1, kFactor));
+    }
+
+    // 1st Fresnel Zone Radius: F1 = 17.32 * sqrt((d1 * d2) / (f_GHz * D)) in meters
+    function computeFresnelF1M(d1Km, d2Km, totalDistKm, freqGHz) {
+      if (totalDistKm <= 0 || freqGHz <= 0 || d1Km <= 0 || d2Km <= 0) return 0;
+      return 17.32 * Math.sqrt((d1Km * d2Km) / (freqGHz * totalDistKm));
+    }
+
+    // Free Space Path Loss: FSPL(dB) = 92.45 + 20*log10(D_km) + 20*log10(f_GHz)
+    function computeFsplDb(distKm, freqGHz) {
+      if (distKm <= 0 || freqGHz <= 0) return 0;
+      return 92.45 + 20 * Math.log10(distKm) + 20 * Math.log10(freqGHz);
+    }
+
+    // Antenna Vertical Elevation Tilt Angle (degrees) from Site A antenna to Site B antenna
+    function computeElevationTiltDeg(antHeightA_m, antHeightB_m, distKm) {
+      if (distKm <= 0.0001) return 0;
+      const distMeters = distKm * 1000;
+      return toDeg(Math.atan2(antHeightB_m - antHeightA_m, distMeters));
+    }
+
+    // Link Budget: EIRP, RSL, Fade Margin (dB), and Vigants-Barnett Reliability (%)
+    function computeLinkBudget(distKm, fsplDb) {
+      const eirpDbm = state.txPowerDbm - state.feedLossDb + state.antGainDbi;
+      const rslDbm = eirpDbm - fsplDb + state.antGainDbi - state.feedLossDb;
+      const fadeMarginDb = rslDbm - state.rxSensDbm;
+
+      // Vigants-Barnett outage probability approximation for multipath/fading
+      let reliabilityPct = 99.999;
+      if (fadeMarginDb < 0) {
+        reliabilityPct = 0;
+      } else if (distKm > 1) {
+        const a = 1e-6;
+        const b = 1.0;
+        const fFactor = Math.pow(state.freqGHz, b);
+        const dFactor = Math.pow(distKm, 3.0);
+        const fadeFactor = Math.pow(10, -fadeMarginDb / 10);
+        const outageProb = Math.min(0.5, a * fFactor * dFactor * fadeFactor);
+        reliabilityPct = Math.max(0, Math.min(99.999, (1 - outageProb) * 100));
+      }
+
+      return { eirpDbm, rslDbm, fadeMarginDb, reliabilityPct };
+    }
+
+    // Automatic Tower Height Solver: raises endpoint antenna AGLs to clear obstructions + target F1 + clutter
+    function solveOptimalTowerHeights() {
+      if (state.hopResults.length === 0) return false;
+      let changed = false;
+
+      state.hopResults.forEach((hop, idx) => {
+        const siteA = state.sites[idx];
+        const siteB = state.sites[idx + 1];
+        const distKm = hop.distKm;
+        if (distKm <= 0.001) return;
+
+        let reqAntA = siteA.ant;
+        let reqAntB = siteB.ant;
+
+        // Solve required LoS height at each interior sample i:
+        // losHeight(i) >= effectiveGround(i) + clutter + targetF1Radius(i)
+        hop.profilePoints.forEach((pt, i) => {
+          if (i === 0 || i === hop.profilePoints.length - 1) return;
+          const frac = i / (hop.profilePoints.length - 1);
+          const minRequiredLos = pt.effectiveGround + state.clutterHeightM + pt.targetF1Radius;
+          const currentLos = (siteA.elev + reqAntA) + ((siteB.elev + reqAntB) - (siteA.elev + reqAntA)) * frac;
+
+          if (currentLos < minRequiredLos) {
+            const deficit = minRequiredLos - currentLos;
+            // Distribute height boost toward the closer endpoint for maximum leverage
+            const weightB = frac;
+            const weightA = 1 - frac;
+            const boostA = Math.ceil(deficit * (0.35 + 0.65 * weightA));
+            const boostB = Math.ceil(deficit * (0.35 + 0.65 * weightB));
+            reqAntA += boostA;
+            reqAntB += boostB;
+          }
+        });
+
+        if (reqAntA > siteA.ant) {
+          siteA.ant = reqAntA;
+          changed = true;
+        }
+        if (reqAntB > siteB.ant) {
+          siteB.ant = reqAntB;
+          changed = true;
+        }
+      });
+
+      return changed;
+    }
+
+    // Deterministic synthetic terrain profile generator when offline or before DEM fetch
+    function buildSyntheticHopProfile(siteA, siteB, distKm, samples = SAMPLES_PER_HOP) {
+      const pts = [];
+      for (let i = 0; i <= samples; i++) {
+        const f = i / samples;
+        const coord = interpolateGreatCircle(siteA.lat, siteA.lon, siteB.lat, siteB.lon, f);
+        const baseElev = siteA.elev * (1 - f) + siteB.elev * f;
+        // Realistic rolling ridge & valley envelope tapered to 0 at endpoints
+        const taper = Math.sin(Math.PI * f);
+        const ridgeWave =
+          Math.sin(f * Math.PI * 3.0 + siteA.lat * 10) * 28 +
+          Math.cos(f * Math.PI * 5.0 + siteB.lon * 10) * 14;
+        const elev = i === 0 ? siteA.elev : i === samples ? siteB.elev : Math.max(0, baseElev + taper * ridgeWave);
+        pts.push({
+          d1: f * distKm,
+          lat: coord.lat,
+          lon: coord.lon,
+          elev: Number(elev.toFixed(1))
+        });
+      }
+      return pts;
+    }
+
+    // =========================================================================
+    // 5. OPEN-ELEVATION API LOOKUP WITH GRACEFUL FALLBACK
+    // =========================================================================
+    async function fetchTerrainElevations() {
+      els.fetchElevationBtn.disabled = true;
+      els.fetchSpinner.classList.remove('hidden');
+      els.fetchIcon.classList.add('hidden');
+
+      try {
+        const locations = [];
+        const hopIndexMap = [];
+
+        // Queue site endpoints first
+        for (let i = 0; i < state.numSites; i++) {
+          locations.push({ latitude: state.sites[i].lat, longitude: state.sites[i].lon });
+        }
+
+        // Queue intermediate samples per hop
+        for (let h = 0; h < state.numSites - 1; h++) {
+          const siteA = state.sites[h];
+          const siteB = state.sites[h + 1];
+          const distKm = haversineDistanceKm(siteA.lat, siteA.lon, siteB.lat, siteB.lon);
+          const hopSamples = [];
+
+          for (let s = 0; s <= SAMPLES_PER_HOP; s++) {
+            const f = s / SAMPLES_PER_HOP;
+            const pt = interpolateGreatCircle(siteA.lat, siteA.lon, siteB.lat, siteB.lon, f);
+            const locIdx = locations.length;
+            locations.push({ latitude: pt.lat, longitude: pt.lon });
+            hopSamples.push({ d1: f * distKm, lat: pt.lat, lon: pt.lon, locIdx });
+          }
+          hopIndexMap.push({ hopIdx: h, samples: hopSamples });
+        }
+
+        const controller = new AbortController();
+        const timeoutId = setTimeout(() => controller.abort(), 9000);
+
+        const response = await fetch('https://api.open-elevation.com/api/v1/lookup', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
+          body: JSON.stringify({ locations }),
+          signal: controller.signal
+        });
+        clearTimeout(timeoutId);
+
+        if (!response.ok) throw new Error(`HTTP ${response.status}`);
+        const data = await response.json();
+        if (!data.results || data.results.length !== locations.length) {
+          throw new Error('Incomplete DEM payload');
+        }
+
+        // Populate site ground elevations
+        for (let i = 0; i < state.numSites; i++) {
+          state.sites[i].elev = Math.round(data.results[i].elevation);
+        }
+
+        // Populate hop terrain profiles
+        hopIndexMap.forEach(({ hopIdx, samples }) => {
+          state.hopProfiles[hopIdx] = samples.map((sm) => ({
+            d1: sm.d1,
+            lat: sm.lat,
+            lon: sm.lon,
+            elev: Number(data.results[sm.locIdx].elevation.toFixed(1))
+          }));
+        });
+
+        updateTerrainBadge('api');
+        renderSiteInputs();
+        runFullAnalysis();
+        syncInteractiveMap(false);
+        showToast('Live DEM terrain elevations fetched from Open-Elevation API', 'success');
+      } catch (err) {
+        updateTerrainBadge('simulated');
+        runFullAnalysis();
+        showToast('Open-Elevation API unreachable/throttled — using local terrain model', 'warn');
+      } finally {
+        els.fetchElevationBtn.disabled = false;
+        els.fetchSpinner.classList.add('hidden');
+        els.fetchIcon.classList.remove('hidden');
+      }
+    }
+
+    // =========================================================================
+    // 6. DYNAMIC SITE INPUT CARDS RENDERER
+    // =========================================================================
+    function renderSiteInputs() {
+      els.sitesContainer.innerHTML = '';
+
+      for (let i = 0; i < state.numSites; i++) {
+        const site = state.sites[i];
+        const roleBadge =
+          i === 0
+            ? '<span class="px-2 py-0.5 rounded text-[10px] font-mono font-bold bg-cyan-500/15 text-cyan-300 border border-cyan-500/30">TX / ORIGIN</span>'
+            : i === state.numSites - 1
+            ? '<span class="px-2 py-0.5 rounded text-[10px] font-mono font-bold bg-indigo-500/15 text-indigo-300 border border-indigo-500/30">RX / TERMINUS</span>'
+            : '<span class="px-2 py-0.5 rounded text-[10px] font-mono font-bold bg-amber-500/15 text-amber-300 border border-amber-500/30">ACTIVE RELAY</span>';
+
+        const card = document.createElement('div');
+        card.className = 'p-3.5 rounded-xl bg-slate-950/85 border border-slate-800/90 hover:border-slate-700 transition';
+        card.innerHTML = `
+          <div class="flex items-center justify-between gap-2 mb-2.5">
+            <div class="flex items-center gap-2 flex-1 min-w-0">
+              <span class="w-6 h-6 rounded-lg bg-slate-800 border border-slate-700 flex items-center justify-center text-xs font-mono font-bold text-cyan-300 shrink-0">${i + 1}</span>
+              <input type="text" data-idx="${i}" data-field="name" value="${site.name}"
+                class="site-input w-full bg-transparent border-b border-transparent focus:border-cyan-500 text-xs font-semibold text-white focus:outline-none truncate" />
+            </div>
+            ${roleBadge}
+          </div>
+          <div class="grid grid-cols-2 sm:grid-cols-4 gap-2">
+            <div>
+              <label class="block text-[10px] font-mono text-slate-400 mb-0.5">LATITUDE (°)</label>
+              <input type="number" step="0.0001" data-idx="${i}" data-field="lat" value="${site.lat}"
+                class="site-input w-full bg-slate-900 border border-slate-700/80 rounded-lg px-2 py-1.5 text-xs font-mono text-slate-100 focus:outline-none focus:border-cyan-400" />
+            </div>
+            <div>
+              <label class="block text-[10px] font-mono text-slate-400 mb-0.5">LONGITUDE (°)</label>
+              <input type="number" step="0.0001" data-idx="${i}" data-field="lon" value="${site.lon}"
+                class="site-input w-full bg-slate-900 border border-slate-700/80 rounded-lg px-2 py-1.5 text-xs font-mono text-slate-100 focus:outline-none focus:border-cyan-400" />
+            </div>
+            <div>
+              <label class="block text-[10px] font-mono text-slate-400 mb-0.5">GROUND (m ASL)</label>
+              <input type="number" step="1" data-idx="${i}" data-field="elev" value="${site.elev}"
+                class="site-input w-full bg-slate-900 border border-slate-700/80 rounded-lg px-2 py-1.5 text-xs font-mono text-emerald-300 focus:outline-none focus:border-cyan-400" />
+            </div>
+            <div>
+              <label class="block text-[10px] font-mono text-slate-400 mb-0.5">TOWER (m AGL)</label>
+              <input type="number" step="1" min="0" data-idx="${i}" data-field="ant" value="${site.ant}"
+                class="site-input w-full bg-slate-900 border border-slate-700/80 rounded-lg px-2 py-1.5 text-xs font-mono text-cyan-300 focus:outline-none focus:border-cyan-400" />
+            </div>
+          </div>
+        `;
+        els.sitesContainer.appendChild(card);
+      }
+
+      document.querySelectorAll('.site-input').forEach((input) => {
+        input.addEventListener('input', (e) => {
+          const idx = parseInt(e.target.dataset.idx, 10);
+          const field = e.target.dataset.field;
+          if (field === 'name') {
+            state.sites[idx].name = e.target.value;
+          } else {
+            const val = parseFloat(e.target.value);
+            state.sites[idx][field] = isNaN(val) ? 0 : val;
+            if (field === 'lat' || field === 'lon') {
+              delete state.hopProfiles[idx - 1];
+              delete state.hopProfiles[idx];
+              updateTerrainBadge('simulated');
+            }
+          }
+          runFullAnalysis();
+          syncInteractiveMap(false);
+        });
+      });
+    }
+
+    // =========================================================================
+    // 7. MULTI-HOP PATH ANALYSIS ENGINE
+    // =========================================================================
+    function runFullAnalysis() {
+      state.freqGHz = Math.max(0.05, parseFloat(els.freqInput.value) || 5.8);
+      state.kFactor = Math.max(0.2, parseFloat(els.kFactorInput.value) || 1.333);
+      state.targetFresnelPct = Math.min(100, Math.max(10, parseFloat(els.fresnelTargetInput.value) || 60));
+      state.txPowerDbm = parseFloat(els.txPowerInput.value);
+      if (isNaN(state.txPowerDbm)) state.txPowerDbm = 23;
+      state.antGainDbi = Math.max(0, parseFloat(els.antGainInput.value) || 0);
+      state.feedLossDb = Math.max(0, parseFloat(els.feedLossInput.value) || 0);
+      state.rxSensDbm = parseFloat(els.rxSensInput.value);
+      if (isNaN(state.rxSensDbm)) state.rxSensDbm = -76;
+      state.clutterHeightM = Math.max(0, parseFloat(els.clutterHeightInput.value) || 0);
+
+      if (els.legendTargetF1Label) {
+        els.legendTargetF1Label.textContent = `${state.targetFresnelPct}% Target F1`;
+      }
+      if (els.legendClutterLabel) {
+        els.legendClutterLabel.textContent = `Clutter (${state.clutterHeightM}m)`;
+      }
+
+      const results = [];
+
+      for (let h = 0; h < state.numSites - 1; h++) {
+        const siteA = state.sites[h];
+        const siteB = state.sites[h + 1];
+
+        const distKm = haversineDistanceKm(siteA.lat, siteA.lon, siteB.lat, siteB.lon);
+        const fwdAz = calculateBearingDeg(siteA.lat, siteA.lon, siteB.lat, siteB.lon);
+        const revAz = calculateBearingDeg(siteB.lat, siteB.lon, siteA.lat, siteA.lon);
+        const fsplDb = computeFsplDb(distKm, state.freqGHz);
+
+        let rawTerrain = state.hopProfiles[h];
+        if (!rawTerrain || rawTerrain.length < 2) {
+          rawTerrain = buildSyntheticHopProfile(siteA, siteB, distKm, SAMPLES_PER_HOP);
+        } else {
+          // Ensure endpoints reflect current manual ground elevation edits
+          rawTerrain[0].elev = siteA.elev;
+          rawTerrain[rawTerrain.length - 1].elev = siteB.elev;
+        }
+
+        const antHeightA = siteA.elev + siteA.ant;
+        const antHeightB = siteB.elev + siteB.ant;
+        const tiltDegA = computeElevationTiltDeg(antHeightA, antHeightB, distKm);
+        const tiltDegB = computeElevationTiltDeg(antHeightB, antHeightA, distKm);
+        const linkBudget = computeLinkBudget(distKm, fsplDb);
+
+        let maxBulgeM = 0;
+        let maxF1M = 0;
+        let maxTargetF1M = 0;
+        let minRawClearanceM = Infinity;
+        let minTargetMarginM = Infinity;
+        let minClearancePctF1 = 100;
+
+        const profilePoints = rawTerrain.map((pt, idx) => {
+          const frac = rawTerrain.length > 1 ? idx / (rawTerrain.length - 1) : 0;
+          const d1 = frac * distKm;
+          const d2 = Math.max(0, distKm - d1);
+
+          const bulge = computeEarthBulgeM(d1, d2, state.kFactor);
+          const effectiveGround = pt.elev + bulge;
+          const clutterTop = effectiveGround + state.clutterHeightM;
+          const losHeight = antHeightA + (antHeightB - antHeightA) * frac;
+          const f1Radius = computeFresnelF1M(d1, d2, distKm, state.freqGHz);
+          const targetF1Radius = f1Radius * (state.targetFresnelPct / 100);
+
+          // Account for clutter obstacle height along the path
+          const rawClearance = losHeight - clutterTop;
+          const targetMargin = rawClearance - targetF1Radius;
+
+          if (bulge > maxBulgeM) maxBulgeM = bulge;
+          if (f1Radius > maxF1M) maxF1M = f1Radius;
+          if (targetF1Radius > maxTargetF1M) maxTargetF1M = targetF1Radius;
+
+          // Evaluate interior clearance (exclude exact tower base endpoints)
+          if (idx > 0 && idx < rawTerrain.length - 1) {
+            if (rawClearance < minRawClearanceM) minRawClearanceM = rawClearance;
+            if (targetMargin < minTargetMarginM) minTargetMarginM = targetMargin;
+            if (f1Radius > 0) {
+              const pct = (rawClearance / f1Radius) * 100;
+              if (pct < minClearancePctF1) minClearancePctF1 = pct;
+            }
+          }
+
+          return {
+            d1,
+            d2,
+            lat: pt.lat,
+            lon: pt.lon,
+            elev: pt.elev,
+            bulge,
+            effectiveGround,
+            clutterTop,
+            losHeight,
+            f1Radius,
+            targetF1Radius,
+            rawClearance,
+            targetMargin
+          };
+        });
+
+        if (!isFinite(minRawClearanceM)) minRawClearanceM = 0;
+        if (!isFinite(minTargetMarginM)) minTargetMarginM = 0;
+
+        let status = 'CLEAR';
+        let statusLabel = 'CLEAR LoS';
+        if (minRawClearanceM < 0) {
+          status = 'OBSTRUCTED';
+          statusLabel = 'OBSTRUCTED';
+        } else if (minTargetMarginM < 0) {
+          status = 'MARGINAL';
+          statusLabel = 'FRESNEL INTRUSION';
+        }
+
+        results.push({
+          hopIndex: h,
+          fromSite: siteA,
+          toSite: siteB,
+          distKm,
+          fwdAz,
+          revAz,
+          tiltDegA,
+          tiltDegB,
+          fsplDb,
+          ...linkBudget,
+          antHeightA,
+          antHeightB,
+          maxBulgeM,
+          maxF1M,
+          maxTargetF1M,
+          minRawClearanceM,
+          minTargetMarginM,
+          minClearancePctF1,
+          status,
+          statusLabel,
+          profilePoints
+        });
+      }
+
+      state.hopResults = results;
+      if (state.selectedView !== 'all' && state.selectedView >= results.length) {
+        state.selectedView = 0;
+      }
+
+      renderHopTabs();
+      renderSummaryCardsAndTable();
+      drawProfileCanvas();
+    }
+
+    // =========================================================================
+    // 8. HOP TABS, SUMMARY CARDS & ENGINEERING TABLE RENDERERS
+    // =========================================================================
+    function renderHopTabs() {
+      els.hopTabsContainer.innerHTML = '';
+
+      state.hopResults.forEach((hop, idx) => {
+        const active = state.selectedView === idx;
+        const btn = document.createElement('button');
+        btn.type = 'button';
+        btn.className = active
+          ? 'px-3 py-1 rounded-lg text-xs font-mono font-bold bg-cyan-500 text-slate-950 shadow'
+          : 'px-3 py-1 rounded-lg text-xs font-mono font-medium text-slate-300 hover:bg-slate-800 transition';
+        btn.textContent = `Hop ${idx + 1} (S${idx + 1}→S${idx + 2})`;
+        btn.addEventListener('click', () => {
+          state.selectedView = idx;
+          state.hoverX = null;
+          renderHopTabs();
+          drawProfileCanvas();
+          syncInteractiveMap(false);
+        });
+        els.hopTabsContainer.appendChild(btn);
+      });
+
+      if (state.hopResults.length > 1) {
+        const allActive = state.selectedView === 'all';
+        const allBtn = document.createElement('button');
+        allBtn.type = 'button';
+        allBtn.className = allActive
+          ? 'px-3 py-1 rounded-lg text-xs font-mono font-bold bg-cyan-500 text-slate-950 shadow'
+          : 'px-3 py-1 rounded-lg text-xs font-mono font-medium text-slate-300 hover:bg-slate-800 transition';
+        allBtn.textContent = 'Full Chain';
+        allBtn.addEventListener('click', () => {
+          state.selectedView = 'all';
+          state.hoverX = null;
+          renderHopTabs();
+          drawProfileCanvas();
+          syncInteractiveMap(false);
+        });
+        els.hopTabsContainer.appendChild(allBtn);
+      }
+    }
+
+    function renderSummaryCardsAndTable() {
+      els.hopCardsContainer.innerHTML = '';
+      els.resultsTableBody.innerHTML = '';
+
+      state.hopResults.forEach((hop, idx) => {
+        const badgeStyles =
+          hop.status === 'CLEAR'
+            ? 'bg-emerald-500/15 text-emerald-300 border-emerald-500/40'
+            : hop.status === 'MARGINAL'
+            ? 'bg-amber-500/15 text-amber-300 border-amber-500/40'
+            : 'bg-rose-500/15 text-rose-300 border-rose-500/40';
+
+        // Hop Summary Card
+        const card = document.createElement('div');
+        card.className = 'p-4 rounded-xl bg-slate-950/90 border border-slate-800 flex flex-col justify-between gap-3';
+        card.innerHTML = `
+          <div class="flex items-start justify-between gap-2">
+            <div>
+              <span class="text-[11px] font-mono text-cyan-400 font-semibold">HOP ${idx + 1} • ${hop.distKm.toFixed(2)} km</span>
+              <h3 class="text-xs font-bold text-white mt-0.5">${hop.fromSite.name} → ${hop.toSite.name}</h3>
+            </div>
+            <span class="px-2 py-0.5 rounded-md text-[10px] font-mono font-bold border ${badgeStyles} shrink-0">${hop.statusLabel}</span>
+          </div>
+          <div class="grid grid-cols-3 gap-2 pt-2 border-t border-slate-800/80 text-[11px] font-mono">
+            <div>
+              <span class="text-slate-500 block">AZ / TILT</span>
+              <span class="text-slate-200">${hop.fwdAz.toFixed(1)}°</span> / <span class="text-cyan-200">${hop.tiltDegA >= 0 ? '+' : ''}${hop.tiltDegA.toFixed(2)}°</span>
+            </div>
+            <div>
+              <span class="text-slate-500 block">RSL / FADE</span>
+              <span class="text-emerald-300">${hop.rslDbm.toFixed(1)}</span> / <span class="${hop.fadeMarginDb >= 10 ? 'text-cyan-300' : 'text-amber-300'}">${hop.fadeMarginDb >= 0 ? '+' : ''}${hop.fadeMarginDb.toFixed(1)}dB</span>
+            </div>
+            <div>
+              <span class="text-slate-500 block">FSPL (${state.freqGHz}G)</span>
+              <span class="text-cyan-300 font-semibold">${hop.fsplDb.toFixed(1)} dB</span>
+            </div>
+          </div>
+        `;
+        els.hopCardsContainer.appendChild(card);
+
+        // Engineering Table Row
+        const tr = document.createElement('tr');
+        tr.className = 'hover:bg-slate-800/40 transition';
+        tr.innerHTML = `
+          <td class="py-2.5 px-3 font-sans font-semibold text-white">Hop ${idx + 1} (S${idx + 1}→S${idx + 2})</td>
+          <td class="py-2.5 px-3">${hop.distKm.toFixed(2)} km</td>
+          <td class="py-2.5 px-3">${hop.fwdAz.toFixed(1)}° / ${hop.revAz.toFixed(1)}°</td>
+          <td class="py-2.5 px-3 text-cyan-200">${hop.tiltDegA >= 0 ? '+' : ''}${hop.tiltDegA.toFixed(2)}° / ${hop.tiltDegB >= 0 ? '+' : ''}${hop.tiltDegB.toFixed(2)}°</td>
+          <td class="py-2.5 px-3 text-yellow-300">${hop.maxBulgeM.toFixed(1)}m / ${hop.maxF1M.toFixed(1)}m</td>
+          <td class="py-2.5 px-3 ${hop.minTargetMarginM >= 0 ? 'text-emerald-300' : 'text-rose-400'}">
+            ${hop.minTargetMarginM >= 0 ? '+' : ''}${hop.minTargetMarginM.toFixed(1)} m (${hop.minClearancePctF1.toFixed(0)}%)
+          </td>
+          <td class="py-2.5 px-3 text-cyan-300">${hop.fsplDb.toFixed(1)} / <span class="text-emerald-300">${hop.rslDbm.toFixed(1)}</span></td>
+          <td class="py-2.5 px-3 ${hop.fadeMarginDb >= 10 ? 'text-emerald-300' : hop.fadeMarginDb >= 0 ? 'text-amber-300' : 'text-rose-400'}">
+            ${hop.fadeMarginDb >= 0 ? '+' : ''}${hop.fadeMarginDb.toFixed(1)} dB (${hop.reliabilityPct.toFixed(2)}%)
+          </td>
+          <td class="py-2.5 px-3">
+            <span class="px-2 py-0.5 rounded text-[10px] font-bold border ${badgeStyles}">${hop.statusLabel}</span>
+          </td>
+        `;
+        els.resultsTableBody.appendChild(tr);
+      });
+    }
+
+    // =========================================================================
+    // 9. HIGH-RESOLUTION HTML5 PATH PROFILE CANVAS RENDERER
+    // =========================================================================
+    function drawTower(ctx, x, groundY, antY, label, isLeft) {
+      ctx.save();
+      // Mast lattice line
+      ctx.strokeStyle = '#94a3b8';
+      ctx.lineWidth = 2.5;
+      ctx.beginPath();
+      ctx.moveTo(x, groundY);
+      ctx.lineTo(x, antY);
+      ctx.stroke();
+
+      // Base foundation block
+      ctx.fillStyle = '#475569';
+      ctx.fillRect(x - 6, groundY - 4, 12, 4);
+
+      // Crossbars
+      const mastH = groundY - antY;
+      if (mastH > 18) {
+        ctx.strokeStyle = '#64748b';
+        ctx.lineWidth = 1.2;
+        for (let step = 0.25; step <= 0.75; step += 0.25) {
+          const cy = groundY - mastH * step;
+          ctx.beginPath();
+          ctx.moveTo(x - 4, cy);
+          ctx.lineTo(x + 4, cy);
+          ctx.stroke();
+        }
+      }
+
+      // Dish antenna graphic
+      const dir = isLeft ? 1 : -1;
+      ctx.fillStyle = '#00f0ff';
+      ctx.beginPath();
+      ctx.arc(x + dir * 3, antY, 4.5, 0, Math.PI * 2);
+      ctx.fill();
+
+      ctx.strokeStyle = '#ffffff';
+      ctx.lineWidth = 1.5;
+      ctx.beginPath();
+      ctx.arc(x + dir * 2, antY, 7, isLeft ? -Math.PI / 3 : (2 * Math.PI) / 3, isLeft ? Math.PI / 3 : (4 * Math.PI) / 3);
+      ctx.stroke();
+
+      // Label tag
+      ctx.font = '600 11px "JetBrains Mono", monospace';
+      ctx.fillStyle = '#f8fafc';
+      ctx.textAlign = isLeft ? 'left' : 'right';
+      ctx.fillText(label, x + (isLeft ? 8 : -8), Math.max(18, antY - 10));
+      ctx.restore();
+    }
+
+    function drawProfileCanvas() {
+      const canvas = els.profileCanvas;
+      const wrapper = els.canvasWrapper;
+      if (!canvas || !wrapper || state.hopResults.length === 0) return;
+
+      const dpr = window.devicePixelRatio || 1;
+      const rect = wrapper.getBoundingClientRect();
+      const width = Math.max(300, rect.width);
+      const height = Math.max(260, rect.height);
+
+      if (canvas.width !== Math.round(width * dpr) || canvas.height !== Math.round(height * dpr)) {
+        canvas.width = Math.round(width * dpr);
+        canvas.height = Math.round(height * dpr);
+      }
+
+      const ctx = canvas.getContext('2d');
+      ctx.save();
+      ctx.scale(dpr, dpr);
+
+      // Background gradient
+      const bgGrad = ctx.createLinearGradient(0, 0, 0, height);
+      bgGrad.addColorStop(0, '#070d1b');
+      bgGrad.addColorStop(1, '#0b1428');
+      ctx.fillStyle = bgGrad;
+      ctx.fillRect(0, 0, width, height);
+
+      const pad = { top: 34, right: 32, bottom: 44, left: 60 };
+      const plotW = width - pad.left - pad.right;
+      const plotH = height - pad.top - pad.bottom;
+
+      // Determine hops to plot
+      const hopsToPlot = state.selectedView === 'all'
+        ? state.hopResults
+        : [state.hopResults[state.selectedView] || state.hopResults[0]];
+
+      if (state.selectedView === 'all') {
+        const totalKm = hopsToPlot.reduce((s, h) => s + h.distKm, 0);
+        els.activeHopSubtitle.textContent = `Full Multi-Hop Chain (${hopsToPlot.length} Hops • ${totalKm.toFixed(2)} km Total Distance)`;
+      } else {
+        const h = hopsToPlot[0];
+        els.activeHopSubtitle.textContent = `Hop ${h.hopIndex + 1}: ${h.fromSite.name} → ${h.toSite.name} (${h.distKm.toFixed(2)} km • ${h.statusLabel})`;
+      }
+
+      // Build unified cumulative distance points across selected hop(s)
+      let cumDist = 0;
+      const segments = hopsToPlot.map((hop) => {
+        const startDist = cumDist;
+        const pts = hop.profilePoints.map((p) => ({
+          ...p,
+          cumD: startDist + p.d1,
+          hop
+        }));
+        cumDist += hop.distKm;
+        return { hop, startDist, endDist: cumDist, pts };
+      });
+
+      const totalDist = Math.max(0.001, cumDist);
+
+      // Compute Y-axis elevation bounds across terrain, antennas, and Fresnel envelopes
+      let minElev = Infinity;
+      let maxElev = -Infinity;
+
+      segments.forEach((seg) => {
+        seg.pts.forEach((p) => {
+          const lowY = Math.min(p.effectiveGround, p.losHeight - p.f1Radius);
+          const highY = Math.max(p.effectiveGround, p.losHeight + p.f1Radius);
+          if (lowY < minElev) minElev = lowY;
+          if (highY > maxElev) maxElev = highY;
+        });
+      });
+
+      const elevSpan = Math.max(20, maxElev - minElev);
+      const yMin = Math.floor(minElev - elevSpan * 0.12);
+      const yMax = Math.ceil(maxElev + elevSpan * 0.16);
+      const yRange = Math.max(1, yMax - yMin);
+
+      const xToPx = (d) => pad.left + (d / totalDist) * plotW;
+      const yToPx = (elev) => pad.top + plotH - ((elev - yMin) / yRange) * plotH;
+
+      // Grid lines & Axis labels
+      ctx.strokeStyle = 'rgba(51, 65, 85, 0.45)';
+      ctx.lineWidth = 1;
+      ctx.font = '11px "JetBrains Mono", monospace';
+      ctx.fillStyle = '#94a3b8';
+
+      // Horizontal elevation gridlines
+      const ySteps = 5;
+      for (let i = 0; i <= ySteps; i++) {
+        const val = yMin + (yRange * i) / ySteps;
+        const y = yToPx(val);
+        ctx.beginPath();
+        ctx.moveTo(pad.left, y);
+        ctx.lineTo(pad.left + plotW, y);
+        ctx.stroke();
+
+        ctx.textAlign = 'right';
+        ctx.fillText(`${Math.round(val)}m`, pad.left - 8, y + 4);
+      }
+
+      // Vertical distance gridlines
+      const xSteps = 6;
+      for (let i = 0; i <= xSteps; i++) {
+        const dVal = (totalDist * i) / xSteps;
+        const x = xToPx(dVal);
+        ctx.beginPath();
+        ctx.moveTo(x, pad.top);
+        ctx.lineTo(x, pad.top + plotH);
+        ctx.stroke();
+
+        ctx.textAlign = 'center';
+        ctx.fillText(`${dVal.toFixed(1)} km`, x, pad.top + plotH + 18);
+      }
+
+      // Render each hop segment
+      segments.forEach((seg, sIdx) => {
+        const { hop, pts } = seg;
+
+        // 1. Yellow translucent 100% Fresnel Zone Envelope
+        ctx.beginPath();
+        pts.forEach((p, i) => {
+          const x = xToPx(p.cumD);
+          const yTop = yToPx(p.losHeight + p.f1Radius);
+          if (i === 0) ctx.moveTo(x, yTop);
+          else ctx.lineTo(x, yTop);
+        });
+        for (let i = pts.length - 1; i >= 0; i--) {
+          const p = pts[i];
+          ctx.lineTo(xToPx(p.cumD), yToPx(p.losHeight - p.f1Radius));
+        }
+        ctx.closePath();
+        ctx.fillStyle = 'rgba(250, 204, 21, 0.16)';
+        ctx.fill();
+        ctx.strokeStyle = 'rgba(250, 204, 21, 0.55)';
+        ctx.lineWidth = 1;
+        ctx.stroke();
+
+        // 2. Target Fresnel Clearance Lower Boundary (Dashed Amber)
+        ctx.save();
+        ctx.setLineDash([5, 4]);
+        ctx.strokeStyle = '#fbbf24';
+        ctx.lineWidth = 1.4;
+        ctx.beginPath();
+        pts.forEach((p, i) => {
+          const x = xToPx(p.cumD);
+          const yTarget = yToPx(p.losHeight - p.targetF1Radius);
+          if (i === 0) ctx.moveTo(x, yTarget);
+          else ctx.lineTo(x, yTarget);
+        });
+        ctx.stroke();
+        ctx.restore();
+
+        // 3. Terrain + Earth Bulge Filled Curve
+        const terrGrad = ctx.createLinearGradient(0, pad.top, 0, pad.top + plotH);
+        terrGrad.addColorStop(0, 'rgba(16, 185, 129, 0.45)');
+        terrGrad.addColorStop(1, 'rgba(6, 78, 59, 0.25)');
+
+        ctx.beginPath();
+        ctx.moveTo(xToPx(pts[0].cumD), pad.top + plotH);
+        pts.forEach((p) => {
+          ctx.lineTo(xToPx(p.cumD), yToPx(p.effectiveGround));
+        });
+        ctx.lineTo(xToPx(pts[pts.length - 1].cumD), pad.top + plotH);
+        ctx.closePath();
+        ctx.fillStyle = terrGrad;
+        ctx.fill();
+
+        // 3b. Clutter / Vegetation / Building Obstacle Envelope above Terrain + Earth Bulge
+        if (state.clutterHeightM > 0) {
+          ctx.beginPath();
+          pts.forEach((p, i) => {
+            const x = xToPx(p.cumD);
+            const yClut = yToPx(p.clutterTop);
+            if (i === 0) ctx.moveTo(x, yClut);
+            else ctx.lineTo(x, yClut);
+          });
+          for (let i = pts.length - 1; i >= 0; i--) {
+            ctx.lineTo(xToPx(pts[i].cumD), yToPx(pts[i].effectiveGround));
+          }
+          ctx.closePath();
+          ctx.fillStyle = 'rgba(251, 146, 60, 0.28)';
+          ctx.fill();
+          ctx.strokeStyle = 'rgba(251, 146, 60, 0.75)';
+          ctx.lineWidth = 1.2;
+          ctx.stroke();
+        }
+
+        // Terrain top ridge stroke
+        ctx.strokeStyle = '#34d399';
+        ctx.lineWidth = 2;
+        ctx.beginPath();
+        pts.forEach((p, i) => {
+          const x = xToPx(p.cumD);
+          const y = yToPx(p.effectiveGround);
+          if (i === 0) ctx.moveTo(x, y);
+          else ctx.lineTo(x, y);
+        });
+        ctx.stroke();
+
+        // 4. Direct Line-of-Sight Cyan Ray
+        ctx.save();
+        ctx.shadowColor = hop.status === 'OBSTRUCTED' ? '#f43f5e' : '#00f0ff';
+        ctx.shadowBlur = 8;
+        ctx.strokeStyle = hop.status === 'OBSTRUCTED' ? '#fb7185' : '#00f0ff';
+        ctx.lineWidth = 2.4;
+        ctx.beginPath();
+        ctx.moveTo(xToPx(pts[0].cumD), yToPx(hop.antHeightA));
+        ctx.lineTo(xToPx(pts[pts.length - 1].cumD), yToPx(hop.antHeightB));
+        ctx.stroke();
+        ctx.restore();
+
+        // 5. Towers & Antennas at Segment Endpoints
+        const startX = xToPx(pts[0].cumD);
+        const startGroundY = yToPx(hop.fromSite.elev);
+        const startAntY = yToPx(hop.antHeightA);
+        drawTower(ctx, startX, startGroundY, startAntY, `S${hop.hopIndex + 1} (${hop.fromSite.ant}m)`, true);
+
+        if (sIdx === segments.length - 1) {
+          const endX = xToPx(pts[pts.length - 1].cumD);
+          const endGroundY = yToPx(hop.toSite.elev);
+          const endAntY = yToPx(hop.antHeightB);
+          drawTower(ctx, endX, endGroundY, endAntY, `S${hop.hopIndex + 2} (${hop.toSite.ant}m)`, false);
+        }
+      });
+
+      // 6. Interactive Crosshair & Live Telemetry Readout
+      if (state.hoverX !== null && state.hoverX >= pad.left && state.hoverX <= pad.left + plotW) {
+        const hoverDist = ((state.hoverX - pad.left) / plotW) * totalDist;
+
+        // Find nearest sample point across segments
+        let closestPt = null;
+        let minDiff = Infinity;
+        segments.forEach((seg) => {
+          seg.pts.forEach((pt) => {
+            const diff = Math.abs(pt.cumD - hoverDist);
+            if (diff < minDiff) {
+              minDiff = diff;
+              closestPt = pt;
+            }
+          });
+        });
+
+        if (closestPt) {
+          const cx = xToPx(closestPt.cumD);
+          const cyLos = yToPx(closestPt.losHeight);
+          const cyGround = yToPx(closestPt.effectiveGround);
+
+          ctx.save();
+          ctx.setLineDash([3, 3]);
+          ctx.strokeStyle = 'rgba(226, 232, 240, 0.65)';
+          ctx.lineWidth = 1;
+          ctx.beginPath();
+          ctx.moveTo(cx, pad.top);
+          ctx.lineTo(cx, pad.top + plotH);
+          ctx.stroke();
+          ctx.restore();
+
+          // Highlight markers on LoS ray and terrain
+          ctx.fillStyle = '#00f0ff';
+          ctx.beginPath();
+          ctx.arc(cx, cyLos, 4, 0, Math.PI * 2);
+          ctx.fill();
+
+          ctx.fillStyle = '#34d399';
+          ctx.beginPath();
+          ctx.arc(cx, cyGround, 4, 0, Math.PI * 2);
+          ctx.fill();
+
+          // Update DOM telemetry bar
+          els.telDist.textContent = `${closestPt.cumD.toFixed(2)} km`;
+          els.telTerrain.textContent = `${closestPt.elev.toFixed(1)} m`;
+          els.telBulge.textContent = `+${closestPt.bulge.toFixed(2)} m`;
+          els.telLos.textContent = `${closestPt.losHeight.toFixed(1)} m`;
+          els.telF1.textContent = `${closestPt.f1Radius.toFixed(1)} m`;
+          els.telClearance.textContent = `${closestPt.rawClearance >= 0 ? '+' : ''}${closestPt.rawClearance.toFixed(1)} m`;
+          els.telClearance.className = closestPt.rawClearance >= closestPt.targetF1Radius
+            ? 'text-emerald-300 font-semibold'
+            : closestPt.rawClearance >= 0
+            ? 'text-amber-300 font-semibold'
+            : 'text-rose-400 font-semibold';
+        }
+      }
+
+      ctx.restore();
+    }
+
+    // =========================================================================
+    // 10. INTERACTIVE DUAL-MODE MAP ENGINE (LEAFLET + GOOGLE TILES / NATIVE SDK)
+    // =========================================================================
+    let lMap = null;
+    let lTileLayer = null;
+    let lMarkersLayer = null;
+    let lPathsLayer = null;
+
+    let gMap = null;
+    let gMarkers = [];
+    let gPolylines = [];
+
+    const TILE_LAYERS = {
+      googleHybrid: {
+        url: 'https://mt1.google.com/vt/lyrs=y&x={x}&y={y}&z={z}',
+        attr: 'Map data &copy; Google'
+      },
+      googleStreets: {
+        url: 'https://mt1.google.com/vt/lyrs=m&x={x}&y={y}&z={z}',
+        attr: 'Map data &copy; Google'
+      },
+      osmStandard: {
+        url: 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
+        attr: '&copy; OpenStreetMap contributors'
+      }
+    };
+
+    function initLeafletMap() {
+      if (lMap || typeof L === 'undefined') return;
+      lMap = L.map('leafletMap', {
+        zoomControl: true,
+        attributionControl: true
+      }).setView([-33.75, 150.85], 9);
+
+      setLeafletTileLayer(state.mapLayer);
+      lPathsLayer = L.layerGroup().addTo(lMap);
+      lMarkersLayer = L.layerGroup().addTo(lMap);
+
+      // Click on map to assign coordinates when Pick Mode is active
+      lMap.on('click', (e) => {
+        if (!state.pickMode) return;
+        applyPickedCoordinate(e.latlng.lat, e.latlng.lng);
+      });
+    }
+
+    function setLeafletTileLayer(layerKey) {
+      if (!lMap) return;
+      const cfg = TILE_LAYERS[layerKey] || TILE_LAYERS.googleHybrid;
+      if (lTileLayer) {
+        lMap.removeLayer(lTileLayer);
+      }
+      lTileLayer = L.tileLayer(cfg.url, {
+        maxZoom: 20,
+        attribution: cfg.attr
+      }).addTo(lMap);
+    }
+
+    function updatePickSiteDropdown() {
+      if (!els.pickTargetSiteSelect) return;
+      const prevVal = parseInt(els.pickTargetSiteSelect.value, 10);
+      els.pickTargetSiteSelect.innerHTML = '';
+      for (let i = 0; i < state.numSites; i++) {
+        const opt = document.createElement('option');
+        opt.value = i;
+        opt.textContent = `Site ${i + 1} (${state.sites[i].name.split('-')[0].trim()})`;
+        els.pickTargetSiteSelect.appendChild(opt);
+      }
+      if (!isNaN(prevVal) && prevVal < state.numSites) {
+        state.pickTargetIdx = prevVal;
+      } else {
+        state.pickTargetIdx = Math.min(state.pickTargetIdx, state.numSites - 1);
+      }
+      els.pickTargetSiteSelect.value = state.pickTargetIdx;
+    }
+
+    function applyPickedCoordinate(lat, lng) {
+      const idx = state.pickTargetIdx;
+      state.sites[idx].lat = Number(lat.toFixed(6));
+      state.sites[idx].lon = Number(lng.toFixed(6));
+      state.hopProfiles = {};
+      updateTerrainBadge('simulated');
+      renderSiteInputs();
+      runFullAnalysis();
+      showToast(`Updated Site ${idx + 1} to (${state.sites[idx].lat}, ${state.sites[idx].lon})`, 'success');
+
+      // Advance target pin sequentially for fast multi-site plotting
+      if (state.pickTargetIdx < state.numSites - 1) {
+        state.pickTargetIdx += 1;
+        els.pickTargetSiteSelect.value = state.pickTargetIdx;
+      }
+    }
+
+    function getHopStrokeColor(hop, isSelected) {
+      if (isSelected) return '#00f0ff';
+      if (hop.status === 'OBSTRUCTED') return '#ef4444';
+      if (hop.status === 'MARGINAL') return '#f59e0b';
+      return '#10b981';
+    }
+
+    function buildGreatCircleLatLngs(siteA, siteB, steps = 28) {
+      const coords = [];
+      for (let s = 0; s <= steps; s++) {
+        const pt = interpolateGreatCircle(siteA.lat, siteA.lon, siteB.lat, siteB.lon, s / steps);
+        coords.push([pt.lat, pt.lon]);
+      }
+      return coords;
+    }
+
+    function syncInteractiveMap(fitBounds = false) {
+      updatePickSiteDropdown();
+
+      if (state.mapMode === 'nativeGoogle' && gMap && window.google && window.google.maps) {
+        syncNativeGoogleMap(fitBounds);
+        return;
+      }
+
+      if (!lMap) initLeafletMap();
+      if (!lMap) return;
+
+      lMarkersLayer.clearLayers();
+      lPathsLayer.clearLayers();
+
+      const boundsPoints = [];
+
+      // 1. Draw Great Circle Geodesic Polylines for each hop
+      state.hopResults.forEach((hop, idx) => {
+        const isSelected = state.selectedView === 'all' || state.selectedView === idx;
+        const color = getHopStrokeColor(hop, isSelected);
+        const latlngs = buildGreatCircleLatLngs(hop.fromSite, hop.toSite, 28);
+
+        // Outer glow line for selected hop
+        if (isSelected) {
+          L.polyline(latlngs, {
+            color: '#00f0ff',
+            weight: 8,
+            opacity: 0.25
+          }).addTo(lPathsLayer);
+        }
+
+        const line = L.polyline(latlngs, {
+          color,
+          weight: isSelected ? 4 : 3,
+          opacity: isSelected ? 0.95 : 0.78,
+          dashArray: hop.status === 'OBSTRUCTED' ? '8, 6' : null
+        }).addTo(lPathsLayer);
+
+        line.bindTooltip(
+          `<strong>Hop ${idx + 1}: ${hop.statusLabel}</strong><br/>Dist: ${hop.distKm.toFixed(2)} km | Az: ${hop.fwdAz.toFixed(1)}° | FSPL: ${hop.fsplDb.toFixed(1)} dB`,
+          { sticky: true }
+        );
+
+        line.on('click', (e) => {
+          if (state.pickMode) return;
+          L.DomEvent.stopPropagation(e);
+          state.selectedView = idx;
+          state.hoverX = null;
+          renderHopTabs();
+          drawProfileCanvas();
+          syncInteractiveMap(false);
+        });
+      });
+
+      // 2. Draw Draggable Site Markers
+      for (let i = 0; i < state.numSites; i++) {
+        const site = state.sites[i];
+        boundsPoints.push([site.lat, site.lon]);
+
+        const bg = i === 0 ? '#00f0ff' : (i === state.numSites - 1 ? '#818cf8' : '#fbbf24');
+        const icon = L.divIcon({
+          className: '',
+          html: `<div class="rf-site-pin" style="background:${bg};">${i + 1}</div>`,
+          iconSize: [28, 28],
+          iconAnchor: [14, 14]
+        });
+
+        const marker = L.marker([site.lat, site.lon], {
+          icon,
+          draggable: true,
+          title: `${site.name} (Drag to relocate)`
+        }).addTo(lMarkersLayer);
+
+        // Build Azimuth info for popup
+        let azInfo = '';
+        if (i < state.hopResults.length) {
+          azInfo += `<div class="text-cyan-300 mt-1">Fwd Az to Site ${i + 2}: <b>${state.hopResults[i].fwdAz.toFixed(2)}°</b></div>`;
+        }
+        if (i > 0 && state.hopResults[i - 1]) {
+          azInfo += `<div class="text-amber-300">Rev Az from Site ${i}: <b>${state.hopResults[i - 1].revAz.toFixed(2)}°</b></div>`;
+        }
+
+        marker.bindPopup(`
+          <div class="font-sans">
+            <div class="font-bold text-white text-xs mb-1">Site ${i + 1}: ${site.name}</div>
+            <div class="font-mono text-[11px] text-slate-300">Lat: ${site.lat.toFixed(5)}°, Lon: ${site.lon.toFixed(5)}°</div>
+            <div class="font-mono text-[11px] text-emerald-300">Ground: ${site.elev} m ASL | Tower: ${site.ant} m AGL</div>
+            ${azInfo}
+          </div>
+        `);
+
+        marker.on('dragend', (e) => {
+          const pos = e.target.getLatLng();
+          state.sites[i].lat = Number(pos.lat.toFixed(6));
+          state.sites[i].lon = Number(pos.lng.toFixed(6));
+          state.hopProfiles = {};
+          updateTerrainBadge('simulated');
+          renderSiteInputs();
+          runFullAnalysis();
+          showToast(`Relocated ${site.name} via map drag`, 'info');
+        });
+
+        marker.on('click', () => {
+          if (i < state.hopResults.length) {
+            state.selectedView = i;
+          } else if (state.hopResults.length > 0) {
+            state.selectedView = state.hopResults.length - 1;
+          }
+          renderHopTabs();
+          drawProfileCanvas();
+          syncInteractiveMap(false);
+        });
+      }
+
+      if (fitBounds && boundsPoints.length > 0) {
+        const bounds = L.latLngBounds(boundsPoints);
+        lMap.fitBounds(bounds, { padding: [45, 45], maxZoom: 14 });
+      }
+    }
+
+    // Optional Native Google Maps JS SDK Integration
+    function loadNativeGoogleMapsSDK(apiKey) {
+      if (window.google && window.google.maps) {
+        activateNativeGoogleMap();
+        return;
+      }
+      const existing = document.getElementById('nativeGmapsScript');
+      if (existing) existing.remove();
+
+      window._onNativeGmapsReady = () => {
+        activateNativeGoogleMap();
+      };
+
+      const script = document.createElement('script');
+      script.id = 'nativeGmapsScript';
+      script.src = `https://maps.googleapis.com/maps/api/js?key=${encodeURIComponent(apiKey)}&callback=_onNativeGmapsReady`;
+      script.async = true;
+      script.defer = true;
+      script.onerror = () => {
+        showToast('Failed to load Google Maps JS SDK — check API key', 'error');
+      };
+      document.head.appendChild(script);
+    }
+
+    function activateNativeGoogleMap() {
+      state.mapMode = 'nativeGoogle';
+      els.leafletMap.classList.add('hidden');
+      els.nativeGoogleMap.classList.remove('hidden');
+      els.resetLeafletBtn.classList.remove('hidden');
+
+      if (!gMap) {
+        gMap = new google.maps.Map(els.nativeGoogleMap, {
+          center: { lat: state.sites[0].lat, lng: state.sites[0].lon },
+          zoom: 9,
+          mapTypeId: state.mapLayer === 'googleStreets' ? 'roadmap' : 'hybrid'
+        });
+
+        gMap.addListener('click', (e) => {
+          if (!state.pickMode) return;
+          applyPickedCoordinate(e.latLng.lat(), e.latLng.lng());
+        });
+      }
+
+      syncNativeGoogleMap(true);
+      showToast('Switched to Native Google Maps JS SDK', 'success');
+    }
+
+    function syncNativeGoogleMap(fitBounds = false) {
+      if (!gMap || !window.google || !window.google.maps) return;
+
+      gMarkers.forEach((m) => m.setMap(null));
+      gPolylines.forEach((p) => p.setMap(null));
+      gMarkers = [];
+      gPolylines = [];
+
+      const bounds = new google.maps.LatLngBounds();
+
+      state.hopResults.forEach((hop, idx) => {
+        const isSelected = state.selectedView === 'all' || state.selectedView === idx;
+        const color = getHopStrokeColor(hop, isSelected);
+        const path = buildGreatCircleLatLngs(hop.fromSite, hop.toSite, 28).map(([lat, lng]) => ({ lat, lng }));
+
+        const poly = new google.maps.Polyline({
+          path,
+          geodesic: false,
+          strokeColor: color,
+          strokeOpacity: isSelected ? 0.95 : 0.78,
+          strokeWeight: isSelected ? 4 : 3,
+          map: gMap
+        });
+
+        poly.addListener('click', () => {
+          state.selectedView = idx;
+          renderHopTabs();
+          drawProfileCanvas();
+          syncInteractiveMap(false);
+        });
+        gPolylines.push(poly);
+      });
+
+      for (let i = 0; i < state.numSites; i++) {
+        const site = state.sites[i];
+        const pos = { lat: site.lat, lng: site.lon };
+        bounds.extend(pos);
+
+        const marker = new google.maps.Marker({
+          position: pos,
+          map: gMap,
+          draggable: true,
+          label: { text: String(i + 1), color: '#060b16', fontWeight: 'bold' },
+          title: site.name
+        });
+
+        marker.addListener('dragend', (e) => {
+          state.sites[i].lat = Number(e.latLng.lat().toFixed(6));
+          state.sites[i].lon = Number(e.latLng.lng().toFixed(6));
+          state.hopProfiles = {};
+          updateTerrainBadge('simulated');
+          renderSiteInputs();
+          runFullAnalysis();
+        });
+
+        gMarkers.push(marker);
+      }
+
+      if (fitBounds && state.numSites > 0) {
+        gMap.fitBounds(bounds);
+      }
+    }
+
+    // =========================================================================
+    // 11. EVENT LISTENERS & EXPORT HANDLERS
+    // =========================================================================
+    els.numSitesSelect.addEventListener('change', (e) => {
+      state.numSites = parseInt(e.target.value, 10);
+      // Ensure sites array has entries up to numSites
+      while (state.sites.length < state.numSites) {
+        const idx = state.sites.length;
+        const prev = state.sites[idx - 1];
+        state.sites.push({
+          name: `Site ${idx + 1} - Relay Node`,
+          lat: Number((prev.lat + 0.08).toFixed(4)),
+          lon: Number((prev.lon - 0.12).toFixed(4)),
+          elev: Math.round(prev.elev + 40),
+          ant: 35
+        });
+      }
+      state.hopProfiles = {};
+      renderSiteInputs();
+      runFullAnalysis();
+      syncInteractiveMap(true);
+    });
+
+    [els.freqInput, els.kFactorInput, els.fresnelTargetInput].forEach((el) => {
+      el.addEventListener('input', () => runFullAnalysis());
+    });
+
+    [els.txPowerInput, els.antGainInput, els.feedLossInput, els.rxSensInput, els.clutterHeightInput].forEach((el) => {
+      el.addEventListener('input', () => runFullAnalysis());
+    });
+
+    document.querySelectorAll('.clutter-preset-btn').forEach((btn) => {
+      btn.addEventListener('click', () => {
+        const val = parseFloat(btn.dataset.clutter) || 0;
+        els.clutterHeightInput.value = val;
+        runFullAnalysis();
+        showToast(`Clutter obstacle allowance set to ${val}m`, 'info');
+      });
+    });
+
+    els.optimizeTowersBtn.addEventListener('click', () => {
+      const updated = solveOptimalTowerHeights();
+      if (updated) {
+        renderSiteInputs();
+        runFullAnalysis();
+        syncInteractiveMap(false);
+        showToast('Tower heights adjusted to clear clutter & meet target Fresnel zone', 'success');
+      } else {
+        showToast('All hops already satisfy obstruction & target Fresnel clearance', 'info');
+      }
+    });
+
+    els.calculateLosBtn.addEventListener('click', () => {
+      runFullAnalysis();
+      showToast('LoS path profile and Fresnel zones recalculated', 'success');
+    });
+
+    els.fetchElevationBtn.addEventListener('click', () => {
+      fetchTerrainElevations();
+    });
+
+    els.loadPresetBtn.addEventListener('click', () => {
+      state.sites = JSON.parse(JSON.stringify(PRESET_SITES));
+      state.hopProfiles = {};
+      updateTerrainBadge('simulated');
+      renderSiteInputs();
+      runFullAnalysis();
+      syncInteractiveMap(true);
+      showToast('Loaded Sydney–Blue Mountains RF Relay Chain preset', 'info');
+    });
+
+    els.clearSitesBtn.addEventListener('click', () => {
+      for (let i = 0; i < 5; i++) {
+        state.sites[i] = { name: `Site ${i + 1}`, lat: 0, lon: 0, elev: 0, ant: 30 };
+      }
+      state.hopProfiles = {};
+      updateTerrainBadge('simulated');
+      renderSiteInputs();
+      runFullAnalysis();
+      syncInteractiveMap(true);
+      showToast('Site coordinates cleared', 'info');
+    });
+
+    // Map Controls Listeners
+    els.mapLayerSelect.addEventListener('change', (e) => {
+      state.mapLayer = e.target.value;
+      if (state.mapMode === 'leaflet') {
+        setLeafletTileLayer(state.mapLayer);
+      } else if (gMap) {
+        gMap.setMapTypeId(state.mapLayer === 'googleStreets' ? 'roadmap' : 'hybrid');
+      }
+    });
+
+    els.togglePickModeBtn.addEventListener('click', () => {
+      state.pickMode = !state.pickMode;
+      if (state.pickMode) {
+        els.pickModeLabel.textContent = 'Pick on Map: ON';
+        els.togglePickModeBtn.className = 'px-2.5 py-1.5 rounded-xl text-xs font-semibold bg-cyan-500 text-slate-950 border border-cyan-400 transition flex items-center gap-1.5 shadow';
+        els.pickSiteSelectorWrap.classList.remove('hidden');
+        els.leafletMap.style.cursor = 'crosshair';
+        showToast('Click anywhere on the map to place site coordinates', 'info');
+      } else {
+        els.pickModeLabel.textContent = 'Pick on Map: OFF';
+        els.togglePickModeBtn.className = 'px-2.5 py-1.5 rounded-xl text-xs font-semibold bg-slate-800 hover:bg-slate-700 text-cyan-300 border border-slate-700 transition flex items-center gap-1.5';
+        els.pickSiteSelectorWrap.classList.add('hidden');
+        els.leafletMap.style.cursor = '';
+      }
+    });
+
+    els.pickTargetSiteSelect.addEventListener('change', (e) => {
+      state.pickTargetIdx = parseInt(e.target.value, 10);
+    });
+
+    els.recenterMapBtn.addEventListener('click', () => {
+      syncInteractiveMap(true);
+    });
+
+    els.toggleGmapsKeyBtn.addEventListener('click', () => {
+      els.gmapsKeyBar.classList.toggle('hidden');
+    });
+
+    els.applyGmapsKeyBtn.addEventListener('click', () => {
+      const key = els.gmapsApiKeyInput.value.trim();
+      if (!key) {
+        showToast('Enter a valid Google Maps JS API key or use built-in Google Tile Layers', 'warn');
+        return;
+      }
+      loadNativeGoogleMapsSDK(key);
+    });
+
+    els.resetLeafletBtn.addEventListener('click', () => {
+      state.mapMode = 'leaflet';
+      els.nativeGoogleMap.classList.add('hidden');
+      els.leafletMap.classList.remove('hidden');
+      els.resetLeafletBtn.classList.add('hidden');
+      if (lMap) lMap.invalidateSize();
+      syncInteractiveMap(true);
+      showToast('Switched back to built-in Google Hybrid/Streets tile map', 'info');
+    });
+
+    // Canvas Mouse & Touch Crosshair Interaction
+    function updateCanvasHover(clientX) {
+      const rect = els.profileCanvas.getBoundingClientRect();
+      state.hoverX = clientX - rect.left;
+      drawProfileCanvas();
+    }
+
+    els.profileCanvas.addEventListener('mousemove', (e) => updateCanvasHover(e.clientX));
+    els.profileCanvas.addEventListener('mouseleave', () => {
+      state.hoverX = null;
+      drawProfileCanvas();
+    });
+    els.profileCanvas.addEventListener('touchmove', (e) => {
+      if (e.touches.length > 0) {
+        updateCanvasHover(e.touches[0].clientX);
+      }
+    }, { passive: true });
+
+    // Download Canvas as PNG
+    els.downloadPngBtn.addEventListener('click', () => {
+      const link = document.createElement('a');
+      const viewTag = state.selectedView === 'all' ? 'full-chain' : `hop-${state.selectedView + 1}`;
+      link.download = `rf-los-profile-${viewTag}-${Date.now()}.png`;
+      link.href = els.profileCanvas.toDataURL('image/png');
+      link.click();
+      showToast('Path profile PNG downloaded', 'success');
+    });
+
+    function triggerFileDownload(filename, content, mimeType) {
+      const blob = new Blob([content], { type: mimeType });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = filename;
+      document.body.appendChild(a);
+      a.click();
+      document.body.removeChild(a);
+      setTimeout(() => URL.revokeObjectURL(url), 1000);
+    }
+
+    // Export Google Earth KML
+    els.exportKmlBtn.addEventListener('click', () => {
+      const escapeXml = (s) => String(s).replace(/[<>&'"]/g, (c) => ({
+        '<': '&lt;', '>': '&gt;', '&': '&amp;', "'": '&apos;', '"': '&quot;'
+      }[c]));
+
+      let placemarks = '';
+      for (let i = 0; i < state.numSites; i++) {
+        const s = state.sites[i];
+        const altMsl = s.elev + s.ant;
+        placemarks += `
+    <Placemark>
+      <name>${escapeXml(s.name)}</name>
+      <description>Ground: ${s.elev}m ASL | Tower: ${s.ant}m AGL | Antenna ASL: ${altMsl}m</description>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>${s.lon},${s.lat},${altMsl}</coordinates>
+      </Point>
+    </Placemark>`;
+      }
+
+      state.hopResults.forEach((hop, idx) => {
+        const coords = buildGreatCircleLatLngs(hop.fromSite, hop.toSite, 24)
+          .map(([lat, lon], step, arr) => {
+            const f = step / Math.max(1, arr.length - 1);
+            const alt = hop.antHeightA + (hop.antHeightB - hop.antHeightA) * f;
+            return `${lon},${lat},${alt.toFixed(1)}`;
+          })
+          .join(' ');
+
+        placemarks += `
+    <Placemark>
+      <name>Hop ${idx + 1}: ${escapeXml(hop.statusLabel)} (${hop.distKm.toFixed(2)} km)</name>
+      <description>Azimuth: ${hop.fwdAz.toFixed(1)}° | Tilt: ${hop.tiltDegA.toFixed(2)}° | FSPL: ${hop.fsplDb.toFixed(1)} dB | RSL: ${hop.rslDbm.toFixed(1)} dBm</description>
+      <LineString>
+        <tessellate>1</tessellate>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>${coords}</coordinates>
+      </LineString>
+    </Placemark>`;
+      });
+
+      const kml = `<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>RF Microwave LoS Link Chain (${state.freqGHz} GHz)</name>${placemarks}
+  </Document>
+</kml>`;
+
+      triggerFileDownload(`rf-los-link-${Date.now()}.kml`, kml, 'application/vnd.google-earth.kml+xml');
+      showToast('Google Earth .KML exported with 3D LoS beams', 'success');
+    });
+
+    // Export Path Profile CSV
+    els.exportCsvBtn.addEventListener('click', () => {
+      const rows = [
+        'Hop,Distance_km,Lat,Lon,Ground_ASL_m,Earth_Bulge_m,Clutter_m,Effective_Ground_m,LoS_Height_m,F1_Radius_m,Target_F1_m,Clearance_Margin_m'
+      ];
+      state.hopResults.forEach((hop, idx) => {
+        hop.profilePoints.forEach((pt) => {
+          rows.push([
+            idx + 1,
+            pt.d1.toFixed(3),
+            pt.lat.toFixed(6),
+            pt.lon.toFixed(6),
+            pt.elev.toFixed(1),
+            pt.bulge.toFixed(2),
+            state.clutterHeightM.toFixed(1),
+            pt.effectiveGround.toFixed(2),
+            pt.losHeight.toFixed(2),
+            pt.f1Radius.toFixed(2),
+            pt.targetF1Radius.toFixed(2),
+            pt.rawClearance.toFixed(2)
+          ].join(','));
+        });
+      });
+
+      triggerFileDownload(`rf-los-profile-${Date.now()}.csv`, rows.join('\n'), 'text/csv;charset=utf-8;');
+      showToast('Path profile telemetry .CSV downloaded', 'success');
+    });
+
+    // Copy Detailed Engineering Report to Clipboard
+    els.copyReportBtn.addEventListener('click', () => {
+      const ts = els.surveyDateTime.value.replace('T', ' ');
+      let lines = [
+        `====================================================================`,
+        `RF MICROWAVE LINE-OF-SIGHT (LoS) ENGINEERING PATH REPORT`,
+        `====================================================================`,
+        `Survey Date/Time : ${ts}`,
+        `Operating Freq   : ${state.freqGHz} GHz`,
+        `Earth K-Factor   : ${state.kFactor}`,
+        `Target Clearance : ${state.targetFresnelPct}% of 1st Fresnel Zone (F1)`,
+        `Clutter Allowance: ${state.clutterHeightM} m`,
+        `Link Budget Spec : TX ${state.txPowerDbm} dBm | Gain ${state.antGainDbi} dBi | Loss ${state.feedLossDb} dB | RX Sens ${state.rxSensDbm} dBm`,
+        `Terrain Source   : ${state.terrainSource === 'api' ? 'Open-Elevation DEM API' : 'Local Synthetic Terrain Model'}`,
+        `--------------------------------------------------------------------`,
+        `SITE INVENTORY (${state.numSites} Sites):`
+      ];
+
+      for (let i = 0; i < state.numSites; i++) {
+        const s = state.sites[i];
+        lines.push(`  [${i + 1}] ${s.name} | Lat: ${s.lat}, Lon: ${s.lon} | Ground: ${s.elev}m ASL | Tower: ${s.ant}m AGL`);
+      }
+
+      lines.push(`--------------------------------------------------------------------`);
+      lines.push(`HOP-BY-HOP LINK BUDGET & CLEARANCE SUMMARY:`);
+
+      state.hopResults.forEach((h, idx) => {
+        lines.push(
+          `\nHop ${idx + 1}: ${h.fromSite.name} -> ${h.toSite.name}`,
+          `  Verdict          : ${h.statusLabel}`,
+          `  Haversine Dist   : ${h.distKm.toFixed(3)} km`,
+          `  Fwd / Rev Azimuth: ${h.fwdAz.toFixed(2)}° / ${h.revAz.toFixed(2)}°`,
+          `  Elevation Tilt   : A->B ${h.tiltDegA >= 0 ? '+' : ''}${h.tiltDegA.toFixed(2)}° | B->A ${h.tiltDegB >= 0 ? '+' : ''}${h.tiltDegB.toFixed(2)}°`,
+          `  Max Earth Bulge  : ${h.maxBulgeM.toFixed(2)} m`,
+          `  100% F1 Radius   : ${h.maxF1M.toFixed(2)} m (${state.targetFresnelPct}% Target: ${h.maxTargetF1M.toFixed(2)} m)`,
+          `  Min Target Margin: ${h.minTargetMarginM >= 0 ? '+' : ''}${h.minTargetMarginM.toFixed(2)} m (${h.minClearancePctF1.toFixed(1)}% F1)`,
+          `  RF Link Budget   : FSPL ${h.fsplDb.toFixed(2)} dB | EIRP ${h.eirpDbm.toFixed(1)} dBm | RSL ${h.rslDbm.toFixed(1)} dBm | Fade Margin ${h.fadeMarginDb >= 0 ? '+' : ''}${h.fadeMarginDb.toFixed(1)} dB (${h.reliabilityPct.toFixed(3)}%)`
+        );
+      });
+
+      const reportText = lines.join('\n');
+      const tempArea = document.createElement('textarea');
+      tempArea.value = reportText;
+      document.body.appendChild(tempArea);
+      tempArea.select();
+      document.execCommand('copy');
+      document.body.removeChild(tempArea);
+      showToast('Detailed RF engineering report copied to clipboard', 'success');
+    });
+
+    // Responsive Resize Redraw
+    window.addEventListener('resize', () => {
+      drawProfileCanvas();
+      if (lMap) lMap.invalidateSize();
+    });
+
+    // =========================================================================
+    // 12. INITIALIZATION
+    // =========================================================================
+    window.addEventListener('DOMContentLoaded', () => {
+      updateLiveClock();
+      initLeafletMap();
+      renderSiteInputs();
+      runFullAnalysis();
+      syncInteractiveMap(true);
+    });
+  </script>
+</body>
+</html>
