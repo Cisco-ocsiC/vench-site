@@ -120,7 +120,7 @@
             <h1 class="text-base sm:text-lg font-bold tracking-tight text-slate-900">RF Microwave LoS Path Profiler</h1>
             <span class="hidden sm:inline-flex items-center px-2 py-0.5 rounded-md text-[11px] font-mono font-semibold bg-blue-50 text-blue-700 border border-blue-200">ITU-R P.526 / FSPL</span>
           </div>
-          <p class="text-xs text-slate-400">Multi-Hop Geodetic Line-of-Sight, Fresnel Clearance & Terrain Elevation Engine</p>
+          <p class="text-xs text-slate-600">Multi-Hop Geodetic Line-of-Sight, Fresnel Clearance & Terrain Elevation Engine</p>
         </div>
       </div>
 
@@ -128,7 +128,7 @@
       <div class="flex flex-wrap items-center gap-2.5 bg-white border border-slate-200 rounded-xl px-3 py-2">
         <div class="flex items-center gap-2">
           <span id="livePulse" class="w-2 h-2 rounded-full bg-emerald-400 animate-ping"></span>
-          <label for="surveyDateTime" class="text-xs font-medium text-slate-400 whitespace-nowrap">Survey Timestamp:</label>
+          <label for="surveyDateTime" class="text-xs font-medium text-slate-600 whitespace-nowrap">Survey Timestamp:</label>
         </div>
         <input
           type="datetime-local"
@@ -164,10 +164,10 @@
             Chain & Atmospheric Parameters
           </h2>
           <div class="flex items-center gap-1.5">
-            <button id="loadPresetBtn" type="button" class="text-xs px-2.5 py-1 rounded-lg bg-slate-100 hover:bg-slate-100 text-slate-400 border border-slate-300 transition">
+            <button id="loadPresetBtn" type="button" class="text-xs px-2.5 py-1 rounded-lg bg-slate-100 hover:bg-slate-100 text-slate-600 border border-slate-300 transition">
               Load Preset
             </button>
-            <button id="clearSitesBtn" type="button" class="text-xs px-2.5 py-1 rounded-lg bg-slate-100 hover:bg-rose-950/60 text-slate-400 hover:text-rose-700 border border-slate-300 transition">
+            <button id="clearSitesBtn" type="button" class="text-xs px-2.5 py-1 rounded-lg bg-slate-100 hover:bg-rose-50 text-slate-600 hover:text-rose-700 border border-slate-300 transition">
               Clear
             </button>
           </div>
@@ -176,7 +176,7 @@
         <div class="grid grid-cols-2 sm:grid-cols-4 gap-3">
           <!-- Number of Sites Dropdown -->
           <div class="col-span-2 sm:col-span-1">
-            <label for="numSitesSelect" class="block text-[11px] font-medium text-slate-400 mb-1">Number of Sites</label>
+            <label for="numSitesSelect" class="block text-[11px] font-medium text-slate-600 mb-1">Number of Sites</label>
             <select id="numSitesSelect" class="w-full bg-white border border-slate-300 rounded-xl px-3 py-2 text-xs font-mono text-slate-900 focus:outline-none focus:border-blue-400">
               <option value="2">2 Sites (1 Hop)</option>
               <option value="3" selected>3 Sites (2 Hops)</option>
@@ -187,21 +187,21 @@
 
           <!-- Carrier Frequency -->
           <div>
-            <label for="freqInput" class="block text-[11px] font-medium text-slate-400 mb-1">Freq (GHz)</label>
+            <label for="freqInput" class="block text-[11px] font-medium text-slate-600 mb-1">Freq (GHz)</label>
             <input type="number" id="freqInput" value="5.8" step="0.1" min="0.1" max="100"
               class="w-full bg-white border border-slate-300 rounded-xl px-3 py-2 text-xs font-mono text-blue-700 focus:outline-none focus:border-blue-400" />
           </div>
 
           <!-- K-Factor -->
           <div>
-            <label for="kFactorInput" class="block text-[11px] font-medium text-slate-400 mb-1">K-Factor</label>
+            <label for="kFactorInput" class="block text-[11px] font-medium text-slate-600 mb-1">K-Factor</label>
             <input type="number" id="kFactorInput" value="1.333" step="0.01" min="0.4" max="5"
               class="w-full bg-white border border-slate-300 rounded-xl px-3 py-2 text-xs font-mono text-slate-700 focus:outline-none focus:border-blue-400" />
           </div>
 
           <!-- Target Fresnel % -->
           <div>
-            <label for="fresnelTargetInput" class="block text-[11px] font-medium text-slate-400 mb-1">Target F1 (%)</label>
+            <label for="fresnelTargetInput" class="block text-[11px] font-medium text-slate-600 mb-1">Target F1 (%)</label>
             <input type="number" id="fresnelTargetInput" value="60" step="5" min="10" max="100"
               class="w-full bg-white border border-slate-300 rounded-xl px-3 py-2 text-xs font-mono text-teal-600 focus:outline-none focus:border-blue-400" />
           </div>
@@ -210,22 +210,22 @@
         <!-- RF Link Budget & Clutter Simulation Controls -->
         <div class="mt-3 pt-3 border-t border-slate-200 grid grid-cols-2 sm:grid-cols-4 gap-3">
           <div>
-            <label for="txPowerInput" class="block text-[11px] font-medium text-slate-400 mb-1">TX Power (dBm)</label>
+            <label for="txPowerInput" class="block text-[11px] font-medium text-slate-600 mb-1">TX Power (dBm)</label>
             <input type="number" id="txPowerInput" value="23" step="1" min="-30" max="60"
               class="w-full bg-white border border-slate-300 rounded-xl px-3 py-1.5 text-xs font-mono text-emerald-700 focus:outline-none focus:border-blue-400" />
           </div>
           <div>
-            <label for="antGainInput" class="block text-[11px] font-medium text-slate-400 mb-1">Ant Gain (dBi)</label>
+            <label for="antGainInput" class="block text-[11px] font-medium text-slate-600 mb-1">Ant Gain (dBi)</label>
             <input type="number" id="antGainInput" value="28" step="0.5" min="0" max="60"
               class="w-full bg-white border border-slate-300 rounded-xl px-3 py-1.5 text-xs font-mono text-blue-700 focus:outline-none focus:border-blue-400" />
           </div>
           <div>
-            <label for="rxSensInput" class="block text-[11px] font-medium text-slate-400 mb-1">RX Sens (dBm)</label>
+            <label for="rxSensInput" class="block text-[11px] font-medium text-slate-600 mb-1">RX Sens (dBm)</label>
             <input type="number" id="rxSensInput" value="-76" step="1" min="-120" max="-30"
               class="w-full bg-white border border-slate-300 rounded-xl px-3 py-1.5 text-xs font-mono text-teal-600 focus:outline-none focus:border-blue-400" />
           </div>
           <div>
-            <label for="clutterHeightInput" class="block text-[11px] font-medium text-slate-400 mb-1">Clutter (m)</label>
+            <label for="clutterHeightInput" class="block text-[11px] font-medium text-slate-600 mb-1">Clutter (m)</label>
             <input type="number" id="clutterHeightInput" value="10" step="1" min="0" max="80"
               class="w-full bg-white border border-slate-300 rounded-xl px-3 py-1.5 text-xs font-mono text-orange-700 focus:outline-none focus:border-blue-400" />
           </div>
@@ -233,12 +233,12 @@
 
         <div class="mt-2.5 flex flex-wrap items-center justify-between gap-2 text-[11px]">
           <div class="flex flex-wrap items-center gap-1.5">
-            <span class="text-slate-400">Clutter Preset:</span>
-            <button type="button" data-clutter="0" class="clutter-preset-btn px-2 py-0.5 rounded bg-slate-100 hover:bg-slate-100 text-slate-400 border border-slate-200 transition">0m Open</button>
-            <button type="button" data-clutter="12" class="clutter-preset-btn px-2 py-0.5 rounded bg-slate-100 hover:bg-slate-100 text-slate-400 border border-slate-200 transition">12m Trees</button>
-            <button type="button" data-clutter="25" class="clutter-preset-btn px-2 py-0.5 rounded bg-slate-100 hover:bg-slate-100 text-slate-400 border border-slate-200 transition">25m Urban/Forest</button>
+            <span class="text-slate-600">Clutter Preset:</span>
+            <button type="button" data-clutter="0" class="clutter-preset-btn px-2 py-0.5 rounded bg-slate-100 hover:bg-slate-100 text-slate-600 border border-slate-200 transition">0m Open</button>
+            <button type="button" data-clutter="12" class="clutter-preset-btn px-2 py-0.5 rounded bg-slate-100 hover:bg-slate-100 text-slate-600 border border-slate-200 transition">12m Trees</button>
+            <button type="button" data-clutter="25" class="clutter-preset-btn px-2 py-0.5 rounded bg-slate-100 hover:bg-slate-100 text-slate-600 border border-slate-200 transition">25m Urban/Forest</button>
           </div>
-          <div class="text-slate-400 font-mono">
+          <div class="text-slate-600 font-mono">
             Feed Loss: <input type="number" id="feedLossInput" value="2.5" step="0.5" min="0" max="30"
               class="w-14 bg-white border border-slate-300 rounded px-1.5 py-0.5 text-[11px] font-mono text-slate-700 focus:outline-none focus:border-blue-400" /> dB
           </div>
@@ -290,7 +290,7 @@
       <div class="glass-panel rounded-2xl p-5 flex-1 flex flex-col">
         <div class="flex items-center justify-between mb-3.5">
           <h2 class="text-sm font-semibold uppercase tracking-wider text-slate-700">Sequential Site Coordinates</h2>
-          <span id="terrainSourceBadge" class="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-lg text-[11px] font-mono bg-slate-100 text-slate-400 border border-slate-300">
+          <span id="terrainSourceBadge" class="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-lg text-[11px] font-mono bg-slate-100 text-slate-600 border border-slate-300">
             <span class="w-2 h-2 rounded-full bg-teal-500"></span>
             Terrain: Synthetic Ridge Model
           </span>
@@ -317,7 +317,7 @@
               </svg>
               Geodetic Site & RF Link Topology Map
             </h2>
-            <p id="mapInteractionHint" class="text-xs text-slate-400 mt-0.5">Drag site pins to adjust coordinates, click a path to inspect hop, or use Pick Mode.</p>
+            <p id="mapInteractionHint" class="text-xs text-slate-600 mt-0.5">Drag site pins to adjust coordinates, click a path to inspect hop, or use Pick Mode.</p>
           </div>
 
           <!-- Map Controls: Layer Switcher, Pick Mode & Recenter -->
@@ -337,7 +337,7 @@
               Recenter
             </button>
 
-            <button id="toggleGmapsKeyBtn" type="button" class="px-2.5 py-1.5 rounded-xl text-xs font-mono bg-slate-50 hover:bg-slate-100 text-slate-400 hover:text-blue-700 border border-slate-200 transition" title="Configure optional Google Maps JS API Key">
+            <button id="toggleGmapsKeyBtn" type="button" class="px-2.5 py-1.5 rounded-xl text-xs font-mono bg-slate-50 hover:bg-slate-100 text-slate-600 hover:text-blue-700 border border-slate-200 transition" title="Configure optional Google Maps JS API Key">
               API Key
             </button>
           </div>
@@ -345,13 +345,13 @@
 
         <!-- Optional Native Google Maps JS SDK Bar (Hidden by default) -->
         <div id="gmapsKeyBar" class="hidden mb-3 p-3 rounded-xl bg-white border border-slate-200 flex flex-wrap items-center gap-2">
-          <span class="text-xs font-medium text-slate-400">Optional Google Maps JS API Key:</span>
+          <span class="text-xs font-medium text-slate-600">Optional Google Maps JS API Key:</span>
           <input type="text" id="gmapsApiKeyInput" placeholder="AIzaSy... (Leave blank to use built-in Google Tile Layers)"
             class="flex-1 min-w-[210px] bg-slate-50 border border-slate-300 rounded-lg px-2.5 py-1 text-xs font-mono text-blue-700 focus:outline-none focus:border-blue-400" />
           <button id="applyGmapsKeyBtn" type="button" class="px-3 py-1 rounded-lg text-xs font-semibold bg-teal-500 hover:bg-blue-600 text-slate-900 transition">
             Activate Native SDK
           </button>
-          <button id="resetLeafletBtn" type="button" class="hidden px-2.5 py-1 rounded-lg text-xs font-medium bg-slate-100 hover:bg-slate-100 text-slate-400 border border-slate-300 transition">
+          <button id="resetLeafletBtn" type="button" class="hidden px-2.5 py-1 rounded-lg text-xs font-medium bg-slate-100 hover:bg-slate-100 text-slate-600 border border-slate-300 transition">
             Use Tile Mode
           </button>
         </div>
@@ -359,13 +359,13 @@
         <!-- Map Legend & Pick Target Selector -->
         <div class="flex flex-wrap items-center justify-between gap-2 mb-2.5 px-3 py-1.5 rounded-xl bg-slate-50 border border-slate-200 text-[11px]">
           <div class="flex flex-wrap items-center gap-3.5">
-            <span class="flex items-center gap-1.5 text-slate-400">
+            <span class="flex items-center gap-1.5 text-slate-600">
               <span class="w-3 h-1 bg-emerald-400 inline-block rounded"></span> Clear LoS
             </span>
-            <span class="flex items-center gap-1.5 text-slate-400">
+            <span class="flex items-center gap-1.5 text-slate-600">
               <span class="w-3 h-1 bg-teal-500 inline-block rounded"></span> Fresnel Intrusion
             </span>
-            <span class="flex items-center gap-1.5 text-slate-400">
+            <span class="flex items-center gap-1.5 text-slate-600">
               <span class="w-3 h-1 bg-rose-500 inline-block rounded"></span> Obstructed
             </span>
             <span class="flex items-center gap-1.5 text-blue-700 font-mono">
@@ -395,7 +395,7 @@
               <span class="w-2.5 h-2.5 rounded-full bg-blue-600"></span>
               Path Profile & Fresnel Clearance Canvas
             </h2>
-            <p id="activeHopSubtitle" class="text-xs text-slate-400 mt-0.5">Select a hop or inspect full multi-hop relay geometry</p>
+            <p id="activeHopSubtitle" class="text-xs text-slate-600 mt-0.5">Select a hop or inspect full multi-hop relay geometry</p>
           </div>
 
           <!-- Hop Tabs -->
@@ -407,19 +407,19 @@
         <!-- Legend Bar -->
         <div class="flex flex-wrap items-center justify-between gap-3 mb-3 px-3 py-2 rounded-xl bg-slate-50 border border-slate-200 text-xs">
           <div class="flex flex-wrap items-center gap-4">
-            <span class="flex items-center gap-1.5 text-slate-400">
+            <span class="flex items-center gap-1.5 text-slate-600">
               <span class="w-4 h-0.5 bg-[#0a5aa0] inline-block shadow-[0_0_8px_#0a5aa0]"></span>
               Direct LoS Ray
             </span>
-            <span class="flex items-center gap-1.5 text-slate-400">
+            <span class="flex items-center gap-1.5 text-slate-600">
               <span class="w-3.5 h-3.5 rounded-sm bg-yellow-400/25 border border-yellow-400/70 inline-block"></span>
               100% Fresnel (F1)
             </span>
-            <span class="flex items-center gap-1.5 text-slate-400">
+            <span class="flex items-center gap-1.5 text-slate-600">
               <span class="w-4 h-0 border-t-2 border-dashed border-teal-400 inline-block"></span>
               <span id="legendTargetF1Label">60% Target F1</span>
             </span>
-            <span class="flex items-center gap-1.5 text-slate-400">
+            <span class="flex items-center gap-1.5 text-slate-600">
               <span class="w-3.5 h-3.5 rounded-sm bg-emerald-500/35 border border-emerald-400/70 inline-block"></span>
               Terrain + Earth Bulge
             </span>
@@ -445,27 +445,27 @@
         <!-- Live Cursor Telemetry Bar -->
         <div id="cursorTelemetry" class="mt-3 grid grid-cols-2 sm:grid-cols-6 gap-2 bg-white border border-slate-200 rounded-xl px-3 py-2 text-[11px] font-mono">
           <div>
-            <span class="text-slate-400 block">DIST (d1)</span>
+            <span class="text-slate-600 block">DIST (d1)</span>
             <span id="telDist" class="text-slate-700 font-semibold">-- km</span>
           </div>
           <div>
-            <span class="text-slate-400 block">TERRAIN ASL</span>
+            <span class="text-slate-600 block">TERRAIN ASL</span>
             <span id="telTerrain" class="text-emerald-700 font-semibold">-- m</span>
           </div>
           <div>
-            <span class="text-slate-400 block">EARTH BULGE</span>
+            <span class="text-slate-600 block">EARTH BULGE</span>
             <span id="telBulge" class="text-teal-600 font-semibold">-- m</span>
           </div>
           <div>
-            <span class="text-slate-400 block">LOS HEIGHT</span>
+            <span class="text-slate-600 block">LOS HEIGHT</span>
             <span id="telLos" class="text-blue-700 font-semibold">-- m</span>
           </div>
           <div>
-            <span class="text-slate-400 block">100% F1 RAD</span>
+            <span class="text-slate-600 block">100% F1 RAD</span>
             <span id="telF1" class="text-yellow-700 font-semibold">-- m</span>
           </div>
           <div>
-            <span class="text-slate-400 block">CLEARANCE</span>
+            <span class="text-slate-600 block">CLEARANCE</span>
             <span id="telClearance" class="text-slate-700 font-semibold">-- m</span>
           </div>
         </div>
@@ -476,7 +476,7 @@
         <div class="flex flex-wrap items-center justify-between gap-3 mb-4">
           <div>
             <h2 class="text-sm font-semibold uppercase tracking-wider text-slate-700">Detailed Link Budget & LoS Engineering Report</h2>
-            <p id="reportMetaTimestamp" class="text-xs font-mono text-slate-400 mt-0.5">Generated: --</p>
+            <p id="reportMetaTimestamp" class="text-xs font-mono text-slate-600 mt-0.5">Generated: --</p>
           </div>
           <div class="flex flex-wrap items-center gap-2">
             <button id="exportKmlBtn" type="button" class="px-2.5 py-1.5 rounded-xl text-xs font-semibold bg-slate-100 hover:bg-slate-100 text-emerald-700 border border-slate-300 transition flex items-center gap-1.5" title="Download Google Earth KML with sites and 3D LoS rays">
@@ -503,7 +503,7 @@
         <div class="overflow-x-auto rounded-xl border border-slate-200">
           <table class="w-full text-left border-collapse text-xs">
             <thead>
-              <tr class="bg-white text-slate-400 font-mono uppercase text-[11px] border-b border-slate-200">
+              <tr class="bg-white text-slate-600 font-mono uppercase text-[11px] border-b border-slate-200">
                 <th class="py-2.5 px-3">Hop / Path</th>
                 <th class="py-2.5 px-3">Distance</th>
                 <th class="py-2.5 px-3">Fwd / Rev Azimuth</th>
@@ -989,22 +989,22 @@
           </div>
           <div class="grid grid-cols-2 sm:grid-cols-4 gap-2">
             <div>
-              <label class="block text-[10px] font-mono text-slate-400 mb-0.5">LATITUDE (°)</label>
+              <label class="block text-[10px] font-mono text-slate-600 mb-0.5">LATITUDE (°)</label>
               <input type="number" step="0.0001" data-idx="${i}" data-field="lat" value="${site.lat}"
                 class="site-input w-full bg-slate-50 border border-slate-200 rounded-lg px-2 py-1.5 text-xs font-mono text-slate-800 focus:outline-none focus:border-blue-400" />
             </div>
             <div>
-              <label class="block text-[10px] font-mono text-slate-400 mb-0.5">LONGITUDE (°)</label>
+              <label class="block text-[10px] font-mono text-slate-600 mb-0.5">LONGITUDE (°)</label>
               <input type="number" step="0.0001" data-idx="${i}" data-field="lon" value="${site.lon}"
                 class="site-input w-full bg-slate-50 border border-slate-200 rounded-lg px-2 py-1.5 text-xs font-mono text-slate-800 focus:outline-none focus:border-blue-400" />
             </div>
             <div>
-              <label class="block text-[10px] font-mono text-slate-400 mb-0.5">GROUND (m ASL)</label>
+              <label class="block text-[10px] font-mono text-slate-600 mb-0.5">GROUND (m ASL)</label>
               <input type="number" step="1" data-idx="${i}" data-field="elev" value="${site.elev}"
                 class="site-input w-full bg-slate-50 border border-slate-200 rounded-lg px-2 py-1.5 text-xs font-mono text-emerald-700 focus:outline-none focus:border-blue-400" />
             </div>
             <div>
-              <label class="block text-[10px] font-mono text-slate-400 mb-0.5">TOWER (m AGL)</label>
+              <label class="block text-[10px] font-mono text-slate-600 mb-0.5">TOWER (m AGL)</label>
               <input type="number" step="1" min="0" data-idx="${i}" data-field="ant" value="${site.ant}"
                 class="site-input w-full bg-slate-50 border border-slate-200 rounded-lg px-2 py-1.5 text-xs font-mono text-blue-700 focus:outline-none focus:border-blue-400" />
             </div>
@@ -1196,7 +1196,7 @@
         btn.type = 'button';
         btn.className = active
           ? 'px-3 py-1 rounded-lg text-xs font-mono font-bold bg-teal-500 text-slate-900 shadow'
-          : 'px-3 py-1 rounded-lg text-xs font-mono font-medium text-slate-400 hover:bg-slate-100 transition';
+          : 'px-3 py-1 rounded-lg text-xs font-mono font-medium text-slate-600 hover:bg-slate-100 transition';
         btn.textContent = `Hop ${idx + 1} (S${idx + 1}→S${idx + 2})`;
         btn.addEventListener('click', () => {
           state.selectedView = idx;
@@ -1214,7 +1214,7 @@
         allBtn.type = 'button';
         allBtn.className = allActive
           ? 'px-3 py-1 rounded-lg text-xs font-mono font-bold bg-teal-500 text-slate-900 shadow'
-          : 'px-3 py-1 rounded-lg text-xs font-mono font-medium text-slate-400 hover:bg-slate-100 transition';
+          : 'px-3 py-1 rounded-lg text-xs font-mono font-medium text-slate-600 hover:bg-slate-100 transition';
         allBtn.textContent = 'Full Chain';
         allBtn.addEventListener('click', () => {
           state.selectedView = 'all';
@@ -1252,15 +1252,15 @@
           </div>
           <div class="grid grid-cols-3 gap-2 pt-2 border-t border-slate-200 text-[11px] font-mono">
             <div>
-              <span class="text-slate-400 block">AZ / TILT</span>
+              <span class="text-slate-600 block">AZ / TILT</span>
               <span class="text-slate-700">${hop.fwdAz.toFixed(1)}°</span> / <span class="text-teal-700">${hop.tiltDegA >= 0 ? '+' : ''}${hop.tiltDegA.toFixed(2)}°</span>
             </div>
             <div>
-              <span class="text-slate-400 block">RSL / FADE</span>
+              <span class="text-slate-600 block">RSL / FADE</span>
               <span class="text-emerald-700">${hop.rslDbm.toFixed(1)}</span> / <span class="${hop.fadeMarginDb >= 10 ? 'text-blue-700' : 'text-teal-600'}">${hop.fadeMarginDb >= 0 ? '+' : ''}${hop.fadeMarginDb.toFixed(1)}dB</span>
             </div>
             <div>
-              <span class="text-slate-400 block">FSPL (${state.freqGHz}G)</span>
+              <span class="text-slate-600 block">FSPL (${state.freqGHz}G)</span>
               <span class="text-blue-700 font-semibold">${hop.fsplDb.toFixed(1)} dB</span>
             </div>
           </div>
@@ -1821,7 +1821,7 @@
         marker.bindPopup(`
           <div class="font-sans">
             <div class="font-bold text-slate-900 text-xs mb-1">Site ${i + 1}: ${site.name}</div>
-            <div class="font-mono text-[11px] text-slate-400">Lat: ${site.lat.toFixed(5)}°, Lon: ${site.lon.toFixed(5)}°</div>
+            <div class="font-mono text-[11px] text-slate-600">Lat: ${site.lat.toFixed(5)}°, Lon: ${site.lon.toFixed(5)}°</div>
             <div class="font-mono text-[11px] text-emerald-700">Ground: ${site.elev} m ASL | Tower: ${site.ant} m AGL</div>
             ${azInfo}
           </div>
