@@ -141,7 +141,21 @@
         f.reset();
       } else {
         status.className = "note err";
-        status.innerHTML = "Error " + r.status + " from the form service. Please email us directly at <a href=\"mailto:hello@vench.cc\">hello@vench.cc</a>.";
+        r.text().then(function(t) {
+          var detail = "";
+          try {
+            var body = JSON.parse(t);
+            if (body.errors && body.errors.length) {
+              detail = " " + body.errors.map(function(e) {
+                var f = { email: "email address" };
+                return (f[e.field] || e.field) + " " + (e.message || "is invalid");
+              }).join(", ");
+            }
+          } catch (x) {}
+          status.innerHTML = "The form was rejected" + detail + ". Please check your details, or email us directly at <a href=\"mailto:hello@vench.cc\">hello@vench.cc</a>.";
+        }).catch(function() {
+          status.innerHTML = "Error " + r.status + " from the form service. Please email us directly at <a href=\"mailto:hello@vench.cc\">hello@vench.cc</a>.";
+        });
       }
     }).catch(function() {
       status.className = "note err";
