@@ -1,12 +1,33 @@
 {
- "updated": "2026-11-27T09:15:25.634Z",
+ "updated": "2026-11-27T19:14:44.819Z",
  "items": [
+  {
+   "topic": "5G",
+   "title": "Kimberley receives mobile coverage upgrades",
+   "source": "Broome Advertiser",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPREZGYzRRYnVONGJlaTdNTlNMbURhWUpVcU1mU1NkSFpLcFY5dFFaLWJxRkxOM0VmV3NWMzA4TDJvV2FRVFY5VGQtZk1OMHNKbnpqY1cySDdpbF9NVWZCTzctcWRJOEFndXR5ZGZIalRIVG9WbTRDMHN0ckRSaHNRRDVieXhhd2d2SDFqNXlMRVY5bk5ZaUNoVlVyMUpmd2dIalBTV20xSGFxU0N3eDVRY1F5akdvb1dkUWZlQWFyZWdWNHRTTV9HQWFkRHhpUQ?oc=5",
+   "date": "2026-11-27T07:35:14.000Z"
+  },
   {
    "topic": "5G",
    "title": "Vodafone Expands 5G Network Across Regional WA",
    "source": "Wisevoter",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaE5tQThxcDNFMFhKVkhBdjE0MXczRnNaT2Rza1BkQ0NPYlZHaUNpemNVYzdQUUJoZ1VOVHlrY2JoZ2o0c1pnVE9SNWc5ZjB1QVg3VFdldWlIYkctNlhYd3lqbm5laTNWNzVwTHVZVGp4UmRUcE41c1VyN054M3pUVG1QVXNMdjJxWURXUWV5Y0FsVUdUeDI0cQ?oc=5",
    "date": "2026-11-27T07:11:09.000Z"
+  },
+  {
+   "topic": "5G",
+   "title": "Asia Pacific's AI-RAN push is putting network autonomy to the test",
+   "source": "TelcoNews Australia",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVHZnOHlDR01QRnNjWldPbFNjUW4wYXdjWF92Yk1jajh6R1E1bTZHdFFjQ094aXRtREJjSk13UHZyU1FJUXdkRVNQUUozLW11X2hOUlotR3p2dVZXR2ZheWVmMmpxVERXTWJwem94eEpwX1VHX3VEdnFyT09MWG1UNXo1ekM0a2tMd2l0SWJDNS0xT29NM2NGancyVkhndw?oc=5",
+   "date": "2026-11-26T20:36:00.000Z"
+  },
+  {
+   "topic": "5G",
+   "title": "Private 5G, 4G LTE projects show strong yearly growth",
+   "source": "Computer Weekly",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObVBVSVRuV21wX1MxU0FfWndjQVJCSm5SUHM2VW5UYXNIMWpITGszV2xWQ0tkNVJvd1NmazVrWkVWaUdKWE82RGZGUGRGV0hOY1BwN0JULW5UY0N6RkRHVlZNQTlZV1lVc3h4cmgyTlJwT3picklvM0t1eWVjd3NLeFZBTEJ1RHBib1AtTG9FOEZSenU4ZS0wZ3U4cmdrQTA?oc=5",
+   "date": "2026-11-26T17:26:32.000Z"
   },
   {
    "topic": "5G",
@@ -21,27 +42,6 @@
    "source": "Advanced Television",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORENuaS1fRFBXSlMtbGh5a0xGR1NmeTQxWHF0clpVUzM1VEpDYnhRdlZ5YzYyMWY0VzBrdzZ2ZjVFNzdHSnJjbzRNVmlibmk5Z0hETEtLLUlPZGJ6Y1Q5WEI1bU9qQ25iWjd1aU9rUHVEQTdHZkdhM0xqb3dCSWFKUkhVeWlOYXpLcVVBblVZWDZPM2s5RUF4UGdEd3B1Z2dxUVE?oc=5",
    "date": "2026-11-25T10:21:40.000Z"
-  },
-  {
-   "topic": "5G",
-   "title": "Best mobile phone plans in Australia for expats",
-   "source": "Expatica",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMW9ZQTVKMHJqMVZMR3FlMGZVQTctNFJEUEdLMGhENXpGSVZhMG5KUHNUc1VPSGZhc0FtVjVLN2h1RDJObFFkbGFBbUdLTFRiUC01LUhRNTBfWmlvMVZsak5RbUJnSWpZWnMyT3VHYWV0MGptU3ItZjVrU28xYXg2cmNYa09LdGRRaTlBVWdyd0Zta21U?oc=5",
-   "date": "2026-11-25T08:00:00.000Z"
-  },
-  {
-   "topic": "5G",
-   "title": "Australian telecommunications regulation update: stronger safeguards and a fresh look at mobile access",
-   "source": "TelcoNews Australia",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMXZ1dXBuU0l6U1QzTjYzOGhxUnFZem1qWmoybURqSWZkVVpzTFRlU05WWmtoZ1llY3Bjd25rUk1lMTRNVWhwS1ZMVlBfYm03a0Q2S09rRnduTEhTcFVVSkNEUTVYV20zME9vNjl5cFlMRlc3SC1jcUVaSUN6TnJVLXU5UHVxd3doZVRLQ2R2RlYyTGpiSENBY01JZmpMY3hHV2loX0c3ems3aTJ6UmRxRWUzVEdGSkUwdm9MM1cwclk3TGNuNjdERjM5Qko?oc=5",
-   "date": "2026-11-25T01:49:00.000Z"
-  },
-  {
-   "topic": "5G",
-   "title": "5G Networks (ASX:5GN) Shares Climb 7.6% as Market Revisits Growth Strategy",
-   "source": "Kalkine",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSUY2ZkhFU3B5V2c2MEotLS1UZ01Xc2pZcmZ3Y2JVMlV6ck5MZ1gxWWU5SHlVeDBKbEt3TVk5RHZPOVhFOV9ZMU1nZ2NLckNyUFR5OXZoS0IzZUlBSVVBdGtuRlVpQV9EcHVQYmlBQmNJOU1VenM3VVB0QUg2YVRkNXNYNkJvUHFKeUcwcTFEeVNUTWNUaUpDTDJaYmtYUk9kV2NmYTRKNUVodTBW?oc=5",
-   "date": "2026-11-25T01:12:00.000Z"
   },
   {
    "topic": "4G",
@@ -73,17 +73,31 @@
   },
   {
    "topic": "4G",
-   "title": "How 5G Technology Changes Mobile Speed, Coverage, and Connectivity",
-   "source": "The Edinburgh Reporter",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNam14OGx1N3RGUExfckY5Q3FTTG9QLXptbHZKZHEzTk5XX3F2dHNyMTV6RkxXTFRQRXgtVFE2RlE3bkY5TlNGazl1aE56VnBOV3FtODBERS0wd2FlckJUZkZDaE1YTHJxbjJfbVpwV0NEb2pNdlF4YnZCZW1WQUlmQ3JZRHFja1Vrc3g0VGs4TVUwblBxVFFKWTR5TEF5X1A4VExQMHdzYmZWbzJX?oc=5",
-   "date": "2026-11-25T23:35:45.000Z"
-  },
-  {
-   "topic": "4G",
    "title": "Kcell to build nearly 1,700 4G and 5G base stations in 2027",
    "source": "Telecompaper",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQN2cxYmR5X2VXNl9jREM0alBmV201Z05OejQ2Wkd3b1dDdmRCSTdhUlllY0RjQUJkWGN4SjRxa0VDRUdqT1NGSXZ1cjlhWWdrcEVIeVBnRjViU0pSOGhCWlNRR08wUnNQeDBzVkpCZ24zMG9TQUxtd1V4YlRNNzRObjdIc2p2ZTFTRnJNSnlRZTNPWHlsMmxnMS1McWZxaTF0SUEw?oc=5",
    "date": "2026-11-25T20:36:46.000Z"
+  },
+  {
+   "topic": "4G",
+   "title": "Turkmenistan targets nationwide 4G and 5G coverage",
+   "source": "Telecompaper",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPc2l5Q3BqVUVhNUtfMjYwNU92Y3VlLXJyRUNwamJoWFhyeEZLcWlua0ctX2F5UUR6ZmNVZmhzMEVSVlhuMEVFOUVLaGFISDZWVEhaSTZGQnRPUXFhQ0lURFZyY0cyZlJ0WllaUE0tMVVpRndmTTlwdFM5QmR0d1VBSVpOOWhhaEVheEU3eDZfNGkxV3ZmNU1QMg?oc=5",
+   "date": "2026-11-25T20:24:15.000Z"
+  },
+  {
+   "topic": "Optical fibre",
+   "title": "Rostelecom expands fibre in Rostov region and Komi republic",
+   "source": "Telecompaper",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQi1RRVR6R2lSZm94MDRkWTY5THhHejZQZmRqN3pnYmVuSXhSYl9SMXliSnh0aE1sc1h5c3EwVUY5WmMtSGt6eFhKRVJCNjJ5SWJySFMtU0xQOWRVN1lKcWU5dE1nWng3NTJNZjZwemkyMG5kd09oQmNIZ0VCUHkzNDNQbThrNmhfdUZtRlJSeWlGQWI2VXhTaC1IVFVTTi1pYkoyaQ?oc=5",
+   "date": "2026-11-27T13:26:19.000Z"
+  },
+  {
+   "topic": "Optical fibre",
+   "title": "Vodafone Germany adds 78,000 fibre connections in October",
+   "source": "Telecompaper",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMzZNN1NQOGo2U2hpR2RNRmJTbXkzbDhPUzlYdnYyZnVfWVNIajBpQUZmcENfNGJDYWttTUZ6ZmxPWXAxc2lQSklVdng3MG1UaFVBNC1SaGMyd1Z4bDdfQXd1OEhkNWZJOUJ5WXdOcUMzd0J2ejJZREF4d0VUNTdpMUhyVWJtSTNvRE9ucVQ0TXpsbFl4SlBaNXc5REJLakQ5?oc=5",
+   "date": "2026-11-27T13:12:12.000Z"
   },
   {
    "topic": "Optical fibre",
@@ -94,38 +108,24 @@
   },
   {
    "topic": "Optical fibre",
+   "title": "Pakistan’s Leading Telco Plans to Acquire Major Fiber ISP",
+   "source": "ProPakistani",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOTZvbUlLSER1REpNVzRadDY1dDcwSWlMX1BhY3JPczV3VnI4Z0E1YlVTZmU3MlhVbVZfRjJBWHJXR09lLS1jUFY2Z1BidWVfZVlibkZNMlB3MS1ZYzZXQjdic3lMNkQ5RndXZGF4aWlZNHh4aFZlX1RSNkN6RFV4a2stUy1hbS1Kc3AwZVlqaEoxQ000dHhV0gGcAUFVX3lxTE5LREZNTWg0OTliU1I4Vm5yMll2LUdkVmhoOVBEV1UzMjItYnRjc01MMjZTaHZ0ekhJaS1pSFh5dVNpMm5fNTNfdldhaXFweERBVjR3UFREYVF2clVHeGVtNE8zMEJTZjJ3cXJGcFFoU0hlOUpBQ1NfZXdobzJsTE9jczBHLXNKQzlaSEltdVVXMnpjTDVtbVlfNkNzUg?oc=5",
+   "date": "2026-11-27T07:52:36.000Z"
+  },
+  {
+   "topic": "Optical fibre",
+   "title": "Du joins Singapore-India-Gulf submarine cable system",
+   "source": "DD News",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZFRodmNxX09iRnBjd3dObDQ0eDVNZ3Qzdzdidk1EdUlITEJKUHgyUFFGdjhmTi1wQ2EwaHd2YU5yNXU4WElTMG5UOHRkTFNnOHpzU1BMZmdrcnRrM1l3YnZxWUgzNGs0WUJyXzN2Xzh4MFJqTUlRWHVEWUhYbmN4QW5PT3Q?oc=5",
+   "date": "2026-11-27T06:34:03.000Z"
+  },
+  {
+   "topic": "Optical fibre",
    "title": "Airtel Plans ₹705 Crore Investment to Build 40 MW Data Centre Network Across Assam",
    "source": "digital terminal",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeWtaQWI2elhkVjVibDVoVm1MdWJIRHZDeG9kQ1Nad1R0MzQ3S29hYVdhMXotc0F4TzE0MzJjeFk0ZXVENXFKLTFPa1FqN3BWVXRkaFBaZnlOOHVvMlNVdGVZNG9NTUFmbDNmQURGbEZ3ZTNVUnhzS0dOSF9Gd3pyRHlMRGFEQTBudjhad2JqVHFWdnk1NVB5WnQySGQ3dFlwbkNfaVg2YTBISGRSdlJuRUxzTVlrQnPSAcQBQVVfeXFMTlp6NjFUMmh1ZE1KZFJOejRyOVRab3g4aHhOZDVOcFJrWXNkUXlrMHg5ZXp5NE5Hbk95R1NTLVRPcF9iWnlsRS1XLXFqWFRPNWFOQ2x4T2R3MXJLUWdManBOVUpSY0luaVdfWTUzUEsxelFxVWNMNXZIU1hKeUg2WFRZa3pwZm9tN2wxdEkzNUxHQzNDWnRhQVRHZlpuN3pWekNZTllCb0EzSkV3WGZXdWNrZ0lSZUY3RG9xUDRhRkVocnNuSg?oc=5",
    "date": "2026-11-27T06:27:01.000Z"
-  },
-  {
-   "topic": "Optical fibre",
-   "title": "Telco Seeks Tax Harmonisation, Protection Of Telecoms Infrastructure",
-   "source": "LEADERSHIP Newspapers",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOclJ4Ukp1bmFiQ3RXaWZBczgzbGw1TmQ1SEt6Wm1HV1lFUTI0Zk5MZHZqcDhQaDFQbEFYbFVfZ2NkdzNIVEYxaWxjZVNUVzBKSEVQdnMyOVBKaVBSRGJ1TEV0VkdyMGtOQmw4Yld4c3VLMG9Xc0JmaGxZaXZhbmwyT2tnejlla0lfMC1nY1RnczRxTXNX?oc=5",
-   "date": "2026-11-27T04:54:20.000Z"
-  },
-  {
-   "topic": "Optical fibre",
-   "title": "Seoul National University Researchers Capture Magnitude 2 Earthquake in 0.001-Second Detail Using Telecom Fiber",
-   "source": "BigGo Finance",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1LZUs2elQyMy1LVnI5a0Vadi1iY2t5WTFNd0xRekNPV3BKRFladVdXNzlrU21fbWd0dVlPWVM1T3I4eTR4M2ZublFoRkEtdzg0ZjJ0eHdpa1lhb0hWS2VjSzhVUDBucmE5amJYYTNyNTh0RVB1WUE?oc=5",
-   "date": "2026-11-26T19:55:00.000Z"
-  },
-  {
-   "topic": "Optical fibre",
-   "title": "Optical Fiber Isolators Market To 2035: Data Center and Fiber Laser Demand Supports Growth - News and Statistics",
-   "source": "IndexBox",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOR2NHUnczdUNsSzBZd3BuWUNWd2pIVjJ6bWs5cThOTkJEdjc4NURiYWJmVDZLZUJhNWJRT1VSOWllMGszYWpibEUyOUZxX2Q1aEh3c0tnZlRDV2tyNFFWdEhQSFg0dzN5NUxQTngta2NHNzBBY3pOM1c1ajd1MmFoU290blc2eUVhVnBPQ2RFZlYyN3ZHcHNidk50XzhLbnJSQ1NIaXNsZnV5LXU5UGc3OTlyelJUNncweXRnbHpyM2JXM3FKZmFvZU1qdDdMSFZIcGtWOHM3eWpaeW8?oc=5",
-   "date": "2026-11-26T16:01:04.000Z"
-  },
-  {
-   "topic": "Optical fibre",
-   "title": "Pakistan’s Leading Telco Plans to Acquire Major Fiber ISP",
-   "source": "ProPakistani",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOTZvbUlLSER1REpNVzRadDY1dDcwSWlMX1BhY3JPczV3VnI4Z0E1YlVTZmU3MlhVbVZfRjJBWHJXR09lLS1jUFY2Z1BidWVfZVlibkZNMlB3MS1ZYzZXQjdic3lMNkQ5RndXZGF4aWlZNHh4aFZlX1RSNkN6RFV4a2stUy1hbS1Kc3AwZVlqaEoxQ000dHhV0gGcAUFVX3lxTE5LREZNTWg0OTliU1I4Vm5yMll2LUdkVmhoOVBEV1UzMjItYnRjc01MMjZTaHZ0ekhJaS1pSFh5dVNpMm5fNTNfdldhaXFweERBVjR3UFREYVF2clVHeGVtNE8zMEJTZjJ3cXJGcFFoU0hlOUpBQ1NfZXdobzJsTE9jczBHLXNKQzlaSEltdVVXMnpjTDVtbVlfNkNzUg?oc=5",
-   "date": "2026-11-26T12:47:30.000Z"
   },
   {
    "topic": "DWDM",
@@ -150,17 +150,10 @@
   },
   {
    "topic": "Innovation",
-   "title": "China launches 6G trials across eight regions, eyes 2030 rollout",
-   "source": "TechNode",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZFdCVFA4QVprZ3ZjWGJBa0lwV1Rhc05kdm05SjdoS2h3dm9kVXJzbEtLM3lnTHRjY0lIRTJ3NFpvbDBVR1dyWGdTdTlZT3VIcHh5WGZqX1J1Yi14VmhCb3N5UWFFdDMtZXdMaHZpckF2eTZLZFhTTFJSb2NXUjdwZVhDaHJnLUtlLUFkTHpNYVkxSjZTOWhmR25VZkw?oc=5",
-   "date": "2026-11-27T03:28:08.000Z"
-  },
-  {
-   "topic": "Innovation",
    "title": "India joins 24 countries in global initiative on 6G technology | Akashvani News",
    "source": "News On AIR",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObjY4NnRCMUVMSXlxeDVpbmdWTC1kZktvakxQSkNpUDBpVEFlOG1PdVAwcmhmMzR1MjEwcDRpYTluaDczV1VvYWpvNm9DUE5YSV9YaXUxSDR4Wmg0WDYyUkZSX2pHRGlpSTNIaVhaUGRqaE5lblhYTHJxOW1ySWpjQl9ncERtd29NQ2tzNWFPVGs0dw?oc=5",
-   "date": "2026-11-26T23:36:51.000Z"
+   "date": "2026-11-27T10:11:55.000Z"
   },
   {
    "topic": "Innovation",
@@ -192,13 +185,6 @@
   },
   {
    "topic": "Innovation",
-   "title": "Tanzania seeks Ericsson partnership to advance its digital transformation, telecommunications",
-   "source": "Daily News",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMGlhNFBEZVoybGpBdWlMUHBpWlVCOFNQcURzMmRJZ1hFVVhMdDloUVlvWVloWGxLWHFTekcwTTJxUzVDSFNIZWhEWmdTaWVDcy10aHc2S21vSlgxTE9uSm9YU3RHcUlLbElkZWw1aktSR21WNk9ObjhfSVM2dVBkQTdfTUJIZm5UckhSa1pIckdIRzcxVkYzTkxNTkFTOXF5R1cxTWttRkJzLVRHM0VCeUFoMmpnR053?oc=5",
-   "date": "2026-11-26T09:31:59.000Z"
-  },
-  {
-   "topic": "Innovation",
    "title": "China unveils 2030 roadmap for next-generation networks, eyes 6G rollout and computing power expansion",
    "source": "Global Times",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9OQ2hKQkdONVZfWG1IUTFDbU10Z1ZLdFl1cktVT055d2lYY2JMTVRROEdVQTVxcml1YmdLZS1EYl82QmR1aTUyMURmSGV0VUtMeXFZQlBNcm1QTUY5QnlwMk9n?oc=5",
@@ -213,10 +199,24 @@
   },
   {
    "topic": "Innovation",
-   "title": "ITRI Launches 6G-FORMOSA Testbed for Global Collaboration",
-   "source": "The Fast Mode",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQU29MT2hSREFNNXh4X2ZrbUZCX3R5Y3pJRlNFNFFxbWZuLVlSNVQzQXVWMkRSSmc5cFJBTWRNUzJxZDl6TGZidlYzSl9mTE9xX3laNnhLeU9xLTRfZGY3STNjclBfdUU5VWFzWGc5R016czNDU1pmX1BXTmgtRHhfT3NqZnp1eDhQUS1XbFpiYXI2Um83bk53VFEyaUE1bTdhUFJXX21RQ1dxdG40ekhLSnJR?oc=5",
-   "date": "2026-11-26T00:19:40.000Z"
+   "title": "KT, LG record upload boost from potential 6G tech",
+   "source": "Mobile World Live",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYVVtUmxQQndNakJzNjdQSGt6Vk1pR1pTaDRYVWNDUzhldG9GeHFwcEVEZG96ZGZBNUxDN0JyY1plZXQzQ0xNaEQ0NTNrcHYwOGZZeFZCbHdwN2J5MkZsUFV5RUVTcXB6NVNkSmcweHVSX21ydHE5WHphLUVack1MRGlFaEVVaHRsOU4xbTZhd1E1SUwwSld5UWJB?oc=5",
+   "date": "2026-11-25T14:56:38.000Z"
+  },
+  {
+   "topic": "Innovation",
+   "title": "China starts coordinated 6G testing across 8 regions",
+   "source": "Telecompaper",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYjRWWWx4Z0xkSVdJS3RVeXdMUjl5Y1lvNjBNSnAxN1dvU3dKUE05Q3l4X1RHQmJvdmdRWWcyQVp0cGxKWnhsT25RS09qdURLVWU1TGxuUlIzbEZKN3Y4WHVrb2JmSDhCQUhuYzhBTFZRcy1tRXo4U29Jdndrck1ERHV4ZWNDYUtFUFRfZXpkWksxdlUyam9HUTFzVQ?oc=5",
+   "date": "2026-11-25T06:48:23.000Z"
+  },
+  {
+   "topic": "Innovation",
+   "title": "Global 6G Declaration Unveiled in Shanghai as 30-Plus Organizations Build Integrated Space-Air-Ground Ecosystem",
+   "source": "BigGo Finance",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9adTRYU0pXemVfaWg5bzNyYTlOTHJJd0xQdFZ1Mk9hTXhpdFRfS1RGcVI2QnM1R0FmbFcybXp0eXhOd20tVTRnQzdxdzYtaVZqM0lEckZKV2lXWTlkTUtEaUlnb3h4VDNkUzJIZU50Tjh0N01NSXc?oc=5",
+   "date": "2026-11-24T18:15:00.000Z"
   }
  ]
 }
